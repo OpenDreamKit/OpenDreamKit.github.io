@@ -11,7 +11,7 @@ was accepted by the European commission:
 Starting next Fall and for four years, this project will provide
 substantial funding to the open source computational math ecosystem,
 and in particular popular tools such as LinBox, MPIR,
-Sage(sagemath.org), GAP, PariGP, LMFDB, Singular, and the
+Sagemath, GAP, PariGP, LMFDB, Singular, and the
 IPython/Jupyter interactive computing environment.
 
 The total budget is of about 7.6 million euros. Its largest portion is
