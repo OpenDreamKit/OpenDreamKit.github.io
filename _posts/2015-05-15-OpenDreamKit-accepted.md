@@ -3,22 +3,22 @@ layout: post
 title: OpenDreamKit Accepted
 ---
 
-We are delighted to announce that the H2020 proposal ``OpenDreamKit''
+We are delighted to announce that the Horizon 2020 proposal ``OpenDreamKit''
 was accepted by the European commission:
 
         http://opendreamkit.org/
 
 Starting next Fall and for four years, this project will provide
-substantial funding to the open source computational math ecosystem,
+substantial funding to the open source computational mathematics ecosystem,
 and in particular popular tools such as LinBox, MPIR,
 Sage(sagemath.org), GAP, PariGP, LMFDB, Singular, and the
 IPython/Jupyter interactive computing environment.
 
-The total budget is of about 7.6 million euros. Its largest portion is
-devoted to the hiring of an average of 11 developers working full time
-on the project. The participants are planned to provide in addition
+The total budget is about 7.6 million euros. The largest portion of that is
+devoted to employing an average of 11 researchers and developers working full time
+on the project. Additionally, the participants will contribute
 the equivalent of six other persons working full time. Altogether the
-project involves about 50 persons spread over 15 sites in Europe.
+project involves about 50 people spread over 15 sites in Europe.
 
 This is a formidable recognition of the strength and maturity of this
 ecosystem, of the power of open source development models, and of the
