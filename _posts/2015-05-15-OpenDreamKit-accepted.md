@@ -17,7 +17,7 @@ IPython/Jupyter interactive computing environment.
 The total budget is about 7.6 million euros. The largest portion of that is
 devoted to employing an average of 11 researchers and developers working full time
 on the project. Additionally, the participants will contribute
-the equivalent of six other persons working full time. Altogether the
+the equivalent of six other people working full time. Altogether the
 project involves about 50 people spread over 15 sites in Europe.
 
 This is a formidable recognition of the strength and maturity of this
