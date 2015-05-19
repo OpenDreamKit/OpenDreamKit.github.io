@@ -14,7 +14,7 @@ and in particular popular tools such as LinBox, MPIR,
 Sagemath, GAP, PariGP, LMFDB, Singular, and the
 IPython/Jupyter interactive computing environment.
 
-The total budget is about 7.6 million euros. The largest portion of that is
+The total budget is about 7.6 million euros. The largest portion of that will be
 devoted to employing an average of 11 researchers and developers working full time
 on the project. Additionally, the participants will contribute
 the equivalent of six other people working full time. Altogether the
