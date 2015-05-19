@@ -49,4 +49,4 @@ them has actually already been completed by the community in the mean
 time! This is great; whenever this will happen we will be able
 reprioritize the resources to whatever emerging needs that will arise.
 
-Ultimately, this project belongs to the community [Get involved](http://opendreamkit.org/)!
+Ultimately, this project belongs to the community. [Get involved](http://opendreamkit.org/)!
