@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDreamKit Accepted
+title: OpenDreamKit proposal accepted
 ---
 
 We are delighted to announce that the Horizon 2020 proposal ``OpenDreamKit''
