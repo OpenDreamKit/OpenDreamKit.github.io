@@ -6,7 +6,7 @@ layout: post
 OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
 ============================================================================
 
-**Website under construction**
+**:warning: Website under construction**
 
 OpenDreamKit is a European Horizon 2020 Research project that will run
 for four years, starting from September 2015. It will provide
