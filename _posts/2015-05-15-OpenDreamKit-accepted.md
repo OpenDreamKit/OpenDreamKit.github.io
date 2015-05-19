@@ -7,9 +7,8 @@ OpenDreamKit proposal accepted
 ==============================
 
 We are delighted to announce that the Horizon 2020 proposal
-``OpenDreamKit'' was accepted by the European commission:
-
-        [OpenDreamKit.org](http://opendreamkit.org/)
+[OpenDreamKit](http://opendreamkit.org/) was accepted by the European
+commission.
 
 Starting next Fall and for four years, this project will provide
 substantial funding to the open source computational mathematics
