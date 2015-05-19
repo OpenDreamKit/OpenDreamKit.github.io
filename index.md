@@ -6,14 +6,14 @@ layout: post
 OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
 ============================================================================
 
-This website is under construction.
+**Website under construction**
 
 OpenDreamKit is a European Horizon 2020 Research project that will run
-from September 2015 to September 2019. It will provide substantial
-funding to the open source computational mathematics ecosystem, and in
-particular popular tools such as LinBox, MPIR, Sagemath, GAP, PariGP,
-LMFDB, Singular, and the IPython/Jupyter interactive computing
-environment.
+for four years, starting from September 2015. It will provide
+substantial funding to the open source computational mathematics
+ecosystem, and in particular popular tools such as LinBox, MPIR,
+Sagemath, GAP, PariGP, LMFDB, Singular, and the IPython/Jupyter
+interactive computing environment.
 
 The total budget is about 7.6 million euros. The largest portion of
 that will be devoted to employing an average of 11 researchers and
@@ -33,7 +33,7 @@ spread over 15 sites in Europe.
 
 # Proposal
 
-- [Proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf)
+- [PDF Proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf)
 
 For a specific list of tasks, see Section 3.1.6, Work Package Descriptions.
 
@@ -42,7 +42,7 @@ For budget details, see Section 3.4, Resources to be committed.
 Note: the above pdf is the officially submitted one, up to the fixing
 of a couple unfortunate typos we noticed since then.
 
-# Abstract of the project
+## Abstract of the project
 
 OpenDreamKit will deliver a flexible toolkit enabling research groups to
 set up Virtual Research Environments, customised to meet the varied
@@ -79,7 +79,7 @@ researchers, and software developers with a long track record of
 delivering innovative open source software solutions for their
 respective communities. All produced code and tools will be open source.
 
-# Motivations
+## Motivations
 
 This proposal grew out of a reflection on the needs of the (pure)
 mathematics community in terms of computational software and databases.
@@ -135,8 +135,7 @@ By definition this project will be mostly funding actions in Europe;
 however those actions will be carried out, as usual, in close
 collaborations with the worldwide community.
 
-Upcoming job offers
--------------------
+# Upcoming job offers
 
 Due to the highly technical aspect, a large focus is on hiring about
 ten full time developers across Europe. We will post job offers here
