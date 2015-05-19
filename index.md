@@ -10,12 +10,11 @@ This website is under construction.
 
 # News
 
-<ul>
+<dl>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.date post.title }}</a>
-    </li>
+    <dt>{{ post.date | date_to_string }}</dt>
+    <dd><a href="{{ post.url }}">{{ post.title }}</a><dd>
   {% endfor %}
-</ul>
+</dl>
 
 [OpenDreamKit H2020 European proposal information](https://github.com/sagemath/grant-europe/blob/master/H2020/OpenDreamKit.rst)
