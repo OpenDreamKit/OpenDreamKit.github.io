@@ -3,9 +3,6 @@ layout: post
 title: OpenDreamKit proposal submitted
 ---
 
-OpenDreamKit proposal submitted
-===============================
-
 The OpenDreamKit proposal was submitted on January 15th of 2015.
 It was written collaboratively by a diverse team
 across Europe and science. Have fun watching this

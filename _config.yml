@@ -1,28 +1,23 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+title:               OpenDreamKit
+tagline:             'Open Digital Research Environment Toolkit for the Advancement of Mathematics'
+description:         'A European Horizon 2020 Research project.'
+url:                 http://opendreamkit.org
+baseurl:             ''
+paginate:            5
+paginate_path:       "/news/page:num/"
 gems:
   - jemoji
 
-# Custom vars
-version:          2.1.0
+# About/contact
+author:
+  name:              'The OpenDreamKit consortium'
+  url:               http://opendreamkit.org
+  email:             contact@opendreamkit.org
 
-github:
-  repo:           https://github.com/poole/hyde
+# Custom vars
+version:             0.2.0

@@ -3,9 +3,6 @@ layout: post
 title: OpenDreamKit proposal accepted
 ---
 
-OpenDreamKit proposal accepted
-==============================
-
 We are delighted to announce that the Horizon 2020 research proposal
 [OpenDreamKit](http://opendreamkit.org/) was accepted by the European
 commission.
