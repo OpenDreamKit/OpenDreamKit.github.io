@@ -10,8 +10,10 @@ commission.
 Starting next Fall and for four years, this project will provide
 substantial funding to the open source computational mathematics
 ecosystem, and in particular popular tools such as
-[LinBox](http://linalg.org/), [MPIR](MPIR.org),
-[SageMath](http://sagemath.org/), [GAP](http://www.gap-system.org/),
+[LinBox](http://linalg.org/),
+[MPIR](MPIR.org),
+[SageMath](http://sagemath.org/),
+[GAP](http://www.gap-system.org/),
 [Pari/GP](http://pari.math.u-bordeaux.fr/),
 [LMFDB](http://lmfdb.org/),
 [Singular](http://www.singular.uni-kl.de/), and the
