@@ -8,7 +8,7 @@ for four years, starting from September 2015. It will provide
 substantial funding to the open source computational mathematics
 ecosystem, and in particular popular tools such as
 [LinBox](http://linalg.org/),
-[MPIR](MPIR.org),
+[MPIR](http://mpir.org),
 [SageMath](http://sagemath.org/),
 [GAP](http://www.gap-system.org/),
 [Pari/GP](http://pari.math.u-bordeaux.fr/),
