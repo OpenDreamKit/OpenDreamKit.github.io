@@ -3,8 +3,6 @@ layout: post
 title: On open collaborative proposal writing
 ---
 
-On open collaborative proposal writing
-======================================
 
 The OpenDreamKit proposal was written collaboratively by a diverse team
 across Europe and science. Have fun watching this
