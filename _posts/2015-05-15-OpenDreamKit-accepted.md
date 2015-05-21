@@ -34,7 +34,7 @@ ecosystem, of the power of open source development models, and of the
 amazing hard work of many communities over the last decades.
 
 The writing of the proposal itself was
-[open and collaborative](http://opendreamkit.org/2015/01/31/open-proposal-writing.html).
+[open and collaborative](http://opendreamkit.org/2015/01/31/open-proposal-writing/).
 It grew out of a reflection on the long term needs of the community.
 It benefited considerably from the feedback of many; we would like to
 thank all those who helped shape this proposal and make it happen.
