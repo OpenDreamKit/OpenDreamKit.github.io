@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               OpenDreamKit
 tagline:             'Open Digital Research Environment Toolkit for the Advancement of Mathematics'
-description:         'A European Horizon 2020 Research project.'
+description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme.'
 url:                 http://opendreamkit.org
 baseurl:             ''
 paginate:            5
