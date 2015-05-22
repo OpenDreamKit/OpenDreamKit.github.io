@@ -1,25 +1,25 @@
 ---
 layout: post
-title: Full time developer position opening at the Université Paris Sud for Fall 2015
+title: Full-time developer position opening at Université Paris-Sud for Fall 2015
 ---
 
-This is an informal annoucement for a full time developer (Ingénieur
-de Recherche) position opening at the Université Paris Sud. A formal
-annoucement will be posted here in the coming days, in particular with
-a specific time line. For now we hope to run interviews at the end of
+This is an informal announcement for a full time developer (Ingénieur
+de Recherche) position opening at Université Paris-Sud. A formal
+announcement will be posted here in the coming days, in particular with
+a specific timeline. For now we hope to run interviews at the end of
 June, for a recruitement in early Fall 2015.
 
 # Salary
 
-Depending on past experience, up to 5500 euros monthly (``brut
-chargé'': total cost for the project), that is a monthly net salary of
-up to circa 3000 euros.
+Depending on applicant's experience, up to circa 3000 € net monthly salary
+before income tax (corresponding to up to 5500 € monthly ``brut chargé’’
+salary, which is the cost to the project)
 
 # Location
 
-The developper will work at the [Laboratoire de Recherche en
-Informatique](http://www.lri.fr) of the Université Paris Sud, in the
-south eastern suburb of Paris.
+The developer will work at the [Laboratoire de Recherche en
+Informatique](http://www.lri.fr) of Université Paris Sud, in the
+Orsay-Bures-Gif campus, 25 km South-West of Paris city centre.
 
 # Skill and background requirements
 
@@ -32,19 +32,19 @@ south eastern suburb of Paris.
 
 - Strong experience with software build systems (e.g. skons, automake)
 
-- Strong experience in open source development (collaborative
-  development tools, interaction with the community, ...).
+- Strong experience in open-source development (collaborative
+  development tools, interaction with the community, ...)
 
-- Experience with computational math software, and in particular Sage,
-  is desirable but not a prerequisite.
+- Experience with computational mathematics software,
+  in particular SageMath, desirable but not a prerequisite
 
-- Math background appreciated but not a prerequisite
+- Mathematics background appreciated but not a prerequisite
 
 - Strong communication skills
 
-- Perfect fluency in English.
+- Perfect fluency in English
 
-- Speaking French is not a prerequisite.
+- Speaking French is not a prerequisite
 
 # Comments
 
@@ -54,4 +54,4 @@ problems in computer science, the core tasks will be pure development
 (e.g. improvements to build, documentation, packaging, and
 distribution systems, design and implementation of component
 architecture). People wishing to pursue an academic research career
-should consider twice whether this opportunity is approriate for them.
+should consider twice whether this opportunity is appropriate for them.
