@@ -12,8 +12,8 @@ June, for a recruitement in early Fall 2015.
 # Salary
 
 Depending on past experience, up to 5500 euros monthly (``brut
-chargé'', that is total cost for the project), that is a monthly net
-salary of around 3000 euros.
+chargé'': total cost for the project), that is a monthly net salary of
+up to circa 3000 euros.
 
 # Location
 
