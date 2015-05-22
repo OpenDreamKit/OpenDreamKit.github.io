@@ -8,9 +8,14 @@ ecosystem, and in particular popular tools such as
 [GAP](http://www.gap-system.org/),
 [Pari/GP](http://pari.math.u-bordeaux.fr/),
 [LMFDB](http://lmfdb.org/),
-[Singular](http://www.singular.uni-kl.de/), and the
+[Singular](http://www.singular.uni-kl.de/),
+and the
 [IPython/Jupyter](http://jupyter.org/) interactive computing
-environment.
+environment. These are combined into a
+[virtual research environment](http://www.2020-horizon.com/e-Infrastructures-for-virtual-research-environments-%28VRE%29-i1490.html) by using Python as
+system-level glue langauge and [OMDoc/MMT](https://mathhub.info/help/omdoc-mmt.html) at
+the knowledge representation level. 
+
 
 The total budget is about 7.6 million euros. The largest portion of
 that will be devoted to employing an average of 11 researchers and
