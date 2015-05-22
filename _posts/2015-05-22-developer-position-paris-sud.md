@@ -17,7 +17,7 @@ up to circa 3000 euros.
 
 # Location
 
-The developper will work at the Laboratoire de Recherche en
+The developper will work at the [Laboratoire de Recherche en
 Informatique](http://www.lri.fr) of the Université Paris Sud, in the
 south eastern suburb of Paris.
 
@@ -33,7 +33,12 @@ south eastern suburb of Paris.
 - Strong experience with software build systems (e.g. skons, automake)
 
 - Strong experience in open source development (collaborative
-  development tools, interaction with the community, ...)
+  development tools, interaction with the community, ...).
+
+- Experience with computational math software, and in particular Sage,
+  is desirable but not a prerequisite.
+
+- Math background appreciated but not a prerequisite
 
 - Strong communication skills
 
@@ -41,13 +46,12 @@ south eastern suburb of Paris.
 
 - Speaking French is not a prerequisite.
 
-- Math background appreciated but not a prerequisite
-
 # Comments
 
 :warning: This is *not* a postdoc position. While side research will
 be welcome, and a few tasks may possibly lead to some research
 problems in computer science, the core tasks will be pure development
-(e.g. improvements to build, packaging, and documentation systems). We
-thus do not recommend this position to people who would like to pursue
-an academic research career.
+(e.g. improvements to build, documentation, packaging, and
+distribution systems, design and implementation of component
+architecture). People wishing to pursue an academic research career
+should consider twice whether this opportunity is approriate for them.
