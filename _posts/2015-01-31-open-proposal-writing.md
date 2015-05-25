@@ -3,6 +3,13 @@ layout: post
 title: On open collaborative proposal writing
 ---
 
+This is a debriefing rant about the open collaborative writing of the
+[OpenDreamKit](http://opendreamkit.org/) proposal, mostly as notes for
+self (=Nicolas) for future occasions: how to approach it, what tools
+to use, some tricks and pitfalls to avoid, ...
+
+Context
+-------
 
 The OpenDreamKit proposal was written collaboratively by a diverse team
 across Europe and science. Have fun watching this
@@ -11,13 +18,8 @@ across Europe and science. Have fun watching this
 [collaborative work space on github](https://github.com/sagemath/grant-europe/).
 A pretty good illustration -- especially during the final sprint -- of
 how a dispersed but dedicated team can collaborate efficiently with
-modern tools!
-
-You may enjoy as well reading this fun [blog
+modern tools! You may enjoy as well reading this fun [blog
 post](http://inverseprobability.com/2015/01/14/open-collaborative-grant-writing/).
-
-Here is some debriefing notes about the writing of this proposal,
-mostly as a memo for myself for future occasions.
 
 Stand by your dreams
 --------------------
