@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+==========================================================================================
+OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
+==========================================================================================
+
 {% include intro.md %}
 
 [Read more...](about)

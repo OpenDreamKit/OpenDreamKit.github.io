@@ -16,15 +16,15 @@ environment.
 
 From this ecosystem, OpenDreamKit will deliver a flexible toolkit
 enabling research groups to set up
-[virtual research environments](http://www.2020-horizon.com/e-Infrastructures-for-virtual-research-environments-%28VRE%29-i1490.html),
+[Virtual Research Environments](http://www.2020-horizon.com/e-Infrastructures-for-virtual-research-environments-%28VRE%29-i1490.html),
 customised to meet the varied needs of research projects in pure
 mathematics and applications, and supporting the full research
 life-cycle from exploration, through proof and publication, to
 archival and sharing of data and code.
 
-The total budget is about 7.6 million euros. The largest portion of
-that will be devoted to employing an average of 11 researchers and
-developers working full time on the project. Additionally, the
-participants will contribute the equivalent of six other people
-working full time. Altogether the project involves about 50 people
-spread over 15 sites in Europe.
+Altogether the project involves about 50 people spread over 15 sites
+in Europe, with a total budget of about 7.6 million euros. The largest
+portion of that will be devoted to employing an average of 11
+researchers and developers working full time on the
+project. Additionally, the participants will contribute the equivalent
+of six other people working full time.
