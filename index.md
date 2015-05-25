@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
+# OpenDreamKit:<br>Open Digital Research Environment Toolkit<br>for the Advancement of Mathematics
 
 {% include intro.md %}
 
