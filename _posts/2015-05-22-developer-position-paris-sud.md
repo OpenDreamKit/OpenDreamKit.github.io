@@ -3,55 +3,138 @@ layout: post
 title: Full-time developer position opening at Université Paris-Sud for Fall 2015
 ---
 
-This is an informal announcement for a full time developer (Ingénieur
-de Recherche) position opening at Université Paris-Sud. A formal
-announcement will be posted here in the coming days, in particular with
-a specific timeline. For now we hope to run interviews at the end of
-June, for a recruitement in early Fall 2015.
+This is a preliminary announcement for a full time developer
+(Ingénieur de Recherche) position opening at Université Paris-Sud. A
+formal announcement will be posted here in the coming days, in
+particular with a specific timeline. For now we hope to run interviews
+at the end of June, for a recruitement in early Fall 2015 for up to
+four years.
+
+A second full-time developper will be hired presumably in Fall 2016.
 
 # Salary
 
-Depending on applicant's experience, up to circa 3000 € net monthly salary
-before income tax (corresponding to up to 5500 € monthly ``brut chargé’’
-salary, which is the cost to the project)
+Depending on the applicant's experience, up to circa 3000 € net
+monthly salary before income tax (corresponding to up to 5500 €
+monthly ``brut chargé’’ salary, which is the cost to the project).
 
 # Location
 
-The developer will work at the [Laboratoire de Recherche en
-Informatique](http://www.lri.fr) of Université Paris Sud, in the
-Orsay-Bures-Gif campus, 25 km South-West of Paris city centre.
+The developer will work at the
+[Laboratoire de Recherche en Informatique](http://www.lri.fr) of
+[Université Paris Sud](http://www.u-psud.fr), in the
+Orsay-Bures-Gif-Saclay campus, 25 km South-West of Paris city centre.
 
-# Skill and background requirements
+# Mission
+
+To support the maintenance and development of the OpenDreamKit
+components, and in particular of the SageMath project, by enhancing
+their software infrastructure, in close collaboration with the
+community.
+
+# Activities
+
+According to his or her specific skills, the developer will take on, in
+close collaboration with the community, a selection of the software
+engineering tasks defined in the OpenDreamKit project. Those tasks
+concern:
+
+- Improvements to the build, packaging, and distribution systems;
+
+- Improvements to the portability of many of the components, in
+  particular on the Windows+Cygwin platform;
+
+- Refactoring of the static Sphinx-based documentation system, and
+  design and development of dynamic documentation tools;
+
+- Participation to the design and implementation of a component
+  architecture for the SageMath ecosystem, as a fundation for Virtual
+  Research Environments such as SageMathCloud;
+
+- Active participation to regular international development and
+  training meetings with the other OpenDreamKit participants and the
+  community at large.
+
+For details, see the technical task lead by UPSud and UVSQ in
+Section 3.1.6 ``Workpackage Description'' of the
+[OpenDreamKit Proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf).
+
+
+# Skills and background requirements
 
 - Fluency in C, C++, Python, ...
 
 - Strong experience with development and system administration in
-  Unix-like environments
+  Unix-like environments;
 
-- Experience with Windows development desirable (Cygwin)
+- Experience with Windows development (Cygwin) desirable;
 
-- Strong experience with software build systems (e.g. skons, automake)
+- Strong experience with software build systems (e.g. scons, automake);
 
 - Strong experience in open-source development (collaborative
-  development tools, interaction with the community, ...)
+  development tools, interaction with the community, ...);
 
-- Experience with computational mathematics software,
-  in particular SageMath, desirable but not a prerequisite
+- Experience with code optimization, parallelism, etc, appreciated but
+  not a prerequisite.
 
-- Mathematics background appreciated but not a prerequisite
+- Experience with computational mathematics software, in particular
+  [SageMath](http://sagemath.org), desirable but not a prerequisite;
 
-- Strong communication skills
+- Mathematics background appreciated but not a prerequisite;
 
-- Perfect fluency in English
+- Strong communication skills;
 
-- Speaking French is not a prerequisite
+- Perfect fluency in English;
+
+- Speaking French is not a prerequisite.
+
+# Context
+
+The position will be funded by
+
+[OpenDreamKit](http://opendreamkit.org), a
+[Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
+European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
+project that will run for four years, starting from September
+2015. This project brings together the open source computational
+mathematics ecosystem -- and in particular
+[LinBox](http://linalg.org/),
+[MPIR](http://mpir.org),
+[SageMath](http://sagemath.org/),
+[GAP](http://www.gap-system.org/),
+[Pari/GP](http://pari.math.u-bordeaux.fr/),
+[LMFDB](http://lmfdb.org/),
+[Singular](http://www.singular.uni-kl.de/),
+[MathHub](https://mathhub.info/),
+and the
+[IPython/Jupyter](http://jupyter.org/) interactive computing
+environment.
+-- toward building a
+flexible toolkit for
+[Virtual Research Environments](http://www.2020-horizon.com/e-Infrastructures-for-virtual-research-environments-%28VRE%29-i1490.html)
+for mathematics. Lead by Université Paris Sud this project involves
+about 50 people spread over 15 sites in Europe, with a total budget of
+about 7.6 million euros.
+
+Within this ecosystem, the developer will work primarily on the free
+open-source mathematics software system
+[Sagemath](http://sagemath.org). Based on the
+[Python](http://www.python.org) language and many existing open-source
+math libraries, SageMath is developped since 10 years by a worldwide
+community of 300 researchers, teachers and engineers, and has reached
+1.5M lines of code.
+
+The developer will work within one of the largest teams of SageMath
+developers, composed essentially of researchers in mathematics and
+computer science, at the [Laboratoire de Recherche en
+Informatique](http://www.lri.fr/) and in nearby institutions.
+
 
 # Comments
 
 :warning: This is *not* a postdoc position. While side research will
 be welcome, and a few tasks may possibly lead to some research
-problems in computer science, the core tasks will be pure development
-(e.g. improvements to build, documentation, packaging, and
-distribution systems, design and implementation of component
-architecture). People wishing to pursue an academic research career
-should consider twice whether this opportunity is appropriate for them.
+problems in computer science, the core tasks will be pure
+development. Candidates wishing to pursue an academic research career
+in the long run should consider twice whether this opportunity is
+adequate for them.
