@@ -3,8 +3,9 @@ layout: post
 title: Full-time developer position opening at Université Paris-Sud for Fall 2015
 ---
 
-This is a preliminary announcement for a full time developer
-( (Ingénieur de Recherche)[http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche] )
+This is a preliminary announcement for a full time developer (
+(Ingénieur de Recherche)[http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche]
+)
 position opening at Université Paris-Sud. A formal announcement will
 be posted here in the coming days, in particular with a specific
 timeline. For now we hope to run interviews at the end of June, for a
