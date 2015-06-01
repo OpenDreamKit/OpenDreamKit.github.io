@@ -4,7 +4,7 @@ title: Full-time developer position opening at Université Paris-Sud for Fall 20
 ---
 
 This is a preliminary announcement for a full time developer
-((Ingénieur de Recherche)[http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche])
+( (Ingénieur de Recherche)[http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche] )
 position opening at Université Paris-Sud. A formal announcement will
 be posted here in the coming days, in particular with a specific
 timeline. For now we hope to run interviews at the end of June, for a
@@ -15,12 +15,12 @@ A second full-time developper will be hired presumably in Fall 2016.
 # Salary
 
 Depending on the applicant's experience, up to 46200 € yearly
-(``salaire brut``). Equivalently, this is:
+(``salaire brut''). Equivalently, this is:
 
 - ``salaire net'' (salary after non wage labour cost but before income
   tax): circa 3000 € monthly
 
-- ``salaire brut chargé`` (total cost for the project): 5500 € monthly
+- ``salaire brut chargé'' (total cost for the project): 5500 € monthly
 
 # Location
 
@@ -90,7 +90,7 @@ Section 3.1.6 ``Workpackage Description'' of the
 
 - Perfect fluency in English;
 
-- Speaking French is not a prerequisite.
+- Speaking French is appreciated but not a prerequisite.
 
 # Context
 
