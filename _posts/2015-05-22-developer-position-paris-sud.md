@@ -8,19 +8,19 @@ This is a preliminary announcement for a full time developer
 position opening at Université Paris-Sud. A formal announcement will
 be posted here in the coming days, in particular with a specific
 timeline. For now we hope to run interviews at the end of June, for a
-recruitement in early Fall 2015 for up to four years.
+recruitment in early Fall 2015 and for up to four years.
 
-A second full-time developper will be hired presumably in Fall 2016.
+A second full-time developper will be hired later on, presumably in Fall 2016.
+
+Contact: Nicolas.Thiery at u-psud.fr
 
 # Salary
 
-Depending on the applicant's experience, up to 46200 € yearly
-(``salaire brut''). Equivalently, this is:
-
-- ``salaire net'' (salary after non wage labour cost but before income
-  tax): circa 3000 € monthly
-
-- ``salaire brut chargé'' (total cost for the project): 5500 € monthly
+Depending on the applicant's past experience, between 2000 € and 3000
+€ of ``salaire net'' (salary after non wage labour cost but before
+income tax) monthly. Equivalently, this is a ``salaire brut'' of up to
+46200 € yearly, or a ``salaire brut chargé'' (total cost for the
+project) of up to 5500 € monthly.
 
 # Location
 
