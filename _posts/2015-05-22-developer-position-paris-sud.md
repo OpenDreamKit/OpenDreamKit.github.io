@@ -124,7 +124,7 @@ Within this ecosystem, the developer will work primarily on the free
 open-source mathematics software system
 [Sagemath](http://sagemath.org). Based on the
 [Python](http://www.python.org) language and many existing open-source
-math libraries, SageMath is developped since 10 years by a worldwide
+math libraries, SageMath is developed since 10 years by a worldwide
 community of 300 researchers, teachers and engineers, and has reached
 1.5M lines of code.
 
