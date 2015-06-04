@@ -10,10 +10,10 @@ they get formalized.
 
 # Université Paris Sud, Orsay:
 
-- [A full time developper position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/22/developer-position-paris-sud),
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/22/developer-position-paris-sud),
   starting in Fall 2015 for up to four years.
 
-- A full time developper position (Ingénieur de Recherche), starting
+- A full time developer position (Ingénieur de Recherche), starting
   in Fall 2016 for up to three years.
 
 - A part time project administrator position (Ingénieur d'Étude),
@@ -24,7 +24,7 @@ they get formalized.
 
 # Université Bordeaux, Talence
 
-- [A full time developper position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
   starting in Fall 2015 for up to four years
 
 {%comment%}

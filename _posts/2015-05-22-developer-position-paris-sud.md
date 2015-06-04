@@ -10,7 +10,7 @@ be posted here in the coming days, in particular with a specific
 timeline. For now we hope to run interviews at the end of June, for a
 recruitment in early Fall 2015 and for up to four years.
 
-A second full-time developper will be hired later on, presumably in Fall 2016.
+A second full-time developer will be hired later on, presumably in Fall 2016.
 
 Contact: Nicolas.Thiery at u-psud.fr
 
