@@ -5,6 +5,11 @@ title: Full-time developer position opening at Université de Bordeaux for Fall 
 
 Contact: vincent-DOT-delecroix-AT-labri-DOT-fr
 
+# Duration
+
+From 1 to 4 years, starting in Fall 2015. Interviews will either be run in
+July or September.
+
 # Salary
 
 Depending on the applicant's past experience, between 1600 € and 2300
