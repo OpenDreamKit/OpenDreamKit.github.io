@@ -3,6 +3,8 @@ layout: post
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 ---
 
+Contact: vincent-DOT-delecroix-AT-labri-DOT-fr
+
 # Salary
 
 Depending on the applicant's past experience, between 1600 € and 2300
@@ -57,6 +59,14 @@ The following are not prerequesites but would be very much appreciated:
   [SageMath](http://sagemath.org) or [PARI/GP](http://pari.math.u-bordeaux.fr/);
 
 - Mathematics background;
+
+# Applications
+
+Applicants should send an e-mail to vincent-DOT-delecroix-AT-labri-DOT-fr with:
+
+- A complete CV
+
+- A motivation letter
 
 # Context
 
