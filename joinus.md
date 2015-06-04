@@ -22,6 +22,11 @@ they get formalized.
   a full time position.
 
 
+# Université Bordeaux, Talence
+
+- [A full time developper position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
+  starting in Fall 2015 for up to four years
+
 {%comment%}
 If you like collaborative open source development, innovative
 technologies, architectural challenges, autonomy, get in touch with
