@@ -3,7 +3,7 @@ layout: post
 title: Full-time developer position opening at Université Paris-Sud for Fall 2015
 ---
 
-This is a preliminary announcement for a full time developer
+This is a preliminary announcement for a full-time developer
 ([Ingénieur de Recherche](http://fr.wikipedia.org/wiki/Inge%C3%A9nieur_de_recherche))
 position opening at Université Paris-Sud. A formal announcement will
 be posted here in the coming days, in particular with a specific
@@ -17,9 +17,9 @@ Contact: Nicolas.Thiery at u-psud.fr
 # Salary
 
 Depending on the applicant's past experience, between 2000 € and 3000
-€ of ``salaire net'' (salary after non wage labour cost but before
-income tax) monthly. Equivalently, this is a ``salaire brut'' of up to
-46200 € yearly, or a ``salaire brut chargé'' (total cost for the
+€ of monthly "salaire net" (salary after non-wage labour cost but
+before income tax). Equivalently, this is a "salaire brut" of up to
+46200 € yearly, or a "salaire brut chargé" (total cost for the
 project) of up to 5500 € monthly.
 
 # Location
@@ -40,22 +40,21 @@ community.
 
 According to his or her specific skills, the developer will take on, in
 close collaboration with the community, a selection of the software
-engineering tasks defined in the OpenDreamKit project. Those tasks
-concern:
+engineering tasks defined in the OpenDreamKit project. Among these:
 
-- Improvements to the build, packaging, and distribution systems;
+- Improve the build, packaging, and distribution systems;
 
-- Improvements to the portability of many of the components, in
+- Improve the portability of many of the components, in
   particular on the Windows+Cygwin platform;
 
-- Refactoring of the static Sphinx-based documentation system, and
-  design and development of dynamic documentation tools;
+- Refactor the static Sphinx-based documentation system, and
+  design and develop dynamic documentation tools;
 
-- Participation to the design and implementation of a component
+- Participate in designing and implementing a component
   architecture for the SageMath ecosystem, as a fundation for Virtual
   Research Environments such as SageMathCloud;
 
-- Active participation to regular international development and
+- Participate actively in regular international development and
   training meetings with the other OpenDreamKit participants and the
   community at large.
 
@@ -100,7 +99,7 @@ The position will be funded by
 [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
 project that will run for four years, starting from September
-2015. This project brings together the open source computational
+2015. This project brings together the open-source computational
 mathematics ecosystem -- and in particular
 [LinBox](http://linalg.org/),
 [MPIR](http://mpir.org),
@@ -116,7 +115,7 @@ environment.
 -- toward building a
 flexible toolkit for
 [Virtual Research Environments](http://www.2020-horizon.com/e-Infrastructures-for-virtual-research-environments-%28VRE%29-i1490.html)
-for mathematics. Lead by Université Paris Sud this project involves
+for mathematics. Lead by Université Paris-Sud, this project involves
 about 50 people spread over 15 sites in Europe, with a total budget of
 about 7.6 million euros.
 
