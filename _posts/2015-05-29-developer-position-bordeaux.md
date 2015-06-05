@@ -73,6 +73,9 @@ Applicants should send an email to vincent-DOT-delecroix-AT-labri-DOT-fr with:
 
 - A motivation letter
 
+Both documents must be in an open format (pdf, ps, plain text, ...) either in
+french or english.
+
 # Context
 
 The position will be funded by
