@@ -105,9 +105,11 @@ about 50 people spread over 15 sites in Europe, with a total budget of
 about 7.6 million euros.
 
 The developer will work within one of the largest teams of SageMath
-developers, composed essentially of researchers in mathematics and
-computer science, at the [Laboratoire Bordelais de Recherche en
-Informatique](http://www.labri.fr/) and in nearby institutions.
+and PARI/GP developers, composed essentially of researchers in
+mathematics and computer science, at the [Laboratoire Bordelais de Recherche en
+Informatique](http://www.labri.fr/) and in nearby institutions
+such as the [Institut de Mathématiques de Bordeaux](http://www.math.u-bordeaux1.fr/imb/spip.php)
+and [INRIA Bordeaux](https://www.inria.fr/centre/bordeaux).
 
 
 # Comments
