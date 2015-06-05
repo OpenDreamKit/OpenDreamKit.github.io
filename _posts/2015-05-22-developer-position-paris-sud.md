@@ -12,7 +12,7 @@ recruitment in early Fall 2015 and for up to four years.
 
 A second full-time developper will be hired later on, presumably in Fall 2016.
 
-Contact: Nicolas.Thiery at u-psud.fr
+Contact: upsud-recruitement-research-engineer@opendreamkit.org
 
 # Salary
 
