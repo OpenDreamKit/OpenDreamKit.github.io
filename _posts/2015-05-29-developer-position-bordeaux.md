@@ -7,7 +7,7 @@ Contact: vincent-DOT-delecroix-AT-labri-DOT-fr
 
 # Duration
 
-From 1 to 4 years, starting in Fall 2015. Interviews will be run
+For 4 years starting in Fall 2015. Interviews will be run
 either in July or in September.
 
 # Salary
