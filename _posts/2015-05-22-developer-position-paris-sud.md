@@ -7,8 +7,9 @@ This is a preliminary announcement for a full-time developer
 ([Ingénieur de Recherche](http://fr.wikipedia.org/wiki/Inge%C3%A9nieur_de_recherche))
 position opening at Université Paris-Sud. A formal announcement will
 be posted here in the coming days, in particular with a specific
-timeline. For now we hope to run interviews at the end of June, for a
-recruitment in early Fall 2015 and for up to four years.
+timeline. For now we hope to run interviews in early July, for a
+recruitment in early Fall 2015 and for up to four years
+(presumably in the form of one year renewable three times).
 
 A second full-time developer will be hired later on, presumably in Fall 2016.
 
@@ -156,6 +157,5 @@ upsud-recruitement-research-engineer at opendreamkit.org before July
 - reference letters (each named reference_letter_<contactname>.pdf),
   or alternatively reference contact information.
 
-We will tentatively run interviews in the first weeks of July.
 Applications sent after July 1st will be considered until the position
 is filled.
