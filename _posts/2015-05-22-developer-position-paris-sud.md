@@ -12,8 +12,6 @@ recruitment in early Fall 2015 and for up to four years.
 
 A second full-time developer will be hired later on, presumably in Fall 2016.
 
-Contact: upsud-recruitement-research-engineer@opendreamkit.org
-
 # Salary
 
 Depending on the applicant's past experience, between 2000 € and 3000
@@ -141,3 +139,23 @@ problems in computer science, the core tasks will be pure
 development. Candidates wishing to pursue an academic research career
 in the long run should consider twice whether this opportunity is
 adequate for them.
+
+# Applications
+
+To apply for this position, please send an e-mail to
+upsud-recruitement-research-engineer at opendreamkit.org before July
+1st, with the following documents attached:
+
+- cover_letter.pdf: a cover letter (why are you interested in this particular position)
+
+- CV.pdf: a CV, highlighting among other things your contributions to
+  open source software
+
+- phd_reports.pdf: PhD reports (when applicable)
+
+- reference letters (each named reference_letter_<contactname>.pdf),
+  or alternatively reference contact information.
+
+We will tentatively run interviews in the first weeks of July.
+Applications sent after July 1st will be considered until the position
+is filled.
