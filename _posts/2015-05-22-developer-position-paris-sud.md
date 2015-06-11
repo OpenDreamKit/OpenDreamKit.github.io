@@ -71,7 +71,7 @@ Section 3.1.6 ``Workpackage Description'' of the
 
 - Experience with Windows development (Cygwin) desirable;
 
-- Strong experience with software build systems (e.g. scons, automake);
+- Strong experience with software build systems (e.g. scons, cmake, automake);
 
 - Strong experience in open-source development (collaborative
   development tools, interaction with the community, ...);
@@ -147,12 +147,12 @@ To apply for this position, please send an e-mail to
 upsud-recruitement-research-engineer at opendreamkit.org before July
 1st, with the following documents attached:
 
-- cover_letter.pdf: a cover letter (why are you interested in this particular position)
+- cover_letter.pdf: a cover letter (why are you interested in this particular position);
 
-- CV.pdf: a CV, highlighting among other things your contributions to
-  open source software
+- CV.pdf: a CV, highlighting among other things your skills and
+  background and your contributions to open source software;
 
-- phd_reports.pdf: PhD reports (when applicable)
+- phd_reports.pdf: PhD reports (when applicable);
 
 - reference letters (each named reference_letter_<contactname>.pdf),
   or alternatively reference contact information.
