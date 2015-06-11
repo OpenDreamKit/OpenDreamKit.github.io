@@ -71,7 +71,7 @@ Section 3.1.6 ``Workpackage Description'' of the
 
 - Experience with Windows development (Cygwin) desirable;
 
-- Strong experience with software build systems (e.g. scons, cmake, automake);
+- Strong experience with software build systems (e.g. scons, cmake, or automake);
 
 - Strong experience in open-source development (collaborative
   development tools, interaction with the community, ...);
