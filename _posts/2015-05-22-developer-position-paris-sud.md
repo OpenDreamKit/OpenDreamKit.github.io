@@ -3,23 +3,22 @@ layout: post
 title: Full-time developer position opening at Université Paris-Sud for Fall 2015
 ---
 
-This is a preliminary announcement for a full-time developer
-([Ingénieur de Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
-position opening at Université Paris-Sud. A formal announcement will
-be posted here in the coming days, in particular with a specific
-timeline. For now we hope to run interviews in early July, for a
-recruitment in early Fall 2015 and for up to four years
-(presumably in the form of one year renewable three times).
+This is an announcement for a full-time developer ([Ingénieur de
+Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
+position opening at Université Paris-Sud. For now we hope to run
+interviews in early July, for a recruitment in early Fall 2015, and
+for up to four years (presumably in the form of a one year contract,
+renewable three times).
 
 A second full-time developer will be hired later on, presumably in Fall 2016.
 
 # Salary
 
-Depending on the applicant's past experience, between 2000 € and 3000
-€ of monthly "salaire net" (salary after non-wage labour cost but
-before income tax). Equivalently, this is a "salaire brut" of up to
-46200 € yearly, or a "salaire brut chargé" (total cost for the
-project) of up to 5500 € monthly.
+Depending on the applicant's past experience, between 2000€ and 3000€
+of monthly "salaire net" (salary after non-wage labour cost but before
+income tax). Equivalently, this is a "salaire brut" of up to 46200€
+yearly, or a "salaire brut chargé" (total cost for the project) of up
+to 5500 € monthly.
 
 # Location
 
@@ -82,11 +81,12 @@ Section 3.1.6 ``Workpackage Description'' of the
 - Experience with computational mathematics software, in particular
   [SageMath](http://sagemath.org), desirable but not a prerequisite;
 
-- Mathematics background appreciated but not a prerequisite;
+- Mathematics background and/or holding a PhD appreciated but not a
+  prerequisite;
 
 - Strong communication skills;
 
-- Perfect fluency in English;
+- Perfect fluency in oral and written English;
 
 - Speaking French is appreciated but not a prerequisite.
 
