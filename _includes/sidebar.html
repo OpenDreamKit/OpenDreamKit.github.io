@@ -27,10 +27,13 @@
         {% endif %}
       {% endfor %}
 
-    <a class="sidebar-nav-item" href="https://github.com/{{site.github.owner_name }}">{{site.title}} on GitHub</a>
+    <span class="sidebar-nav-item">
+      <a href="{{ site.baseurl }}/follow/">Follow us</a>&nbsp;&nbsp;
+      <a href="{{ site.baseurl }}/atom.xml"><img class="icon" src="{{ site.baseurl }}/public/feed_w.png" alt="atom feed"></a>
+      <a href="https://twitter.com/{{ site.author.twitter }}"><img class="icon" src="{{ site.baseurl }}/public/twitter_w.png" alt="twitter"></a>
+      <a href="https://github.com/{{ site.github.owner_name }}"><img class="icon" src="{{ site.baseurl }}/public/github_w.png" alt="github"></a>
+    </span>
     <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{{ page.path }}">Edit this page</a>
-    <!--a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a-->
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 

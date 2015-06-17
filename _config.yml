@@ -18,6 +18,7 @@ author:
   name:              'The OpenDreamKit consortium'
   url:               http://opendreamkit.org
   email:             contact@opendreamkit.org
+  twitter:           opendreamkit
 
 # Custom vars
 version:             0.2.0
