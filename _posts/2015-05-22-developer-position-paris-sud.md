@@ -49,7 +49,7 @@ engineering tasks defined in the OpenDreamKit project. Among these:
   design and develop dynamic documentation tools;
 
 - Participate in designing and implementing a component
-  architecture for the SageMath ecosystem, as a fundation for Virtual
+  architecture for the SageMath ecosystem, as a foundation for Virtual
   Research Environments such as SageMathCloud;
 
 - Participate actively in regular international development and
