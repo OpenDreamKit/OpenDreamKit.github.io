@@ -147,7 +147,7 @@ To apply for this position, please send an e-mail to
 upsud-recruitement-research-engineer at opendreamkit.org before July
 1st, with the following documents attached:
 
-- cover_letter.pdf: a cover letter (why are you interested in this particular position);
+- cover_letter.pdf: a cover letter, in English (why are you interested in this particular position);
 
 - CV.pdf: a CV, highlighting among other things your skills and
   background and your contributions to open source software;
