@@ -18,7 +18,7 @@ Depending on the applicant's past experience, between 2000€ and 3000€
 of monthly "salaire net" (salary after non-wage labour cost but before
 income tax). Equivalently, this is a "salaire brut" of up to 46200€
 yearly, or a "salaire brut chargé" (total cost for the project) of up
-to 5500 € monthly.
+to 5500€ monthly.
 
 # Location
 
