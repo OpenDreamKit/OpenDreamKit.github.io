@@ -3,7 +3,7 @@ layout: post
 title: Full-time developer position at TU Kaiserslautern for 1 year beginning March 2016
 ---
 
-We are seeking a full-time developer at TU Kaiserslautern to work with Dr. William Hart on the MPIR (http://mpir.org/) bignum library.
+We are seeking a full-time developer at TU Kaiserslautern to work with Dr. William Hart on the MPIR [http://mpir.org/](http://mpir.org/) bignum library.
 
 # Location
 
@@ -59,7 +59,7 @@ for mathematics. Lead by Université Paris-Sud, this project involves
 about 50 people spread over 15 sites in Europe, with a total budget of
 about 7.6 million euros.
 
-# Expressions on interest
+# Expressions of interest
 
 Interested candidates should send an email to goodwillhart at googlemail.com for further information about the position.
 
