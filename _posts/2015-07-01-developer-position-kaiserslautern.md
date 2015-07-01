@@ -11,7 +11,7 @@ The developer will work at TU Kaiserslautern in the city of Kaiserslautern Germa
 
 # Mission
 
-To help maintain the MPIR library as part of the OpenDreamKit collaboration, in particular to enhance the performace and portability of the library.
+To help maintain the MPIR library as part of the OpenDreamKit collaboration, in particular to enhance the performance and portability of the library.
 
 # Activities
 
