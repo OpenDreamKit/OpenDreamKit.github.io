@@ -6,12 +6,12 @@ title: Kickoff meeting, Orsay, September 2nd-5th of 2015
 OpenDreamKit Kickoff meeting
 ============================
 
-        Université Paris Sud
+        Orsay, Université Paris Sud
         September 2nd - 5th of 2015
 
 The objectives of this meeting is to get the OpenDreamKit's
 participants to know each other and have an overview of the project,
-as well as to start some of the collaborative tasks through
+and well as to start some of the collaborative tasks through
 brainstorms and coding sprints.
 
 External participants wanting to know more about the project or would
@@ -49,7 +49,7 @@ relevance to the project and inner working.
 
 ### Jupyter kernels for all interactive computation software
 
-(GAP, Singular, Pari/GP, Linbox+CLING?, ...)
+GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 
 ### Exploring and further documenting Sage Math Cloud internals
 
@@ -58,6 +58,8 @@ relevance to the project and inner working.
 Potential targets:
 - docker containers for all computation software?
 - ...
+
+### HPC Brainstorm
 
 # Registration
 
