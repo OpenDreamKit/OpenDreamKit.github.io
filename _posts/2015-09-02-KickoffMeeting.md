@@ -74,7 +74,8 @@ the following information:
 
 There is no registration fee. Tentatively, lunch will be covered for
 all participants, as well as the social dinner for all OpenDreamKit
-participants.
+participants. OpenDreamKit participants are expected to pay for their
+travel and lodging expenses through their originating site.
 
 # Participants
 
