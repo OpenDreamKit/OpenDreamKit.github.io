@@ -79,3 +79,16 @@ travel and lodging expenses through their originating site.
 
 # Participants
 
+<!--
+Potential people to invite:
+
+Tim Daly
+Joris van der Hoeven
+William Stein
+Kyle Keley?
+Some IPython dev?
+Harald Schilly
+Bernard Parisse
+Han Frederic
+Jeroen Demeyer
+!-->
