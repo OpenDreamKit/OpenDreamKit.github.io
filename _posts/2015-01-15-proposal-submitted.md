@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDreamKit proposal submitted
+title: Proposal submitted
 ---
 
 The OpenDreamKit proposal was submitted on January 15th of 2015.

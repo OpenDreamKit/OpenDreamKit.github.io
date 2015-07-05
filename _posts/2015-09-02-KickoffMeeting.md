@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDreamKit KickOff meeting, Orsay, September 2nd-5th of 2015
+title: Kickoff meeting, Orsay, September 2nd-5th of 2015
 ---
 
 OpenDreamKit Kickoff meeting
