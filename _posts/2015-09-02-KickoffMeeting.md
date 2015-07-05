@@ -1,8 +1,13 @@
+---
+layout: post
+title: OpenDreamKit KickOff meeting, Orsay, September 2nd-5th of 2015
+---
+
 OpenDreamKit Kickoff meeting
 ============================
 
         Université Paris Sud
-        September 2nd - 4th of 2015
+        September 2nd - 5th of 2015
 
 The objectives of this meeting is to get the OpenDreamKit's
 participants to know each other and have an overview of the project,
@@ -40,7 +45,7 @@ relevance to the project and inner working.
 - LMFDB
 - ...
 
-## Thursday, Friday: brainstorms and coding sprints
+## Thursday - Saturday: brainstorms and coding sprints
 
 ### Jupyter kernels for all interactive computation software
 
