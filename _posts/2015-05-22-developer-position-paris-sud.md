@@ -5,10 +5,14 @@ title: Full-time developer position opening at Université Paris-Sud for Fall 20
 
 This is an announcement for a full-time developer ([Ingénieur de
 Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
-position opening at Université Paris-Sud. For now we hope to run
-interviews in early July, for a recruitment in early Fall 2015, and
-for up to four years (presumably in the form of a one year contract,
-renewable three times).
+position opening at Université Paris-Sud, working on open source
+software engineering for computational mathematics.
+
+# Time line
+
+For now we hope to run interviews in early July, for a recruitment in
+early Fall 2015, and for up to four years (presumably in the form of a
+one year contract, renewable three times).
 
 A second full-time developer will be hired later on, presumably in Fall 2016.
 
@@ -29,28 +33,29 @@ Orsay-Bures-Gif-Saclay campus, 25 km South-West of Paris city centre.
 
 # Mission
 
-To support the maintenance and development of the OpenDreamKit
-components, and in particular of the SageMath project, by enhancing
-their software infrastructure, in close collaboration with the
-community.
+To support the maintenance and development of the
+[OpenDreamKit](http://opendreamkit.org) components, and in particular
+of the [SageMath](http://www.sagemath.org) project, by enhancing their
+software infrastructure, in close collaboration with the community.
 
 # Activities
 
-According to his or her specific skills, the developer will take on, in
-close collaboration with the community, a selection of the software
-engineering tasks defined in the OpenDreamKit project. Among these:
+A successful candidate will be expected to do significant progress, in
+close collaboration with the community, on some of the engineering
+tasks defined in the [OpenDreamKit](http://opendreamkit.org)
+project. Among these:
 
-- Improve the build, packaging, and distribution systems;
+- Improve the build, packaging, test, and distribution infrastructure;
 
-- Improve the portability of many of the components, in
-  particular on the Windows+Cygwin platform;
+- Improve the portability of many of the components, in particular on
+  the Windows+Cygwin platform;
 
 - Refactor the static Sphinx-based documentation system, and
   design and develop dynamic documentation tools;
 
-- Participate in designing and implementing a component
-  architecture for the SageMath ecosystem, as a foundation for Virtual
-  Research Environments such as SageMathCloud;
+- Participate in designing and implementing a component architecture
+  for the SageMath ecosystem, as a foundation for Virtual Research
+  Environments such as SageMathCloud;
 
 - Participate actively in regular international development and
   training meetings with the other OpenDreamKit participants and the
@@ -144,7 +149,7 @@ adequate for them.
 # Applications
 
 To apply for this position, please send an e-mail to
-upsud-recruitement-research-engineer at opendreamkit.org before July
+upsud-recruitment-research-engineer at opendreamkit.org before July
 1st, with the following documents attached:
 
 - cover_letter.pdf: a cover letter, in English (why are you interested in this particular position);
