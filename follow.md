@@ -13,3 +13,7 @@ To get the latest news on {{ site.title }} in a timely manner:
 Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 * Follow our development on [![](../public/github.png){:.icon} GitHub](https://github.com/{{ site.github.owner_name }}).
+
+# Press releases
+
+* [05 Jul 2015, University of Oxford](http://www.cs.ox.ac.uk/news/954-full.html)
