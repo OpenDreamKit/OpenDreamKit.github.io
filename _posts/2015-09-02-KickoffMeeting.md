@@ -32,6 +32,13 @@ like to participate to its activities are welcome.
 
 - Brief presentation of each software component
 
+- Administrative aspects (Eugenia, Antoine):
+
+  - Review of the main aspects of the Consortium Agreement.
+
+  - Governance: choosing the members and chairs of the various
+    commitee (advisory board, ...), as per the proposal.
+
 ### Afternoon: technology preview
 
 The afternoon will consist of a series of short presentations about
@@ -44,6 +51,7 @@ relevance to the project and inner working.
 - Authorea?
 - LMFDB
 - ...
+- SCSCP/OpenMath/...
 
 ## Thursday - Saturday: brainstorms and coding sprints
 
@@ -56,7 +64,8 @@ GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 ### Component architecture
 
 Potential targets:
-- docker containers for all computation software?
+- docker containers for all computational software?
+- Fix the remaining issues for Sage in docker
 - ...
 
 ### HPC Brainstorm
@@ -79,16 +88,3 @@ travel and lodging expenses through their originating site.
 
 # Participants
 
-<!--
-Potential people to invite:
-
-Tim Daly
-Joris van der Hoeven
-William Stein
-Kyle Keley?
-Some IPython dev?
-Harald Schilly
-Bernard Parisse
-Han Frederic
-Jeroen Demeyer
-!-->
