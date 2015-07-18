@@ -88,52 +88,34 @@ travel and lodging expenses through their originating site.
 
 # Lodging
 
-Rooms will be booked at the Bures-sur-Yvette Residhomes. 
+Rooms will tentatively be booked at the Bures-sur-Yvette Residhomes.
 
-Prices are as follows: 66 euros per night for a studio (up to 2 people), 
-106 euros per night for an apartement (up to 4 people)
+Prices (to be confirmed) are as follows: 66 euros per night for a
+studio (up to 2 people), 106 euros per night for an apartement (up to
+4 people)
 
 # Participants
 
+<!-- add institution !-->
+
 - John Cremona
-
 - Luca De Feo
-
 - Paul-Olivier Dehaye
-
 - Jean-Pierre Flori
-
 - Hans Fangohr
-
-- Eric Gourgoulhon
-
+- Éric Gourgoulhon
 - Florent Hivert
-
 - Michael Kohlhase
-
 - Alexander Konovalov
-
 - Samuel Lelièvre
-
 - Steve Linton
-
 - Ursula Martin
-
 - Clément Pernet
-
 - Markus Pfeiffer
-
 - Viviane Pons
-
-- Floran Rabe
-
+- Florian Rabe
 - Min Ragan-Kelley
-
 - Eugénia Shadlova
-
-- Nicolas Thiéry
-
+- Nicolas M. Thiéry
 - Someone from Simula
-
 - Logilab: 2 or 3 people
-
