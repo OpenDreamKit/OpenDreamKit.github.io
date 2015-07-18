@@ -86,5 +86,54 @@ all participants, as well as the social dinner for all OpenDreamKit
 participants. OpenDreamKit participants are expected to pay for their
 travel and lodging expenses through their originating site.
 
+# Lodging
+
+Rooms will be booked at the Bures-sur-Yvette Residhomes. 
+
+Prices are as follows: 66 euros per night for a studio (up to 2 people), 
+106 euros per night for an apartement (up to 4 people)
+
 # Participants
+
+- John Cremona
+
+- Luca De Feo
+
+- Paul-Olivier Dehaye
+
+- Jean-Pierre Flori
+
+- Hans Fangohr
+
+- Eric Gourgoulhon
+
+- Florent Hivert
+
+- Michael Kohlhase
+
+- Alexander Konovalov
+
+- Samuel Lelièvre
+
+- Steve Linton
+
+- Ursula Martin
+
+- Clément Pernet
+
+- Markus Pfeiffer
+
+- Viviane Pons
+
+- Floran Rabe
+
+- Min Ragan-Kelley
+
+- Eugénia Shadlova
+
+- Nicolas Thiéry
+
+- Someone from Simula
+
+- Logilab: 2 or 3 people
 
