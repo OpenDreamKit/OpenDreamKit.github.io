@@ -88,11 +88,14 @@ travel and lodging expenses through their originating site.
 
 # Lodging
 
-Rooms will tentatively be booked at the Bures-sur-Yvette Residhomes.
-
-Prices (to be confirmed) are as follows: 66 euros per night for a
-studio (up to 2 people), 106 euros per night for an apartement (up to
-4 people)
+Accomodation at reduced rate will be available at either the
+Bures-sur-Yvette Residhomes or the Hotel d'Orsay. Prices should be
+around 68 euros per night for a studio (double bed) or 112 euros per
+night for an apartement (two double beds); hopefuly some twin rooms
+will be available too. We will post shortly instructions for how to
+book. OpenDreamKit participants are expected to fund their
+accomodation through their home site. Accomodation for invited
+outsiders will be paid for by Paris Sud.
 
 # Participants
 
