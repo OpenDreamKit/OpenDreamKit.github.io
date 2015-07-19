@@ -120,5 +120,4 @@ outsiders will be paid for by Paris Sud.
 - Min Ragan-Kelley
 - Eugénia Shadlova
 - Nicolas M. Thiéry
-- Someone from Simula
 - Logilab: 2 or 3 people
