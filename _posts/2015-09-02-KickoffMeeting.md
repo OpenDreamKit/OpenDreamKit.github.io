@@ -9,19 +9,19 @@ OpenDreamKit Kickoff meeting
         Orsay, Université Paris Sud
         September 2nd - 5th of 2015
 
-The objectives of this meeting is to get the OpenDreamKit's
+The objectives of this meeting is to get OpenDreamKit
 participants to know each other and have an overview of the project,
 and well as to start some of the collaborative tasks through
 brainstorms and coding sprints.
 
-External participants wanting to know more about the project or would
-like to participate to its activities are welcome.
+External participants who would like to know more about the project
+or to participate in its activities are welcome.
 
 # Location and how to come
 
 The hotel and events are all located on the Orsay campus of Université
-Paris Sud, about 45 minutes south west from Paris downtown by the RER
-B line (going toward Saint-Rémi les chevreuse).
+Paris Sud, about 45 minutes Southwest from Paris city centre,
+on the RER B line (going toward Saint-Rémy les Chevreuse).
 
 ## September 2nd, 4th, 5th: [Proto 204](http://proto204.co/)
 
@@ -40,7 +40,7 @@ The closest airport is Paris Orly; from there the Orlyval train
 shuttle brings you to the RER B station Antony, about 30 minutes away
 from Orsay.
 
-International flights tend to land in Paris Charles-de-Gaule
+International flights tend to land in Paris Charles-de-Gaulle
 (CDG). It's about 1 hour and 20 minutes away from Orsay, on the other
 end of the RER B line.
 
@@ -72,7 +72,7 @@ The afternoon will consist of a series of short presentations about
 various technologies relevant to OpenDreamKit, focusing on their goal,
 relevance to the project and inner working.
 
-- Sage Math Cloud
+- SageMathCloud
 - Jupyter
 - TeXmacs & Mathemagix
 - Authorea?
@@ -115,13 +115,13 @@ travel and lodging expenses through their originating site.
 
 # Lodging
 
-Accomodation at reduced rate will be available at either the
+Accommodation at reduced rate will be available at either the
 Bures-sur-Yvette Residhomes or the Hotel d'Orsay. Prices should be
 around 68 euros per night for a studio (double bed) or 112 euros per
 night for an apartement (two double beds); hopefuly some twin rooms
 will be available too. We will post shortly instructions for how to
 book. OpenDreamKit participants are expected to fund their
-accomodation through their home site. Accomodation for invited
+accommodation through their home site. Accommodation for invited
 outsiders will be paid for by Paris Sud.
 
 # Participants
