@@ -3,7 +3,7 @@ layout: post
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 ---
 
-Contact: vincent-DOT-delecroix-AT-labri-DOT-fr
+**The candidatures and interviews are now closed.**
 
 # Duration
 
