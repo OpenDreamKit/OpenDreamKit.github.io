@@ -106,7 +106,7 @@ the following information:
     Institution:
     Date of arrival:
     Date of departure:
-    Do you need lodging: yes/no
+    Do you need lodging: shared room / single room / no
 
 There is no registration fee. Tentatively, lunch will be covered for
 all participants, as well as the social dinner for all OpenDreamKit
