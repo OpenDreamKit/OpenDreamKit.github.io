@@ -129,14 +129,17 @@ outsiders will be paid for by Paris Sud.
 <!-- add institution !-->
 
 - John Cremona
+- Michael Croucher
 - Luca De Feo
 - Paul-Olivier Dehaye
 - Jean-Pierre Flori
 - Hans Fangohr
+- Serge Guelton
 - Éric Gourgoulhon
 - Florent Hivert
 - Michael Kohlhase
 - Alexander Konovalov
+- Marcin Kostur
 - Samuel Lelièvre
 - Steve Linton
 - Ursula Martin
