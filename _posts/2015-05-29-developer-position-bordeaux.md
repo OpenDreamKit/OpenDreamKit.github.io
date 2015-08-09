@@ -3,12 +3,12 @@ layout: post
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 ---
 
-**The candidatures and interviews are now closed.**
+contact: vincent.delecroix-AT-labri.fr
 
 # Duration
 
 For 4 years starting in Fall 2015. Interviews will be run
-either in July or in September.
+in September.
 
 # Salary
 
@@ -35,8 +35,8 @@ According to his or her specific skills, the developer will take on, in close
 collaboration with the community, a selection of the software engineering tasks
 defined in the OpenDreamKit project. Among these:
 
-- Improve the existing software components (code optimisation,
-  parallelisation, ...);
+- Improve the existing software components (code optimisation and
+  parallelisation);
 
 - Improve communication between the software components;
 
@@ -49,16 +49,17 @@ defined in the OpenDreamKit project. Among these:
 
 - Development in Unix-like environments;
 
-- Experience in open-source development (collaborative
-  development tools, interaction with the community, ...);
+- Experience with code optimisation, parallelism (pthread, OpenMP, MPI),
+  debugging (valgrind, gdb);
 
-- Fluency in one or several of C, C++, Python, Cython, assemblers;
+- Fluency in several of C, C++, Python, Cython, assemblers;
 
 - Fluency in English;
 
 The following are not prerequisites but would be very much appreciated:
 
-- Experience with code optimisation, parallelism, etc; 
+- Experience in open-source development (collaborative
+  development tools, interaction with the community, ...);
 
 - Experience with computational mathematics software, in particular
   [SageMath](http://sagemath.org) or [PARI/GP](http://pari.math.u-bordeaux.fr/);
