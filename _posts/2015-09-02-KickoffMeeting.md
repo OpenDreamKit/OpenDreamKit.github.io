@@ -115,14 +115,16 @@ travel and lodging expenses through their originating site.
 
 # Lodging
 
-Accommodation at reduced rate will be available at either the
-Bures-sur-Yvette Residhomes or the Hotel d'Orsay. Prices should be
-around 68 euros per night for a studio (double bed) or 112 euros per
-night for an apartement (two double beds); hopefuly some twin rooms
-will be available too. We will post shortly instructions for how to
-book. OpenDreamKit participants are expected to fund their
-accommodation through their home site. Accommodation for invited
-outsiders will be paid for by Paris Sud.
+Pre-booking at the Hotel d'Orsay with some negotiated prices:
+
+http://hotel-orsay.com/
+
+Shared room: 40 euros per person (2 beds or 3 beds), 45 with breakfast.
+Single room: 79 euros, breakfast included.
+
+To get those prices, please send along the reservation number 88697 and the project name OpenDreamKit.
+
+Reminder: all H2020 participants are expected to pay their room (by using their own H2020 funding). We will pay only for those who are not H2020 members. For this reason, all H2020 members are asked to BOOK THEIR OWN room.
 
 # Participants
 
