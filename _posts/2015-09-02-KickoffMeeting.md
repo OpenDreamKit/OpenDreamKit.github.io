@@ -152,5 +152,4 @@ Reminder: all H2020 participants are expected to pay their room (by using their 
 - Min Ragan-Kelley
 - Eugénia Shadlova
 - Nicolas M. Thiéry
-- Marcin Kostur
 - Logilab: 2 or 3 people
