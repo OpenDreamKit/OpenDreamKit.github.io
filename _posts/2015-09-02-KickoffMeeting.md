@@ -138,6 +138,7 @@ Reminder: all H2020 participants are expected to pay their room (by using their 
 - Hans Fangohr
 - Serge Guelton
 - Éric Gourgoulhon
+- William Hart
 - Florent Hivert
 - Michael Kohlhase
 - Alexander Konovalov
