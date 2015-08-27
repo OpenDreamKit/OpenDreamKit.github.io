@@ -56,10 +56,10 @@ development model.
 
 - SageMathCloud (Viviane)
 - Jupyter (Min)
-- Simulagora, ... (Florent Cayré)
+- Simulagora, ... (Florent Cayré?)
+- LMFDB (John Cremona)
+- Mathhub (Michael Kohlhase)
 - Authorea?
-- LMFDB (John)
-- Mathhub (Michael)
 - TeXmacs?
 
 ### Computational components:
@@ -70,20 +70,19 @@ development model.
 - MPIR (William Hart)
 - Singular (Wolfram)
 - Giac/XCas (Frédéric Han; on thursday)
-- (Utilisation notebook) Hans Fanghor
 - Pari/GP (Jean-Pierre?)
 - Sage (Luca De Feo)
-- OOMMF (Hans)
+- OOMMF (Hans Fanghor)
 
 ### Technology:
 
-- SCSCP/OpenMath/... (Alexander)
+- SCSCP/OpenMath/... (Alexander Konovalov)
 - OMDoc/MMT (Florian Rabe)
 - Sphinx (Florent Hivert)
-- Docker images for math software: Sebastien Gutsche
-- Pythran (Serge?)
+- Docker images for math software (Sebastien Gutsche)
+- Pythran (Serge Guelton)
 - Cilk (Florent Hivert)
-- Cython (Loïc)
+- Cython (Loïc Gouarin)
 
 ## 3:30-4pm: Coffee break
 
@@ -122,6 +121,12 @@ Short presentations:
 - Parallel computing in Giac & XCas (Frédéric Han)
 - MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectureslinear algebra (Marc Baboulin, on thursday)
 - ...
+
+## Collaborative tools for OpenDreamKit
+
+- Communication: mailing lists? gitter? slack? OpenPaas?
+- Private repositories
+- Live collaboration: framapad, hubl.in, whiteboard, ...
 
 ## Communication
 
