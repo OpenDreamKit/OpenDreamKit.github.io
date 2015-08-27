@@ -3,12 +3,6 @@ layout: post
 title: Kickoff meeting, Orsay, September 2nd-5th of 2015
 ---
 
-OpenDreamKit Kickoff meeting
-============================
-
-        Orsay, Université Paris Sud
-        September 2nd - 5th of 2015
-
 The objectives of this meeting is to get OpenDreamKit
 participants to know each other and have an overview of the project,
 and well as to start some of the collaborative tasks through
@@ -46,72 +40,7 @@ end of the RER B line.
 
 # Tentative program
 
-## Wednesday 2nd
-
-### Morning starting around 10am: getting to know each other
-
-- Brief overview of the project (Nicolas 10 min)
-
-- Brief presentation of each site and participant (45min)
-
-- Brief presentation of each work package by its leader and of the
-  tasks within by their respective leader(or just the WPs?). (1h)
-
-- Administrative aspects (Eugenia, Benoît) (1h):
-
-  - Important administrative points: reporting, ... (10 min)
-
-  - Review and discussion of the main aspects of the Consortium
-    Agreement (1/2h)
-
-  - Governance: choosing the members and chairs of the various
-    commitee (advisory board, ...), as per the proposal (20 min).
-
-### Afternoon: technology preview
-
-# Project discussion / Task presentation (1h/2h)
-
-# Technology preview
-
-5/10 minutes presentation of each software component protocol
-
-The afternoon will consist of a series of short presentations about
-various technologies relevant to OpenDreamKit, focusing on their goal,
-relevance to the project and inner working.
-
-- SageMathCloud
-- Jupyter
-- TeXmacs & Mathemagix
-- Authorea?
-- LMFDB
-- ...
-- SCSCP/OpenMath/...
-- Magma (linear algebra)
-- ...
-- Sphinx
-- Cilk
-- Simulagora
-- Cython (Loïc)
-- Pythran (Serge?)
-
-Social dinner
-
-## Thursday - Saturday: brainstorms and coding sprints
-
-### Jupyter kernels for all interactive computation software
-
-GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
-
-### Exploring and further documenting Sage Math Cloud internals
-
-### Component architecture
-
-Potential targets:
-- docker containers for all computational software?
-- Fix the remaining issues for Sage in docker
-- ...
-
-### HPC Brainstorm
+See [this page](/meetings/2015-09-02-Kickoff/program).
 
 # Registration
 
@@ -140,7 +69,7 @@ Single room: 79 euros, breakfast included.
 
 To get those prices, please send along the reservation number 88697 and the project name OpenDreamKit.
 
-Reminder: all H2020 participants are expected to pay their room (by using their own H2020 funding). We will pay only for those who are not H2020 members. For this reason, all H2020 members are asked to BOOK THEIR OWN room.
+Reminder: all OpenDreamKit participants are expected to pay their room (by using their own OpenDreamKit funding). We will pay only for those who are not OpenDreamKit members. For this reason, all OpenDreamKit members are asked to BOOK THEIR OWN room.
 
 # Participants
 
