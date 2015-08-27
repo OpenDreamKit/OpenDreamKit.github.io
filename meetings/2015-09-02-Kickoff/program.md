@@ -122,3 +122,8 @@ Short presentations:
 - Parallel computing in Giac & XCas (Frédéric Han)
 - MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectureslinear algebra (Marc Baboulin, on thursday)
 - ...
+
+## Communication
+
+- Logo
+- 5-slides presentation of OpenDreamKit

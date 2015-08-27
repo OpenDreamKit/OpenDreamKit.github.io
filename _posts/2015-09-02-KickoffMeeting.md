@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kickoff meeting, Orsay, September 2nd-5th of 2015
+title: Kickoff meeting, Orsay, Université Paris Sud, September 2nd-5th of 2015
 ---
 
 The objectives of this meeting is to get OpenDreamKit
