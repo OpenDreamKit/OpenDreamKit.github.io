@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full-time developer position opening at Université Paris-Sud for Fall 2015
+title: Full-time developer position opening at Université Paris-Sud for Fall 2015 (filled)
 ---
 
 This is an announcement for a full-time developer ([Ingénieur de
