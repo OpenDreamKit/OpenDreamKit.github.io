@@ -3,6 +3,11 @@ layout: post
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 ---
 
+This is an announcement for a full-time developer ([Ingénieur de
+Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
+position opening at Université de Bordeaux, working on open source
+software engineering for computational mathematics.
+
 contact: vincent.delecroix-AT-labri.fr
 
 # Duration
