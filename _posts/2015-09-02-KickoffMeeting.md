@@ -5,7 +5,7 @@ title: Kickoff meeting, Orsay, Université Paris Sud, September 2nd-5th of 2015
 
 The objectives of this meeting is to get OpenDreamKit
 participants to know each other and have an overview of the project,
-and well as to start some of the collaborative tasks through
+as well as to start some of the collaborative tasks through
 brainstorms and coding sprints.
 
 External participants who would like to know more about the project
