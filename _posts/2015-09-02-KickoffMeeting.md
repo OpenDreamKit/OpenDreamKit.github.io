@@ -50,23 +50,30 @@ end of the RER B line.
 
 ### Morning starting around 10am: getting to know each other
 
-- Brief overview of the project (Nicolas)
+- Brief overview of the project (Nicolas 10 min)
 
-- Brief presentation of each site and participant
+- Brief presentation of each site and participant (45min)
 
 - Brief presentation of each work package by its leader and of the
-  tasks within by their respective leader.
+  tasks within by their respective leader(or just the WPs?). (1h)
 
-- Brief presentation of each software component
+- Administrative aspects (Eugenia, Benoît) (1h):
 
-- Administrative aspects (Eugenia, Antoine):
+  - Important administrative points: reporting, ... (10 min)
 
-  - Review of the main aspects of the Consortium Agreement.
+  - Review and discussion of the main aspects of the Consortium
+    Agreement (1/2h)
 
   - Governance: choosing the members and chairs of the various
-    commitee (advisory board, ...), as per the proposal.
+    commitee (advisory board, ...), as per the proposal (20 min).
 
 ### Afternoon: technology preview
+
+# Project discussion / Task presentation (1h/2h)
+
+# Technology preview
+
+5/10 minutes presentation of each software component protocol
 
 The afternoon will consist of a series of short presentations about
 various technologies relevant to OpenDreamKit, focusing on their goal,
@@ -79,6 +86,15 @@ relevance to the project and inner working.
 - LMFDB
 - ...
 - SCSCP/OpenMath/...
+- Magma (linear algebra)
+- ...
+- Sphinx
+- Cilk
+- Simulagora
+- Cython (Loïc)
+- Pythran (Serge?)
+
+Social dinner
 
 ## Thursday - Saturday: brainstorms and coding sprints
 
