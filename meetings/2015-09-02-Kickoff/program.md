@@ -73,7 +73,7 @@ development model.
 - Giac/XCas (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
 - Sage (Luca De Feo)
-- OOMMF (Hans Fanghor)
+- OOMMF (Hans Fangohr)
 
 ### Technology
 

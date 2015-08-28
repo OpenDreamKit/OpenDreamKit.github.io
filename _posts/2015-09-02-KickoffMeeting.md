@@ -11,7 +11,7 @@ brainstorms and coding sprints.
 External participants who would like to know more about the project
 or to participate in its activities are welcome.
 
-# Location and how to come
+# Location
 
 The hotel and events are all located on the Orsay campus of Université
 Paris Sud, about 45 minutes Southwest from Paris city centre,
@@ -25,10 +25,10 @@ on the RER B line (going toward Saint-Rémy les Chevreuse).
 
 ## September 3rd: [LRI](http://www.lri.fr), Amphi Digiteo Moulon (Bât 660),
 
-  - [How to come](https://www.lri.fr/info.pratiques_en.php)
+  - [Location](https://www.lri.fr/info.pratiques_en.php)
   - [Walking map from Hôtel d'Orsay (30 min)](https://www.google.fr/maps/dir/H%C3%B4tel+d%27Orsay,+2+Rue+Fran%C3%A7ois+Leroux,+91400+Orsay/Laboratoire+de+Recherche+en+Informatique,+B%C3%A2t+650,+Rue+Noetzlin,+91190+Gif-sur-Yvette/@48.7082891,2.1692708,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47e678a5c5526d99:0x890b8f1a0f32a82!2m2!1d2.1888359!2d48.7040668!1m5!1m1!1s0x47e67f4ee0ba7d8b:0x566a06a0cd1acf1d!2m2!1d2.1682591!2d48.7124995!3e2)
 
-## Coming by plane
+## Travel by plane
 
 The closest airport is Paris Orly; from there the Orlyval train
 shuttle brings you to the RER B station Antony, about 30 minutes away
