@@ -11,15 +11,15 @@ they get formalized.
 # Université Paris Sud, Orsay:
 
 - [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/22/developer-position-paris-sud),
-  starting in Fall 2015 for up to four years.
+  starting in Fall 2015 for up to four years (filled).
 
 - A full time developer position (Ingénieur de Recherche), starting
-  in Fall 2016 for up to three years.
+  in Fall 2016 for up to three years (filled).
 
 - A part time project administrator position (Ingénieur d'Étude),
-  starting in Fall 2015 for up to four years. We are investigating
-  opportunities for joining with another European project to make this
-  a full time position.
+  starting in Fall 2015 for up to four years, recruited jointly with
+  the European Open FET project MagicSky to make this into a full time
+  position (filled).
 
 
 # Université Bordeaux, Talence
