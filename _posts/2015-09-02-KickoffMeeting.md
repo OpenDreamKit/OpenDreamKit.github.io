@@ -75,28 +75,31 @@ Reminder: all OpenDreamKit participants are expected to pay their room (by using
 
 <!-- add institution !-->
 
-- John Cremona
-- Michael Croucher
-- Luca De Feo
-- Paul-Olivier Dehaye
-- Jean-Pierre Flori
-- Hans Fangohr
-- Serge Guelton
-- Éric Gourgoulhon
-- Sebastian Gutsche
-- William Hart
-- Florent Hivert
-- Michael Kohlhase
-- Alexander Konovalov
-- Marcin Kostur
-- Samuel Lelièvre
-- Steve Linton
-- Ursula Martin
-- Clément Pernet
-- Markus Pfeiffer
-- Viviane Pons
-- Florian Rabe
-- Min Ragan-Kelley
-- Eugénia Shadlova
-- Nicolas M. Thiéry
-- Logilab: 2 or 3 people
+- Florent Cayré, Logilab
+- John Cremona, University of Warwick
+- Julien Cristau, Logilab
+- Michael Croucher, University of Sheffield
+- Luca De Feo, Université de Versailles-St-Quentin-en-Yvelines
+- Paul-Olivier Dehaye, University of Zurich
+- Jean-Pierre Flori, ANSSI
+- Hans Fangohr, University of Southampton
+- Serge Guelton, Logilab
+- Éric Gourgoulhon, Laboratoire Univers et Théories, Observatoire de Paris
+- Sebastian Gutsche, University of Kaiserslautern
+- Frederic Han, Universite Paris 7
+- William Hart, University of Kaiserslautern
+- Florent Hivert, Université Paris-Sud
+- Michael Kohlhase, Jacobs University Bremen
+- Alexander Konovalov, University of St Andrews
+- Marcin Kostur, University of Silesia
+- Samuel Lelièvre, Université Paris-Sud
+- Steve Linton, Steve Linton
+- Ursula Martin, Oxford
+- Benoît Pilorget, Université Paris-Sud
+- Clément Pernet, Université Grenoble-Alpes, LIP
+- Markus Pfeiffer, University of St Andrews
+- Viviane Pons, Université Paris-Sud
+- Florian Rabe, Jacobs University Bremen
+- Min Ragan-Kelley, Simula
+- Eugénia Shadlova, Université Paris-Sud
+- Nicolas M. Thiéry, Université Paris-Sud
