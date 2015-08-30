@@ -81,6 +81,7 @@ Reminder: all OpenDreamKit participants are expected to pay their room (by using
 - Michael Croucher, University of Sheffield
 - Luca De Feo, Université de Versailles-St-Quentin-en-Yvelines
 - Paul-Olivier Dehaye, University of Zurich
+- Jeroen Demeyer, Université Paris-Sud
 - Jean-Pierre Flori, ANSSI
 - Hans Fangohr, University of Southampton
 - Serge Guelton, Logilab
