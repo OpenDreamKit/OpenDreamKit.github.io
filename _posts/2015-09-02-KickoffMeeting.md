@@ -90,6 +90,7 @@ Reminder: all OpenDreamKit participants are expected to pay their room (by using
 - Frederic Han, Universite Paris 7
 - William Hart, University of Kaiserslautern
 - Florent Hivert, Université Paris-Sud
+- Vincent Knight, Cardiff University
 - Michael Kohlhase, Jacobs University Bremen
 - Alexander Konovalov, University of St Andrews
 - Marcin Kostur, University of Silesia
