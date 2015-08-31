@@ -3,7 +3,7 @@ layout: subpage
 title: Kickoff meeting, tentative program
 ---
 
-# Wednesday 2015-09-02
+# Wednesday 2015-09-02 (Proto 204)
 
 ## 9am-10am: Coffee
 
@@ -94,9 +94,19 @@ their respective leaders. The goal is to attract attention and get
 participants involved. We will then start planning for the brainstorms
 and coding sprints that will occur during the rest of the week.
 
-## 8pm: Social dinner, tentatively at [Le Gramophone](http://www.legramophone.net/)
+## 6pm: Ice breaker
+
+## 8pm: Social dinner, at [Le Gramophone](http://www.legramophone.net/)
 
 # Thursday - Saturday: brainstorms and coding sprints
+
+# 9am-9:30am: Projects planning and progress report
+
+# 10:30pm: Coffee break
+
+# 13pm: Lunch (CESFO Moulon)
+
+# 4pm: Coffee break
 
 ## Jupyter kernels for all interactive computation software
 
