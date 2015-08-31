@@ -28,7 +28,7 @@ on the project: aims, work packages, consortium.
 
   - WP2: Community building, Training, Dissemination, Outreach (Viviane Pons)
   - WP3: Component Architecture (Luca De Feo)
-  - WP4: User Interfaces (Min Ragan-Kelley?)
+  - WP4: User Interfaces (Min Ragan-Kelley)
   - WP5: High Performance Mathematical Computing (Clément Pernet)
   - WP6: Data/Knowledge/Software bases (Michael Kohlhase)
   - WP7: Social aspects (Alexander Konovalov? Steve Linton?)
