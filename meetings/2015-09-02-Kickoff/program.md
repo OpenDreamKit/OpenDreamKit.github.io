@@ -5,14 +5,16 @@ title: Kickoff meeting, tentative program
 
 # Wednesday 2015-09-02 (Proto 204)
 
-## 9am-10am: Coffee
+## 9am-9:45am: Coffee
+
+## 9:45am-10am: Welcome to Proto 204 (Ronan James)
 
 ## 10am-12am: Getting to know each other
 
 This morning session will give all participants a broad view
 on the project: aims, work packages, consortium.
 
-- Word of welcome and brief overview (Nicolas Thiéry, 10 min)
+- Word of welcome and brief overview of OpenDreamKit (Nicolas Thiéry, 10 min)
 
 - Consortium (45 min)
 
