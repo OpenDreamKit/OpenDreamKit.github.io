@@ -71,6 +71,15 @@ To get those prices, please send along the reservation number 88697 and the proj
 
 Reminder: all OpenDreamKit participants are expected to pay their room (by using their own OpenDreamKit funding). We will pay only for those who are not OpenDreamKit members. For this reason, all OpenDreamKit members are asked to BOOK THEIR OWN room.
 
+# Meals
+
+Breakfast will be provided at the hotel. Lunch for Wednesday-Friday
+will be provided at the university's restaurants. There will be a
+social dinner on Wednesday evening. For the other meals, there are
+quite a few restaurants at walking distance,
+[in Orsay](http://www.mairie-orsay.fr/vie-pratique/commercants-artisans.html?id=27)
+or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a good pick.
+
 # Participants
 
 <!-- add institution !-->
