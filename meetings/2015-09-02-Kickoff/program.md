@@ -86,6 +86,7 @@ development model.
 - Pythran (Serge Guelton)
 - Cilk (Florent Hivert)
 - Cython (Loïc Gouarin)
+- VisPy (Loïc Gouarin)
 
 ## 3:30-4pm: Coffee break
 

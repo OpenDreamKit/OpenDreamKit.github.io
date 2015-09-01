@@ -93,6 +93,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - Jeroen Demeyer, Université Paris-Sud
 - Jean-Pierre Flori, ANSSI
 - Hans Fangohr, University of Southampton
+- Loïc Gouarin, Université Paris-Sud
 - Serge Guelton, Logilab
 - Éric Gourgoulhon, Laboratoire Univers et Théories, Observatoire de Paris
 - Sebastian Gutsche, University of Kaiserslautern
