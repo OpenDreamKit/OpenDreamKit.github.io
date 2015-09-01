@@ -105,6 +105,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - Samuel Lelièvre, Université Paris-Sud
 - Steve Linton, Steve Linton
 - Ursula Martin, Oxford
+- Marco Mancini, Observatoire de Paris
 - Benoît Pilorget, Université Paris-Sud
 - Clément Pernet, Université Grenoble-Alpes, LIP
 - Markus Pfeiffer, University of St Andrews
