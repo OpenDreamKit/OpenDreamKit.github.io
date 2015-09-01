@@ -10,6 +10,7 @@ Please edit!!!
 GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 
 Short presentation:
+
 - Jupyter architecture and how to write kernels (Min RK)
 
 # Exploring and further documenting SageMathCloud internals
@@ -25,6 +26,7 @@ Potential targets:
 # HPC Brainstorm
 
 Short presentations:
+
 - Pythran (Serge Guelton)
 - Parallel computing in Giac & XCas (Frédéric Han)
 - MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectures
