@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Kickoff meeting, tentative program
+title: Kickoff meeting: tentative program
 ---
 
 # Wednesday 2015-09-02 (Proto 204)
@@ -14,12 +14,12 @@ title: Kickoff meeting, tentative program
 This morning session will give all participants a broad view
 on the project: aims, work packages, consortium.
 
-- Word of welcome and brief overview of OpenDreamKit (Nicolas Thiéry, 10 min)
+- Welcome and brief overview of OpenDreamKit (Nicolas Thiéry, 10 min)
 
 - Consortium (45 min)
 
   - 3 minute presentation of each site by its leader
-    (main themes, expertise, resources)
+    (main themes, expertise, resources, status of recruitement)
 
   - self-introduction of each participant (involvement in
     particular projects, specific expertise or interests).
@@ -102,47 +102,12 @@ and coding sprints that will occur during the rest of the week.
 
 # Thursday - Saturday: brainstorms and coding sprints
 
-# 9am-9:30am: Projects planning and progress report
+See the [Projects and coding sprints page](/meetings/2015-09-02-Kickoff/projects).
 
-# 10:30pm: Coffee break
+## 9am-9:30am: Projects planning and progress report
 
-# 13pm: Lunch (CESFO Moulon)
+## 10:30pm: Coffee break
 
-# 4pm: Coffee break
+## 13pm: Lunch (CESFO Moulon / Bures)
 
-## Jupyter kernels for all interactive computation software
-
-GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
-
-Short presentation:
-- Jupyter architecture and how to write kernels (Min RK)
-
-## Exploring and further documenting SageMathCloud internals
-
-## Component architecture
-
-Potential targets:
-
-- Docker containers for all computational software?
-- Fix the remaining issues for Sage in Docker
-- ...
-
-## HPC Brainstorm
-
-Short presentations:
-- Pythran (Serge Guelton)
-- Parallel computing in Giac & XCas (Frédéric Han)
-- MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectures
-  linear algebra (Marc Baboulin, on Thursday)
-- ...
-
-## Collaborative tools for OpenDreamKit
-
-- Communication: mailing lists? Gitter? slack? OpenPaas?
-- Private repositories
-- Live collaboration: framapad, hubl.in, whiteboard, ...
-
-## Communication
-
-- Logo
-- 5-slide presentation of OpenDreamKit
+## 4pm: Coffee break
