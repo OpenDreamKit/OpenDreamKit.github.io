@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Kickoff meeting: projects and coding sprints
+title: Kickoff meeting, projects and coding sprints
 ---
 
 Please edit!!!

@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Kickoff meeting: tentative program
+title: Kickoff meeting, tentative program
 ---
 
 # Wednesday 2015-09-02 (Proto 204)
