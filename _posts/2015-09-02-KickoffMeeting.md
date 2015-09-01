@@ -98,6 +98,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - Sebastian Gutsche, University of Kaiserslautern
 - Frederic Han, Universite Paris 7
 - William Hart, University of Kaiserslautern
+- Konrad Hinsen, CNRS
 - Florent Hivert, Université Paris-Sud
 - Michael Kohlhase, Jacobs University Bremen
 - Alexander Konovalov, University of St Andrews
