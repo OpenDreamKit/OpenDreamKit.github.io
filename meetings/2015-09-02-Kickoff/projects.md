@@ -37,11 +37,11 @@ Short presentations:
 
 # Preliminary workshop planning for each workpackage
 
-## Data Management Plan
+- Data Management Plan
 
-## Innovation Management Plan (preliminary thoughts)
+- Innovation Management Plan (preliminary thoughts)
 
-## Risk Management and Quality Insurance Plan (preliminary thoughts)
+- Risk Management and Quality Insurance Plan (preliminary thoughts)
 
 ## Collaborative tools for OpenDreamKit
 
