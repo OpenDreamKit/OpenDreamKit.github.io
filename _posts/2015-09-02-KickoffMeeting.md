@@ -11,6 +11,10 @@ brainstorms and coding sprints.
 External participants who would like to know more about the project
 or to participate in its activities are welcome.
 
+[Tentative Program](/meetings/2015-09-02-Kickoff/program).
+
+[Projects and coding sprints](/meetings/2015-09-02-Kickoff/projects).
+
 # Location
 
 The hotel and events are all located on the Orsay campus of Université
@@ -37,10 +41,6 @@ from Orsay.
 International flights tend to land in Paris Charles-de-Gaulle
 (CDG). It's about 1 hour and 20 minutes away from Orsay, on the other
 end of the RER B line.
-
-# Tentative program
-
-See [this page](/meetings/2015-09-02-Kickoff/program).
 
 # Registration
 
