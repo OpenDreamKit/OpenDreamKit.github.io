@@ -62,7 +62,7 @@ development model.
 - SageMathCloud (Viviane Pons)
 - Jupyter (Min RK)
 - Simulagora, ... (Florent Cayré?)
-- LMFDB (John Cremona)
+- [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
 - Authorea?
 - TeXmacs?
