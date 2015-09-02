@@ -6,7 +6,7 @@ by [Luca De Feo](http://defeo.lu/)
 
 Sep 2, 2015. [OpenDreamKit](http://opendreamkit.org) kickoff meeting.
 
-<small>[view as a slideshow](https://gnab.github.io/remark/remarkise?url=https://github.com/OpenDreamKit/OpenDreamKit.github.io/raw/master/meetings/2015-09-02-Kickoff/WorkPackages/WP3.md)</small>
+<small>[view as a slideshow](https://gnab.github.io/remark/remarkise?url=http://opendreamkit.org/meetings/2015-09-02-Kickoff/WorkPackages/WP3.md)</small>
 
 ---
 
