@@ -64,14 +64,14 @@ development model.
 ### Computational components
 
 - [GAP](../Software/GAP.pdf) (Steve Linton)
-- Linbox (Clément Pernet)
+- [LinBox](../Software/LinBox.pdf) (Clément Pernet)
 - Mathemagix (Marc Mezzaroba?)
 - MPIR (William Hart)
 - [Singular](../Software/Singular.pdf) (Wolfram)
 - Giac/XCas (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
-- Sage (Luca De Feo)
-- OOMMF (Hans Fangohr)
+- [SageMath](../Software/SageMath.md) (Luca De Feo)
+- [OOMMF](../Software/OOMMF.pdf) (Hans Fangohr)
 
 ### Technology
 
