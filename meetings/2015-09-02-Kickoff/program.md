@@ -36,7 +36,9 @@ on the project: aims, work packages, consortium.
 
   - Planning of upcoming meetings
 
-- 5 minutes presentation of each work package by its leader
+## 1pm: Lunch (CESFO Bures sur Yvette)
+
+## 2:30pm-4pm: Brief presentation of each work package by its leader
 
   - WP2: Community building, Training, Dissemination, Outreach (Viviane Pons)
   - WP3: Component Architecture (Luca De Feo)
@@ -45,9 +47,9 @@ on the project: aims, work packages, consortium.
   - WP6: Data/Knowledge/Software bases (Michael Kohlhase)
   - WP7: Social aspects (Alexander Konovalov? Steve Linton?)
 
-## 1pm: Lunch (CESFO Bures sur Yvette)
+## 4pm-4:30pm: Coffee break
 
-## 2pm-3:30pm: Software components and technology preview
+## 4:30pm-5:30pm: Software components and technology preview
 
 This session (and its follow-up on Thursday) will consist of lightning
 presentations (5 minutes) about various software components, sites,
@@ -60,7 +62,7 @@ development model.
 - SageMathCloud (Viviane Pons)
 - Jupyter (Min RK)
 - Simulagora, ... (Florent Cayré?)
-- LMFDB (John Cremona)
+- [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
 - Authorea?
 - TeXmacs?
@@ -88,9 +90,9 @@ development model.
 - Cython (Loïc Gouarin)
 - VisPy (Loïc Gouarin)
 
-## 3:30-4pm: Coffee break
+## 5:30pm-6pm: Brief projects planning
 
-## 4pm-6pm: Task presentations and projects planning
+See the [Projects and coding sprints page](/meetings/2015-09-02-Kickoff/projects).
 
 In this session, the main tasks of OpenDreamKit will be presented by
 their respective leaders. The goal is to attract attention and get
@@ -101,14 +103,26 @@ and coding sprints that will occur during the rest of the week.
 
 ## 8pm: Social dinner, at [Le Gramophone](http://www.legramophone.net/)
 
-# Thursday - Saturday: brainstorms and coding sprints
+# Thursday
 
 See the [Projects and coding sprints page](/meetings/2015-09-02-Kickoff/projects).
 
-## 9am-9:30am: Projects planning and progress report
+## 9am-10:30am: Software components and technology preview (2)
 
 ## 10:30pm: Coffee break
 
+## 10:30pm- brainstorms and coding sprints
+
 ## 13pm: Lunch (CESFO Moulon / Bures)
+
+## 4pm: Coffee break
+
+# Friday - Saturday: brainstorms and coding sprints
+
+## 9am: Status report and planning
+
+## 10:30pm: Coffee break
+
+## 13pm: Lunch (CESFO Bures)
 
 ## 4pm: Coffee break
