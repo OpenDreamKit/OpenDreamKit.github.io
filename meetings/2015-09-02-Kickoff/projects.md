@@ -7,6 +7,9 @@ Please edit!!!
 
 # Jupyter kernels for all interactive computation software
 
+
+Marcin 
+
 GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 
 Short presentation:
