@@ -54,7 +54,7 @@ development model.
 ### Collaborative workspaces
 
 - SageMathCloud (Viviane Pons)
-- [Jupyter](Software/Jupyter.pdf) (Min RK)
+- [Jupyter](Software/Jupyter.md) (Min RK)
 - Simulagora, ... (Florent Cayré?)
 - [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
