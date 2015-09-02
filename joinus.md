@@ -35,6 +35,9 @@ us. Loving math is a plus but not a necessity.
 
 # TU Kaiserslautern, Germany
 
-- [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
+- [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
+  starting in November 2015 for four years.
+
+- [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
   starting in March 2016 for one year.
 
