@@ -86,7 +86,7 @@ Logilab, Min, Florent, ... Friday
 
 ## Brainstorm about 3D Visualization: Thursday late afternoon
 
-Logilab, ...
+Logilab, USlaski (Marcin),...
 
 ## Continuous integration, building on various architecture, joint testing farm: Thursday early afternoon?
 
