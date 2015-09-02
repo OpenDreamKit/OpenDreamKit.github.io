@@ -105,7 +105,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - Alexander Konovalov, University of St Andrews
 - Marcin Kostur, University of Silesia
 - Samuel Lelièvre, Université Paris-Sud
-- Steve Linton, Steve Linton
+- Steve Linton, St Andrews
 - Ursula Martin, Oxford
 - Marco Mancini, Observatoire de Paris
 - Benoît Pilorget, Université Paris-Sud
