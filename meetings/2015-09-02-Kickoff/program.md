@@ -24,15 +24,6 @@ on the project: aims, work packages, consortium.
   - self-introduction of each participant (involvement in
     particular projects, specific expertise or interests).
 
-- 5 minute presentation of each work package by its leader
-
-  - WP2: Community building, Training, Dissemination, Outreach (Viviane Pons)
-  - WP3: Component Architecture (Luca De Feo)
-  - WP4: User Interfaces (Min Ragan-Kelley?)
-  - WP5: High Performance Mathematical Computing (Clément Pernet)
-  - WP6: Data/Knowledge/Software bases (Michael Kohlhase)
-  - WP7: Social aspects (Alexander Konovalov? Steve Linton?)
-
 - Administrative aspects (Eugenia, Benoît) (1 h)
 
   - Important administrative points: reporting, ... (10 min)
@@ -44,6 +35,15 @@ on the project: aims, work packages, consortium.
     committees (advisory board, ...), as per the proposal (20 min)
 
   - Planning of upcoming meetings
+
+- 5 minutes presentation of each work package by its leader
+
+  - WP2: Community building, Training, Dissemination, Outreach (Viviane Pons)
+  - WP3: Component Architecture (Luca De Feo)
+  - WP4: User Interfaces (Min Ragan-Kelley?)
+  - WP5: High Performance Mathematical Computing (Clément Pernet)
+  - WP6: Data/Knowledge/Software bases (Michael Kohlhase)
+  - WP7: Social aspects (Alexander Konovalov? Steve Linton?)
 
 ## 1pm: Lunch (CESFO Bures sur Yvette)
 
