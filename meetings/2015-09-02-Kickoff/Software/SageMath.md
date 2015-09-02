@@ -64,5 +64,5 @@ Official downloads, docs, etc.: <http://www.sagemath.org/>
 - Most interfaces to subsystems done via C/C++ library calls (in Cython wrappers);
 - Some leftovers of text-based interface to child instances of subsystems (e.g., interfaces to proprietary software);
 - Python/Cython library built on top of subsystem and/or native code;
-- Dynamic type system, dubbed *Category framework*, for *easy* scaffolding of mathematical objects.
-
+- Dynamic type system, dubbed *Category framework*, for *easy* scaffolding of mathematical objects;
+- Small preprocessor translating Sage language → Python.
