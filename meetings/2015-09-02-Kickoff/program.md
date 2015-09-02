@@ -17,23 +17,17 @@ on the project: aims, work packages, consortium.
 - Welcome and brief overview of OpenDreamKit (Nicolas Thiéry, 10 min)
 
 - Consortium (45 min)
-
   - 3 minute presentation of each site by its leader
     (main themes, expertise, resources, status of recruitement)
-
   - self-introduction of each participant (involvement in
     particular projects, specific expertise or interests).
 
 - Administrative aspects (Eugenia, Benoît) (1 h)
-
   - Important administrative points: reporting, ... (10 min)
-
   - Review and discussion of the main aspects of the Consortium
     Agreement (1/2 h)
-
   - Governance: choosing the members and chairs of the various
     committees (advisory board, ...), as per the proposal (20 min)
-
   - Planning of upcoming meetings
 
 ## 1pm: Lunch (CESFO Bures sur Yvette)
@@ -60,7 +54,7 @@ development model.
 ### Collaborative workspaces
 
 - SageMathCloud (Viviane Pons)
-- Jupyter (Min RK)
+- [Jupyter](Software/Jupyter.pdf) (Min RK)
 - Simulagora, ... (Florent Cayré?)
 - [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
@@ -69,11 +63,11 @@ development model.
 
 ### Computational components
 
-- GAP (Steve Linton)
+- [GAP](Software/GAP.pdf) (Steve Linton)
 - Linbox (Clément Pernet)
 - Mathemagix (Marc Mezzaroba?)
 - MPIR (William Hart)
-- Singular (Wolfram)
+- [Singular](Software/Singular.pdf) (Wolfram)
 - Giac/XCas (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
 - Sage (Luca De Feo)
@@ -84,8 +78,8 @@ development model.
 - SCSCP/OpenMath/... (Alexander Konovalov)
 - OMDoc/MMT (Florian Rabe)
 - Sphinx (Florent Hivert)
-- Docker images for math software (Sebastian Gutsche)
-- Pythran (Serge Guelton)
+- [Docker images for math software](Software/Docker.pdf) (Sebastian Gutsche)
+- [Pythran](Software/Pythran.pdf) (Serge Guelton)
 - Cilk (Florent Hivert)
 - Cython (Loïc Gouarin)
 - VisPy (Loïc Gouarin)
