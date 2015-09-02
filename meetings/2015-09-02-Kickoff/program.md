@@ -54,7 +54,7 @@ development model.
 ### Collaborative workspaces
 
 - SageMathCloud (Viviane Pons)
-- [Jupyter](Software/Jupyter.md) (Min RK)
+- [Jupyter](../Software/Jupyter.md) (Min RK)
 - Simulagora, ... (Florent Cayré?)
 - [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
@@ -63,11 +63,11 @@ development model.
 
 ### Computational components
 
-- [GAP](Software/GAP.pdf) (Steve Linton)
+- [GAP](../Software/GAP.pdf) (Steve Linton)
 - Linbox (Clément Pernet)
 - Mathemagix (Marc Mezzaroba?)
 - MPIR (William Hart)
-- [Singular](Software/Singular.pdf) (Wolfram)
+- [Singular](../Software/Singular.pdf) (Wolfram)
 - Giac/XCas (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
 - Sage (Luca De Feo)
@@ -78,8 +78,8 @@ development model.
 - SCSCP/OpenMath/... (Alexander Konovalov)
 - OMDoc/MMT (Florian Rabe)
 - Sphinx (Florent Hivert)
-- [Docker images for math software](Software/Docker.pdf) (Sebastian Gutsche)
-- [Pythran](Software/Pythran.pdf) (Serge Guelton)
+- [Docker images for math software](../Software/Docker.pdf) (Sebastian Gutsche)
+- [Pythran](../Software/Pythran.pdf) (Serge Guelton)
 - Cilk (Florent Hivert)
 - Cython (Loïc Gouarin)
 - VisPy (Loïc Gouarin)
