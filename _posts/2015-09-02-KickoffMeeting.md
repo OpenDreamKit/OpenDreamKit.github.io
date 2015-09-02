@@ -101,6 +101,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - William Hart, University of Kaiserslautern
 - Konrad Hinsen, CNRS
 - Florent Hivert, Université Paris-Sud
+- Vincent Knight, Cardiff University
 - Michael Kohlhase, Jacobs University Bremen
 - Alexander Konovalov, University of St Andrews
 - Marcin Kostur, University of Silesia
