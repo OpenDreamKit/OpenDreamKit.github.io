@@ -7,8 +7,7 @@ Please edit!!!
 
 # Jupyter kernels for all interactive computation software
 
-
-Marcin 
+Marcin, Sebastian, Min, Alexander, Markus, Jeroen
 
 GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 
@@ -18,19 +17,23 @@ Short presentation:
 
 # Exploring and further documenting SageMathCloud internals
 
-# Component architecture
+SD 70
+
+# Component architecture (Friday?)
 
 Potential targets:
 
+- Semantic interfaces
+- Catalog of interfaces
 - Docker containers for all computational software?
 - Fix the remaining issues for Sage in Docker
 - ...
 
-# HPC Brainstorm
+# HPC Brainstorm: Thursday afternoon
 
 Short presentations:
 
-- Pythran (Serge Guelton)
+- Pythran (Serge Guelton: done)
 - Parallel computing in Giac & XCas (Frédéric Han)
 - MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectures
   linear algebra (Marc Baboulin, on Thursday)
@@ -40,8 +43,8 @@ Short presentations:
 
 ## Setup of the various boards and rules
 
-- Small group discussion Wednesday 7pm
-- Synthesis and discussion with Eugenia and all participants
+- Small group discussion Wednesday 7pm John, Nicolas, Viviane, Michael, Steve, Wolfram
+- Synthesis and discussion with Eugenia and all participants: Thursday morning
 
 ## Preliminary workshop planning for each workpackage
 
@@ -51,7 +54,9 @@ Short presentations:
 
 - Risk Management and Quality Insurance Plan (preliminary thoughts)
 
-## Collaborative tools for OpenDreamKit
+## Collaborative tools for OpenDreamKit Thursday early afternoon
+
+Nicolas, Hans, Luca, Michael, ...
 
 - Communication: mailing lists? Gitter? slack? OpenPaas?
 - Private repositories
@@ -61,7 +66,7 @@ Short presentations:
   being just a link to some tracker elsewhere (e.g. Sage's trac
   server)
 
-## Communication
+## Communication Thursday afternoon
 
 - Website
   Any significant change needed?
@@ -71,4 +76,19 @@ Short presentations:
   - ...
 
 - Logo
-- 5-slide presentation of OpenDreamKit
+- 5-slide presentation of OpenDreamKit (Friday)
+
+## Brainstorm about Sphinx in Sage
+
+## Brainstorm about structured documents
+
+Logilab, Min, Florent, ... Friday
+
+## Brainstorm about 3D Visualization: Thursday late afternoon
+
+Logilab, ...
+
+## Continuous integration, building on various architecture, joint testing farm: Thursday early afternoon?
+
+Jeroen, Alexander, Jean-Pierre
+
