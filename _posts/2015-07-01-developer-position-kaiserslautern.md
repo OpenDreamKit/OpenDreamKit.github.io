@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Full-time developer position at TU Kaiserslautern for 1 year beginning March 2016
+title: Full-time mathematical researcher and developer position at TU Kaiserslautern for up to four years beginning November 2015
 ---
 
-We are seeking a full-time developer at TU Kaiserslautern to work with Dr. William Hart on the MPIR [http://mpir.org/](http://mpir.org/) bignum library.
+We are seeking a full-time mathematical researcher and developer at TU Kaiserslautern to work with Prof. Wolfram Decker on the Singular contribution to the OpenDreamKit project.
 
 # Location
 
@@ -11,23 +11,23 @@ The developer will work at TU Kaiserslautern in the city of Kaiserslautern Germa
 
 # Mission
 
-To help maintain the MPIR library as part of the OpenDreamKit collaboration, in particular to enhance the performance and portability of the library.
+To work as part of the OpenDreamKit collaboration, to do research on and implement improvements via parallelisation of components of Singular.
 
 # Activities
 
-The successful applicant will develop an assembly superoptimiser for x86_64 architectures, develop assembly improvements of low-level routines which make use of the AVX instruction sets and help with maintenance of the MPIR build system, especially to support recent processors.
+To research and implement parallel algorithms in Singular in C/C++.
 
-Depending on the skills of the applicant, the developer may also wish to contribute to higher level C implementations of bignum operations.
+Depending on the skills of the applicant, the developer may also wish to contribute to other aspects of the Singular project and mathematical research in Kaiserslautern.
 
 # Skills requirements
 
-- Assembly language experience
+- C/C++ programming experience
 
-- Experience in low-level optimisation
+- Experience in computer algebra
 
 - Fluency in English
 
-- Must have an undergraduate degree in Mathematics, Computer Science, Computer Engineering or equivalent.
+- Must have an graduate degree in Mathematics.
 
 - Experience in Open Source development and tooling
 
@@ -61,7 +61,6 @@ about 7.6 million euros.
 
 # Expressions of interest
 
-Interested candidates should send an email to goodwillhart at googlemail.com for further information about the position.
+Interested candidates should send an email to decker {at} mathematik dot uni-kl dot de for further information about the position.
 
-Formal application and salary details will be posted later when we have established the existence of a pool of suitable candidates.
 
