@@ -56,6 +56,11 @@ Short presentations:
 ## Communication
 
 - Website
-  Any significant change needed? Links to the task tracker?
+  Any significant change needed?
+  - Links to the task tracker?
+  - List of the different sites and people
+    with links to the presentations during the Kickoff
+  - ...
+
 - Logo
 - 5-slide presentation of OpenDreamKit
