@@ -37,8 +37,8 @@ Short presentations:
 
 ## Setup of the various boards and rules
 
-   - Small group discussion Wednesday 7pm
-   - Synthesis and discussion with Eugenia and all participants
+- Small group discussion Wednesday 7pm
+- Synthesis and discussion with Eugenia and all participants
 
 ## Preliminary workshop planning for each workpackage
 
