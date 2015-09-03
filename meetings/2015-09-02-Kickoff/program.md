@@ -68,7 +68,7 @@ development model.
 - Mathemagix (Marc Mezzaroba?)
 - MPIR (William Hart)
 - [Singular](../Software/Singular.pdf) (Wolfram)
-- Giac/XCas (Frédéric Han; on Thursday)
+- [Giac/XCas](../Software/giac-general.pdf) (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
 - [SageMath](../Software/SageMath.md) (Luca De Feo)
 - [OOMMF](../Software/OOMMF.pdf) (Hans Fangohr)
