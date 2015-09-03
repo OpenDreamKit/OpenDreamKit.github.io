@@ -54,7 +54,7 @@ Short presentations:
 
 - Risk Management and Quality Insurance Plan (preliminary thoughts)
 
-## Collaborative tools for OpenDreamKit Thursday early afternoon
+## Collaborative tools for OpenDreamKit: Thursday over lunch
 
 Nicolas, Hans, Luca, Michael, ...
 
@@ -65,15 +65,30 @@ Nicolas, Hans, Luca, Michael, ...
   Systematically open an issue on OpenDreamKit's github repo, possibly
   being just a link to some tracker elsewhere (e.g. Sage's trac
   server)
+  - How to make lists of all tasks?
+  - Could we create the issues automatically from the proposal?
+  - Do we want a separate repo just for the tasks? Or per work package?
+  - TODO: create an issue for doing this, and assign this to Benoit
 
-## Communication Thursday afternoon
+## Communication: Thursday early afternoon
 
 - Website
   Any significant change needed?
-  - Links to the task tracker?
+  - Links to the task/deliverable tracker?
   - List of the different sites and people
     with links to the presentations during the Kickoff
   - ...
+  - List of meetings / meetings web pages, slides
+  - TODO: add in README.md links to Jekyll's documentation
+  - List of software?
+  - List of mailing lists on the contact page
+  - TODO: integrate twitter feed?
+  - How do we do analytics?
+  - Hosting a machine?
+    Use cases: analytics, private github/gitlab
+  - Fonts
+- In the OpenDreamKit main repo:
+  - Guidelines on how we want to work
 
 - Logo
 - 5-slide presentation of OpenDreamKit (Friday)
@@ -92,3 +107,18 @@ Logilab, USlaski (Marcin),...
 
 Jeroen, Alexander, Jean-Pierre
 
+
+
+Coffee break:
+- HPC discussion (workshops, ...)
+  HPC for multivariate polynomials!
+- Continuous integration
+- Website
+
+After:
+- Jupyter kernels (other room)
+- 3D visualization (here)
+
+Friday:
+- WP6
+- 

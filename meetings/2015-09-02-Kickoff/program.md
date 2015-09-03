@@ -68,14 +68,14 @@ development model.
 - Mathemagix (Marc Mezzaroba?)
 - MPIR (William Hart)
 - [Singular](../Software/Singular.pdf) (Wolfram)
-- [Giac/XCas](../Software/giac-general.pdf) (Frédéric Han; on Thursday)
+- [Giac/XCas](../Software/giac-general.pdf) [HPC in Giac/XCas](../Software/giac-polynomials.pdf) (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
 - [SageMath](../Software/SageMath.md) (Luca De Feo)
 - [OOMMF](../Software/OOMMF.pdf) (Hans Fangohr)
 
 ### Technology
 
-- SCSCP/OpenMath/... (Alexander Konovalov)
+- [SCSCP](../Software/scscp_demo.txt) (Alexander Konovalov)
 - OMDoc/MMT (Florian Rabe)
 - Sphinx (Florent Hivert)
 - [Docker images for math software](../Software/Docker.pdf) (Sebastian Gutsche)
@@ -101,15 +101,15 @@ and coding sprints that will occur during the rest of the week.
 
 See the [Projects and coding sprints page](/meetings/2015-09-02-Kickoff/projects).
 
-## 9am-10:30am: Software components and technology preview (2)
+## 9am-15am: Software components and technology preview (2)
 
 ## 10:30pm: Coffee break
-
-## 10:30pm- brainstorms and coding sprints
 
 ## 13pm: Lunch (CESFO Moulon / Bures)
 
 ## 4pm: Coffee break
+
+## 4:30pm-: Coding sprints: Jupyter kernels, 3D visualization
 
 # Friday - Saturday: brainstorms and coding sprints
 
