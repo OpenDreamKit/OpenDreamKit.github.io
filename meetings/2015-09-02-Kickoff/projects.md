@@ -7,6 +7,8 @@ Please edit!!!
 
 # Jupyter kernels for all interactive computation software
 
+Time: Thursday evening, ...
+
 Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
 
 GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
@@ -17,7 +19,7 @@ Presentation:
 
 # WP6: Friday morning
 
-Semantic interfaces
+- Semantic interfaces
 
 # Component architecture (Friday?)
 
@@ -42,7 +44,9 @@ Short presentations:
 
 ## Management structure
 
-Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wolfram
+Time: Wednesday: 7pm
+
+Participants: John, Nicolas, Michael, Steve, Wolfram, ...
 
 [Notes](../management_structure)
 
@@ -54,13 +58,17 @@ Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wo
 
 - Risk Management and Quality Insurance Plan (preliminary thoughts)
 
-## Infrastructure and collaborative tools for OpenDreamKit: Thursday over lunch
+## Infrastructure and collaborative tools for OpenDreamKit
+
+Time: Thursday over lunch
 
 [Notes](../infrastructure)
 
-## Communication:
+## Communication
 
-- Website TODO (Thursday afternoon break)
+Time: Thursday afternoon's coffee break
+
+- Website TODO
 
   - Links to the task/deliverable tracker?
   - List of the different sites and people
@@ -94,11 +102,15 @@ Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wo
 
 Logilab, Min, Florent, ... Friday
 
-## Brainstorm about 3D Visualization: Thursday late afternoon
+## Brainstorm about 3D Visualization
+
+Time: Thursday late afternoon
 
 Logilab, USlaski (Marcin),...
 
-## Continuous integration, building on various architecture, joint testing farm (Thursday afternoon break)
+## Continuous integration, building on various architecture, joint testing farm
+
+Time: Thursday afternoon's break
 
 Jeroen, Alexander, Jean-Pierre
 
