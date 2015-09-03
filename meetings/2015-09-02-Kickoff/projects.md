@@ -44,7 +44,7 @@ Short presentations:
 
 Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wolfram
 
-[Notes](../management_structure.md)
+[Notes](../management_structure)
 
 ## Preliminary workshop planning for each workpackage
 
@@ -56,7 +56,7 @@ Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wo
 
 ## Infrastructure and collaborative tools for OpenDreamKit: Thursday over lunch
 
-[Notes](../infrastructure.md)
+[Notes](../infrastructure)
 
 ## Communication:
 
