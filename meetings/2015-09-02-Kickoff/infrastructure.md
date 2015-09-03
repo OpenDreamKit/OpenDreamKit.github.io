@@ -92,5 +92,6 @@ Nicolas, Hans, Luca, Michael, ...
 # Hosting a machine for ODK?
 
 Use cases:
+
 - website analytics
 - private github/gitlab

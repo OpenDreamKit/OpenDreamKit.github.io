@@ -113,7 +113,3 @@ Logilab, USlaski (Marcin),...
 Time: Thursday afternoon's break
 
 Jeroen, Alexander, Jean-Pierre
-
-Friday:
-- WP6
-- 
