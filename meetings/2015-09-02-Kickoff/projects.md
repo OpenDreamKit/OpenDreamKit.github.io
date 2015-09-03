@@ -7,29 +7,28 @@ Please edit!!!
 
 # Jupyter kernels for all interactive computation software
 
-Marcin, Sebastian, Min, Alexander, Markus, Jeroen
+Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
 
 GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
 
-Short presentation:
+Presentation:
 
 - Jupyter architecture and how to write kernels (Min RK)
 
-# Exploring and further documenting SageMathCloud internals
+# WP6: Friday morning
 
-SD 70
+Semantic interfaces
 
 # Component architecture (Friday?)
 
 Potential targets:
 
-- Semantic interfaces
 - Catalog of interfaces
 - Docker containers for all computational software?
 - Fix the remaining issues for Sage in Docker
 - ...
 
-# HPC Brainstorm: Thursday afternoon
+# HPC:
 
 Short presentations:
 
@@ -43,8 +42,7 @@ Short presentations:
 
 ## Setup of the various boards and rules
 
-- Small group discussion Wednesday 7pm John, Nicolas, Viviane, Michael, Steve, Wolfram
-- Synthesis and discussion with Eugenia and all participants: Thursday morning
+Small group discussion Wednesday: 7pm John, Nicolas, Viviane, Michael, Steve, Wolfram
 
 ## Preliminary workshop planning for each workpackage
 
@@ -54,44 +52,39 @@ Short presentations:
 
 - Risk Management and Quality Insurance Plan (preliminary thoughts)
 
-## Collaborative tools for OpenDreamKit: Thursday over lunch
+## Infrastructure and collaborative tools for OpenDreamKit: Thursday over lunch
 
-Nicolas, Hans, Luca, Michael, ...
+[Notes](infrastructure.md)
 
-- Communication: mailing lists? Gitter? slack? OpenPaas?
-- Private repositories
-- Live collaboration: framapad, hubl.in, whiteboard, ...
-- How do we want to track progress on the various tasks?
-  Systematically open an issue on OpenDreamKit's github repo, possibly
-  being just a link to some tracker elsewhere (e.g. Sage's trac
-  server)
-  - How to make lists of all tasks?
-  - Could we create the issues automatically from the proposal?
-  - Do we want a separate repo just for the tasks? Or per work package?
-  - TODO: create an issue for doing this, and assign this to Benoit
+## Communication:
 
-## Communication: Thursday early afternoon
+- Website TODO (Thursday afternoon break)
 
-- Website
-  Any significant change needed?
   - Links to the task/deliverable tracker?
   - List of the different sites and people
     with links to the presentations during the Kickoff
-  - ...
-  - List of meetings / meetings web pages, slides
-  - TODO: add in README.md links to Jekyll's documentation
+  - List of meetings / meetings web pages
+  - add in README.md links to Jekyll's documentation
   - List of software?
   - List of mailing lists on the contact page
-  - TODO: integrate twitter feed?
+  - Integrate twitter feed?
   - How do we do analytics?
-  - Hosting a machine?
-    Use cases: analytics, private github/gitlab
   - Fonts
-- In the OpenDreamKit main repo:
-  - Guidelines on how we want to work
+  - Add three entry points:
+    - "For mathematicians"
+    - "For developers"
+    - "For participants"
+
+    The two first would contain analogs of the "five pages intro"
+
+    The later would contain Guidelines on how we want to work
+
+  - Shorten the main intro
 
 - Logo
+
 - 5-slide presentation of OpenDreamKit (Friday)
+  Convert to slideshow markdown
 
 ## Brainstorm about Sphinx in Sage
 
@@ -103,21 +96,9 @@ Logilab, Min, Florent, ... Friday
 
 Logilab, USlaski (Marcin),...
 
-## Continuous integration, building on various architecture, joint testing farm: Thursday early afternoon?
+## Continuous integration, building on various architecture, joint testing farm (Thursday afternoon break)
 
 Jeroen, Alexander, Jean-Pierre
-
-
-
-Coffee break:
-- HPC discussion (workshops, ...)
-  HPC for multivariate polynomials!
-- Continuous integration
-- Website
-
-After:
-- Jupyter kernels (other room)
-- 3D visualization (here)
 
 Friday:
 - WP6
