@@ -11,13 +11,26 @@ It was decided to:
 - Use ODK's github organisation for most public ODK specific
   infrastructure
 
-- Create one repository per workpackage?
+- Create one repository per workpackage? Or just one label?
 
 - Create a public issue on github per task and per deliverable, to
   track the progress and run design discussions.
 
   Possibly this can be automatized using Min's scripts and the
   metadata produced in proposal-www.pdata.
+
+  Two options: include the original task text in the proposal, or just
+  point to it.
+
+  Whenever natural, the issue and discussion should be created in the
+  issue tracker of the relevant software, with just a minimal issue on
+  github containing a pointer.
+
+- Any trick to cross reference tasks and deliverables?
+
+- Use labels to mark tasks/deliverables/workpackages
+
+- Use milestones
 
 - Create specific repositories for actions that require access
   management (e.g. storing personal data about the recruitement of a person).
