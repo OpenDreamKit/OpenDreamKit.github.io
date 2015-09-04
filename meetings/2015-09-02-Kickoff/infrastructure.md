@@ -3,7 +3,7 @@ layout: subpage
 title: Kickoff meeting, infrastructure
 ---
 
-It was decided to:
+# General recommendations
 
 - Use existing infrastructure whenever possible (e.g. Sage's trac
   server), and in particular when contributing to existing software.
@@ -11,13 +11,28 @@ It was decided to:
 - Use ODK's github organisation for most public ODK specific
   infrastructure
 
-- Create one repository per workpackage? Or just one label?
+# Mailing lists
+
+- Create mailing lists for all information that requires all person in
+  a given body to be informed.
+
+  - participants@opendreamkit.org      (public, archived)
+  - community@opendreamkit.org         (public, archived)
+  - coordination@opendreamkit.org (private)
+  - advisory@opendreamkit.org    (private)
+  - steering@opendreamkit.org (private)
+  - coordinator@opendreamkit.org       (private, coordinator, coordinator deputy, manager)
+
+- Make sure any private information is PGP encrypted, especially given
+  that some of us use gmail.
+
+# Progress tracking on tasks, deliverables, ...
 
 - Create a public issue on github per task and per deliverable, to
   track the progress and run design discussions.
 
-  Possibly this can be automatized using Min's scripts and the
-  metadata produced in proposal-www.pdata.
+  Automatized using Min's scripts and the metadata produced in
+  proposal-www.pdata.
 
   Two options: include the original task text in the proposal, or just
   point to it.
@@ -32,6 +47,8 @@ It was decided to:
 
 - Use milestones
 
+# Other repositories
+
 - Create specific repositories for actions that require access
   management (e.g. storing personal data about the recruitement of a person).
 
@@ -41,6 +58,7 @@ It was decided to:
 
   - Hosting personal data on the cloud?
   - What happens after the end of the project?
+  - Administratively possible?
 
   Alternative: host our own gitlab repository.
 
@@ -49,45 +67,31 @@ It was decided to:
   - What happens after the end of the project?
   - Less homogeneous user interfaces
 
-- Use the OpenDreamKit repo OpenDreamKit.github.io/meetings/<date> to
-  host the web page and public documents about each meeting
+# Workshop organisation
 
-- Create mailing lists for all information that requires all person in
-  a given body to be informed.
+Create one issue to discuss the organization of the workshop (choosing
+the date, ...).
 
-  - participants@opendreamkit.org      (public, archived)
-  - community@opendreamkit.org         (public, archived)
-  - coordination_team@opendreamkit.org (private)
-  - advisory_board@opendreamkit.org    (private)
-  - steering_commitee@opendreamkit.org (private)
-  - coordinator@opendreamkit.org       (private, coordinator, coordinator deputy, manager)
+Send a first mail to participants@opendreamkit.org /
+communit@opendreamkit.org announcing the plan to organize the
+workshop.
 
-- Make sure any private information is PGP encrypted, especially given
-  that some of us use gmail.
+Send a second mail when the date is fixed.
+
+Use the OpenDreamKit repo OpenDreamKit.github.io/meetings/<date> to
+host the web page and public documents about each meeting.
 
 # Recommendations
 
-- Use gitter for chat
+- gitter for chat
 
-- Use Hubl.in for video conferences
+- appear.in / hubl.in for video conferences
 
-- Use Framapad for temporary collaborative text editing
+- Framapad for temporary collaborative text editing
 
-- Use adoodle.org for anonymous votes
+- adoodle.org for anonymous votes
 
-Nicolas, Hans, Luca, Michael, ...
-
-- Communication: mailing lists? Gitter? slack? OpenPaas?
-- Private repositories
-- Live collaboration: framapad, hubl.in, whiteboard, ...
-- How do we want to track progress on the various tasks?
-  Systematically open an issue on OpenDreamKit's github repo, possibly
-  being just a link to some tracker elsewhere (e.g. Sage's trac
-  server)
-  - How to make lists of all tasks?
-  - Could we create the issues automatically from the proposal?
-  - Do we want a separate repo just for the tasks? Or per work package?
-  - TODO: create an issue for doing this, and assign this to Benoit
+- whiteboard?
 
 # Hosting a machine for ODK?
 

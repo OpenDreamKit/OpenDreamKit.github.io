@@ -11,11 +11,13 @@ Time: Thursday evening, ...
 
 Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
 
-GAP, Singular, Pari/GP, Linbox+CLING?, XCAS?, ...
+- Presentation: Jupyter architecture and how to write kernels (Min RK)
+- GAP (Markus)
+- Singular (Sebastian)
+- Pari/GP (Jeroen)
+- CLING ?
 
-Presentation:
-
-- Jupyter architecture and how to write kernels (Min RK)
+- Other? Linbox+CLING?, XCAS?, ...
 
 # WP6: Friday morning
 
@@ -94,6 +96,7 @@ Time: Thursday afternoon's coffee break
 - Logo
 
 - 5-slide presentation of OpenDreamKit (Friday)
+
   Convert to slideshow markdown
 
 ## Brainstorm about Sphinx in Sage

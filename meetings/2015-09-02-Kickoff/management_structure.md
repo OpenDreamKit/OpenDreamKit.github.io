@@ -28,7 +28,7 @@ Composition: as originaly planned: Coordinator + site leaders
 Grenoble: Clement.Pernet
 Oxford: Dima Pasechnik
 Southhampton: Hans Fangohr
-Simula: Hans-Petter Langtangen
+Simula: Hans-Petter Langtangen?
 Warwick: John Cremona
 UVSQ: Luca De Feo
 Silesia: Marcin Kostur
