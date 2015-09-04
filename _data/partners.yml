@@ -1,0 +1,107 @@
+sites:
+  - name: Université Paris-Sud
+    logo: UPSud.png
+    homepage: 'http://www.u-psud.fr'
+    members:
+      - name: Nicolas Thiéry
+      - name: Viviane Pons
+      - name: Florent Hivert
+      - name: Samuel Lelièvre
+      - name: Loïc Gouarin
+  - name: Laboratoire Bordelais de Recherche en Informatique
+    logo: LaBRI-low.png
+    homepage: 'http://www.labri.fr/'
+    members:
+      - name: Vincent Delecroix
+      - name: Karim Belabas
+      - name: Bill Allombert
+      - name: Adrien Boussicault
+  - name: Université Joseph Fourier
+    logo: Logo-UJF.svg
+    homepage: 'https://www.ujf-grenoble.fr'
+    members:
+      - name: Clément Pernet
+      - name: Jean-Guillaume Dumas
+      - name: Pierrick Brunet
+  - name: University of Kaiserslautern
+    members:
+      - name: Prof. Dr. Wolfram Decker
+  - name: University of Oxford
+    logo: ox_brand.png
+    homepage: 'http://www.ox.ac.uk'
+    members:
+      - name: Ursula Martin
+      - name: Edith Elkind
+      - name: Dimitrii Pasechnik
+  - name: University of Sheffield
+    members:
+      - name: Neil Lawrence
+      - name: Michael Croucher
+  - name: University of Silesia
+    logo: US.png
+    homepage: 'http://english.us.edu.pl/'
+    members:
+      - name: Marcin Kostur
+      - name: Jerzy Łuczka
+      - name: Jan Aksamit
+  - name: University of Southampton
+    logo: University-of-Southampton.png
+    homepage: 'http://www.southampton.ac.uk'
+    members:
+      - name: Hans Fangohr
+      - name: Ian Hawke
+  - name: University of St Andrews
+    logo: USTAN_logo.png
+    homepage: 'https://www.st-andrews.ac.uk/'
+    members:
+      - name: Steve Lindon
+      - name: Alexander Konovalov
+      - name: Markus Pfeiffer
+  - name: Jacobs University Bremen
+    logo: jacobs-logo.png
+    homepage: 'http://www.jacobs-university.de/'
+    members:
+      - name: Michael Kohlhase
+      - name: Florian Rabe
+      - name: Christian Maeder
+      - name: Mihnea Iancu
+  - name: Université de Versailles – Saint-Quentin-en-Yvelines
+    logo: uvsq.jpg
+    homepage: 'http://www.uvsq.fr'
+    members:
+      - name: Luca De Feo
+        homepage: http://defeo.lu/
+        github: defeo
+        twitter: luca_defeo
+      - name: Nicolas Gama
+        homepage: 'http://gama.nicolas.free.fr/'
+  - name: University of Warwick
+    logo: UofW.png
+    homepage: 'http://www2.warwick.ac.uk/'
+    members:
+      - name: John E. Cremona
+  - name: Universität Zurich
+    logo: University_of_Zurich_Logo.svg
+    homepage: 'http://www.uzh.ch'
+    members:
+      - name: Paul-Olivier Dehaye
+  - name: Logilab
+    logo: logilab.png
+    homepage: 'https://www.logilab.fr'
+    members:
+      - name: Florent Cayré
+      - name: Olivier Cayrol
+      - name: David Douard
+      - name: Julien Cristau
+      - name: Serge Guelton
+  - name: Simula Research Laboratory
+    logo: simula.png
+    homepage: 'https://www.simula.no'
+    members:
+      - name: Hans Petter Langtangen
+      - name: Min Ragan-Kelley
+      
+partners:
+  - name: CNRS
+    logo: CNRS.svg
+    homepage: 'http://www.cnrs.fr'

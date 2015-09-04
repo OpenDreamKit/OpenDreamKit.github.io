@@ -1,0 +1,38 @@
+---
+layout: page
+title: Partners
+---
+
+{% assign sites = site.data.partners.sites | sort: 'name' %}
+<div id="sites">
+{% for s in sites %}
+<div class="site">  
+<h4><img class="icon" src="http://www.google.com/s2/favicons?domain_url={{ s.homepage }}" alt="">
+  <a href="{{ s.homepage }}" target="_blank">{{ s.name }}</a></h4>
+<ul>
+  {% for m in s.members %}
+  <li>
+    {% if m.homepage %}<a href="{{ m.homepage }}" target="_blank">{% endif %}
+      {{ m.name }}
+      {% if m.homepage %}</a>{% endif %}
+    {% if m.github %}
+    <a href="https://github.com/{{ m.github }}" target="_blank"><img class="icon" src="../public/github.png" alt="@{{ m.github }}"></a>
+    {% endif %}
+    {% if m.twitter %}
+    <a href="https://twitter.com/@{{ m.twitter }}" target="_blank"><img class="icon" src="../public/twitter.png" alt="@{{ m.twitter }}"></a>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+</div>
+{% endfor %}
+</div>
+
+<div id="logos">
+  {% for s in site.data.partners.sites %}
+  <a href="{{ s.homepage }}"><img src="../public/logos/{{ s.logo }}" alt="{{ s.name }}"></a>
+  {% endfor %}
+  {% for s in site.data.partners.partners %}
+  <a href="{{ s.homepage }}"><img src="../public/logos/{{ s.logo }}" alt="{{ s.name }}"></a>
+  {% endfor %}
+</div>

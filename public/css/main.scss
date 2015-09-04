@@ -9,3 +9,24 @@ img.icon {
     max-height: 0.8em;
     vertical-align: baseline;
 }
+
+#sites {
+    display: flex;
+    flex-flow: row wrap;
+    .site {
+	min-width: 35ex;
+	flex: 1 1 50%;
+    }
+}
+
+#logos {
+    margin-top: 4em;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+    a {
+	margin: 10px;
+	img { height: 60px; }
+    }
+}
