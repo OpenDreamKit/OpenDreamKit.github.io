@@ -109,7 +109,10 @@ Logilab, Min, Florent, ... Friday
 
 Time: Thursday late afternoon
 
-Logilab, USlaski (Marcin),...
+Logilab, University of Silesia, 
+
+ - USilesia, starts building a javascript library for static and dynamic (i.e. communication with python objects as ipywidgets do) data visualization in the Jupyter notebook. The project will deliver a first version in December 2015. It will be based on threejs.  
+ - in the meantime there will be technology review done (Logilab) for alternative rendering solution. We mentioned using webgl natively, vispy, and paraview.
 
 ## Continuous integration, building on various architecture, joint testing farm
 

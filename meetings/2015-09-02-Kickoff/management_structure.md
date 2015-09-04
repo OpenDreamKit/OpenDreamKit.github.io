@@ -71,8 +71,8 @@ Composition: as planned
 
 It was decided upon the following voting rules
 
-- ``Easy questions'': 2/3rd of quorum, with quorum = 2/3rd of the whole group
-- ``Hard questions'': 3/4th of quorum, with quorum = 3/4th of the whole group
+- ``Easy questions'': 2/3 of represented members, with quorum = 2/3 of the whole set of members
+- ``Hard questions'': 3/4 of represented members, with quorum = 3/4 of the whole set of members
 
 Electronic vote are allowed, typically using adoodle.org
 
@@ -81,6 +81,7 @@ Definition of hard questions:
 - Large changes to the budget (>= 100k euros?)
 - Evolution to the consortium (as listed on the slide)
 - Firing the coordinator
+- Resolving ambiguity about whether something is a hard question
 
 Everything else -- including choosing a new coordinator in case of
 uncapacity -- is considered ``easy''.
