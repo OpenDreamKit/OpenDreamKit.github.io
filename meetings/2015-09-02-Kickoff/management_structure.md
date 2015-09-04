@@ -71,8 +71,8 @@ Composition: as planned
 
 It was decided upon the following voting rules
 
-- ``Easy questions'': 2/3rd of members present, with quorum = 2/3rd of the whole set of members
-- ``Hard questions'': 3/4th of members present, with quorum = 3/4th of the whole set of members
+- ``Easy questions'': 2/3 of represented members, with quorum = 2/3 of the whole set of members
+- ``Hard questions'': 3/4 of represented members, with quorum = 3/4 of the whole set of members
 
 Electronic vote are allowed, typically using adoodle.org
 
