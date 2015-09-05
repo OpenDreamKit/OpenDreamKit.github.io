@@ -92,3 +92,10 @@ used? The overhead is probably reasonably negligible.
     - as text-based interpreter
   - What software to start (when relevant): GAP, Singular, ...
   This could be snippet
+
+# Existing docker images
+- Dockerimage of the SPP Computeralgebra, contains GAP, Normaliz, Polymake, Singular, 4ti2: [sebasguts/sppdocker](https://hub.docker.com/r/sebasguts/sppdocker/)
+- Dockerimage for GAP and dependencies, contains GAP, Pari/GP, Polymake, Singular, 4ti2: [gapsystem/gap-docker](https://hub.docker.com/r/gapsystem/gap-docker/)
+- Official Dockerimage for Sage: [sagemath/sage](https://hub.docker.com/r/sagemath/sage/)
+- Dockerimage for Sage: [cornu/docker-sage](https://hub.docker.com/r/cornu/docker-sage/)
+- Dockerimage for Sage: [swenson/sage](https://hub.docker.com/r/swenson/sage/)
