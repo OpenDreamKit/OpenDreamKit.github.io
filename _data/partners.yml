@@ -3,7 +3,9 @@ sites:
     logo: UPSud.png
     homepage: 'http://www.u-psud.fr'
     members:
-      - name: Nicolas Thiéry
+      - name: Nicolas M. Thiéry
+        homepage: 'http://Nicolas.Thiery.name'
+        roles: coordinator
       - name: Viviane Pons
       - name: Florent Hivert
       - name: Samuel Lelièvre
