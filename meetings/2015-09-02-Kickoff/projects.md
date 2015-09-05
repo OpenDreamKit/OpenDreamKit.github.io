@@ -32,6 +32,10 @@ Potential targets:
 - Fix the remaining issues for Sage in Docker
 - ...
 
+## Consistent docker containers for all software components
+
+[Notes](../docker)
+
 # HPC:
 
 Short presentations:
