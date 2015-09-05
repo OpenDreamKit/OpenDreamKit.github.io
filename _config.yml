@@ -22,3 +22,30 @@ author:
 
 # Custom vars
 version:             0.2.0
+
+# Prose.io configuration
+prose:
+  editurl: "http://prose.io/#OpenDreamKit/OpenDreamKit.github.io/edit/master"
+  siteurl: "http://opendreamkit.org"
+  ignore:
+    - .gitignore
+    - _config.yml
+    - Gemfile
+    - CNAME
+    - LICENSE.md
+    - atom.xml
+    - index.md
+    - 404.html
+    - partners.html
+    - news
+    - public
+    - _layouts
+    - _includes
+    - _data
+  metadata:
+    _posts:
+      - name: layout
+        field:
+          element: hidden
+          value: post
+          
