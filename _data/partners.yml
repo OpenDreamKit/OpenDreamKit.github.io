@@ -6,6 +6,7 @@ sites:
       - name: Nicolas M. Thiéry
         homepage: 'http://Nicolas.Thiery.name'
         roles: coordinator
+        github: nthiery
       - name: Viviane Pons
       - name: Florent Hivert
       - name: Samuel Lelièvre
