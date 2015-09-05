@@ -32,7 +32,7 @@ sites:
     members:
       - name: Ursula Martin
       - name: Edith Elkind
-      - name: Dimitrii Pasechnik
+      - name: Dmitrii Pasechnik
   - name: University of Sheffield
     members:
       - name: Neil Lawrence
@@ -49,12 +49,14 @@ sites:
     homepage: 'http://www.southampton.ac.uk'
     members:
       - name: Hans Fangohr
+        homepage: 'http://www.southampton.ac.uk/~fangohr'
+        twitter: ProfCompMod
       - name: Ian Hawke
   - name: University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
     members:
-      - name: Steve Lindon
+      - name: Steve Linton
       - name: Alexander Konovalov
       - name: Markus Pfeiffer
   - name: Jacobs University Bremen
@@ -80,6 +82,7 @@ sites:
     homepage: 'http://www2.warwick.ac.uk/'
     members:
       - name: John E. Cremona
+        homepage: 'http://homepages.warwick.ac.uk/staff/J.E.Cremona/'
   - name: Universität Zurich
     logo: University_of_Zurich_Logo.svg
     homepage: 'http://www.uzh.ch'
