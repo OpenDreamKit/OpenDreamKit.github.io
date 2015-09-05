@@ -49,6 +49,8 @@ sites:
     homepage: 'http://www.southampton.ac.uk'
     members:
       - name: Hans Fangohr
+        homepage: http://www.southampton.ac.uk/~fangohr
+        twitter: ProfCompMod
       - name: Ian Hawke
   - name: University of St Andrews
     logo: USTAN_logo.png
