@@ -11,14 +11,18 @@ sites:
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
-  - name: Laboratoire Bordelais de Recherche en Informatique
+  - name: Laboratoire Bordelais de Recherche en Informatique et Institut de Mathématiques de Bordeaux
     logo: LaBRI-low.png
     homepage: 'http://www.labri.fr/'
     members:
       - name: Vincent Delecroix
+        homepage: 'http://www.labri.fr/perso/vdelecro/'
       - name: Karim Belabas
+        homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
       - name: Bill Allombert
+        homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
       - name: Adrien Boussicault
+        homepage: 'http://www.labri.fr/perso/boussica/'
   - name: Université Joseph Fourier
     logo: Logo-UJF.svg
     homepage: 'https://www.ujf-grenoble.fr'
