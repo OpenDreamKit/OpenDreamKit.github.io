@@ -11,9 +11,9 @@ sites:
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
-  - name: Laboratoire Bordelais de Recherche en Informatique et Institut de Mathématiques de Bordeaux
-    logo: LaBRI-low.png
-    homepage: 'http://www.labri.fr/'
+  - name: Université de Bordeaux
+  logo: Universite-de-Bordeaux_static.svg
+    homepage: 'https://www.u-bordeaux.fr/'
     members:
       - name: Vincent Delecroix
         homepage: 'http://www.labri.fr/perso/vdelecro/'
