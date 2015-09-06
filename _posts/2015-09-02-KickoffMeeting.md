@@ -90,7 +90,7 @@ or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a go
 - Michael Croucher, University of Sheffield
 - Luca De Feo, Université de Versailles-St-Quentin-en-Yvelines
 - Paul-Olivier Dehaye, University of Zurich
-- Jeroen Demeyer, Université Paris-Sud
+- Jeroen Demeyer, University of Ghent
 - Jean-Pierre Flori, ANSSI
 - Hans Fangohr, University of Southampton
 - Loïc Gouarin, Université Paris-Sud
