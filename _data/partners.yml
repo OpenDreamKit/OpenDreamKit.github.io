@@ -12,7 +12,7 @@ sites:
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
   - name: Université de Bordeaux
-  logo: Universite-de-Bordeaux_static.svg
+    logo: Universite-de-Bordeaux_static.svg
     homepage: 'https://www.u-bordeaux.fr/'
     members:
       - name: Vincent Delecroix
