@@ -111,6 +111,7 @@ sites:
     members:
       - name: Hans Petter Langtangen
       - name: Min Ragan-Kelley
+      - name: Martin Sandve Alnæs
       
 partners:
   - name: CNRS
