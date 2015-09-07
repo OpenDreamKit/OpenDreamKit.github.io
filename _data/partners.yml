@@ -110,9 +110,12 @@ sites:
     homepage: 'https://www.simula.no'
     members:
       - name: Hans Petter Langtangen
+        github: hplgit
       - name: Min Ragan-Kelley
+        github: minrk
       - name: Martin Sandve Alnæs
-      
+        github: martinal
+
 partners:
   - name: CNRS
     logo: CNRS.svg
