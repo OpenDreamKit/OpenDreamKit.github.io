@@ -66,6 +66,7 @@ sites:
       - name: Steve Linton
       - name: Alexander Konovalov
       - name: Markus Pfeiffer
+        github: markuspf
   - name: Jacobs University Bremen
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'
