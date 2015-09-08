@@ -3,17 +3,21 @@ layout: post
 title: Kickoff meeting, Orsay, Université Paris Sud, September 2nd-5th of 2015
 ---
 
-The objectives of this meeting is to get OpenDreamKit
-participants to know each other and have an overview of the project,
-as well as to start some of the collaborative tasks through
-brainstorms and coding sprints.
+This meeting gathered 30 of the 50 OpenDreamKit participants, together
+with a couple external person (see the participants list). Many of
+them had never met in person before. The objectif was to give each
+participant an overview of the consortium and its wide variety of
+expertise, and of the project's aims and specific tasks, as well as to
+expose them with key software components, web platforms and
+technologies in the OpenDreamKit ecosystem. For details as well as
+presentation slides, see the
+[Program](/meetings/2015-09-02-Kickoff/program).
 
-External participants who would like to know more about the project
-or to participate in its activities are welcome.
-
-[Tentative Program](/meetings/2015-09-02-Kickoff/program).
-
-[Projects and coding sprints](/meetings/2015-09-02-Kickoff/projects).
+We also discussed the management structure, technical infrastructure,
+and planning. And we got to work -- finally! -- on some collaborative
+tasks through brainstorms and coding sprints. For the list of
+discussions and notes thereupon, see the [projects
+page](/meetings/2015-09-02-Kickoff/projects).
 
 # Location
 
@@ -79,41 +83,3 @@ social dinner on Wednesday evening. For the other meals, there are
 quite a few restaurants at walking distance,
 [in Orsay](http://www.mairie-orsay.fr/vie-pratique/commercants-artisans.html?id=27)
 or Bures sur Yvette. If you like Vietnamese, Asia is close to the hotel and a good pick.
-
-# Participants
-
-<!-- add institution !-->
-
-- Florent Cayré, Logilab
-- John Cremona, University of Warwick
-- Julien Cristau, Logilab
-- Michael Croucher, University of Sheffield
-- Luca De Feo, Université de Versailles-St-Quentin-en-Yvelines
-- Paul-Olivier Dehaye, University of Zurich
-- Jeroen Demeyer, Université Paris-Sud
-- Jean-Pierre Flori, ANSSI
-- Hans Fangohr, University of Southampton
-- Loïc Gouarin, Université Paris-Sud
-- Serge Guelton, Logilab
-- Éric Gourgoulhon, Laboratoire Univers et Théories, Observatoire de Paris
-- Sebastian Gutsche, University of Kaiserslautern
-- Frederic Han, Universite Paris 7
-- William Hart, University of Kaiserslautern
-- Konrad Hinsen, CNRS
-- Florent Hivert, Université Paris-Sud
-- Vincent Knight, Cardiff University
-- Michael Kohlhase, Jacobs University Bremen
-- Alexander Konovalov, University of St Andrews
-- Marcin Kostur, University of Silesia
-- Samuel Lelièvre, Université Paris-Sud
-- Steve Linton, St Andrews
-- Ursula Martin, Oxford
-- Marco Mancini, Observatoire de Paris
-- Benoît Pilorget, Université Paris-Sud
-- Clément Pernet, Université Grenoble-Alpes, LIP
-- Markus Pfeiffer, University of St Andrews
-- Viviane Pons, Université Paris-Sud
-- Florian Rabe, Jacobs University Bremen
-- Min Ragan-Kelley, Simula
-- Eugénia Shadlova, Université Paris-Sud
-- Nicolas M. Thiéry, Université Paris-Sud

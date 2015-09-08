@@ -16,12 +16,7 @@ title: Kickoff meeting, infrastructure
 - Create mailing lists for all information that requires all person in
   a given body to be informed.
 
-  - participants@opendreamkit.org      (public, archived)
-  - community@opendreamkit.org         (public, archived)
-  - coordination@opendreamkit.org (private)
-  - advisory@opendreamkit.org    (private)
-  - steering@opendreamkit.org (private)
-  - coordinator@opendreamkit.org       (private, coordinator, coordinator deputy, manager)
+  https://github.com/OpenDreamKit/OpenDreamKit/issues/13
 
 - Make sure any private information is PGP encrypted, especially given
   that some of us use gmail.
@@ -31,19 +26,13 @@ title: Kickoff meeting, infrastructure
 - Create a public issue on github per task and per deliverable, to
   track the progress and run design discussions.
 
-  Automatized using Min's scripts and the metadata produced in
-  proposal-www.pdata.
+  https://github.com/OpenDreamKit/OpenDreamKit/issues/12
 
-  Two options: include the original task text in the proposal, or just
-  point to it.
+  This was automatized by Min using the metadata produced in
+  Proposal/final.pdata
 
-  Whenever natural, the issue and discussion should be created in the
-  issue tracker of the relevant software, with just a minimal issue on
-  github containing a pointer.
-
-- Any trick to cross reference tasks and deliverables?
-
-- Use labels to mark tasks/deliverables/workpackages
+  Whenever natural, this should be just a pointer to an issue of the
+  relevant software where the actual discussion will happen.
 
 - Use milestones
 

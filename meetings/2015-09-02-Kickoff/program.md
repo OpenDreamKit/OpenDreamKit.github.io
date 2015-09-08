@@ -14,11 +14,19 @@ title: Kickoff meeting, tentative program
 This morning session will give all participants a broad view
 on the project: aims, work packages, consortium.
 
-- Welcome and brief overview of OpenDreamKit (Nicolas Thiéry, 10 min)
+- [Welcome and brief overview of OpenDreamKit](../APersonalPerspectiveOnOpenDreamKit.pdf) (Nicolas Thiéry, 10 min)
 
 - Consortium (45 min)
   - 3 minute presentation of each site by its leader
-    (main themes, expertise, resources, status of recruitement)
+    (main themes, expertise, resources, status of recruitement):
+    - [Jacobs Uni](../Sites/JacobsUni.pdf)
+    - [Kaiserslautern](../Sites/Kaiserslautern.pdf)
+    - [University of Silesia](../Sites/Silesia.pdf)
+    - [University of St Andrews](../Sites/USTAN.pdf)
+    - [UVSQ](../Sites/UVSQ.pdf)
+    - [University of Southampton](../Sites/Southampton.pdf)
+    - ...
+
   - self-introduction of each participant (involvement in
     particular projects, specific expertise or interests).
 
@@ -34,12 +42,12 @@ on the project: aims, work packages, consortium.
 
 ## 2:30pm-4pm: Brief presentation of each work package by its leader
 
-  - WP2: Community building, Training, Dissemination, Outreach (Viviane Pons)
-  - WP3: Component Architecture (Luca De Feo)
-  - WP4: User Interfaces (Min Ragan-Kelley?)
-  - WP5: High Performance Mathematical Computing (Clément Pernet)
-  - WP6: Data/Knowledge/Software bases (Michael Kohlhase)
-  - WP7: Social aspects (Alexander Konovalov? Steve Linton?)
+  - [WP2](../WorkPackages/WP2.pdf): Community building, Training, Dissemination, Outreach (Viviane Pons)
+  - [WP3](../WorkPackages/WP3.md): Component Architecture (Luca De Feo)
+  - [WP4](../WorkPackages/WP4.pdf): User Interfaces (Min Ragan-Kelley)
+  - [WP5](../WorkPackages/WP5.pdf): High Performance Mathematical Computing (Clément Pernet)
+  - [WP6](../WorkPackages/WP6.pdf): Data/Knowledge/Software bases (Michael Kohlhase)
+  - [WP7](../WorkPackages/WP7.pdf): Social aspects (Steve Linton?)
 
 ## 4pm-4:30pm: Coffee break
 

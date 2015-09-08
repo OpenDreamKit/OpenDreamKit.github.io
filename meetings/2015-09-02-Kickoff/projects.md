@@ -1,68 +1,24 @@
 ---
 layout: subpage
-title: Kickoff meeting, projects and coding sprints
+title: "Kickoff meeting: brainstorms and coding sprints"
 ---
 
-Please edit!!!
-
-# Jupyter kernels for all interactive computation software
-
-Time: Thursday evening, ...
-
-Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
-
-- Presentation: Jupyter architecture and how to write kernels (Min RK)
-- GAP (Markus)
-- Singular (Sebastian)
-- Pari/GP (Jeroen)
-- CLING ?
-
-- Other? Linbox+CLING?, XCAS?, ...
-
-# WP6: Friday morning
-
-- Semantic interfaces
-
-# Component architecture (Friday?)
-
-Potential targets:
-
-- Catalog of interfaces
-- Docker containers for all computational software?
-- Fix the remaining issues for Sage in Docker
-- ...
-
-## Consistent docker containers for all software components
-
-[Notes](../docker)
-
-# HPC:
-
-Short presentations:
-
-- Pythran (Serge Guelton: done)
-- Parallel computing in Giac & XCas (Frédéric Han)
-- MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectures
-  linear algebra (Marc Baboulin, on Thursday)
-- ...
-
-# Coordination and Management
+# WP1: Coordination and Management
 
 ## Management structure
 
 Time: Wednesday: 7pm
-
-Participants: John, Nicolas, Michael, Steve, Wolfram, ...
+Participants: John, Nicolas, Michael, Steve, Wolfram, Eugenia...
 
 [Notes](../management_structure)
 
-## Preliminary workshop planning for each workpackage
+## Plans
+
+Some informal discussions occurred on the:
 
 - Data Management Plan
-
-- Innovation Management Plan (preliminary thoughts)
-
-- Risk Management and Quality Insurance Plan (preliminary thoughts)
+- Innovation Management Plan
+- Risk Management and Quality Insurance Plan
 
 ## Infrastructure and collaborative tools for OpenDreamKit
 
@@ -72,54 +28,82 @@ Time: Thursday over lunch
 
 ## Communication
 
-Time: Thursday afternoon's coffee break
+Time: Thursday afternoon's coffee break, Saturday
+Participants: Luca, Nicolas, John, ...
 
-- Website TODO
-
-  - Links to the task/deliverable tracker?
-  - List of the different sites and people
-    with links to the presentations during the Kickoff
-  - List of meetings / meetings web pages
-  - add in README.md links to Jekyll's documentation
-  - List of software?
-  - List of mailing lists on the contact page
-  - Integrate twitter feed?
-  - How do we do analytics?
-  - Fonts
-  - Add three entry points:
-    - "For mathematicians"
-    - "For developers"
-    - "For participants"
-
-    The two first would contain analogs of the "five pages intro"
-
-    The later would contain Guidelines on how we want to work
-
-  - Shorten the main intro
-
+- [Desired features for the website](https://github.com/OpenDreamKit/OpenDreamKit.github.io/issues/18)
 - Logo
 
-- 5-slide presentation of OpenDreamKit (Friday)
+# WP3: Component architecture
 
-  Convert to slideshow markdown
+## Consistent docker containers for all software components
 
-## Brainstorm about Sphinx in Sage
+Time: Friday, Saturday
+Participants: Alexander, Nicolas, Sebastian
 
-## Brainstorm about structured documents
-
-Logilab, Min, Florent, ... Friday
-
-## Brainstorm about 3D Visualization
-
-Time: Thursday late afternoon
-
-Logilab, University of Silesia, 
-
- - USilesia, starts building a javascript library for static and dynamic (i.e. communication with python objects as ipywidgets do) data visualization in the Jupyter notebook. The project will deliver a first version in December 2015. It will be based on threejs.  
- - in the meantime there will be technology review done (Logilab) for alternative rendering solution. We mentioned using webgl natively, vispy, and paraview.
+[Notes](../docker).
 
 ## Continuous integration, building on various architecture, joint testing farm
+
+TODO (@alex-konovalov): short report
 
 Time: Thursday afternoon's break
 
 Jeroen, Alexander, Jean-Pierre
+
+# WP4: User Interfaces
+
+## Jupyter kernels for all interactive computation software
+
+Time: Thursday evening, ...
+Participants: Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
+
+Min gave a presentation on the Jupyter notebook's architecture and how
+to write kernels. Markus, Sebastian and Jeroen started to implement
+kernels for GAP, Singular, and Pari/GP respectively.
+
+Other kernels to explore would include Linbox+CLING and XCAS.
+
+## Brainstorm about structured documents
+
+Time: Friday
+Participants: Florent Cayré, Min, Florent Hivert, Nicolas
+
+## Brainstorm about 3D Visualization
+
+Time: Thursday late afternoon
+Participants: Florent Cayré, Marcin Kostkur
+
+USilesia has started building a javascript library for static and
+dynamic (i.e. communication with python objects as ipywidgets do) data
+visualization in the Jupyter notebook. The project will deliver a
+first version in December 2015. It will be based on threejs.
+
+In the meantime Logilab will do technology review done for alternative
+rendering solution. We mentioned using webgl natively, vispy, and
+paraview.
+
+# WP5: HPC
+
+TODO (@ClementPernet): short report
+
+Time: ...
+Participants: ...
+
+The following short presentations were given:
+
+- Pythran (Serge Guelton: done)
+- Parallel computing in Giac & XCas (Frédéric Han)
+- MAGMA: Numerical Matrix Algebra on GPU and Multicore Architectures
+  linear algebra (Marc Baboulin, on Thursday)
+- ...
+
+# WP6: Data, Knowledge and Software bases.
+
+Time: Friday morning
+Participants: Michael, Steve, Sebastian, Florian, Florent, Florent, Nicolas, ...
+
+TODO (@kohlhase): short report
+
+- Semantic interfaces
+- discussions about the category systems in GAP, Sage, CAP, proof systems, ...
