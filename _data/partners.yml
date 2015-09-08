@@ -11,21 +11,27 @@ sites:
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
-  - name: Laboratoire Bordelais de Recherche en Informatique
-    logo: LaBRI-low.png
-    homepage: 'http://www.labri.fr/'
+  - name: Université de Bordeaux
+    logo: Universite-de-Bordeaux_static.svg
+    homepage: 'https://www.u-bordeaux.fr/'
     members:
       - name: Vincent Delecroix
+        homepage: 'http://www.labri.fr/perso/vdelecro/'
       - name: Karim Belabas
+        homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
       - name: Bill Allombert
+        homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
       - name: Adrien Boussicault
+        homepage: 'http://www.labri.fr/perso/boussica/'
   - name: Université Joseph Fourier
     logo: Logo-UJF.svg
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
+        homepage: 'http://membres-liglab.imag.fr/pernet'
+        github: ClementPernet
       - name: Jean-Guillaume Dumas
-      - name: Pierrick Brunet
+        homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
   - name: University of Kaiserslautern
     members:
       - name: Prof. Dr. Wolfram Decker
@@ -61,7 +67,10 @@ sites:
     members:
       - name: Steve Linton
       - name: Alexander Konovalov
+        homepage: http://blogs.cs.st-andrews.ac.uk/alexk/
+        github: alex-konovalov
       - name: Markus Pfeiffer
+        github: markuspf
   - name: Jacobs University Bremen
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'
@@ -86,6 +95,7 @@ sites:
     members:
       - name: John E. Cremona
         homepage: 'http://homepages.warwick.ac.uk/staff/J.E.Cremona/'
+        github: JohnCremona
   - name: Universität Zurich
     logo: University_of_Zurich_Logo.svg
     homepage: 'http://www.uzh.ch'
@@ -105,8 +115,12 @@ sites:
     homepage: 'https://www.simula.no'
     members:
       - name: Hans Petter Langtangen
+        github: hplgit
       - name: Min Ragan-Kelley
-      
+        github: minrk
+      - name: Martin Sandve Alnæs
+        github: martinal
+
 partners:
   - name: CNRS
     logo: CNRS.svg

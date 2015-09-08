@@ -9,7 +9,7 @@ title: "Kickoff meeting: participants"
 - Michael Croucher, University of Sheffield
 - Luca De Feo, Université de Versailles-St-Quentin-en-Yvelines
 - Paul-Olivier Dehaye, University of Zurich
-- Jeroen Demeyer, Université Paris-Sud
+- Jeroen Demeyer, University of Ghent
 - Jean-Pierre Flori, ANSSI
 - Hans Fangohr, University of Southampton
 - Loïc Gouarin, Université Paris-Sud
