@@ -28,8 +28,9 @@ sites:
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
+        homepage: 'http://membres-liglab.imag.fr/pernet'
       - name: Jean-Guillaume Dumas
-      - name: Pierrick Brunet
+        homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
   - name: University of Kaiserslautern
     members:
       - name: Prof. Dr. Wolfram Decker
