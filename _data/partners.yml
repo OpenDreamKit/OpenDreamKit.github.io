@@ -29,7 +29,7 @@ sites:
     members:
       - name: Clément Pernet
         homepage: 'http://membres-liglab.imag.fr/pernet'
-	github: ClementPernet
+        github: ClementPernet
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
   - name: University of Kaiserslautern
