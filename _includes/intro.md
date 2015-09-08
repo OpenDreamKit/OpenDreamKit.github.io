@@ -24,10 +24,3 @@ customised to meet the varied needs of research projects in pure
 mathematics and applications, and supporting the full research
 life-cycle from exploration, through proof and publication, to
 archival and sharing of data and code.
-
-Altogether the project involves about 50 people spread over 15 sites
-in Europe, with a total budget of about 7.6 million euros. The largest
-portion of that will be devoted to employing an average of 11
-researchers and developers working full time on the
-project. Additionally, the participants will contribute the equivalent
-of six other people working full time.

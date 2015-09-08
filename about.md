@@ -5,14 +5,24 @@ title: About
 
 {% include intro.md %}
 
+
+The project involves about 50 people spread over 15 sites
+in Europe, with a total budget of about 7.6 million euros. The largest
+portion of that will be devoted to employing an average of 11
+researchers and developers working full time on the
+project. Additionally, the participants will contribute the equivalent
+of six other people working full time.
+
 ## Proposal
 
 - [PDF Proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf)
 
 The above pdf is the officially submitted one, up to the fixing of a
-couple unfortunate typos we noticed since then. For a specific list of
-tasks, see Section 3.1.6, Work Package Descriptions. For budget
-details, see Section 3.4, Resources to be committed.
+couple unfortunate typos we noticed since then, and some refactoring
+of the deliverable during the negotiation phase with the EU. For a
+specific list of tasks, see Section 3.1.6, Work Package
+Descriptions. For budget details, see Section 3.4, Resources to be
+committed.
 
 ### Abstract of the project
 
