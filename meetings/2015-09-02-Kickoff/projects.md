@@ -69,6 +69,14 @@ Other kernels to explore would include Linbox+CLING and XCAS.
 Time: Friday
 Participants: Florent Cayré, Min, Florent Hivert, Nicolas
 
+## Brainstorm about notebooks and reproducibility
+
+Konrad's kind visit triggered an inspiring discussion on his blog about
+[notebooks and reproducibility](https://khinsen.wordpress.com/2015/09/03/beyond-jupyter-whats-in-a-notebook/). As another source of inspiration on this topic, here is a link
+to Konrad's article about ActivePapers and the rationale behind
+[ActivePapers: a platform for publishing and archiving computer-aided research]
+(http://dx.doi.org/10.12688/f1000research.5773.3)
+
 ## Brainstorm about 3D Visualization
 
 Time: Thursday late afternoon
