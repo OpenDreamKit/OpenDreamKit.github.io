@@ -10,7 +10,7 @@ please use the following sentence:
 2020 research and innovation programme under grant agreement No 676541.''
 
 To acknowledge financial support from OpenDreamKit in software,
-workshops, etc, please use the followingL
+workshops, etc, please use the following:
 
 ``We acknowledge financial support from the
 [OpenDreamKit](http://opendreamkit.org/)
