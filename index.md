@@ -17,3 +17,4 @@ title: Home
 : [{{ post.title }}]({{ site.baseurl}}{{ post.url }})
 {% endfor %}
 
+<p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
