@@ -1,7 +1,8 @@
 OpenDreamKit is a
 [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
-project that will run for four years, starting from September 2015. It
+project (<a href="http://cordis.europa.eu/project/rcn/198334_en.html">#676541</a>)
+that will run for four years, starting from September 2015. It
 will provide substantial funding to the open source computational
 mathematics ecosystem, and in particular popular tools such as
 [LinBox](http://linalg.org/),
@@ -23,10 +24,3 @@ customised to meet the varied needs of research projects in pure
 mathematics and applications, and supporting the full research
 life-cycle from exploration, through proof and publication, to
 archival and sharing of data and code.
-
-Altogether the project involves about 50 people spread over 15 sites
-in Europe, with a total budget of about 7.6 million euros. The largest
-portion of that will be devoted to employing an average of 11
-researchers and developers working full time on the
-project. Additionally, the participants will contribute the equivalent
-of six other people working full time.
