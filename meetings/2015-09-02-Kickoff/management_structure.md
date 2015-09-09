@@ -27,7 +27,7 @@ Composition: as originaly planned: Coordinator + site leaders
 
 Grenoble: Clement.Pernet
 Oxford: Dima Pasechnik
-Southhampton: Hans Fangohr
+Southampton: Hans Fangohr
 Simula: Hans-Petter Langtangen?
 Warwick: John Cremona
 UVSQ: Luca De Feo
@@ -61,9 +61,9 @@ Names were suggested for the advisory board.
 
 Get noticed whenever a deliverable is submitted.
 
-Meet before the regular reports
+Meet at end of reporting periods
 
-Hans Fanghor was nominated to chair the Quality Review Board.
+Hans Fangohr was nominated to chair the Quality Review Board.
 
 Composition: as planned
 
@@ -84,4 +84,4 @@ Definition of hard questions:
 - Resolving ambiguity about whether something is a hard question
 
 Everything else -- including choosing a new coordinator in case of
-uncapacity -- is considered ``easy''.
+incapacity -- is considered ``easy''.
