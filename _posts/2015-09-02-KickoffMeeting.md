@@ -7,7 +7,7 @@ This meeting gathered 30 of the 50 OpenDreamKit participants, together
 with a couple external person. See the [Participants
 list](/meetings/2015-09-02-Kickoff/participants).
 
-Many of them had never met in person before. The objectif was to build
+Many of them had never met in person before. The objective was to build
 a joint vision by giving each participant an overview of the
 consortium and its wide variety of expertise, and of the project's
 aims and specific tasks, as well as to expose them with key software
