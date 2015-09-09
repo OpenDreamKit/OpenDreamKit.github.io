@@ -18,6 +18,8 @@ Steve Linton was nominated
 
 Composition: as originaly planned: Coordinator + WP leaders
 
+WP4: Min Ragan-Kelley (Simula)
+
 ## Steering committee
 
 Meets twice a year, with one of the meeting bringing physically
@@ -28,7 +30,7 @@ Composition: as originaly planned: Coordinator + site leaders
 Grenoble: Clement.Pernet
 Oxford: Dima Pasechnik
 Southampton: Hans Fangohr
-Simula: Hans-Petter Langtangen?
+Simula: Martin Sandve Alnæs
 Warwick: John Cremona
 UVSQ: Luca De Feo
 Silesia: Marcin Kostur
