@@ -4,8 +4,8 @@ title: Kickoff meeting, Orsay, Université Paris Sud, September 2nd-5th of 2015
 ---
 
 This meeting gathered 30 of the 50 OpenDreamKit participants, together
-with a couple external person (see the [Participants
-list](/meetings/2015-09-02-Kickoff/participants)).
+with a couple external person. See the [Participants
+list](/meetings/2015-09-02-Kickoff/participants).
 
 Many of them had never met in person before. The objectif was to build
 a joint vision by giving each participant an overview of the
