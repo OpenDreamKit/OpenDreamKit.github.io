@@ -5,6 +5,10 @@ title: Full-time mathematical researcher and developer position at TU Kaiserslau
 
 We are seeking a full-time mathematical researcher and developer at TU Kaiserslautern to work with Prof. Wolfram Decker on the Singular contribution to the OpenDreamKit project.
 
+# Deadline
+
+Deadline for applications: Sept 23 2015.
+
 # Location
 
 The developer will work at TU Kaiserslautern in the city of Kaiserslautern Germany. Kaiserslautern is next to one of the largest contiguous forests in Europe.
