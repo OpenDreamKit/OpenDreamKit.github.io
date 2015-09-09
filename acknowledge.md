@@ -4,7 +4,13 @@ title: Acknowledge
 ---
 
 To acknowledge financial support from OpenDreamKit in publications,
-software, workshops, etc, please use the following sentence:
+please use the following sentence:
+
+``This project has received funding from the European Union’s Horizon
+2020 research and innovation programme under grant agreement No 676541.''
+
+To acknowledge financial support from OpenDreamKit in software,
+workshops, etc, please use the following:
 
 ``We acknowledge financial support from the
 [OpenDreamKit](http://opendreamkit.org/)
