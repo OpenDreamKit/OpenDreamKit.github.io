@@ -23,7 +23,7 @@ on the project: aims, work packages, consortium.
     - [Kaiserslautern](../Sites/Kaiserslautern.pdf)
     - [University of Silesia](../Sites/Silesia.pdf)
     - [University of St Andrews](../Sites/USTAN.pdf)
-    - [UVSQ](../Sites/UVSQ.pdf)
+    - [UVSQ](../Sites/UVSQ.md)
     - [University of Southampton](../Sites/Southampton.pdf)
     - ...
 
