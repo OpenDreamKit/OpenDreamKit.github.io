@@ -45,11 +45,11 @@ Participants: Alexander, Nicolas, Sebastian
 
 ## Continuous integration, building on various architecture, joint testing farm
 
-TODO (@alex-konovalov): short report
-
 Time: Thursday afternoon's break
 
-Jeroen, Alexander, Jean-Pierre
+Participants: Jeroen, Alexander, Jean-Pierre
+
+We discussed approaches to regression testing used in GAP and SageMath development and our continuous integration infrastructure.
 
 # WP4: User Interfaces
 
