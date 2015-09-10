@@ -23,7 +23,7 @@ on the project: aims, work packages, consortium.
     - [Kaiserslautern](../Sites/Kaiserslautern.pdf)
     - [University of Silesia](../Sites/Silesia.pdf)
     - [University of St Andrews](../Sites/USTAN.pdf)
-    - [UVSQ](../Sites/UVSQ.md)
+    - [UVSQ](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/meetings/2015-09-02-Kickoff/Sites/UVSQ.md)
     - [University of Southampton](../Sites/Southampton.pdf)
     - ...
 
@@ -43,7 +43,7 @@ on the project: aims, work packages, consortium.
 ## 2:30pm-4pm: Brief presentation of each work package by its leader
 
   - [WP2](../WorkPackages/WP2.pdf): Community building, Training, Dissemination, Outreach (Viviane Pons)
-  - [WP3](../WorkPackages/WP3.md): Component Architecture (Luca De Feo)
+  - [WP3](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/meetings/2015-09-02-Kickoff/WorkPackages/WP3.md): Component Architecture (Luca De Feo)
   - [WP4](../WorkPackages/WP4.pdf): User Interfaces (Min Ragan-Kelley)
   - [WP5](../WorkPackages/WP5.pdf): High Performance Mathematical Computing (Clément Pernet)
   - [WP6](../WorkPackages/WP6.pdf): Data/Knowledge/Software bases (Michael Kohlhase)
@@ -62,7 +62,7 @@ development model.
 ### Collaborative workspaces
 
 - SageMathCloud (Viviane Pons)
-- [Jupyter](../Software/Jupyter.md) (Min RK)
+- [Jupyter](https://nbviewer.jupyter.org/gist/minrk/8ec83e6cb7a55be361e4) (Min RK)
 - Simulagora, ... (Florent Cayré?)
 - [LMFDB](http://homepages.warwick.ac.uk/staff/J.E.Cremona/lmfdb_talk.pdf) (John Cremona)
 - Mathhub (Michael Kohlhase)
@@ -78,7 +78,7 @@ development model.
 - [Singular](../Software/Singular.pdf) (Wolfram)
 - [Giac/XCas](../Software/giac-general.pdf) [HPC in Giac/XCas](../Software/giac-polynomials.pdf) (Frédéric Han; on Thursday)
 - Pari/GP (Jean-Pierre Flori?)
-- [SageMath](../Software/SageMath.md) (Luca De Feo)
+- [SageMath](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/meetings/2015-09-02-Kickoff/Software/SageMath.md) (Luca De Feo)
 - [OOMMF](../Software/OOMMF.pdf) (Hans Fangohr)
 
 ### Technology
