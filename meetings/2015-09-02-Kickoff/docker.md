@@ -3,16 +3,19 @@ layout: subpage
 title: "Kickoff meeting: docker containers for all components"
 ---
 
-Goal: build a collection of consistent docker containers for the
-various software components involved in OpenDreamKit, making it
-possible to focus on writing small chunks of docker files and
-composing them to get various docker images and have basic dependency
-management.
+# Goal
 
-Difficulty: docker allows to stack image, but does not support
-"multiple inheritance".
+Build a collection of consistent docker containers for the various
+software components involved in OpenDreamKit, making it possible to
+focus on writing small chunks of docker files and composing them to
+get various docker images and have basic dependency management.
 
-Possible trick around: use CPP and include guards
+# Difficulty
+
+Docker allows to stack image, but does not support "multiple
+inheritance".
+
+## Possible trick: use CPP and include guards
 
 Mock example:
 
@@ -26,6 +29,34 @@ GAP_full.docker: (GAP + packages + dependencies)
         #include "GAP_core.docker"
         #include "Singular.docker"
         #include "...
+
+## Alternative: using a ppa / debian package
+
+Vincent Néri (from LRI) suggested an alternative approach which might
+make much sense. Namely, rather than somehow reinventing a dummy
+packaging system with dependencies, using the standard debian package
+system (or that of whatever base distribution), and create a private
+ppa (source or binary). And then have our docker file just request the
+appropriate packages, knowing that dependencies will be taken care
+automatically.
+
+That might actually not be too much additional work, given that:
+
+- We will be able to focus on a specific version of a specific
+  distribution
+
+- We can afford, in a first step, to create not-so-kosher packages
+  (e.g. a huge sage package), and to select specific versions of each
+  packages.
+
+And this opens the door, in the longer run, for joining forces with
+the tasks about creating packages for all distributions. In fact,
+maybe we could right now join forces with ppa:aims/sagemath handled by
+Jan Groenewald.
+
+    https://launchpad.net/~aims/+archive/ubuntu/sagemath
+
+We could also get help from our debian specialist Julien (Logilab).
 
 # Single use or multiple use docker image?
 
