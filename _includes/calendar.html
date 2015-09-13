@@ -9,7 +9,23 @@ $(document).ready(function() {
     // page is now ready, initialize the calendar...
 
     $('#calendar').fullCalendar({
-        // put your options and callbacks here
+
+       eventSources: [
+
+        // your event source
+        {
+            url: '{{ site.baseurl }}/IntervalEvents.json', // use the `url` property
+            color: 'blue',    // an option!
+            editable: false,
+        },
+
+        {
+            url: '{{ site.baseurl }}/ExternalEvents.json', // use the `url` property
+            color: 'yellow',    // an option!
+            editable: false,
+        },
+
+    ]
     })
 
 });
