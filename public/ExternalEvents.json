@@ -1,4 +1,3 @@
 ---
-layout: null
 ---
 {{ site.data.events.ExternalEvents | jsonify }}
