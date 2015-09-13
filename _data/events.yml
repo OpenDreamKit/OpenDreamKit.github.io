@@ -4,6 +4,10 @@ InternalEvents:
       end: 2015-09-06
       url: http://opendreamkit.org/2015/09/02/KickoffMeeting/
 ExternalEvents:
+    - title: 3rd GAP Days
+      start: 2015-09-13
+      end: 2015-09-23
+      url: http://gapdays.coxeter.de/gapdays2015-fall/
     - title: PyConFr (Pau)
       start: 2015-10-17
       end: 2015-10-21
