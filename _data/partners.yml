@@ -8,6 +8,8 @@ sites:
         roles: coordinator
         github: nthiery
       - name: Viviane Pons
+        homepage: 'https://www.lri.fr/~pons/'
+        twitter: pyviv
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
