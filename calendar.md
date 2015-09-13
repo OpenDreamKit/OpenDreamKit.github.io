@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Upcomming events
+title: OpenDreamKit Events
 id: Calendar
 ---
-
-# OpenDreamKit Events
 
 Please find here some past and upcoming events. Events organized by the
 OpenDreamKit team are in blue. In yellow, you will find external events that
