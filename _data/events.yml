@@ -1,17 +1,14 @@
 InternalEvents:
-    - title: Kickoff Meeting
+    - title: Kickoff Meeting (Orsay)
       start: 2015-09-02
       end: 2015-09-06
       url: http://opendreamkit.org/2015/09/02/KickoffMeeting/
-    - title: Test Event
-      start: 2015-12-01
-      end: 2015-12-11
 ExternalEvents:
-    - title: PyConFr
+    - title: PyConFr (Pau)
       start: 2015-10-17
       end: 2015-10-21
       url: http://www.pycon.fr/2015/
-    - title: Sage Days 70
+    - title: Sage Days 70 (Berkeley)
       start: 2015-11-09
       end: 2015-11-14
       url: http://wiki.sagemath.org/days70
