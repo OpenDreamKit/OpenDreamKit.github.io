@@ -6,7 +6,7 @@ InternalEvents:
 ExternalEvents:
     - title: 3rd GAP Days
       start: 2015-09-13
-      end: 2015-09-23
+      end: 2015-09-24
       url: http://gapdays.coxeter.de/gapdays2015-fall/
     - title: PyConFr (Pau)
       start: 2015-10-17
