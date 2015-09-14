@@ -16,3 +16,6 @@ ExternalEvents:
       start: 2015-11-09
       end: 2015-11-14
       url: http://wiki.sagemath.org/days70
+    - title: 1st Joint GAP-SageMath days
+      start: 2016-01-18
+      end: 2016-01-23
