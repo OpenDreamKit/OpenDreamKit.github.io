@@ -1,9 +1,7 @@
 ---
 layout: slides
-title: "OpenDreamKit: he mathematician's perspective"
+title: "OpenDreamKit: the mathematician's perspective"
 ---
-
-[OpenDreamKit.org](OpenDreamKit.org)
 
 ---
 
@@ -64,16 +62,16 @@ TODO: add screenshots from the proposal
 Target features:
 
 - Improve the productivity of researchers in pure mathematics and
-  applications by further promoting collaborations on *Software*,
-  *Data*, and *Knowledge*
+  applications by further promoting collaborations on **Data**,
+  **Knowledge**, and **Software**
 
 - Make it easy for teams of researchers of any size to set up custom,
-  collaborative \emph{Virtual Research Environments} tailored to their
+  collaborative **Virtual Research Environments** tailored to their
   specific needs, resources and workflows
 
 - Support the entire life-cycle of computational work in mathematical
-  research, from *initial exploration* to *publication*, *teaching*,
-  and *outreach*.
+  research, from **initial exploration** to **publication**, **teaching**,
+  and **outreach**
 
 - Performance, flexibility, ease of use
 
@@ -89,20 +87,19 @@ for the Advancement of Mathematics*
 
 [OpenDreamKit.org](OpenDreamKit.org)
 
-- H2020 European Research Infrastructures Work Programme
-
+- [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
+  [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)<br> Work Programme
   Call: Virtual Research Environments
 
 - Budget: 7.6 million euros
 
-- [15 sites, 50 participants](http://opendreamkit.org/partners)
-
+- [15 sites, 50 participants](http://opendreamkit.org/partners)<br>
   In close collaboration with the international community!
+
+---
 
 # More reading
 
-The [developer's perspective](http://opendreamkit.org/about-devs) on OpenDreamKit.
+- The [developer's perspective](/about-developers) on OpenDreamKit.
 
-Link to proposal
-
-Link to tasks
+- [About OpenDreamKit](/about)

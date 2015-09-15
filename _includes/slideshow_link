@@ -1,0 +1,5 @@
+{% comment %}
+  Build a link to a slideshow of the specified slides.
+{% endcomment %}
+
+<small><a href="https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/{% if include.slides %}{{include.slides}}{% else %}{{page.path}}{% endif %}">View as a slideshow</a></small>
