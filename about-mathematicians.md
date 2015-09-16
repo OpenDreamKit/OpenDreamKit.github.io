@@ -7,11 +7,10 @@ title: "OpenDreamKit: the mathematician's perspective"
 
 # Fundamental trends
 
-## Increasing role of computers for mathematics
-
-Even in pure mathematics!
+## Long standing and booming role of computers in pure mathematics
 
 - Computer exploration
+- Conjecture verification
 - Mechanized proofs
 - Proof assistants and certified proofs
 - Collaborative work
@@ -20,6 +19,8 @@ Even in pure mathematics!
 TODO: add examples
 
 ## Emergence of Open Science
+
+TODO: 3 items about what Open Science is about
 
 - ...
 - Reproducibility
@@ -77,6 +78,10 @@ Target features:
 
 - Research on social aspects of collaborative software development in
   mathematics
+
+TODO: highlight somewhere the strategy of joining forces with the
+wider community (scientific computing, ...) whenever possible.  Lower
+the software barrier between pure and applied mathematics.
 
 ---
 
