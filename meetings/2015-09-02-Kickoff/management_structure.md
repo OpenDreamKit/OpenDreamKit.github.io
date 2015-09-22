@@ -18,7 +18,13 @@ Steve Linton was nominated
 
 Composition: as originaly planned: Coordinator + WP leaders
 
-WP4: Min Ragan-Kelley (Simula)
+WP 1: Nicolas M. Thiéry / Benoît Pilorget
+WP 2: Viviane Pons
+WP 3: Luca De Feo
+WP 4: Min Ragan-Kelley (Simula)
+WP 5: Clément Pernet
+WP 6: Michael Kohlhase
+WP 7: Ursula Martin (to be confirmed; TODO: contact the three Oxford participants)
 
 ## Steering committee
 
