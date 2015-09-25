@@ -4,10 +4,13 @@ title: Follow us
 ---
 # Follow us with our two open mailing lists
 
-* For all the Opendreamkit announces, subscribe to: 
-opendreamkit-announces@services.cnrs.fr 
+* For all the Opendreamkit announces, subscribe to:
+ 
+@opendreamkit-announces@services.cnrs.fr 
 
-* For all the opensource community interested in the OpenDreamkit project, subscribe to: opendreamkit-community@services.cnrs.fr 
+* For all the opensource community interested in the OpenDreamkit project, subscribe to:
+ 
+@opendreamkit-community@services.cnrs.fr 
 
 
 # Follow us on the net and social media
