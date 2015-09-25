@@ -28,7 +28,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * Coordination team: [coordination@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-coordination_team)
 * Steering committee: [steering@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-steering_committee)
 * Advisory board: [advisory@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-advisory_board)
-* Admninistration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
+* Administration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
 
 
 
