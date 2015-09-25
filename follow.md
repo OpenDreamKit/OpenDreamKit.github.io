@@ -6,7 +6,7 @@ title: Follow us
 
 * For all the Opendreamkit announces: opendreamkit-announces@services.cnrs.fr 
 
-* For all the opensource community intereste in the OpenDreamkit project: opendreamkit-community@services.cnrs.fr 
+* For all the opensource community interested in the OpenDreamkit project: opendreamkit-community@services.cnrs.fr 
 
 
 # Follow us on the net and social media
