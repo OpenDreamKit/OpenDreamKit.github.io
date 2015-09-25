@@ -16,7 +16,7 @@ title: Kickoff meeting, infrastructure
 - Create mailing lists for all information that requires all person in
   a given body to be informed.
 
-  [](https://github.com/OpenDreamKit/OpenDreamKit/issues/13)
+  [https://github.com/OpenDreamKit/OpenDreamKit/issues/13]()
 
 - Make sure any private information is PGP encrypted, especially given
   that some of us use gmail.
@@ -26,7 +26,7 @@ title: Kickoff meeting, infrastructure
 - Create a public issue on github per task and per deliverable, to
   track the progress and run design discussions.
 
-  [](https://github.com/OpenDreamKit/OpenDreamKit/issues/12)
+  [https://github.com/OpenDreamKit/OpenDreamKit/issues/12]()
 
   This was automatized by Min using the metadata produced in
   Proposal/final.pdata
@@ -72,12 +72,12 @@ host the web page and public documents about each meeting.
 
 # Recommendations
 
-- gitter for chat
-- [](appear.in) / [](hubl.in) for video conferences
+- [gitter.im]() for chat
+- [http://appear.in/]() / [hubl.in]() for video conferences
 - Framapad for temporary collaborative text editing
-- [](framadate.org) for polls
-- [](adoodle.org) for anonymous votes
-- [](limesurvey.org) for surveys
+- [framadate.org]() for polls
+- [adoodle.org]() for anonymous votes
+- [limesurvey.org]() for surveys
 - whiteboard?
 
 # Hosting a machine for ODK?
@@ -86,4 +86,4 @@ Use cases:
 
 - website analytics
 - private github/gitlab
-- survey
+- hosting our own limesurvey instance
