@@ -72,12 +72,12 @@ host the web page and public documents about each meeting.
 
 # Recommendations
 
-- [gitter.im]() for chat
-- [appear.in]() / [hubl.in]() for video conferences
+- [http://gitter.im]() for chat
+- [http://appear.in]() / [http://hubl.in]() for video conferences
 - Framapad for temporary collaborative text editing
-- [framadate.org]() for polls
-- [adoodle.org]() for anonymous votes
-- [limesurvey.org]() for surveys
+- [http://framadate.org]() for polls
+- [http://adoodle.org]() for anonymous votes
+- [http://limesurvey.org]() for surveys
 - whiteboard?
 
 # Hosting a machine for ODK?
