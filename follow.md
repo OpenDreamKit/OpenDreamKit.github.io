@@ -34,7 +34,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 * ODK advisory board: [advisory@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-advisory_board)
 
-* The ODK admninistration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
+* ODK admninistration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
 
 
 
