@@ -22,7 +22,21 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 # Contacts
 
-* ...
+* To get in touch: [contact@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-contact)
+
+* ODK Participants: [participants@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-participants)
+
+* ODK coordinator: [coordinator@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-coordinator)
+
+* ODK coordination team: [coordination@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-coordination_team)
+
+* ODK steering committee: [steering@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-steering_committee)
+
+* ODK advisory board: [advisory@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-advisory_board)
+
+* The ODK admninistration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
+
+
 
 
 # Press releases
