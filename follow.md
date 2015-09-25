@@ -2,6 +2,12 @@
 layout: default
 title: Follow us
 ---
+# Follow us with our two open mailing lists
+
+* For all the Opendreamkit announces: opendreamkit-announces@services.cnrs.fr 
+
+* For all the opensource community intereste in the OpenDreamkit project: opendreamkit-community@services.cnrs.fr 
+
 
 # Follow us on the net and social media
 
