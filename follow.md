@@ -6,11 +6,11 @@ title: Follow us
 
 * For all the Opendreamkit announces, subscribe to:
  
-[opendreamkit-announces@services.cnrs.fr]
+opendreamkit-announces@services.cnrs.fr
 
 * For all the opensource community interested in the OpenDreamkit project, subscribe to:
  
-[opendreamkit-community@services.cnrs.fr] 
+opendreamkit-community@services.cnrs.fr
 
 
 # Follow us on the net and social media
