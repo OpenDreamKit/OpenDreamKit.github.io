@@ -18,7 +18,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 * Opendreamkit announces: [announces@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-announces)
 
-* Community discussions: [community@opendreamkit.orf](https://listes.services.cnrs.fr/wws/info/opendreamkit-community)
+* Community discussions: [community@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-community)
 
 # Contacts
 
