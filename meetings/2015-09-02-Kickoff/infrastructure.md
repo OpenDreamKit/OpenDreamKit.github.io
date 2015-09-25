@@ -73,7 +73,7 @@ host the web page and public documents about each meeting.
 # Recommendations
 
 - [gitter.im]() for chat
-- [http://appear.in/]() / [hubl.in]() for video conferences
+- [appear.in]() / [hubl.in]() for video conferences
 - Framapad for temporary collaborative text editing
 - [framadate.org]() for polls
 - [adoodle.org]() for anonymous votes
