@@ -1,17 +1,7 @@
 ---
 layout: default
-title: Follow us
+title: Follow and contact us
 ---
-# Follow us with our two open mailing lists
-
-* For all the Opendreamkit announces, subscribe to:
- 
-opendreamkit-announces@services.cnrs.fr
-
-* For all the opensource community interested in the OpenDreamkit project, subscribe to:
- 
-opendreamkit-community@services.cnrs.fr
-
 
 # Follow us on the net and social media
 
@@ -23,6 +13,17 @@ To get the latest news on {{ site.title }} in a timely manner:
 Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 * Follow our development on [![](../public/github.png){:.icon} GitHub](https://github.com/{{ site.github.owner_name }}).
+
+# Follow us with our two open mailing lists
+
+* Opendreamkit announces: [opendreamkit-announces@services.cnrs.fr](https://listes.services.cnrs.fr/wws/info/opendreamkit-announces)
+
+* Community discussions: opendreamkit-community@services.cnrs.fr
+
+# Contacts
+
+* ...
+
 
 # Press releases
 
