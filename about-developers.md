@@ -70,7 +70,7 @@ for the Advancement of Mathematics*
 - [15 sites, 50 participants](http://opendreamkit.org/partners)<br>
   In close collaboration with the international community!
 
-- [We recruit](/joinus)
+- [We are recruiting](/joinus)
 
 ---
 
