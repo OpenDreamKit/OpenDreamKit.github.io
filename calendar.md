@@ -2,6 +2,7 @@
 layout: page
 title: OpenDreamKit Events
 id: Calendar
+source: _data/events.yml
 ---
 
 Please find here some past and upcoming events. Events organized by the

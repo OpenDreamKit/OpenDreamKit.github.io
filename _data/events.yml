@@ -28,3 +28,7 @@ ExternalEvents:
       start: 2016-01-18
       end: 2016-01-23
       url: http://www.codima.ac.uk/events/
+    - title: Paris-Saclay Center for Data Science - Open Software Initiative (OSI) day
+      start: 2016-01-26
+      end: 2016-01-26
+      url: https://indico.lal.in2p3.fr/event/2987/
