@@ -36,3 +36,4 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 # Press releases
 
 * [05 Jul 2015, University of Oxford](http://www.cs.ox.ac.uk/news/954-full.html)
+* October 2015: the German interest group "[Fachgruppe Computer Algebra](http://www.fachgruppe-computeralgebra.de/)" is going to publish an article about the OpenDreamKit project in its [journal](http://www.fachgruppe-computeralgebra.de/rundbrief/)
