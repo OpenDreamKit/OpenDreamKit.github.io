@@ -10,6 +10,7 @@ sites:
       - name: Viviane Pons
         homepage: 'https://www.lri.fr/~pons/'
         twitter: pyviv
+        roles: site lead
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
@@ -62,12 +63,14 @@ sites:
       - name: Hans Fangohr
         homepage: 'http://www.southampton.ac.uk/~fangohr'
         twitter: ProfCompMod
+        roles: site lead, Quality Review Board lead
       - name: Ian Hawke
   - name: University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
     members:
       - name: Steve Linton
+        roles: coordinator deputy
       - name: Alexander Konovalov
         homepage: http://blogs.cs.st-andrews.ac.uk/alexk/
         github: alex-konovalov
@@ -79,6 +82,7 @@ sites:
     homepage: 'http://www.jacobs-university.de/'
     members:
       - name: Michael Kohlhase
+        roles: lead WP6
       - name: Florian Rabe
       - name: Christian Maeder
       - name: Mihnea Iancu
