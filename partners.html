@@ -22,6 +22,7 @@ source: _data/partners.yml
     {% if m.twitter %}
     <a href="https://twitter.com/@{{ m.twitter }}" target="_blank"><img class="icon" src="../public/twitter.png" alt="@{{ m.twitter }}"></a>
     {% endif %}
+    {% if m.roles %}: {{ m.roles }}{% endif %}
   </li>
   {% endfor %}
 </ul>
