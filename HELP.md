@@ -78,6 +78,8 @@ gem install github-pages
 Note that you will need Ruby headers (`ruby-dev` package on Ubuntu) in
 order to compile C dependencies.
 
+On OS X, you can just type `sudo gem install github-pages`.
+
 Now you can `cd` into your local clone of the repository and launch
 the compilation by
 
