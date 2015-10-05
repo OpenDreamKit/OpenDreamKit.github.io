@@ -29,9 +29,9 @@ ExternalEvents:
       end: 2015-11-21
       url: http://www.codima.ac.uk/school2015/
     - title: 1st Joint GAP-SageMath days
-      start: 2016-01-18
+      start: 2016-01-13
       end: 2016-01-23
-      url: http://www.codima.ac.uk/events/
+      url: http://gapdays.de/gap-sage-days2016/
     - title: Paris-Saclay Center for Data Science - Open Software Initiative (OSI) day
       start: 2016-01-26
       end: 2016-01-26
