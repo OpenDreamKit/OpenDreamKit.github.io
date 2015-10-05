@@ -35,6 +35,6 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 # Press releases
 
-* [02 Jul 2015, University of Southampton](http://www.southampton.ac.uk/engineering/news/2015/07/01-eu-open-source-software-project.page)
+* 02 Jul 2015, University of Southampton, [EU Open source software project receives green light](http://cmg.soton.ac.uk/news/2015/07/open-source-software-project-receives-green/)
 * [05 Jul 2015, University of Oxford](http://www.cs.ox.ac.uk/news/954-full.html)
 * October 2015: the German interest group "[Fachgruppe Computer Algebra](http://www.fachgruppe-computeralgebra.de/)" is going to publish an article about the OpenDreamKit project in its [journal](http://www.fachgruppe-computeralgebra.de/rundbrief/)
