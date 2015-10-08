@@ -40,7 +40,7 @@ sites:
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
   - name: University of Kaiserslautern
     logo:
-  -homepage: 'http://www.uni-kl.de/startseite/'
+    homepage: 'http://www.uni-kl.de/startseite/'
     members:
       - name: Prof. Dr. Wolfram Decker
   - name: University of Oxford
