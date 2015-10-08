@@ -7,10 +7,13 @@ sites:
         homepage: 'http://Nicolas.Thiery.name'
         roles: coordinator
         github: nthiery
+      - name: Benoît Pilorget
+        homepage: 'https://fr.linkedin.com/pub/beno%C3%AEt-pilorget/84/5b3/430'
+        roles: project manager
       - name: Viviane Pons
         homepage: 'https://www.lri.fr/~pons/'
         twitter: pyviv
-        roles: site lead
+        roles: site leader
       - name: Florent Hivert
       - name: Samuel Lelièvre
       - name: Loïc Gouarin
@@ -36,7 +39,7 @@ sites:
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
   - name: University of Kaiserslautern
-  -logo: 
+    logo: tu-kl_logo.png
   -homepage: 'http://www.uni-kl.de/startseite/'
     members:
       - name: Prof. Dr. Wolfram Decker
