@@ -161,7 +161,7 @@ sites:
     members:
       - name: Paul-Olivier Dehaye
         homepage: 'http://user.math.uzh.ch/dehaye/'
-        role: site leader
+        roles: site leader
         twitter: 'https://twitter.com/podehaye'
         github: pdehaye
   - name: Logilab
@@ -171,7 +171,7 @@ sites:
     members:
       - name: Florent Cayré
         homepage: 'https://www.logilab.fr/card/florent.cayre'
-        role: site leader
+        roles: site leader
         github: fcayre
       - name: Olivier Cayrol
         homepage: 'https://www.logilab.fr/card/olivier.cayrol'
@@ -188,7 +188,7 @@ sites:
     members:
       - name: Hans Petter Langtangen
         homepage: 'http://www.simula.no/people/hpl'
-        role: site leader
+        roles: site leader
         github: hplgit
       - name: Min Ragan-Kelley
         twitter: 'https://twitter.com/minrk'
