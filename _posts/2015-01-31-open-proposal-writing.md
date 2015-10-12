@@ -226,7 +226,7 @@ We used a private mailing list. I believe that this helped people speak
 openly on more sensitive matters. But that's debatable. Still we were
 liberal in including interested external people to get feedback.
 
-Most of the communication went on this mailing list; roughly 1200
+Most of the communication went on this mailing list; roughly ~3000
 e-mails; with 400 of them in the last two days; crazy ...
 
 The good thing was that everybody could see what was going on. That's
