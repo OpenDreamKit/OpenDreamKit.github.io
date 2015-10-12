@@ -74,7 +74,7 @@ Target features:
   research, from **initial exploration** to **publication**, **teaching**,
   and **outreach**
 
-- Performance, flexibility, ease of use
+- Performance, robustness, flexibility, ease of installation and use
 
 - Research on social aspects of collaborative software development in
   mathematics
