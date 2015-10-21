@@ -119,4 +119,6 @@ collaborations with the worldwide community.
 
 ### Working plan for the project 
 
-We have set various [milestones and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue)  we need to reach, thus by writing/editing deliverables
+We have set various [milestones and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue)  we need to accomplish, thus by writing and/or editing deliverables
+
+Objectives
