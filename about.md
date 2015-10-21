@@ -117,6 +117,6 @@ By definition this project will be mostly funding actions in Europe;
 however those actions will be carried out, as usual, in close
 collaborations with the worldwide community.
 
-### Working plan for the project
+### Working plan for the project 
 
-We have set various milestones and tasks we need to reach, thus by writing/editing deliverables
+We have set various [milestones and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue)  we need to reach, thus by writing/editing deliverables
