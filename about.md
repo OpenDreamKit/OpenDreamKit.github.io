@@ -116,3 +116,7 @@ together on joint needs.
 By definition this project will be mostly funding actions in Europe;
 however those actions will be carried out, as usual, in close
 collaborations with the worldwide community.
+
+### Working plan for the project
+
+We have set various milestones and tasks we need to reach, thus by writing/editing deliverables
