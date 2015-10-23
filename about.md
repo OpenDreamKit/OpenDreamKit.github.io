@@ -119,6 +119,44 @@ collaborations with the worldwide community.
 
 ### Working plan for the project 
 
-We have set various [milestones and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue)  we need to accomplish, thus by writing and/or editing deliverables
+We have set various [objectives and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue). The 9 objectives must be reached thanks to tasks, tasks themselves divided into 7 workpackages (WP 1 being devoted to administration and coordination). Tasks are accomplished by writing and/or editing deliverables:  
 
 Objectives
+
+1 - Develop and standardise math soft and data for VRE
+
+    # [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+
+2 - Develop core VRE components
+
+    # WP3 , WP4, WP5, WP6
+
+3 - Bring together communities
+
+    # WP2, WP3
+
+4 - Update a range of softwares
+
+    # WP3, WP5
+
+5 - Foster a sustainable ecosystem
+
+    # WP3 , WP4, WP5, WP6
+
+6 - Explore social aspects
+
+    # WP7
+
+7 - Identify and extend ontologies
+
+    # WP6
+
+8 - Effectiveness of the VRE
+
+    # WP2, WP7
+
+9 - Effective dissemination
+
+    # WP2, WP7
+    
+
