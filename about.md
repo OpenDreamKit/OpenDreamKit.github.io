@@ -119,7 +119,7 @@ collaborations with the worldwide community.
 
 ### Working plan for the project 
 
-We have set various [objectives and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue). The 9 objectives must be reached thanks to tasks, tasks themselves divided into 7 workpackages (WP 1 being devoted to administration and coordination). Tasks are accomplished by writing and/or editing deliverables:  
+We have set various [objectives and tasks](https://github.com/OpenDreamKit/OpenDreamKit/issues?page=1&q=is%3Aopen+is%3Aissue). The 9 objectives must be reached thanks to tasks, tasks themselves divided into 7 workpackages. The various tasks are considered accomplished after the deliverable related to it is edited and/or published:  
 
 OBJECTIVES
 
