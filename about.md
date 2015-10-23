@@ -125,7 +125,7 @@ Objectives
 
 1 - Develop and standardise math soft and data for VRE
 
-    # [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+[WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
 
 2 - Develop core VRE components
 
