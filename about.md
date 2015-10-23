@@ -124,31 +124,31 @@ We have set various [objectives and tasks](https://github.com/OpenDreamKit/OpenD
 OBJECTIVES
 
 1 - Develop and standardise math soft and data for VRE
-- [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+-  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
 
 2 - Develop core VRE components
-- [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+ -  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
 
 3 - Bring together communities
 - [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3)
 
 4 - Update a range of softwares
-- [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5)
+-  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5)
 
 5 - Foster a sustainable ecosystem
-- [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+-  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
 
 6 - Explore social aspects
-- [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
+-  [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
 
 7 - Identify and extend ontologies
 - [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
 
 8 - Effectiveness of the VRE
-- [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
+-  [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
 
 9 - Effective dissemination
-- [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
+-  [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
     
 Nb: [Work Package 1 is devoted to management, coordination and communication](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP1)
 
