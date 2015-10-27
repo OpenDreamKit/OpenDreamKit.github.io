@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenDreamKit Events
+title: Events
 id: Calendar
 source: _data/events.yml
 ---
