@@ -117,38 +117,22 @@ By definition this project will be mostly funding actions in Europe;
 however those actions will be carried out, as usual, in close
 collaborations with the worldwide community.
 
-### Work plan for the project 
+### Work plan
 
-We have set various objectives and tasks. The 9 objectives must be reached thanks to [tasks](https://github.com/OpenDreamKit/OpenDreamKit/labels/task), which are divided into 7 workpackages. The various tasks are considered accomplished after the [deliverables](https://github.com/OpenDreamKit/OpenDreamKit/labels/deliverable) related to them are implemented and/or published:  
+We have set various objectives and tasks. The nine objectives must be
+reached thanks to
+[tasks](https://github.com/OpenDreamKit/OpenDreamKit/labels/task),
+which are divided into seven workpackages. The various tasks are
+considered accomplished after the
+[deliverables](https://github.com/OpenDreamKit/OpenDreamKit/labels/deliverable)
+related to them are implemented and/or published.
 
-OBJECTIVES
+#### Work Packages
 
-1 - Develop and standardise math soft and data for VRE
--  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+{% for wp in site.data.workpackages %}
+- [WP{{forloop.index}}: {{wp.title}}](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP{{forloop.index}}){% endfor %}
 
-2 - Develop core VRE components
- -  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
+#### Objectives
 
-3 - Bring together communities
-- [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3)
-
-4 - Update a range of softwares
--  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5)
-
-5 - Foster a sustainable ecosystem
--  [WP3](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP3) , [WP4](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP4), [WP5](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP5), [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
-
-6 - Explore social aspects
--  [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
-
-7 - Identify and extend ontologies
-- [WP6](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP6)
-
-8 - Effectiveness of the VRE
--  [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
-
-9 - Effective dissemination
--  [WP2](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP2), [WP7](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP7)
-    
-Nb: [Work Package 1 is devoted to management, coordination and communication](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP1)
-
+{% for objective in site.data.objectives %}
+- {{ objective.title }}: {% for wp in objective.WP %}[WP{{wp}}](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP{{wp}}){% if forloop.last == false %},{% endif %} {% endfor %}{% endfor %}
