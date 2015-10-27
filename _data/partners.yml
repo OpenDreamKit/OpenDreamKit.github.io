@@ -53,7 +53,7 @@ sites:
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
         github: jgdumas
   - name: University of Kaiserslautern
-    logo: tu-kl_logo.png
+    logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
     members:
       - name: Prof. Dr. Wolfram Decker
@@ -72,7 +72,7 @@ sites:
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
   - name: University of Sheffield
-    logo: 
+    logo: sheffield_logo.gif
     homepage: 'http://www.sheffield.ac.uk/'
     members:
       - name: Neil Lawrence
