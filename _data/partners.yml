@@ -5,7 +5,7 @@ sites:
     members:
       - name: Nicolas M. Thiéry
         homepage: 'http://Nicolas.Thiery.name'
-        roles: project-coordinator
+        roles: project-coordinator, wp1-leader
         github: nthiery
       - name: Benoît Pilorget
         homepage: 'https://fr.linkedin.com/pub/beno%C3%AEt-pilorget/84/5b3/430'
@@ -15,7 +15,7 @@ sites:
         homepage: 'https://www.lri.fr/~pons/'
         github: VivianePons
         twitter: pyviv
-        roles: site-leader
+        roles: site-leader, wp2-leader
       - name: Florent Hivert
         homepage: 'https://www.lri.fr/~hivert/'
         github: hivert
@@ -47,7 +47,7 @@ sites:
     members:
       - name: Clément Pernet
         homepage: 'http://membres-liglab.imag.fr/pernet'
-        roles: site-leader
+        roles: site-leader, wp5-leader
         github: ClementPernet
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
@@ -65,7 +65,7 @@ sites:
     members:
       - name: Dmitrii Pasechnik
         homepage: 'https://www.cs.ox.ac.uk/people/dmitrii.pasechnik/'
-        roles: site-leader
+        roles: site-leader, wp7-leader
         github: dimpase 
       - name: Ursula Martin
         homepage: https://www.cs.ox.ac.uk/people/ursula.martin/
@@ -126,7 +126,7 @@ sites:
     members:
       - name: Michael Kohlhase
         homepage: 'https://kwarc.info/people/mkohlhase'
-        roles: site-leader
+        roles: site-leader, wp6-leader
         github: kohlhase
       - name: Florian Rabe
         homepage: 'https://kwarc.info/people/frabe/'
@@ -141,7 +141,7 @@ sites:
     members:
       - name: Luca De Feo
         homepage: 'http://defeo.lu/'
-        roles: site-leader
+        roles: site-leader, wp3-leader
         github: defeo
         twitter: luca_defeo
         orcid:  0000-0002-9321-0773
@@ -189,7 +189,7 @@ sites:
     members:
       - name: Hans Petter Langtangen
         homepage: 'http://www.simula.no/people/hpl'
-        roles: site-leader
+        roles: site-leader, wp4-leader
         github: hplgit
       - name: Min Ragan-Kelley
         twitter: 'https://twitter.com/minrk'
