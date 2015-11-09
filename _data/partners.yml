@@ -5,17 +5,17 @@ sites:
     members:
       - name: Nicolas M. Thiéry
         homepage: 'http://Nicolas.Thiery.name'
-        roles: project coordinator
+        roles: project-coordinator
         github: nthiery
       - name: Benoît Pilorget
         homepage: 'https://fr.linkedin.com/pub/beno%C3%AEt-pilorget/84/5b3/430'
-        roles: project manager
+        roles: project-manager
         github: bpilorget
       - name: Viviane Pons
         homepage: 'https://www.lri.fr/~pons/'
         github: VivianePons
         twitter: pyviv
-        roles: site leader
+        roles: site-leader
       - name: Florent Hivert
         homepage: 'https://www.lri.fr/~hivert/'
         github: hivert
@@ -32,7 +32,7 @@ sites:
     members:
       - name: Vincent Delecroix
         homepage: 'http://www.labri.fr/perso/vdelecro/'
-        roles: site leader
+        roles: site-leader
         github: videlec
       - name: Karim Belabas
         homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
@@ -47,7 +47,7 @@ sites:
     members:
       - name: Clément Pernet
         homepage: 'http://membres-liglab.imag.fr/pernet'
-        roles: site leader
+        roles: site-leader
         github: ClementPernet
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
@@ -65,7 +65,7 @@ sites:
     members:
       - name: Dmitrii Pasechnik
         homepage: 'https://www.cs.ox.ac.uk/people/dmitrii.pasechnik/'
-        roles: site leader
+        roles: site-leader
         github: dimpase 
       - name: Ursula Martin
         homepage: https://www.cs.ox.ac.uk/people/ursula.martin/
@@ -77,7 +77,7 @@ sites:
     members:
       - name: Neil Lawrence
         homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
-        roles: site leader
+        roles: site-leader
         github: lawrennd
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
@@ -88,7 +88,7 @@ sites:
     members:
       - name: Marcin Kostur
         homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/25-dr-hab-prof-us-marcin-kostur'
-        roles: site leader
+        roles: site-leader
         github: marcinofulus
       - name: Jerzy Łuczka
         homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/5-prof-dr-hab-jerzy-luczka-head'
@@ -101,7 +101,7 @@ sites:
       - name: Hans Fangohr
         homepage: 'http://www.southampton.ac.uk/~fangohr'
         twitter: ProfCompMod
-        roles: site leader, Quality Review Board lead
+        roles: site-leader, qr-board-leader
         github: fangohr
       - name: Ian Hawke
         homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
@@ -112,7 +112,7 @@ sites:
     members:
       - name: Steve Linton
         homepage: 'https://www.cs.st-andrews.ac.uk/directory/person?id=sal'
-        roles: project deputy coordinator, site leader
+        roles: project-deputy, site-leader
         github: stevelinton
       - name: Alexander Konovalov
         homepage: 'http://blogs.cs.st-andrews.ac.uk/alexk/'
@@ -126,7 +126,7 @@ sites:
     members:
       - name: Michael Kohlhase
         homepage: 'https://kwarc.info/people/mkohlhase'
-        roles: site leader
+        roles: site-leader
         github: kohlhase
       - name: Florian Rabe
         homepage: 'https://kwarc.info/people/frabe/'
@@ -141,9 +141,10 @@ sites:
     members:
       - name: Luca De Feo
         homepage: 'http://defeo.lu/'
-        roles: site leader
+        roles: site-leader
         github: defeo
         twitter: luca_defeo
+        orcid:  0000-0002-9321-0773
       - name: Nicolas Gama
         homepage: 'http://gama.nicolas.free.fr/'
         github: ngama75
@@ -153,7 +154,7 @@ sites:
     members:
       - name: John E. Cremona
         homepage: 'http://homepages.warwick.ac.uk/staff/J.E.Cremona/'
-        roles: site leader
+        roles: site-leader
         github: JohnCremona
   - name: Universität Zurich
     logo: University_of_Zurich_Logo.svg
@@ -161,7 +162,7 @@ sites:
     members:
       - name: Paul-Olivier Dehaye
         homepage: 'http://user.math.uzh.ch/dehaye/'
-        roles: site leader
+        roles: site-leader
         twitter: 'https://twitter.com/podehaye'
         github: pdehaye
   - name: Logilab
@@ -171,7 +172,7 @@ sites:
     members:
       - name: Florent Cayré
         homepage: 'https://www.logilab.fr/card/florent.cayre'
-        roles: site leader
+        roles: site-leader
         github: fcayre
       - name: Olivier Cayrol
         homepage: 'https://www.logilab.fr/card/olivier.cayrol'
@@ -188,7 +189,7 @@ sites:
     members:
       - name: Hans Petter Langtangen
         homepage: 'http://www.simula.no/people/hpl'
-        roles: site leader
+        roles: site-leader
         github: hplgit
       - name: Min Ragan-Kelley
         twitter: 'https://twitter.com/minrk'
@@ -201,3 +202,15 @@ partners:
   - name: CNRS
     logo: CNRS.svg
     homepage: 'http://www.cnrs.fr'
+
+roles:
+  site-leader:
+    desc: Site leader
+  project-coordinator:
+    desc: Project coordinator
+  project-manager:
+    desc: Project manager
+  qr-board-leader:
+    desc: Quality review board leader
+  project-deputy:
+    desc: Project deputy coordinator

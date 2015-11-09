@@ -5,8 +5,9 @@
     display: inline;
 }
 
-img.icon {
+svg.icon, img.icon {
     max-height: 0.8em;
+    max-width: 0.9em;
     vertical-align: baseline;
 }
 
@@ -28,5 +29,19 @@ img.icon {
     a {
 	margin: 10px;
 	img { height: 60px; }
+    }
+}
+
+#legend {
+    &::before {
+	content: " ";
+	display: block;
+	width: 4em;
+	border-top: solid thin black;
+	margin-top: 1em;
+    }
+    span {
+	white-space: nowrap;
+	margin-right: 1em;
     }
 }
