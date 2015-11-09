@@ -144,6 +144,7 @@ sites:
         roles: site leader
         github: defeo
         twitter: luca_defeo
+        orcid:  0000-0002-9321-0773
       - name: Nicolas Gama
         homepage: 'http://gama.nicolas.free.fr/'
         github: ngama75

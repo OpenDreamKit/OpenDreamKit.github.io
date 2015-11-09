@@ -16,6 +16,9 @@ source: _data/partners.yml
     {% if m.homepage %}<a href="{{ m.homepage }}" target="_blank">{% endif %}
       {{ m.name }}
       {% if m.homepage %}</a>{% endif %}
+    {% if m.orcid %}
+    <a href="https://orcid.org/{{ m.orcid }}" target="_blank"><img class="icon" src="../public/orcid.png" alt="orcid:{{ m.orcid }}"></a>
+    {% endif %}
     {% if m.github %}
     <a href="https://github.com/{{ m.github }}" target="_blank"><img class="icon" src="../public/github.png" alt="@{{ m.github }}"></a>
     {% endif %}
