@@ -11,6 +11,9 @@ To get the latest news on {{ site.title }} in a timely manner:
 * Follow [@{{ site.author.twitter }}](https://twitter.com/{{ site.author.twitter }}) on [![](../public/twitter.png){:.icon}
 Twitter](https://twitter.com/{{ site.author.twitter }}).
 * Follow our development on [![](../public/github.png){:.icon} GitHub](https://github.com/{{ site.github.owner_name }}).
+* Live chat with us on
+  [Gitter](https://gitter.im/OpenDreamKit/discuss) (we also have a
+  [private room](https://gitter.im/OpenDreamKit)).
 
 # Follow us with our two open mailing lists
 
@@ -26,8 +29,6 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * Steering committee: [steering@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-steering_committee)
 * Advisory board: [advisory@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-advisory_board)
 * Administration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
-
-
 
 
 # Press releases
