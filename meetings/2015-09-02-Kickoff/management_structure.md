@@ -24,7 +24,7 @@ Composition: as originaly planned: Coordinator + WP leaders
 - WP 4: Min Ragan-Kelley (Simula)
 - WP 5: Clément Pernet
 - WP 6: Michael Kohlhase
-- WP 7: Ursula Martin (to be confirmed; TODO: contact the three Oxford participants)
+- WP 7: Dmitrii Pasechnik
 
 ## Steering committee
 
