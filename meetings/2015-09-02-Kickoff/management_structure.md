@@ -33,22 +33,22 @@ together as many of the members
 
 Composition: as originaly planned: Coordinator + site leaders
 
-Grenoble: Clement.Pernet
-Oxford: Dima Pasechnik
-Southampton: Hans Fangohr
-Simula: Martin Sandve Alnæs
-Warwick: John Cremona
-UVSQ: Luca De Feo
-Silesia: Marcin Kostur
-Bremen: Michael Kohlhase
-Sheffield: Neil Lawrence
-Zürich: Paul-Olivier Dehaye
-St Andrews: Steve.Linton
-Bordeaux: Vincent Delecroix?
-Orsay: Viviane Pons
-Kaiserslautern: Wolfram Decker
-Logilab: Florent Cayré
-Coordinator: Nicolas M. Thiéry
+- Grenoble: Clement.Pernet
+- Oxford: Dima Pasechnik
+- Southampton: Hans Fangohr
+- Simula: Martin Sandve Alnæs
+- Warwick: John Cremona
+- UVSQ: Luca De Feo
+- Silesia: Marcin Kostur
+- Bremen: Michael Kohlhase
+- Sheffield: Neil Lawrence
+- Zürich: Paul-Olivier Dehaye
+- St Andrews: Steve.Linton
+- Bordeaux: Vincent Delecroix?
+- Orsay: Viviane Pons
+- Kaiserslautern: Wolfram Decker
+- Logilab: Florent Cayré
+- Coordinator: Nicolas M. Thiéry
 
 # Advisory board / End User Group
 
