@@ -41,3 +41,7 @@ us. Loving math is a plus but not a necessity.
 - [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
   starting in March 2016 for one year.
 
+# University of Southampton, United Kingdom
+
+- [A full time researcher/developer position](https://jobs.soton.ac.uk/Vacancy.aspx?ref=657815AK)
+  starting January 2016 for initially one year. Deadline for applications: 15 December 2015.
