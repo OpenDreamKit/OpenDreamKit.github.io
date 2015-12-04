@@ -32,12 +32,12 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 Subscribe to Work Package groups
   
-* WP2: [dissemination@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp2)
-* WP3: [component-architecture@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp3)
-* WP4: [user-interfaces@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp4)
-* WP5: [hpc@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp5)
-* WP6: [bases@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp6)
-* WP7: [social@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp7)
+* WP2: [dissemination@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp2) OR [wp2@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp2)
+* WP3: [component-architecture@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp3) OR [wp3@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp3)
+* WP4: [user-interfaces@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp4) OR [wp4@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp4)
+* WP5: [hpc@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp5) OR [wp5@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp5)
+* WP6: [bases@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp6) OR [wp6@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp6)
+* WP7: [social@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp7) OR [wp7@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp7)
 
 
 
