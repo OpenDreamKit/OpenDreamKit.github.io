@@ -8,8 +8,8 @@
   of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
 
 ## Steering committee (to be held during WP6 workshop or before/after?)
--Data Management plan
--Adoption of final Consortium Agreement
+- Data Management plan
+- Adoption of final Consortium Agreement
 - etc
 
 ## Brainstorms and coding sprints
