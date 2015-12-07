@@ -4,7 +4,7 @@ title: EU visibility, Disclaimer
 ---
 
 
-EU VISIBILITY
+# EU VISIBILITY
 
 OpenDreamKit being funded by Horizon 2020, the EU asks us to promote its financial support. The obligation for EU visibility includes:
 
@@ -20,7 +20,8 @@ For the communication actions and dissemination listed above, they must:
 (a)	Display the EU emblem
 
 (b)	Include the following text:
-    - For communication activities: ``We acknowledge financial support from the
+
+ - For communication activities: ``We acknowledge financial support from the
 [OpenDreamKit](http://opendreamkit.org/)
 [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
@@ -30,7 +31,7 @@ project (#<a href="http://cordis.europa.eu/project/rcn/198334_en.html">676541</a
 
 
 
-DISCLAIMER
+# DISCLAIMER
 
 Major communication productions must include when possible a fixed text indicating the content reflects only the author’s view (and not the EU point of view). 
 The text is as following
@@ -45,7 +46,7 @@ Are concerned:
 
 
 
-PLEASE: remember to contact Benoît Pilorget and Viviane Pons who is in charge of the project management and of the dissemination work package for major communication and dissemination results and actions (press releases, interviews, publications…)! You can contact them before the actions if you have any doubt concerning visibility or else, but most importantly after the results of the actions in order to promote them on the website.
+PLEASE: remember to contact Benoît Pilorget and Viviane Pons who are in charge of the project management and of the dissemination work package for major communication and dissemination results and actions (press releases, interviews, publications…)! You can contact them before the actions if you have any doubt concerning visibility or else, but most importantly after the results of the actions in order to promote them on the website.
 
 
 
