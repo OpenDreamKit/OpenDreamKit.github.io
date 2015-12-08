@@ -3,7 +3,7 @@ layout: post
 title: Knowledge representation in mathematical software and databases, St Andrews, University of St Andrews, January the 25-26-27th of 2016
 ---
 
-This meeting is taking place at the University of Saint Andrews, UK, after the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in Saint Andrews as well.
+This meeting is taking place at the University of St Andrews, UK, after the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in St Andrews as well.
 
 This OpenDreamKit consortium workshop is devoted to the WP6 and its theme is as following: Knowledge representation in mathematical software and databases.
 
@@ -24,7 +24,7 @@ For more information you may contact:
 
   - Knowledge representation in FindStat (Viviane)
   - Knowledge representation in LMFDB (Paul)
-  - Knowledge representation in GAP: the GAP category system (???)
+  - Knowledge representation in GAP: the GAP category system (Markus)
   - Knowledge representation in Sage: the Sage category system (Nicolas)
   - A proof-of-concept category-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
   - Commonalities in "dumping math data on the web" process
@@ -45,8 +45,3 @@ For more information you may contact:
   - Data Management plan
   - Adoption of final Consortium Agreement
   - etc
-
-
-
-
-
