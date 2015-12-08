@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Knowledge representation in mathematical software and databases, St Andrews, St Andrews University, January the 25-26-27th of 2016
+title: Knowledge representation in mathematical software and databases, St Andrews, University of St Andrews, January the 25-26-27th of 2016
 ---
 
-This meeting is taking place at the Saint Andrews University, UK, after the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in Saint Andrews as well.
+This meeting is taking place at the University of Saint Andrews, UK, after the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in Saint Andrews as well.
 
 This OpenDreamKit consortium workshop is devoted to the WP6 and its theme is as following: Knowledge representation in mathematical software and databases.
 
