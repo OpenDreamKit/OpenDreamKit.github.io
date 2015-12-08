@@ -16,7 +16,7 @@ For more information you may contact:
 - Benoît Pilorget or Alexander Konovalov (local organiser) for workshop organisation
 
 
-# Draft agenda
+# Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commit/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8#commitcomment-14848042)
 
 - Presentations (first day)
 
