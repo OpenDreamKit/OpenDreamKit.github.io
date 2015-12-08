@@ -5,7 +5,7 @@ The idea for the presentations is that we efficiently collect and share informat
 
 1. Overview at a high level of your system
 
-Give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve with your system. This means introducing the concepts that are important, focusing on how they relate, rather than their definition. This is not concerned with questions of implementation of your system, yet. 
+ Give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve with your system. This means introducing the concepts that are important, focusing on how they relate, rather than their definition. This is not concerned with questions of implementation of your system, yet. 
 
 1. What data do you have?
  1. Structure
