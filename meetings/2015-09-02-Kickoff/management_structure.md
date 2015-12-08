@@ -24,7 +24,7 @@ Composition: as originaly planned: Coordinator + WP leaders
 - WP 4: Min Ragan-Kelley (Simula)
 - WP 5: Clément Pernet
 - WP 6: Michael Kohlhase
-- WP 7: Ursula Martin (to be confirmed; TODO: contact the three Oxford participants)
+- WP 7: Dmitrii Pasechnik
 
 ## Steering committee
 
@@ -33,22 +33,22 @@ together as many of the members
 
 Composition: as originaly planned: Coordinator + site leaders
 
-Grenoble: Clement.Pernet
-Oxford: Dima Pasechnik
-Southampton: Hans Fangohr
-Simula: Martin Sandve Alnæs
-Warwick: John Cremona
-UVSQ: Luca De Feo
-Silesia: Marcin Kostur
-Bremen: Michael Kohlhase
-Sheffield: Neil Lawrence
-Zürich: Paul-Olivier Dehaye
-St Andrews: Steve.Linton
-Bordeaux: Vincent Delecroix?
-Orsay: Viviane Pons
-Kaiserslautern: Wolfram Decker
-Logilab: Florent Cayré
-Coordinator: Nicolas M. Thiéry
+- Grenoble: Clement.Pernet
+- Oxford: Dima Pasechnik
+- Southampton: Hans Fangohr
+- Simula: Martin Sandve Alnæs
+- Warwick: John Cremona
+- UVSQ: Luca De Feo
+- Silesia: Marcin Kostur
+- Bremen: Michael Kohlhase
+- Sheffield: Neil Lawrence
+- Zürich: Paul-Olivier Dehaye
+- St Andrews: Steve.Linton
+- Bordeaux: Vincent Delecroix?
+- Orsay: Viviane Pons
+- Kaiserslautern: Wolfram Decker
+- Logilab: Florent Cayré
+- Coordinator: Nicolas M. Thiéry
 
 # Advisory board / End User Group
 

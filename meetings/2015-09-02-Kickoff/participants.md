@@ -18,6 +18,7 @@ title: "Kickoff meeting: participants"
 - Sebastian Gutsche, University of Kaiserslautern
 - Frederic Han, Universite Paris 7
 - William Hart, University of Kaiserslautern
+- Wolfram Decker, University of Kaiserslautern
 - Konrad Hinsen, CNRS
 - Florent Hivert, Université Paris-Sud
 - Vincent Knight, Cardiff University

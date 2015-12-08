@@ -8,16 +8,16 @@ title: Follow and contact us
 To get the latest news on {{ site.title }} in a timely manner:
 
 * Add our [![](../public/feed.png){:.icon} Atom Feed](../atom.xml) to your feed reader.
-
 * Follow [@{{ site.author.twitter }}](https://twitter.com/{{ site.author.twitter }}) on [![](../public/twitter.png){:.icon}
 Twitter](https://twitter.com/{{ site.author.twitter }}).
-
 * Follow our development on [![](../public/github.png){:.icon} GitHub](https://github.com/{{ site.github.owner_name }}).
+* Live chat with us on
+  [Gitter](https://gitter.im/OpenDreamKit/discuss) (we also have a
+  [private room](https://gitter.im/OpenDreamKit)).
 
 # Follow us with our two open mailing lists
 
 * Opendreamkit news: [news@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-news)
-
 * Community discussions: [community@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-community)
 
 # Contacts
@@ -29,6 +29,16 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * Steering committee: [steering@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-steering_committee)
 * Advisory board: [advisory@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-advisory_board)
 * Administration: [admin@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-administration)
+
+Subscribe to Work Package groups
+  
+* WP2: [dissemination@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp2) OR [wp2@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp2)
+* WP3: [component-architecture@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp3) OR [wp3@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp3)
+* WP4: [user-interfaces@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp4) OR [wp4@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp4)
+* WP5: [hpc@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp5) OR [wp5@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp5)
+* WP6: [bases@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp6) OR [wp6@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp6)
+* WP7: [social@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp7) OR [wp7@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-wp7)
+
 
 
 

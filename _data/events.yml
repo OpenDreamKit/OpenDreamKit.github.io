@@ -7,6 +7,9 @@ InternalEvents:
       start: 2016-01-11
       end: 2016-01-16
       url: http://pari.math.u-bordeaux.fr/Events/PARI2016/
+    - title: Data Knowledge workshop
+      start: 2016-01-25
+      end: 2016-01-28
 ExternalEvents:
     - title: 3rd GAP Days
       start: 2015-09-13
@@ -36,3 +39,7 @@ ExternalEvents:
       start: 2015-10-26
       end: 2015-10-26
       url: https://indico.lal.in2p3.fr/event/2987/
+    - title: Colloque au sujet de la recherche reproductible en calcul scientifique
+      start: 2015-12-03
+      end: 2015-12-04
+      url: http://www.lestudium-ias.com/event/retour-experiences-recherche-reproductible-r4

@@ -116,3 +116,23 @@ together on joint needs.
 By definition this project will be mostly funding actions in Europe;
 however those actions will be carried out, as usual, in close
 collaborations with the worldwide community.
+
+### Work plan
+
+We have set various objectives and tasks. The nine objectives must be
+reached thanks to
+[tasks](https://github.com/OpenDreamKit/OpenDreamKit/labels/task),
+which are divided into seven workpackages. The various tasks are
+considered accomplished after the
+[deliverables](https://github.com/OpenDreamKit/OpenDreamKit/labels/deliverable)
+related to them are implemented and/or published.
+
+#### Work Packages
+
+{% for wp in site.data.workpackages %}
+- [WP{{forloop.index}}: {{wp.title}}](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP{{forloop.index}}){% endfor %}
+
+#### Objectives
+
+{% for objective in site.data.objectives %}
+- {{ objective.title }}: {% for wp in objective.WP %}[WP{{wp}}](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP{{wp}}){% if forloop.last == false %},{% endif %} {% endfor %}{% endfor %}
