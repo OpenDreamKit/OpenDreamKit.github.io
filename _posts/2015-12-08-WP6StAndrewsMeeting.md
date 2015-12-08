@@ -20,11 +20,7 @@ For more information you may contact:
 
 - Presentations (first day)
 
-Mission
-
-- Knowledge first strategy (Michael)
-
-- State of the art
+  - Knowledge first strategy (Michael)
 
   - Knowledge representation in FindStat (Viviane)
   - Knowledge representation in LMFDB (Paul)
@@ -34,9 +30,7 @@ Mission
   - Commonalities in "dumping math data on the web" process
   - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 
-- Tutorial
-
-  Tutorial for MMT
+  - Tutorial for MMT
   
 - Brainstorms and coding sprints (second day)
 
@@ -46,9 +40,7 @@ Mission
   - Proof of concept OMDoc/MMT theory for FindStat
   - Proof of concept category-aware Sage-GAP interface built automatically from the above
   
-- Steering committee (to be held on the Monday or Tuesday)
-
-*Themes to be discussed with the steering committee prior Christmas holidays*
+- Steering committee (to be held on the Monday or Tuesday) *Themes to be discussed with the steering committee prior Christmas holidays*
 
   - Data Management plan
   - Adoption of final Consortium Agreement
