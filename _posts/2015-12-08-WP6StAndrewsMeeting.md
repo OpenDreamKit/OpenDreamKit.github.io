@@ -12,8 +12,8 @@ This OpenDreamKit consortium workshop is devoted to the WP6 and its theme is as 
 Please use this link to subscribe: https://www.eventbrite.com/e/opendreamkit-wp6-workshop-registration-19907319328
 
 For more information you may contact:
-- Michael Kohlhase for science related matters
-- Benoît Pilorget or Alexander Konovalov (local organiser) for workshop organisation
+- [Michael Kohlhase](m.kohlhase@jacobs-university.de) for science related matters 
+- [Benoît Pilorget](benoit.pilorget@lri.fr) (project manager) or [Alexander Konovalov](alexander.konovalov@st-andrews.ac.uk)(local organiser) 
 
 
 # Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commit/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8#commitcomment-14848042)
