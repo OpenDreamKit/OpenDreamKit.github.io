@@ -1,8 +1,11 @@
-The idea for the presentations is that we efficiently collect and share information about knowledge representation in the various systems (in data and software). It is NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation around the following questions. 
+Survey on Knowledge Representation
+==================================
+
+The idea for the presentations is that we efficiently collect and share information about knowledge representation in the various systems (in data and software). It is NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation around the following questions. Feel free to comment on this file/initiate issues to discuss this with us (@pdehaye, @kohlhase, @frabe). 
 
 1. Overview at a high level of your system
 
-Give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve. This means introducing the concepts that are important, focusing on how they relate, rather than their definition. This is not concerned with questions of implementation, yet. 
+Give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve with your system. This means introducing the concepts that are important, focusing on how they relate, rather than their definition. This is not concerned with questions of implementation of your system, yet. 
 
 1. What data do you have?
  1. Structure
