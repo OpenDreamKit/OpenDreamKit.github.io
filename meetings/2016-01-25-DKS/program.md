@@ -14,7 +14,8 @@ The idea here is that we efficiently collect data about knowledge representation
 - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 
 **Tutorial**
-- Tutorial for MMT
+The idea for this session is to see how knowledge representation in [MMT](https://svn.kwarc.info/repos/MMT/doc/html/index.html) could serve as a generic knowledge backbone for integrating the various systems. 
+- Tutorial for MMT (Florian & Michael)
 
 ## Brainstorms and coding sprints (second day)
 - Proof of concept OMDoc/MMT theory for simple Python
