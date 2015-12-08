@@ -1,23 +1,26 @@
-#Explain the MATH in your system#
-i.e. give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve
+The idea for the presentations is that we efficiently collect and share information about knowledge representation in the various systems (in data and software). It is NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation around the following questions. 
 
-#What data do you have?#
-##Structure##
-##Format##
-##How is it produced?##
-##How is it changed?##
-##How do you document it?##
+1. Overview at a high level of your system
+
+Give a 5 minute talk about the mathematics we need to grasp what you are trying to achieve. This means introducing the concepts that are important, focusing on how they relate, rather than their definition. This is not concerned with questions of implementation, yet. 
+
+1. What data do you have?
+ 1. Structure
+ 1. Format
+ 1. How is it produced?
+ 1. How is it changed?
+ 1. How do you document it?
  
 
-##What software do you have?##
-#What custom software are you running#
-#In which language?#
-## 
- 
-##What knowledge do you have?##
-#Sources of external knowledge?#
+1. What software do you have?
+ 1. What custom software are you running
+ 1. In which language?
 
  
-##Mixing##
-#Which knowledge is implicit in the data you have?#
-#Which knowledge is implicit in the software you have?#
+1. What knowledge do you have?
+ 1. Sources of external knowledge?
+
+ 
+1. Mixing
+ 1. Which knowledge is implicit in the data you have?
+ 1. Which knowledge is implicit in the software you have?
