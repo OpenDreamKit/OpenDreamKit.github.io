@@ -8,7 +8,7 @@
 - Knowledge representation in FindStat (Viviane)
 - Knowledge representation in LMFDB (Paul)
 - Knowledge representation in GAP: the GAP category system (???)
-- Knowledge representation in Sage: the Sage category system (Nicolas)
+- Knowledge representation in Sage: the Sage category system (Nicolas) (Paul suggestion: talk about different uses of category framework, including Florian's tricks of adding new axions to check consistency)
 - A proof-of-concept category-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
 - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 
