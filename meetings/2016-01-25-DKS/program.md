@@ -9,7 +9,7 @@
 The idea here is that we efficiently collect and share information about knowledge representation in the various systems. NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation accoring to [this survey](survey-generic.md).
 - Knowledge representation in FindStat (Viviane)
 - Knowledge representation in LMFDB (Paul)
-- Knowledge representation in GAP: the GAP category system (???)
+- Knowledge representation in GAP: the GAP category system (Markus)
 - Knowledge representation in Sage: the Sage category system (Nicolas) (Paul suggestion: talk about different uses of category framework, including Florian's tricks of adding new axions to check consistency)
 - A proof-of-concept Knowledge-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
 - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
