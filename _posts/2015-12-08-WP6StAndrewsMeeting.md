@@ -40,7 +40,7 @@ For more information please contact:
 * Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
 
 
-# Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commit/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8#commitcomment-14848042)
+# Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8/meetings/2016-01-25-DKS/program.md)
 
 - Presentations (first day)
 
