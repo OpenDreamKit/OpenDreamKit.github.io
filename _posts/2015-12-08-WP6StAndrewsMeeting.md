@@ -1,19 +1,43 @@
 ---
 layout: post
-title: Knowledge representation in mathematical software and databases, St Andrews, University of St Andrews, January the 25-26-27th of 2016
+title: Knowledge representation in mathematical software and databases, University of St Andrews, St Andrews, 25th-27th January, 2016
 ---
 
-This meeting is taking place at the University of St Andrews, UK, after the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in St Andrews as well.
+This workshop is taking place at the University of St Andrews, UK. It will be preceded by the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in St Andrews as well, but require separate registration.
 
-This OpenDreamKit consortium workshop is devoted to the WP6 and its theme is as following: Knowledge representation in mathematical software and databases.
+This OpenDreamKit consortium workshop is a part of workpackage on Data/Knowledge/Software-Bases (also known as WP6), and its theme is "Knowledge representation in mathematical software and databases".
 
-# Subscription to the WP6 workshop
+# Registration for the workshop
 
-Please use this link to subscribe: https://www.eventbrite.com/e/opendreamkit-wp6-workshop-registration-19907319328
+Please register via Eventbrite using [this link](https://www.eventbrite.com/e/opendreamkit-wp6-workshop-registration-19907319328).
 
-For more information you may contact:
-  - Michael Kohlhase (m.kohlhase@jacobs-university.de) for science related matters 
-  - Benoît Pilorget (benoit.pilorget@lri.fr)  or Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) 
+# Travel 
+
+The workshop will take place in the Gateway Building (see [OpenStreetMap](http://www.openstreetmap.org/way/27225074#map=19/56.34119/-2.80943)), located 
+in the vicinity of the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see [OpenStreetMap](http://www.openstreetmap.org/way/155223867#map=19/56.34030/-2.80871)). 
+
+For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
+
+UPDATE: The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
+[at least until new year](http://www.bbc.co.uk/news/uk-scotland-35001277). 
+If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
+allow extra time for your journey as trains are expected to be busier than usually.
+See [this ScotRail page](http://www.scotrail.co.uk/frb) for further updates. 
+
+# Accommodation
+
+One of the options is to try the brand new [St Andrews Premier Inn Hotel](http://www.premierinn.com/en/hotel/STALAR/st-andrews) just opened in September 2015. At the moment it offers rooms from £39 per night in Premier Saver tariff (Pre-pay, no amends or refunds) and from £55 per night in Premier Flexible tariff (Amend up to 1pm on arrival days). This hotel is located in the southern part of St Andrews and is in 25 minutes walk from the workshop venue. If you would like to stay there, please make your own arrangements for the booking.
+
+Alternatively, you may ask the organisers to find a place in some B&B. Prices may vary between different B&B. For example, we have offers for single rooms with shared downstairs shower facilities at £35 per night; single en suite at £45 per night; double/twin room at £85 per night (£65 per night for single occupancy). Please contact local organisers if you would like to use this option.
+
+
+# Contact details
+
+For more information please contact:
+
+* Michael Kohlhase (m.kohlhase@jacobs-university.de) for science related matters
+* Benoît Pilorget (benoit.pilorget@lri.fr)
+* Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
 
 
 # Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commit/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8#commitcomment-14848042)
