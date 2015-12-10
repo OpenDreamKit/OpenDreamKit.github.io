@@ -27,6 +27,7 @@ TODO: 3 items about what Open Science is about
 
 - Open publications: arxiv, ...
 - Open source software:
+- Open data and even better open knowledge
 
 Now recognized as *necessary* and *viable*!
 
