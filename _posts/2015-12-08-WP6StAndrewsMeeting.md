@@ -49,7 +49,7 @@ For more information please contact:
 * Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
 
 
-# Draft agenda [Here](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8/meetings/2016-01-25-DKS/program.md)
+# Draft agenda [(Most recent version here)](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8/meetings/2016-01-25-DKS/program.md)
 
 - Presentations (first day)
 
@@ -60,7 +60,6 @@ For more information please contact:
   - Knowledge representation in GAP: the GAP category system (Markus)
   - Knowledge representation in Sage: the Sage category system (Nicolas)
   - A proof-of-concept category-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
-  - Commonalities in "dumping math data on the web" process
   - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 
   - Tutorial for MMT
