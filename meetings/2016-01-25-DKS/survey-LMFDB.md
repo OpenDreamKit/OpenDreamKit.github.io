@@ -1,6 +1,6 @@
 1. Overview at a high level of the LMFDB system
 
- The L-functions and Modular Forms DataBase (http://www.lmfdb.org) aims to aggregate and integrate computational and mathematical knowledge about L-functions and other number theoretic objects, and to present these complex and interconnected objects reliably while maintaining accessibility. At a mathematical level, this could help provide a uniform view of the concept of L-function, objects which can (sometimes conjecturally) be produced out of very different mathematical constructions. The collaboration involves around 50 mathematicians of varying coding skills and with different mathematical expertise.
+ The [L-functions and Modular Forms DataBase](http://www.lmfdb.org) aims to aggregate and integrate computational and mathematical knowledge about L-functions and other number theoretic objects, and to present these complex and interconnected objects reliably while maintaining accessibility. At a mathematical level, this could help provide a uniform view of the concept of L-function, objects which can (sometimes conjecturally) be produced out of very different mathematical constructions. The collaboration involves around 50 mathematicians of varying coding skills and with different mathematical expertise.
 
 1. What data do you have?
  The entirety of the data held by the LMFDB is [accessible through an API](http://www.lmfdb.org/api/). One counts around 30 different types of objects stored, for a total of a few Tb. The data is downloable  [here](http://www.lmfdb.org/data/dump/).
@@ -13,7 +13,7 @@
  
  1. How is it produced?
  Data that ends up in the LMFDB has many different origins. Some are historial computations. Most are done in either GAP, Pari, Sage, Magma, etc, with the person who coded these original sources a member of the LMFDB who aims to make their data more accessible to their peers. Some of the data shown on the website is actually computed on the fly. 
- Data comes in through a variety of ad hoc ways, but essentially always transits through a JSON format before upload ot the Mongo database. At some point there was discussion of allowing anyone to upload their data [http://www.lmfdb.org/upload/?related_to=/](through an online form). This option is still there, but sees little use. 
+ Data comes in through a variety of ad hoc ways, but essentially always transits through a JSON format before upload ot the Mongo database. At some point there was discussion of allowing anyone to upload their data [through an online form](http://www.lmfdb.org/upload/?related_to=/). This option is still there, but sees little use. 
  
  In general, proper referencing of data sources and documentation of its quality is a struggle. 
  
@@ -21,7 +21,7 @@
  Updating is mostly done through some form of overwriting. 
  
  1. How do you document it?
- The various formats are [in the process of being formalised](https://github.com/LMFDB/lmfdb-inventory). The most advanced example is [https://github.com/LMFDB/lmfdb-inventory/blob/master/db-elliptic_curves.md](on elliptic curves). The formalisation format itself does not have a spec. 
+ The various formats are [in the process of being formalised](https://github.com/LMFDB/lmfdb-inventory). The most advanced example is [on elliptic curves](https://github.com/LMFDB/lmfdb-inventory/blob/master/db-elliptic_curves.md). The formalisation format itself does not have a spec. 
 
 1. What knowledge do you have?
  1. Sources of external knowledge?
@@ -61,4 +61,4 @@
  When populating templates, some of the mathematical knowledge might be really entered through the code, by completing the template in different ways according to the calling class (example: elliptic curve's L-functions are of degree 2).
  
 1. Anything else?
-
+ Nope
