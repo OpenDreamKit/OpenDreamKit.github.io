@@ -1,4 +1,4 @@
-# Tentative program
+# Updated program
 
 ## Presentations (first day)
 **Mission**
