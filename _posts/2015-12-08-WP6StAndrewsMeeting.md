@@ -61,7 +61,6 @@ For more information please contact:
   - Knowledge representation in Sage: the Sage category system (Nicolas)
   - A proof-of-concept category-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
   - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
-
   - Tutorial for MMT
   
 - Brainstorms and coding sprints (second day)
