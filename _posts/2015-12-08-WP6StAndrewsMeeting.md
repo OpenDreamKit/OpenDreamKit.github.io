@@ -23,6 +23,8 @@ UPDATE: The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently c
 If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
 allow extra time for your journey as trains are expected to be busier than usually.
 See [this ScotRail page](http://www.scotrail.co.uk/frb) for further updates. 
+At the moment it is anticipated that the bridge 
+[will reopen before the workshop](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-35096668).
 
 # Accommodation
 
