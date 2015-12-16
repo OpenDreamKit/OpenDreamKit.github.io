@@ -55,6 +55,8 @@ For more information please contact:
 
 - Presentations (first day)
 
+  - Oxford partner presentation (catch up on the kick-off meeting)
+  
   - Knowledge first strategy (Michael)
 
   - Knowledge representation in FindStat (Viviane)
@@ -77,4 +79,7 @@ For more information please contact:
 
   - Data Management plan
   - Adoption of final Consortium Agreement
-  - etc
+  - Update of job openings and of associated persons to the project
+  - Zürich partner situation (PO Deshaye position at the University)
+  - Advisory and Quality Review boards set up
+  - Finance and administrative issues/questions from partners
