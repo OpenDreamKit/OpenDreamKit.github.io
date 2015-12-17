@@ -13,8 +13,11 @@ Please register via Eventbrite using [this link](https://www.eventbrite.com/e/op
 
 # Travel 
 
-The workshop will take place in the Gateway Building (see [OpenStreetMap](http://www.openstreetmap.org/way/27225074#map=19/56.34119/-2.80943)), located 
+On Monday and Wednesday the workshop will take place in the Gateway Building (see [OpenStreetMap](http://www.openstreetmap.org/way/27225074#map=19/56.34119/-2.80943)), located 
 in the vicinity of the [School of Computer Science](http://www.cs.st-andrews.ac.uk/) (see [OpenStreetMap](http://www.openstreetmap.org/way/155223867#map=19/56.34030/-2.80871)). 
+
+On Tuesday the workshop will take place in the [Byre Theatre](http://byretheatre.com/)
+(see [OpenStreetMap](http://www.openstreetmap.org/way/315991170#map=19/56.33891/-2.79156)). 
 
 For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
 
