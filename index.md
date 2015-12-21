@@ -17,6 +17,7 @@ title: Home
 : [{{ post.title }}]({{ site.baseurl}}{{ post.url }})
 {% endfor %}
 
+*The project was labelled by the "[Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).
 
 *We acknowledge financial support from the OpenDreamKit Horizon 2020 European Research Infrastructures project (#676541).*
 
