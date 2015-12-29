@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EU visibility, Disclaimer
+title: How to acknowledge OpenDreamKit support
 ---
 
 
