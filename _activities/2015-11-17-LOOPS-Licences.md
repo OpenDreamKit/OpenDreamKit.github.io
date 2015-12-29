@@ -1,9 +1,11 @@
 ---
 layout: slides
 title: "Retour d'expérience: licences pour les logiciels de maths pures"
+type: Talk
 theme: white
 transition: none
 author: Nicolas M. Thiéry
+date: 2015/11/17
 fulldate: 17 novembre 2015
 location: "Journée LOOPS: «Je code, je diffuse, oui mais comment ?»"
 ---
