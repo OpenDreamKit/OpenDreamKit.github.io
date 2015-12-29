@@ -21,6 +21,10 @@ On Tuesday the workshop will take place in the [Byre Theatre](http://byretheatre
 
 For further travel information about getting to St Andrews by air, rail or road, see [Visiting St Andrews](http://www.st-andrews.ac.uk/about/visiting/) page.
 
+UPDATE (2015-12-23): The [Forth Road Bridge](https://www.forthroadbridge.org) has been
+reopened for all traffic except Heavy Goods Vehicles. In particular all bus services
+to St Andrews will run as normal again.
+
 UPDATE: The [Forth Road Bridge](https://www.forthroadbridge.org/) is currently closed 
 [at least until new year](http://www.bbc.co.uk/news/uk-scotland-35001277). 
 If you travel via Edinburgh, we recommend to take a train to Leuchars, but please
