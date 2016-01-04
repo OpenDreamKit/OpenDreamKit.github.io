@@ -3,6 +3,9 @@ layout: page
 title: How to acknowledge OpenDreamKit support
 ---
 
+# Collect and advertise ODK activities and publications
+
+Please advertise talks, workshops, and other ODK activities on the [activities](activities) or [events](calendar) pages, and include bibtex citations of ODK funded publications on our [publication list](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/publications.bib).
 
 # EU visibility
 
@@ -17,7 +20,9 @@ OpenDreamKit being funded by Horizon 2020, the EU asks us to promote its financi
 
 For the communication actions and dissemination listed above, they must:
 
-(a)	Display the EU emblem
+(a)	Display the EU emblem whenever possible
+
+    (typically publications in our field do not traditionaly include such logos or emblems) 
 
 (b)	Include the following text:
 
@@ -29,9 +34,7 @@ project (#<a href="http://cordis.europa.eu/project/rcn/198334_en.html">676541</a
 
   -  For infrastructure, equipment and major results: “This infrastructure/equipment is part of a project that has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 676541”.
 
-
-
-# Disclaimer
+# EU Disclaimer
 
 Major communication productions must include when possible a fixed text indicating the content reflects only the author’s view (and not the EU point of view). 
 
