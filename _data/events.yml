@@ -11,6 +11,10 @@ InternalEvents:
       start: 2016-01-25
       end: 2016-01-28
       url: http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/
+    - title: Sage Days 73
+      start: 2016-05-04
+      end: 2016-05-08
+      url: http://wiki.sagemath.org/days73
 ExternalEvents:
     - title: 3rd GAP Days
       start: 2015-09-13
