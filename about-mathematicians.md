@@ -3,8 +3,10 @@ layout: slides
 title: "OpenDreamKit: the mathematician's perspective"
 ---
 
----
+<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+# OpenDreamKit: the mathematician's perspective
 
+---
 # Fundamental trends
 
 ## Long standing and booming role of computers in pure mathematics
@@ -27,6 +29,7 @@ TODO: 3 items about what Open Science is about
 
 - Open publications: arxiv, ...
 - Open source software:
+- Open data and even better open knowledge
 
 Now recognized as *necessary* and *viable*!
 
@@ -36,7 +39,7 @@ Even by funding agencies :-)
 
 # What are Virtual Research Environments?
 
-A call of the H2020 European Research Infrastructures Work Programme
+From the call of the H2020 European Research Infrastructures Work Programme
 
 
 ``Groups of researchers, typically widely dispersed who are working
@@ -108,3 +111,5 @@ for the Advancement of Mathematics*
 - The [developer's perspective](/about-developers) on OpenDreamKit.
 
 - [About OpenDreamKit](/about)
+
+</section>

@@ -13,6 +13,8 @@ paginate_path:       "/news/page:num/"
 gems:
   - jemoji
 
+exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+
 # About/contact
 author:
   name:              'The OpenDreamKit consortium'
@@ -20,5 +22,10 @@ author:
   email:             contact@opendreamkit.org
   twitter:           opendreamkit
 
+collections:
+  activities:
+    output: true
+
 # Custom vars
 version:             0.2.0
+

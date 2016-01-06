@@ -11,13 +11,37 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
-      <a class="sidebar-nav-item{% if page.url == '/news/' %} active{% endif %}" href="{{ site.baseurl }}/news/">News</a>
+      {% include sidebar-nav-item.html url="/"            title="Home" %}<br>
+      {% include sidebar-nav-item.html url="/about/"      title="About" %}<br>
+
+      {% include sidebar-nav-item.html url="/news/"       title="News" %},
+      {% include sidebar-nav-item.html url="/calendar/"   title="Events" %} &
+      {% include sidebar-nav-item.html url="/activities/" title="Activities" %}<br>
+
+      <span class="sidebar-nav-item">
+        <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Atask+sort%3Acreated-asc">Tasks</a> &
+        <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Adeliverable+sort%3Acreated-asc">Deliverables</a>
+      </span><br>
+
+      {% include sidebar-nav-item.html url="/partners/"   title="Partners" %} &
+      {% include sidebar-nav-item.html url="/joinus/"     title="Job Openings" %}<br>
+
+      {% include sidebar-nav-item.html url="/follow/"     title="Follow & Contact us" %}&nbsp;&nbsp;
+      <span class="sidebar-nav-item">
+        <a href="{{ site.baseurl }}/atom.xml"><img class="icon" src="{{ site.baseurl }}/public/feed_w.png" alt="atom feed"></a>
+        <a href="https://twitter.com/{{ site.author.twitter }}"><img class="icon" src="{{ site.baseurl }}/public/twitter_w.png" alt="twitter"></a>
+        <a href="https://github.com/{{ site.github.owner_name }}"><img class="icon" src="{{ site.baseurl }}/public/github_w.png" alt="github"></a>
+      </span><br>
+
+      {% include sidebar-nav-item.html url="/acknowledge/" title="Acknowledge" %}<br>
+
+      <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a><br>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+
+        We don't use it for this web page to better customize the layout.
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -27,18 +51,9 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      {% endcomment %}
 
-    <span class="sidebar-nav-item">
-      <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Atask+sort%3Acreated-asc">Tasks</a> &
-      <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Adeliverable+sort%3Acreated-asc">Deliverables</a>
-    </span>
-    <span class="sidebar-nav-item">
-      <a href="{{ site.baseurl }}/follow/">Follow & Contact us</a>&nbsp;&nbsp;
-      <a href="{{ site.baseurl }}/atom.xml"><img class="icon" src="{{ site.baseurl }}/public/feed_w.png" alt="atom feed"></a>
-      <a href="https://twitter.com/{{ site.author.twitter }}"><img class="icon" src="{{ site.baseurl }}/public/twitter_w.png" alt="twitter"></a>
-      <a href="https://github.com/{{ site.github.owner_name }}"><img class="icon" src="{{ site.baseurl }}/public/github_w.png" alt="github"></a>
-    </span>
-    <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a>
+
   </nav>
   </div>
 </div>

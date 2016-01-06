@@ -3,6 +3,11 @@ layout: subpage
 title: Kickoff meeting, infrastructure
 ---
 
+This files contains notes from the discussion about our infrastructure
+that occured during the Kickoff meeting. Updated notes are now in the
+[README](https://github.com/OpenDreamKit/OpenDreamKit) of our main
+repository.
+
 # General recommendations
 
 - Use existing infrastructure whenever possible (e.g. Sage's trac

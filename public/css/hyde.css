@@ -88,7 +88,7 @@ html {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  display: block;
+/*  display: block;*/
   line-height: 1.75;
 }
 a.sidebar-nav-item:hover,

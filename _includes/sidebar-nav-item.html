@@ -1,0 +1,7 @@
+{% comment %}
+  Build a link to a page, activated if this is not the sidebar of this page
+  This is meant to be used from the sidebar
+{% endcomment %}
+
+<a class="sidebar-nav-item{% if page.url == include.url %} active{% endif %}"
+   href="{{ site.baseurl }}{{ include.url }}">{{ include.title }}</a>
