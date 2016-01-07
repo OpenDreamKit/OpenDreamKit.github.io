@@ -3,9 +3,10 @@ layout: post
 title: Full-time two year Postdoctoral Fellow position at Simula Research Laboratory in Norway beginning early 2016
 ---
 
-We are seeking a full-time postdoctoral fellow at Simula Research
-Laboratory to work with Dr. Min Ragan-Kelley and Dr. Martin S. Alnæs
-on Jupyter related contributions to the OpenDreamKit project.
+We are seeking a full-time postdoctoral fellow at
+[Simula Research Laboratory](www.simula.no) to work with
+Dr. Min Ragan-Kelley and Dr. Martin S. Alnæs
+on [Jupyter](www.jupyter.org) related contributions to the OpenDreamKit project.
 
 
 # Deadline
@@ -48,7 +49,6 @@ Interested applicants should:
 # Context
 
 The position will be funded by
-
 [OpenDreamKit](http://opendreamkit.org), a
 [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
