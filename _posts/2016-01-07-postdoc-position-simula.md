@@ -4,9 +4,9 @@ title: Full-time two year Postdoctoral Fellow position at Simula Research Labora
 ---
 
 We are seeking a full-time postdoctoral fellow at
-[Simula Research Laboratory](www.simula.no) to work with
+[Simula Research Laboratory](http://www.simula.no) to work with
 Dr. Min Ragan-Kelley and Dr. Martin S. Alnæs
-on [Jupyter](www.jupyter.org) related contributions to the OpenDreamKit project.
+on [Jupyter](http://www.jupyter.org) related contributions to the OpenDreamKit project.
 
 
 # Deadline
