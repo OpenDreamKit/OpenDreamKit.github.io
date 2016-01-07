@@ -25,7 +25,7 @@ they get formalized.
 # Université Bordeaux, Talence
 
 - [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
-  starting in Fall 2015 for up to four years
+  starting in Fall 2015 for up to four years.
 
 {%comment%}
 If you like collaborative open source development, innovative
@@ -45,3 +45,10 @@ us. Loving math is a plus but not a necessity.
 
 - [A full time researcher/developer position](https://jobs.soton.ac.uk/Vacancy.aspx?ref=657815AK)
   starting January 2016 for initially one year. Deadline for applications: 15 December 2015.
+
+
+# Simula Research Laboratory, Norway
+
+- [A full time postdoctoral fellow/developer position](http://m.finn.no/job/fulltime/ad.html?finnkode=69302480&orgId=274233842&ref=fas)
+  starting as early as possible in 2016 for two years. Deadline for
+  applications: January 30th 2016.
