@@ -10,9 +10,9 @@ source: _activities/
 {% endcomment %}
 
 {% for activity in site.activities reversed %}
- {% if activity.relative_path != "_activities/README.md" %}
+ {% unless activity.relative_path contains 'README.md' %}
   {{ activity.date | date_to_string }} ({{ activity.type }} by {{ activity.author }})
   : [{{ activity.title }}]({{ site.baseurl}}{{ activity.url }})<br>
   {{ activity.location }}
- {% endif %}
+ {% endunless %}
 {% endfor %}
