@@ -13,7 +13,7 @@ paginate_path:       "/news/page:num/"
 gems:
   - jemoji
 
-exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', 'README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', '_activities/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
 # About/contact
 author:
