@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Activities
+source: _activities/
 ---
 
 {% comment %}
