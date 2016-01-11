@@ -82,11 +82,13 @@ For more information please contact:
   - Proof of concept OMDoc/MMT theory for FindStat
   - Proof of concept category-aware Sage-GAP interface built automatically from the above
   
-- Steering committee (to be held on the Monday or Tuesday) *Themes to be discussed with the steering committee prior Christmas holidays*
+- Steering committee (to be held on Tuesday at 10:30 local time) *Themes to be discussed with the steering committee prior Christmas holidays*
 
   - Data Management plan
   - Adoption of final Consortium Agreement
   - Update of job openings and of associated persons to the project
   - Zürich partner situation (PO Deshaye position at the University)
   - Advisory and Quality Review boards set up
+  - Deliverables submitted and next ones to come
   - Finance and administrative issues/questions from partners
+  - Next project meetings
