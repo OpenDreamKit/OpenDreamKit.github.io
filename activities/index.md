@@ -11,8 +11,4 @@ source: _activities/
 
 {% for activity in site.activities reversed %}
  {{activity.relative_path}}
- {% unless activity.relative_path contains 'README.md' %}
-  : [{{ activity.title }}]({{ site.baseurl}}{{ activity.url }})<br>
-  {{ activity.location }}
- {% endunless %}
 {% endfor %}
