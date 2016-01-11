@@ -10,5 +10,7 @@ source: _activities/
 {% endcomment %}
 
 {% for activity in site.activities reversed %}
- {{ activity.relative_path }} 2
+  {{ activity.date | date_to_string }} ({{ activity.type }} by {{ activity.author }})
+  : [{{ activity.title }}]({{ site.baseurl}}{{ activity.url }})<br>
+  {{ activity.location }}
 {% endfor %}
