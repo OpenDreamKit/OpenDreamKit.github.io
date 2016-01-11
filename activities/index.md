@@ -10,5 +10,5 @@ source: _activities/
 {% endcomment %}
 
 {% for activity in site.activities reversed %}
- {{activity.relative_path}}
+ {{ activity.relative_path }} 2
 {% endfor %}
