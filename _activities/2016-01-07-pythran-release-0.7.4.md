@@ -16,6 +16,6 @@ Pythran 0.7.4 has been released. It implements several prerequisites for Sage/Cy
 And as usual, several performance improvements, more numpy API support, and
 hopefully more bugs solved than the number of newly introduced ones!
 
-- Read the doc! http://pythonhosted.org/pythran
-- Contribute! https://github.com/serge-sans-paille/pythran
-- Download! https://pypi.python.org/pypi/pythran
+- [Read the doc!](http://pythonhosted.org/pythran)
+- [Contribute!](https://github.com/serge-sans-paille/pythran)
+- [Download!](https://pypi.python.org/pypi/pythran)
