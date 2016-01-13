@@ -76,6 +76,8 @@ about 7.6 million euros.
 
 # Expressions of interest
 
+Please apply through [the Simula webpages](https://www.simula.no/about/available-jobs).
+
 See also [more details about the application](http://m.finn.no/job/fulltime/ad.html?finnkode=69302480&orgId=274233842&ref=fas).
 
-Interested candidates should send an email to martinal {at} simula dot no for further information about the position.
+For requests of further information about the position, send an email to martinal@simula.no.
