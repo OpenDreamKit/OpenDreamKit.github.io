@@ -60,11 +60,11 @@ For more information please contact:
 
 # Draft agenda [(Most recent version here)](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/aceb966a6a9e74c74d328acd138bfa2a2c6b38e8/meetings/2016-01-25-DKS/program.md)
 
-- Presentations (first day)
+## First day (25th)
 
-  - Oxford partner presentation (catch up on the kick-off meeting)
-  
-  - Knowledge first strategy (Michael)
+- Presentations 
+
+    - Knowledge first strategy (Michael)
 
   - Knowledge representation in FindStat (Viviane)
   - Knowledge representation in LMFDB (Paul)
@@ -74,6 +74,9 @@ For more information please contact:
   - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
   - Tutorial for MMT
   
+## Second day (26th)
+
+- Oxford partner presentation (catch up on the kick-off meeting)
 - Brainstorms and coding sprints (second day)
 
   - Proof of concept OMDoc/MMT theory for simple python
@@ -82,7 +85,7 @@ For more information please contact:
   - Proof of concept OMDoc/MMT theory for FindStat
   - Proof of concept category-aware Sage-GAP interface built automatically from the above
   
-- Steering committee (to be held on Tuesday at 10:30 local time) *Themes to be discussed with the steering committee prior Christmas holidays*
+- Steering committee (to be held on Tuesday at 10:30 local time) 
 
   - Data Management plan
   - Adoption of final Consortium Agreement
@@ -92,3 +95,5 @@ For more information please contact:
   - Deliverables submitted and next ones to come
   - Finance and administrative issues/questions from partners
   - Next project meetings
+  
+## Third day (27th)
