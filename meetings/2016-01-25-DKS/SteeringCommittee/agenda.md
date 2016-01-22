@@ -10,7 +10,7 @@ title: Steering committee meeting, agenda
 Includes job openings, hires, and associated persons to the project,
 main activities, achieved and ongoing deliverables, ...
 
-- [Paris Sud](../ProgressReport/ParisSud)
+- [Paris Sud](../ProgressReports/ParisSud)
 - ...
 
 ## Data Management plan
