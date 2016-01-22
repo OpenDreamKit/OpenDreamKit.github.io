@@ -11,6 +11,7 @@ Includes job openings, hires, and associated persons to the project,
 main activities, achieved and ongoing deliverables, ...
 
 - [Paris Sud](../ProgressReports/ParisSud)
+- [Zurich](../ProgressReports/Zurich)
 - ...
 
 ## Data Management plan
