@@ -1,12 +1,20 @@
-# Updated program
+---
+layout: subpage
+title: Tentative program
+---
 
-## Presentations (first day)
-**Mission**
+# {{ page.title }}
+
+## Monday 25th
+
+### Mission statement
+
 - Knowledge first strategy (Michael)
 
-**State of the art**
+### State of the art
 
 The idea here is that we efficiently collect and share information about knowledge representation in the various systems. NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation accoring to [this survey](survey-generic.md).
+
 - Knowledge representation in FindStat (Viviane)
 - Knowledge representation in LMFDB (Paul)
 - Knowledge representation in GAP: the GAP category system (Markus)
@@ -14,25 +22,29 @@ The idea here is that we efficiently collect and share information about knowled
 - A proof-of-concept Knowledge-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
 - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 
-**Tutorial**
+### Tutorial
+
 The idea for this session is to see how knowledge representation in [MMT](https://svn.kwarc.info/repos/MMT/doc/html/index.html) could serve as a generic knowledge backbone for integrating the various systems. 
+
 - Tutorial for MMT (Florian & Michael)
 
-## Brainstorms and coding sprints (second day)
+## Tuesday 26th
+
+### [Steering committee meeting](../SteeringCommittee/agenda/) (10:30 local time)
+
+### Oxford partner presentation (catch up on the kick-off meeting)
+
+### Brainstorms and coding sprints
+
 - Proof of concept OMDoc/MMT theory for simple Python
 - Proof of concept OMDoc/MMT theory for Sage categories
 - Proof of concept OMDoc/MMT theory for GAP categories
 - Proof of concept OMDoc/MMT theory for FindStat
 - Proof of concept category-aware Sage-GAP interface built automatically from the above
 
-## Steering committee (to be held during WP6 workshop or before/after?)
-** Are we enough for this? Should this be a separate issue/discussion **
-- Data Management plan
-- Adoption of final Consortium Agreement
-- etc
+## Wednesday 27th
 
-TODO: Plan for remote participation, and make a poll for the best time.
-
-## Preparation for the workshop
+# Preparation for the workshop
 - Docker image of MMT
 - Sample theories for each of FindStat knowledge domain, LMFDB knowledge domain, categories
+

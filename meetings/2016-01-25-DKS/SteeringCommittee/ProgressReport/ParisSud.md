@@ -3,16 +3,22 @@ layout: slides
 title: "Progress report for Paris Sud"
 theme: white
 transition: none
-author: Nicolas M. Thiéry
+author: Benoît Pilorget and Nicolas M. Thiéry
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# Financial and administrative setup
+# {{ page.title }}
+
+{{ page.author }}
+
+---
+
+## Financial and administrative setup
 
 - Everything on rails: money arrived, first expenses done
 
 ---
-# Hiring
+## Hiring
 
 -   Benoît Pilorget, Project Administrator
     - Selection: July
@@ -37,7 +43,7 @@ author: Nicolas M. Thiéry
     - Will work on portability, Sphinx documentation, packaging, ...
 
 ---
-# Achievements
+## Achievements
 
 -   [D1.1: Project infrastructure](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
     - Thanks everyone for the help!
@@ -49,6 +55,6 @@ author: Nicolas M. Thiéry
     - Glitch remaining under MacOS being resolved
 
 ---
-# Main upcoming tasks and deliverables
+## Main upcoming tasks and deliverables
 
 </section>
