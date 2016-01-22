@@ -16,6 +16,13 @@ InternalEvents:
       end: 2016-05-08
       url: http://wiki.sagemath.org/days73
 ExternalEvents:
+    - title: MPFR/MPC meeting
+      start: 2016-05-23
+      end: 2016-05-25
+    - title: Sage days 74 (Differential geometry)
+      start: 2016-05-30
+      end: 2016-06-03
+      url: http://wiki.sagemath.org/days74
     - title: 3rd GAP Days
       start: 2015-09-13
       end: 2015-09-24
