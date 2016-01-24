@@ -12,6 +12,7 @@ main activities, achieved and ongoing deliverables, ...
 
 - [Paris Sud](../ProgressReports/ParisSud)
 - [Zurich](../ProgressReports/Zurich)
+- [CNRS](../ProgressReports/CNRS)
 - ...
 
 ## Data Management plan
@@ -24,4 +25,8 @@ main activities, achieved and ongoing deliverables, ...
 
 ## Finance and administrative issues/questions from partners
 
-## Upcoming project meetings
+## Organization of meetings
+
+- Yearly project meetings
+- Large user meetings
+- Advertisement meetings
