@@ -3,8 +3,6 @@ layout: subpage
 title: Tentative program
 ---
 
-# {{ page.title }}
-
 ## Monday 25th
 
 ### Mission statement
