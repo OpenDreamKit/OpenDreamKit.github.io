@@ -57,21 +57,16 @@ author: Ursula Martin and Dima Pasechnik
 ## Main upcoming tasks and deliverables
 
 -   [D2.2: Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
-
     -   (NEW!) Creating  [Sage Software Carpentry Lesson](http://alex-konovalov.github.io/sage-lesson/)
         jointly with St.Andrews: other contributors most welcome!
 
 -   [D7.1: The flow of code and patches in open source projects](https://github.com/OpenDreamKit/OpenDreamKit/issues/148)
-
     -   an experiment to be held in Summer 2016, 10-12 students coding in a Sage summer project,
         mostly on families of ellliptic curves (with Jennifer Balakrishnan) and probably also
         combinatorics (with Dima Pasechnik)
 
----
-## Issues
-
 -   [D7.5: Report on relevant research in sociology of mathematics and lessons for design of
      OpenDreamKit VRE, part I](https://github.com/OpenDreamKit/OpenDreamKit/issues/148)
+    - [annotated bibliography](https://github.com/dimpase/abib/raw/master/annotated_bibliography.pdf) ready
     - behind the schedule due to external personnel/collaborators issues
-
 </section>
