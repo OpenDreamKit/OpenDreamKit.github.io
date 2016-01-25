@@ -30,32 +30,62 @@ Suggestions from Paul:
   implementation of your system, yet.
 {% endcomment %}
 
-[SageMath](http://www.sagemath.org): General purpose computational (pure) mathematics software
+- [SageMath](http://www.sagemath.org): General purpose computational (pure) mathematics software
+
+- 300 contributors
+
+- 1.5M lines of Python/Cython code
+
+- 40k functions
+
+- 4k classes
+
+- hundreds of open source (math) software/libraries in the distribution
+
+--
 
 ---
 ## What data do you have?
 
-A collection of (optional) databases
+- A collection of (optional) databases
 
-Usually coming from external software/databases:
+- Usually coming from external software/databases
 
--   GAP databases
+- Examples:
 
--   OEIS
+  - GAP databases
+  - OEIS
+  - John's database of elliptic curves
+  - ...
 
--   John's database of elliptic curves
 
-
+{% comment %}
 1. Structure
 1. Format
 1. How is it produced?
 1. How is it changed?
 1. How do you document it?
+{% endcomment %}
 
 ---
 ## What knowledge do you have?
 
 Mathematical properties and theorems, algorithms, ...
+
+
+## Two key points that conditioned the design
+
+- There are only a handful of fundamental concepts:
+
+  operations: *, +, ...
+
+  axioms: associativity, commutativity, ...
+
+  The richness comes from the combinations of them (e.g. Fields)
+
+- Using an existing language and its object oriented features for
+  modelling and method selection
+
 
 ### Sources of external knowledge?
 
@@ -121,16 +151,6 @@ collaboration.
 The meaning of the relevant categories / axioms (e.g. ring,
 associativity) is relatively well known by the users and developpers.
 
-
-### Two key points that conditioned the design
-
-- Using an existing language and its object oriented features for
-  modelling and method selection
-
-- There are only a handfull of fundamental concepts: (operations,
-  axioms): Magmas, associativity, ...
-
-  All the richness comes from the combinations of them
 
 --
 ### What would you gain if it was made explicit/machine actionable?
