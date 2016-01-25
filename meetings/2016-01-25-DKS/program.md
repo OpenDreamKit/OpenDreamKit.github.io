@@ -16,8 +16,8 @@ The idea here is that we efficiently collect and share information about knowled
 - Knowledge representation in FindStat (Viviane)
 - Knowledge representation in LMFDB (Paul)
 - Knowledge representation in GAP: the GAP category system (Markus)
-- Knowledge representation in Sage: the Sage category system (Nicolas)
-  [survey](../survey-Sage/) [demo](../survey-Sage.ipynb)
+- Knowledge representation in Sage: [Categories/theories in Sage](../survey-Sage/) (Nicolas)
+  ([demo](../survey-Sage.ipynb))
 - A proof-of-concept Knowledge-aware Sage-GAP interface: presentation of the outcome of the coding sprint during the GAP/Sage days (Nicolas)
 - Current practice: commonalities in "dumping math data on the web" process (FindStat, LMFDB,...)
 

@@ -47,7 +47,7 @@ Suggestions from Paul:
 ---
 ## What data do you have?
 
-- A collection of (optional) databases
+### A collection of (optional) databases:
 
 - Usually coming from external software/databases
 
@@ -57,6 +57,23 @@ Suggestions from Paul:
   - OEIS
   - John's database of elliptic curves
   - ...
+
+---
+### Pickling / Serialization
+
+Objects can be converted to strings and reconstructed
+
+- Applications:
+
+  - Persistence
+  - Sage databases
+  - Exchange of data between Sage instances
+
+- Format: Python's pickle protocol
+
+  - Code to reconstruct the object + sanity checks
+  - By default: pickling by class + plain data (no encapsulation)
+  - Aiming for: pickling by construction (more semantic)
 
 
 {% comment %}
@@ -81,7 +98,7 @@ Mathematical properties and theorems, algorithms, ...
 
   axioms: associativity, commutativity, ...
 
-  The richness comes from the combinations of them (e.g. Fields)
+  Richness in the combinations of them (e.g. Fields)
 
 - Using an existing language and its object oriented features for
   modelling and method selection
@@ -127,12 +144,20 @@ collaboration.
 - The abstract algebraic properties of an object (e.g. being a group
   or a field) are modelled relatively explicitely:
 
-  Each object knows the names of (most of) its categories and
-  axioms
+  Objects know the names of their categories and axioms
 
-  However the meaning of those is essentially implicit except, in
-  the good cases, informally in the documentation and as testing
-  methods
+  Meaning essentially implicit except, in the good cases, informally
+  in the documentation and as testing methods
+
+- The names of the operations are hardcoded
+
+  ==> duplication: additive / multiplicative / lie magmas
+
+  Morphisms by automatic renaming? Lacks static typing?
+
+- Taming the exponential blow
+
+  Size of the code linear in the number of methods
 
 --
 - It's not always defined explicitly which methods an object in a
@@ -143,7 +168,7 @@ collaboration.
   class hierarchy.
 
 - Some theorems (e.g. wedderburn) are embedded in actionable form,
-  but that information cannot be extracted.
+  but that information cannot be extracted / operated on
 
 --
 ### Is it common knowledge?
@@ -151,13 +176,13 @@ collaboration.
 The meaning of the relevant categories / axioms (e.g. ring,
 associativity) is relatively well known by the users and developpers.
 
-
 --
 ### What would you gain if it was made explicit/machine actionable?
 
 - Dynamic generation of documentation that the user can navigate
 - Sanity/correctness checks; proofs?
 - Semantic handles to communicate with other systems
+- Avoiding duplication (additive magmas / multiplicative magmas)?
 
 ### Have you gone in this direction? How did you represent the knowledge then?
 
