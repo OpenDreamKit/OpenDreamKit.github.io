@@ -28,7 +28,7 @@ author: Martin Alnæs
 
 ---
 ## Achievements
--   [D4.6: Tools for collaborating on notebooks via version-control](https://github.com/OpenDreamKit/OpenDreamKit/issues/95)
+-   Progress on [D4.6: Tools for collaborating on notebooks via version-control](https://github.com/OpenDreamKit/OpenDreamKit/issues/95)
 
   - Prototyping started as project [nbdime](https://github.com/martinal/nbdime)
   - Discussion with Jupyter community started under [JPEP#8](https://github.com/jupyter/enhancement-proposals/pull/8)
