@@ -31,19 +31,20 @@ author: Hans Fangohr
 ---
 ## Achievements 1/2
 
+Main task for now: [T3.8: Python Interface for OOMMF micromagnetic simulation](https://github.com/OpenDreamKit/OpenDreamKit/issues/57)
+
 - Presentation of OpenDreamKit and Jupyter-OOMMF (JOOMMF) project at largest international Magnetism meeting (combined Magnetism and Magnetic Materials and InterMag meeting, Jan 2016, San Diego, CA, US): http://opendreamkit.org/activities/2016-01-12-joommf-talk-MMM2016.html
 
 ---
 
 ## Achievements 2/2
 
-[T3.8: Python Interface for OOMMF micromagnetic simulation](https://github.com/OpenDreamKit/OpenDreamKit/issues/57)
-
    - Initial exploration of Python-OOMMF interface options  https://github.com/fangohr/oommf-python
+
+   - Meeting with both OOMMF Core developers Michael Donahue and Don Porter (13 Jan 2016) to discuss and explore interface opportunities and challenges
 
    - Set up of project webpages at http://joommf.github.io
 
-   - Meeting with both OOMMF Core developers Michael Donahue and Don Porter (13 Jan 2016) to discuss and explore interface opportunities and challenges
 
 ---
 
@@ -53,6 +54,8 @@ author: Hans Fangohr
 
 ### Desirable
 
-- Like to hook up with Virtual Machine/Image/Docker/Anaconda team to include Micromagnetic software into these
+- Like to hook up with Virtual Machine/Image/Docker/Anaconda team to include Micromagnetic software in Virtual Images and Containers [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
+
+  We have a PhD student who is keen to support the micromagnetic side (@mvousden)
 
 </section>
