@@ -27,7 +27,7 @@ author: Ursula Martin and Dima Pasechnik
     - Will appreciate and absorb unused funds from other ODK sites
 
 ---
-## Achievements
+## Achievements I
 
 -   [D2.2: Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
 
@@ -40,6 +40,9 @@ author: Ursula Martin and Dima Pasechnik
 
     -   progress on tighter integration of Sage and GAP via libGAP
     -   preparing libGAP for GAP 4.8 update basically done.
+
+---
+## Achievements II
 
 -   [D7.1: The flow of code and patches in open source projects](https://github.com/OpenDreamKit/OpenDreamKit/issues/148)
 
@@ -55,7 +58,7 @@ author: Ursula Martin and Dima Pasechnik
 
     -   interesting experiences with bugs and wrong constructions in the literature, perhaps
         to be analysed in some way.
- 
+
 ---
 ## Main upcoming tasks and deliverables
 
@@ -69,6 +72,9 @@ author: Ursula Martin and Dima Pasechnik
     -   an experiment to be held in Summer 2016, 10-12 students coding in a Sage summer project,
         mostly on families of ellliptic curves (with Jennifer Balakrishnan) and probably also
         combinatorics (with Dima Pasechnik)
+
+---
+## Issues
 
 -   [D7.5: Report on relevant research in sociology of mathematics and lessons for design of
      OpenDreamKit VRE, part I](https://github.com/OpenDreamKit/OpenDreamKit/issues/148)
