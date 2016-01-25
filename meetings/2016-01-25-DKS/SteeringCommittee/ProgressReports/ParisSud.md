@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Paris Sud"
 theme: white
 transition: none
-author: Benoît Pilorget and Nicolas M. Thiéry
+author: Benoît Pilorget, Nicolas M. Thiéry and Viviane Pons
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -53,6 +53,7 @@ author: Benoît Pilorget and Nicolas M. Thiéry
 
     - Finished and delivered
     - Glitch remaining under MacOS being resolved
+-   EInfra Booklet: 1 page for ODK delivered
 
 ---
 ## Main upcoming tasks and deliverables
