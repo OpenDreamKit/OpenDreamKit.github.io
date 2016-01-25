@@ -17,4 +17,4 @@ corresponding source and push. This can be done online by clicking on
 - _layouts/*: local style files
 - _includes/*: reusable chunks of web pages, like the side bar
 - public/*: Jekyll style files (almost vanilla), logos, ...
-- reveal.js: local clone of [reveal.js](http://revealjs.com/) for slides support
+- reveal.js: local clone of [reveal.js](http://revealjs.com/) for slides support; you need to issue `git submodule init` followed up by ` git submodule update` to get it installed locally and view local copies of the pages using jekyll. 
