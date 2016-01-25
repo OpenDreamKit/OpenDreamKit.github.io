@@ -15,6 +15,8 @@ main activities, achieved and ongoing deliverables, ...
 - [CNRS](../ProgressReports/CNRS)
 - [JacU](../ProgressReports/JacU)
 - [Southampton](../ProgressReports/Southampton)
+- [Oxford](../ProgressReports/Oxford)
+- [Simula](../ProgressReports/Simula)
 - ...
 
 ## Data Management plan
