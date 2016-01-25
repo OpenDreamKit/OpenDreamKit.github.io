@@ -47,7 +47,7 @@ author: Benoît Pilorget, Nicolas M. Thiéry and Viviane Pons
 
 -   [D1.1: Project infrastructure](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
     - Thanks everyone for the help!
--   Kickoff organization
+-   Kickoff organization (~3000 euros)
 -   Funding of several people for the joint Sage/Jupyter Days in Berkeley
 -   [D5.1: Turn the Python prototypes for tree exploration into production code, integrate into Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
 
