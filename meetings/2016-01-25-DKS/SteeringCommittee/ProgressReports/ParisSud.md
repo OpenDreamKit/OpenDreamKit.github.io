@@ -57,4 +57,15 @@ author: Benoît Pilorget and Nicolas M. Thiéry
 ---
 ## Main upcoming tasks and deliverables
 
+-   Delivrables
+    
+    - Data Management Plan
+    - Starting Press Release (?)
+
+-   Up comming events
+
+    - Sage Days in Cernay
+    - Sage Days in FPSAC 2016 (?)
+    - Women in Sage
+
 </section>
