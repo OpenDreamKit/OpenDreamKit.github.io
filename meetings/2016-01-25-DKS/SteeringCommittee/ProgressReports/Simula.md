@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Simula"
 theme: white
 transition: none
-author: Martin Alnæs
+author: Martin Alnæs and Min RK
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -25,6 +25,7 @@ author: Martin Alnæs
     - **Few replies, one week to application deadline**
     - Start: As soon as possible
     - Duration: two years
+    - Please spread to relevant candidates.
 
 ---
 ## Achievements
@@ -37,7 +38,7 @@ author: Martin Alnæs
 ---
 ## Main upcoming tasks and deliverables (1/2)
 
-Notes from Min RK on other WP4 deliverables:
+Notes on other WP4 deliverables:
 
 -    Due month 6:
 
@@ -57,6 +58,6 @@ Notes from Min RK on other WP4 deliverables:
 ## Additional Notes
 
 - I'm on leave from mid April to end of July.
-- This means hiring postdoc is overdue. Please spread to relevant candidates.
+- This makes hiring postdoc soon more critical for completion of D4.6.
 
 </section>
