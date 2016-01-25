@@ -29,12 +29,15 @@ author: Hans Fangohr
     - Delay in recruitment as highest ranked candidate has Croation nationality and this required additional checks regarding the EU and UK employment laws.
 
 ---
-## Achievements
+## Achievements 1/2
 
 - Presentation of OpenDreamKit and Jupyter-OOMMF (JOOMMF) project at largest international Magnetism meeting (combined Magnetism and Magnetic Materials and InterMag meeting, Jan 2016, San Diego, CA, US): http://opendreamkit.org/activities/2016-01-12-joommf-talk-MMM2016.html
 
-(https://github.com/fangohr/oommf-python)
--   [T3.8: Python Interface for OOMMF micromagnetic simulation](https://github.com/OpenDreamKit/OpenDreamKit/issues/57)
+---
+
+## Achievements 2/2
+
+[T3.8: Python Interface for OOMMF micromagnetic simulation](https://github.com/OpenDreamKit/OpenDreamKit/issues/57)
 
    - Initial exploration of Python-OOMMF interface options  https://github.com/fangohr/oommf-python
 
@@ -42,7 +45,7 @@ author: Hans Fangohr
 
    - Meeting with both OOMMF Core developers Michael Donahue and Don Porter (13 Jan 2016) to discuss and explore interface opportunities and challenges
 
-   ---
+---
 
 ## Main upcoming tasks and deliverables
 
