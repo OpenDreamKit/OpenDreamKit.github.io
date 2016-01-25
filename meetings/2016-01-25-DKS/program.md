@@ -27,6 +27,9 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 - Tutorial for MMT (Florian & Michael)
 
+ [See here to browse the mentioned MMT theories](http://ash.eecs.jacobs-university.de:8080/)
+ [and here to browse the ODK instance of MathHub](https://odk.mathhub.info/ODK/lmfdb/)
+
 ## Tuesday 26th
 
 ### [Steering committee meeting](../SteeringCommittee/agenda/) (10:30 local time)
