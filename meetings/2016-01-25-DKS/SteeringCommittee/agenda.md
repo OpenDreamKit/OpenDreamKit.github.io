@@ -22,7 +22,7 @@ main activities, achieved and ongoing deliverables, ...
 - [Zurich](../ProgressReports/Zurich)
 - ...
 
-## Data Management plan (DMP)
+## Data Management plan (DMP).
 
 ## Zürich partner situation (PO Deshaye position at the University)
 
