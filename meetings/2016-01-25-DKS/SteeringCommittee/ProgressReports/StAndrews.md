@@ -13,4 +13,5 @@ Main activities:
 * training and related initiatives, community building in UK (with CoDiMa)
 
 All these continue, plus some new activities (for instance with JacobsU on exporting the GAP type system)
+Steve will be working on setting up th eadvisory board in the next weeks.
 
