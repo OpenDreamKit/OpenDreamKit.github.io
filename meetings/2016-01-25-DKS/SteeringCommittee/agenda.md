@@ -21,6 +21,7 @@ main activities, achieved and ongoing deliverables, ...
 - [Sheffield](../ProgressReports/Sheffield)
 - [Zurich](../ProgressReports/Zurich)
 - [St Andrews](../SC-StAndrews_presentation_final.pdf)
+- [UJF](../ProgressReports/UJF)
 - [UVersailles](../ProgressReports/UVersailles)
 - ...
 
