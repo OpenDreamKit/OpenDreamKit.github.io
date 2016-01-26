@@ -3,7 +3,7 @@ layout: subpage
 title: Steering committee meeting, agenda
 ---
 
-[SLIDES](../SteeringCommittee/SC-StAndrews_presentation_final)
+[SLIDES](../SC-StAndrews_presentation_final.pdf)
 
 ## Adoption of final Consortium Agreement
 
