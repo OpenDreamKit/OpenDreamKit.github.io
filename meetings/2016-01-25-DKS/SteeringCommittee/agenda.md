@@ -3,6 +3,8 @@ layout: page
 title: Steering committee meeting, agenda
 ---
 
+[SLIDES](../SC-StAndrews_presentation_final.pdf)
+
 ## Adoption of final Consortium Agreement
 
 ## Brief progress reports for all sites
