@@ -2,7 +2,7 @@ St Andrews Progress report
 
 Funding Markus Pfeiffer and part of Alexander Konovalov (and a bit of Steve)
 
-Administhttps://github.com/OpenDreamKit/OpenDreamKit.github.io/new/master/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports#ration all going smoothly
+Administration all going smoothly
 
 Main activities:
 
