@@ -1,4 +1,4 @@
----
+﻿---
 layout: subpage
 title: Steering committee meeting, agenda
 ---
@@ -19,7 +19,7 @@ main activities, achieved and ongoing deliverables, ...
 - [Simula](../ProgressReports/Simula)
 - ...
 
-## Data Management plan
+## Data Management plan (DMP)
 
 ## Zürich partner situation (PO Deshaye position at the University)
 
