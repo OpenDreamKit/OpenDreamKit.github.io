@@ -47,10 +47,9 @@ If we make progress on the KF-paradigm over the next months, we should have anot
 ---
 ## Possibly Relevant Events (please contribute)
 
-25-19 July 2016 [CICM Conference](http://cicm-conference.org/2016) (Conference on Intelligent Computer Mathematics).
-* relevant Tracks: CALCULEMUS & MKM
-
-11-14 July 2016 [ICMS Conference](http://icms2016.zib.de/) (International Conference on Mathematical Software)
+* 25-19 July 2016 [CICM Conference](http://cicm-conference.org/2016) (Conference on Intelligent Computer Mathematics).
+  * relevant Tracks: CALCULEMUS & MKM
+* 11-14 July 2016 [ICMS Conference](http://icms2016.zib.de/) (International Conference on Mathematical Software)
 --> Track on WDML and Math Software/Data/Knoweldge Information Systems.
 
 
