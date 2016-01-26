@@ -42,8 +42,7 @@ Initial DKS base Design (including base survey and Requirements Workshop Report)
 
 Both are on track.
 
-If we make progress on the KF-paradigm over the next months, we should have another W6
-Workhop in Summer to consolidate this and interface with WP3 and WP4.
+If we make progress on the KF-paradigm over the next months, we should have another WP6 Workhop in Summer to consolidate this and interface with WP3 and WP4.
 
 ---
 ## Possibly Relevant Events (please contribute)
