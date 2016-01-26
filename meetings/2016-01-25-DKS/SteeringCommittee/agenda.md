@@ -11,12 +11,13 @@ Includes job openings, hires, and associated persons to the project,
 main activities, achieved and ongoing deliverables, ...
 
 - [Paris Sud](../ProgressReports/ParisSud)
-- [Zurich](../ProgressReports/Zurich)
 - [CNRS](../ProgressReports/CNRS)
-- [JacU](../ProgressReports/JacU)
-- [Southampton](../ProgressReports/Southampton)
 - [Oxford](../ProgressReports/Oxford)
+- [Southampton](../ProgressReports/Southampton)
 - [Simula](../ProgressReports/Simula)
+- [JacU](../ProgressReports/JacU)
+- [Sheffield](../ProgressReports/Sheffield)
+- [Zurich](../ProgressReports/Zurich)
 - ...
 
 ## Data Management plan
