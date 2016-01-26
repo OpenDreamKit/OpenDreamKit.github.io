@@ -7,7 +7,8 @@ Administration all going smoothly
 Main activities:
 
 * GAP/Jupyter interface
-* Integration of HPCGAP, GAP and libGAP into a coherent code bade addressing SAGE integration
+* Docker containers
+* Integration of HPCGAP, GAP and libGAP into a coherent code base addressing SAGE integration
    and Some WP 5 tasks
 * other foundational work in GAP to support integration with other systems and UIs
 * training and related initiatives, community building in UK (with CoDiMa)
