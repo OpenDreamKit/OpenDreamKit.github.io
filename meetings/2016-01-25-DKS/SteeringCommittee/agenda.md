@@ -34,3 +34,5 @@ main activities, achieved and ongoing deliverables, ...
 - Yearly project meetings
 - Large user meetings
 - Advertisement meetings
+
+## Logo
