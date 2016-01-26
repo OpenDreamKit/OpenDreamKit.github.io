@@ -35,4 +35,4 @@ main activities, achieved and ongoing deliverables, ...
 - Large user meetings
 - Advertisement meetings
 
-## Logo
+## [Logo](https://github.com/OpenDreamKit/OpenDreamKit/issues/5)
