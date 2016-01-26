@@ -21,7 +21,7 @@ author: John Cremona
 
 ---
 
-## Activities
+## Activities 1/2
 
 - John Cremona was on study leave from mid-September to mid-December,
   but spent much of that time working on LMFDB matters which are
@@ -32,8 +32,14 @@ author: John Cremona
   databases and collections, definition of data fields and types)
   towards Task 6.8 (LMFDB Case Study), part of WP6.
 
+---
+
+## Activities 2/2
+
 - Contribution to Task 6.1 (Survey of existing DKS bases, Formulation
   of requirements).
+
+- Contribution to draft Data Management Plan.
 
 - Attending St Andrews workshop, working with Michael Kohlhase and his
   research group and Paul-Olivier Dehaye on using MMT to provide a new
