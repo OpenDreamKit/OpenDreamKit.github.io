@@ -6,13 +6,15 @@ Repository holding the sources of the OpenDreamKit.org website (aka OpenDreamKit
 
 This website is hosted as a [github page](https://pages.github.com/).
 In short, is built statically from Markdown source files using
-[Jekyll](http://jekyllrb.com/). To update, just modify the sources and
-push. See the above links for details.
+[Jekyll](http://jekyllrb.com/). To update a page, just modify the
+corresponding source and push. This can be done online by clicking on
+"Edit this page" in the side bar. See the above links for details.
 
-- index.md
-- about.md
-- joinus.md
-
-Sources of the news and blog posts:
-
-- _post/*
+- _config.html: main configuration page
+- _post/*.md: sources of the news and blog posts
+- _activites/*.md: sources of the activities posts
+- _data/*.yml: YAML database from which certain pages are automatically generated
+- _layouts/*: local style files
+- _includes/*: reusable chunks of web pages, like the side bar
+- public/*: Jekyll style files (almost vanilla), logos, ...
+- reveal.js: local clone of [reveal.js](http://revealjs.com/) for slides support; you need to issue `git submodule init` followed up by ` git submodule update` to get it installed locally and view local copies of the pages using jekyll. 
