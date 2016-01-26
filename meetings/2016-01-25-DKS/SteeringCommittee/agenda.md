@@ -1,9 +1,7 @@
-﻿---
-layout: subpage
+---
+layout: page
 title: Steering committee meeting, agenda
 ---
-
-[SLIDES](../SC-StAndrews_presentation_final.pdf)
 
 ## Adoption of final Consortium Agreement
 
@@ -20,6 +18,7 @@ main activities, achieved and ongoing deliverables, ...
 - [JacU](../ProgressReports/JacU)
 - [Sheffield](../ProgressReports/Sheffield)
 - [Zurich](../ProgressReports/Zurich)
+- [St Andrews](../SC-StAndrews_presentation_final.pdf)
 - ...
 
 ## Data Management plan (DMP).
