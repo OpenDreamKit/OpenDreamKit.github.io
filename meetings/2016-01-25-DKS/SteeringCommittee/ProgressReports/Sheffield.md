@@ -15,7 +15,7 @@ author: Michael Croucher and Neil Lawrence
 
 ## Financial and administrative setup
 
-- Some dragging of feed on consortium agreement, but seems to be progressing.
+- Some dragging of feet on consortium agreement, but seems to be progressing.
 
 ---
 ## Hiring
