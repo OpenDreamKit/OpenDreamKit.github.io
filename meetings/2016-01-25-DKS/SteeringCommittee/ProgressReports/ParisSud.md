@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Paris Sud"
 theme: white
 transition: none
-author: Benoît Pilorget, Nicolas M. Thiéry and Viviane Pons
+author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -53,20 +53,21 @@ author: Benoît Pilorget, Nicolas M. Thiéry and Viviane Pons
 
     - Finished and delivered
     - Glitch remaining under MacOS being resolved
--   EInfra Booklet: 1 page for ODK delivered
+-   [EInfra Booklet](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Communication/eInfra-Booklet/ODK.md): 1 page for ODK delivered
 
 ---
 ## Main upcoming tasks and deliverables
 
--   Delivrables
-    
+-   Deliverables (M6, March 1st)
+
     - Data Management Plan
     - Starting Press Release (?)
 
--   Up comming events
+-   Upcoming events
 
-    - Sage Days in Cernay
-    - Sage Days in FPSAC 2016 (?)
+    - Sage Days in Cernay (Spring 2016)
+    - Sage Days in FPSAC (July 2016)?
     - Women in Sage
+    - CIRM (Fall 2017)
 
 </section>
