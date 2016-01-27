@@ -21,8 +21,9 @@ author: Luca De Feo
 ---
 ## Main upcoming tasks and deliverables
 
-- D3.1 Virtual images and containers: underway, will be finished on
-  time (due M6).
+- D3.1 Virtual images and containers: underway (with Paris Sud,
+  Kaiserslautern), need to collect input from other centers
+  (Southampton, Bremen), will be finished on time (due M6).
 
 - D2.7 Community-curated indexing tool: discussions underway, also
   with GEANT OER, strategy not clear yet (due M24)
@@ -35,7 +36,7 @@ author: Luca De Feo
 ## Additional notes
 
 - Nicolas Gama is on leave until september 2016, possibly september
-  2017.
+  2017 (this will not affect the project).
 
 - Luca De Feo is currently the only researcher in UVersailles,
   in practice attached to Paris Sud.

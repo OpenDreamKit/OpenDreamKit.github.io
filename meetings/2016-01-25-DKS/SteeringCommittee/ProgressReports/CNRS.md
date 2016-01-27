@@ -39,7 +39,7 @@ author: Vincent Delecroix
 ---
 ## Main upcoming tasks and deliverables
 
-- T4.2 Python/Cython bindings: Jeroen Demeyer already
+- T4.12 Python/Cython bindings: Jeroen Demeyer already
   [cloned the repository of cypari](https://github.com/jdemeyer/cypari)
   developed by the creators of [Snappy](http://www.math.uic.edu/t3m/SnapPy/).
   The two original developers Marc Culler and Nathan
