@@ -8,7 +8,8 @@ This workshop is taking place at the University of St Andrews, UK. It will be pr
 This OpenDreamKit consortium workshop is a part of workpackage on Data/Knowledge/Software-Bases (also known as WP6), and its theme is "Knowledge representation in mathematical software and databases".
 
 # [Program](/meetings/2016-01-25-DKS/program)
-# [Group Picture](/meetings/2016-01-25-DKS/group_picture.jpg)
+
+[Group Picture](/meetings/2016-01-25-DKS/group_picture.jpg)
 
 # Registration for the workshop
 
