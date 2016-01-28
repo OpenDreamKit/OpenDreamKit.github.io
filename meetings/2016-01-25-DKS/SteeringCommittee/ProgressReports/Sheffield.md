@@ -31,6 +31,7 @@ author: Michael Croucher and Neil Lawrence
 -   Data@Sheffield event for highlighting activities.
 -   Repository of courses delivered on SMC started.
 -   Accepted proposal for MSc in Data Analytics (to use open teaching techniques and SMC).
+-   EPSRC Fellowship for Mike Croucher is expanding our agenda and remit nationwide.
 
 ---
 ## Initial Work on Deliverables

@@ -31,7 +31,6 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 St. Andrews.
 * Working on MathHub.info portal and the underlying MMT-based build system.
 * First (baby) steps towards a computational foundation.  
-
 ---
 ## Main upcoming tasks and deliverables
 
@@ -43,6 +42,15 @@ Initial DKS base Design (including base survey and Requirements Workshop Report)
 
 Both are on track.
 
-If we make progress on the KF-paradigm over the next months, we should have another W6
-Workhop in Summer to consolidate this and interface with WP3 and WP4. 
+If we make progress on the KF-paradigm over the next months, we should have another WP6 Workhop in Summer to consolidate this and interface with WP3 and WP4.
+
+---
+## Possibly Relevant Events (please contribute)
+
+* 25-19 July 2016 [CICM Conference](http://cicm-conference.org/2016) (Conference on Intelligent Computer Mathematics).
+  * relevant Tracks: CALCULEMUS & MKM
+* 11-14 July 2016 [ICMS Conference](http://icms2016.zib.de/) (International Conference on Mathematical Software)
+--> Track on WDML and Math Software/Data/Knoweldge Information Systems.
+
+
 </section>

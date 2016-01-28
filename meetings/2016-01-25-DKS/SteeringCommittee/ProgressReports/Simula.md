@@ -57,7 +57,8 @@ Notes on other WP4 deliverables:
 ---
 ## Additional Notes
 
-- I'm on leave from mid April to end of July.
+- Martin Alnæs is on leave from mid April to end of July.
 - This makes hiring postdoc soon more critical for completion of D4.6.
+- Consider this a minor risk as we already have progress.
 
 </section>
