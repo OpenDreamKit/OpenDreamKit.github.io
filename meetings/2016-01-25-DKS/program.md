@@ -7,7 +7,7 @@ title: Tentative program
 
 ### Mission statement
 
-- Knowledge first strategy (Michael)
+- [Knowledge first strategy](../kohlhase_slides.pdf) (Michael)
 
 ### State of the art
 

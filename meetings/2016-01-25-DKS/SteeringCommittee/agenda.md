@@ -12,19 +12,21 @@ title: Steering committee meeting, agenda
 Includes job openings, hires, and associated persons to the project,
 main activities, achieved and ongoing deliverables, ...
 
-- [Paris Sud](../ProgressReports/ParisSud)
+- [Université Paris Sud](../ProgressReports/ParisSud)
 - [CNRS](../ProgressReports/CNRS)
+- [Jacobs University Bremen](../ProgressReports/JacU)
+- [Université Joseph Fourier](../ProgressReports/UJF)
+- [University of Kaiserslautern](../ProgressReports/Kaiserslautern)
 - [Oxford](../ProgressReports/Oxford)
-- [Southampton](../ProgressReports/Southampton)
-- [Simula](../ProgressReports/Simula)
-- [JacU](../ProgressReports/JacU)
-- [Sheffield](../ProgressReports/Sheffield)
-- [Zurich](../ProgressReports/Zurich)
-- [St Andrews](../SC-StAndrews_presentation_final.pdf)
-- [UJF](../ProgressReports/UJF)
-- [UVersailles](../ProgressReports/UVersailles)
-- [UWarwick](../ProgressReports/Warwick)
-- ...
+- [University of Silesia](../ProgressReports/Silesia)
+- [University of Sheffield](../ProgressReports/Sheffield)
+- [University of Southampton](../ProgressReports/Southampton)
+- [University of St Andrews](../SC-StAndrews_presentation_final.pdf)
+- [Université Versailles Saint-Quentin](../ProgressReports/UVersailles)
+- [University of Warwick](../ProgressReports/Warwick)
+- [Universität Zürich](../ProgressReports/Zurich)
+- [Logilab](../ProgressReports/Logilab)
+- [Simula Research Laboratory](../ProgressReports/Simula)
 
 ## Data Management plan (DMP).
 
