@@ -64,7 +64,7 @@ For more information please contact:
 # Participants
 
 * Alexander Konovalov (Local organiser - St Andrews)
-* Michael Jolhase (WP6 leader - JacobsUni), steering committee member
+* Michael Kohlhase (WP6 leader - JacobsUni), steering committee member
 * Nicolas Thiéry (Project coordinator - UPSud), steering committee member
 * Benoît Pilorget (Project Manager - UPSud), steering committee member
 * Viviane Pons (UPSud), steering committee member
