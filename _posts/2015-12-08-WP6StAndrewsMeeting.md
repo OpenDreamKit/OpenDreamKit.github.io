@@ -78,5 +78,6 @@ For more information please contact:
 * Mihnea Iancu (JacobsUni)
 * Markus Pfeiffer (StAndrews)
 * Tom Wiesing (JacobsUni)
+* Samuel Lelièvre (UPSud)
 
 
