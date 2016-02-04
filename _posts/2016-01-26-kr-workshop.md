@@ -7,7 +7,7 @@ start coding for Work Package WP6
 ... [details/program](http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/).
 
 The 15 participants explored the
-[Math-in-the-Middle Architecture](meetings/2016-01-25-DKS/kohlhase_slides.pdf)
+[Math-in-the-Middle Architecture](/meetings/2016-01-25-DKS/Kohlhase_slides.pdf)
 (originally introduced as Knowledge-First-Strategy) introduced by the WP6 leader and they
 started coding towards realizing it.
 
