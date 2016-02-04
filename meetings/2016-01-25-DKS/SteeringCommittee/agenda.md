@@ -21,7 +21,7 @@ main activities, achieved and ongoing deliverables, ...
 - [University of Silesia](../ProgressReports/Silesia)
 - [University of Sheffield](../ProgressReports/Sheffield)
 - [University of Southampton](../ProgressReports/Southampton)
-- [University of St Andrews](../StAndrews.md)
+- [University of St Andrews](../ProgressReports/StAndrews)
 - [Université Versailles Saint-Quentin](../ProgressReports/UVersailles)
 - [University of Warwick](../ProgressReports/Warwick)
 - [Universität Zürich](../ProgressReports/Zurich)
