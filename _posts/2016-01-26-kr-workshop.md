@@ -8,7 +8,7 @@ start coding for Work Package WP6
 
 The 15 participants explored the
 [Math-in-the-Middle Architecture](meetings/2016-01-25-DKS/kohlhase_slides.pdf)
-(originally introduced as Knowledge-First-Strategy) intrudocd the by WP6 leader and
+(originally introduced as Knowledge-First-Strategy) introduced by the WP6 leader and they
 started coding towards realizing it.
 
 This information architecutre uses a central mathematical ontology represented in
