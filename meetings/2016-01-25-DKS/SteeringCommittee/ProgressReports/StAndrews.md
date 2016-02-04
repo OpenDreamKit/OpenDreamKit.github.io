@@ -29,10 +29,11 @@ Administration all going smoothly
 * training and related initiatives, community building in UK (with CoDiMa)
 * organising this and connected meetings
 
-All these continue, plus some new activities (for instance with
-JacobsU on exporting the GAP type system)
+--
+All these continue, plus some new activities:
 
-Steve will be working on setting up the advisory board in the next
-weeks.
+- collaboration with JacobsU on exporting the GAP type system
+- Steve will be working on setting up the advisory board in the next
+  weeks
 
 </section>
