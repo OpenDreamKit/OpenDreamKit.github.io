@@ -8,7 +8,8 @@ This workshop is taking place at the University of St Andrews, UK. It will be pr
 This OpenDreamKit consortium workshop is a part of workpackage on Data/Knowledge/Software-Bases (also known as WP6), and its theme is "Knowledge representation in mathematical software and databases".
 
 # [Program](/meetings/2016-01-25-DKS/program)
-# [Group Picture](/meetings/2016-01-25-DKS/group_picture.jpg)
+
+[Group Picture](/meetings/2016-01-25-DKS/group_picture.jpg)
 
 # Registration for the workshop
 
@@ -59,3 +60,24 @@ For more information please contact:
 * Michael Kohlhase (m.kohlhase@jacobs-university.de) for science related matters
 * Benoît Pilorget (benoit.pilorget@lri.fr)
 * Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
+
+# Participants
+
+* Alexander Konovalov (Local organiser - St Andrews)
+* Michael Kohlhase (WP6 leader - JacobsUni), steering committee member
+* Nicolas Thiéry (Project coordinator - UPSud), steering committee member
+* Benoît Pilorget (Project Manager - UPSud), steering committee member
+* Viviane Pons (UPSud), steering committee member
+* Ursula Martin (UOXF), replacing D. Pasechnick to the steering committee meeting
+* John Cremona, (UWarwick), steering committee member
+* Luca de Feo (UVSQ), steering committee member
+* Paul-Olivier Dehaye (UZH), steering committee member
+* Steve Linton (StAndrews), steering committee member
+* Dennis Müller (JacobsUni)
+* Florian Rabe (JacobsUni)
+* Mihnea Iancu (JacobsUni)
+* Markus Pfeiffer (StAndrews)
+* Tom Wiesing (JacobsUni)
+* Samuel Lelièvre (UPSud)
+
+
