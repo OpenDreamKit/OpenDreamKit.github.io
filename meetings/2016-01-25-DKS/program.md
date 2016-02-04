@@ -7,7 +7,7 @@ title: Tentative program
 
 ### Mission statement
 
-- [Knowledge first strategy](meetings/2016-01-25-DKS/Kohlhase_slides.pdf) (Michael)
+- [Knowledge first strategy](/meetings/2016-01-25-DKS/Kohlhase_slides.pdf) (Michael)
 
 ### State of the art
 
