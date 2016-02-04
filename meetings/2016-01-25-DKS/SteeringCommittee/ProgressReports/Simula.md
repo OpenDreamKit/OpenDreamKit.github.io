@@ -29,6 +29,7 @@ author: Martin Alnæs and Min RK
 
 ---
 ## Achievements
+
 -   Progress on [D4.6: Tools for collaborating on notebooks via version-control](https://github.com/OpenDreamKit/OpenDreamKit/issues/95)
 
   - Prototyping started as project [nbdime](https://github.com/martinal/nbdime)
@@ -42,17 +43,17 @@ Notes on other WP4 deliverables:
 
 -    Due month 6:
 
-  - D4.1 (PARI) - moved responsibility to WP3
-  - D4.2 (Report on Active/Structured Documents Requirements and existing Solutions) - Jacobs University in charge; haven't heard anything
+    - D4.1 (PARI) - moved responsibility to WP3
+    - D4.2 (Report on Active/Structured Documents Requirements and existing Solutions) Jacobs University in charge
 
----
+--
 ## Main upcoming tasks and deliverables (2/2)
 
 -   Due month 12:
 
-  - D 4.3 (MathHub.info) - Jacobs University in charge, haven't heard anything
-  - D 4.4 (GAP/PARI kernels) UPSud leads this one, I believe there was work done at a PARI workshop
-  - D 4.5 (Sage/Jupyter notebooks) Some work for .rst in https://github.com/nthiery/rst-to-ipynb 
+    - D4.3 (MathHub.info) Jacobs University in charge
+    - D4.4 (GAP/PARI kernels) UPSud leads this one, I believe there was work done at a PARI workshop
+    - D4.5 (Sage/Jupyter notebooks) Some work for .rst in https://github.com/nthiery/rst-to-ipynb
 
 ---
 ## Additional Notes
