@@ -25,7 +25,8 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 ---
 ## Achievements
 
-* St. Andrews Workshop on WP6 with 15 participants
+* St. Andrews Workshop on WP6 with 15 participants (from JacU, ParisSud, Versailles,
+  Warwick, UZH, StAndrews)
 * Developed Knowledge-first strategy for integrating open-source components into a VRE
 * Implementing the basic setup for the Knowlegde-First paradigm of intetration for
 St. Andrews.

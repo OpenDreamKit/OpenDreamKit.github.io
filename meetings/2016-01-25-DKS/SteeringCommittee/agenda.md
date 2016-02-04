@@ -3,7 +3,7 @@ layout: page
 title: Steering committee meeting, agenda
 ---
 
-[SLIDES](../SC-StAndrews_presentation_final.pdf)
+[Presentation slides](../SC-StAndrews_presentation_final.pdf)
 
 ## Adoption of final Consortium Agreement
 
@@ -21,14 +21,14 @@ main activities, achieved and ongoing deliverables, ...
 - [University of Silesia](../ProgressReports/Silesia)
 - [University of Sheffield](../ProgressReports/Sheffield)
 - [University of Southampton](../ProgressReports/Southampton)
-- [University of St Andrews](../SC-StAndrews_presentation_final.pdf)
+- [University of St Andrews](../ProgressReports/StAndrews)
 - [Université Versailles Saint-Quentin](../ProgressReports/UVersailles)
 - [University of Warwick](../ProgressReports/Warwick)
 - [Universität Zürich](../ProgressReports/Zurich)
 - [Logilab](../ProgressReports/Logilab)
 - [Simula Research Laboratory](../ProgressReports/Simula)
 
-## Data Management plan (DMP).
+## Data Management plan (DMP)
 
 ## Zürich partner situation (PO Deshaye position at the University)
 
