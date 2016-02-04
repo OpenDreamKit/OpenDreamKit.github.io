@@ -11,7 +11,7 @@ The 15 participants explored the
 (originally introduced as Knowledge-First-Strategy) introduced by the WP6 leader and they
 started coding towards realizing it.
 
-This information architecutre uses a central mathematical ontology represented in
+This information architecture uses a central mathematical ontology represented in
 OMDoc/MMT as a central vocabulary for specifying system behaviors and capabilities, while
 documenting the maths involved to users. 
 
