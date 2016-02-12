@@ -19,7 +19,7 @@ InternalEvents:
       start: 2016-01-26
       end: 2016-01-27
       url: http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/agenda/
-    - title: Sage Days 77 (Cernay): packaging, portability, documentation tools
+    - title: "Sage Days 77 (Cernay): packaging, portability, documentation tools"
       start: 2016-04-04
       end: 2016-04-08
       url: https://wiki.sagemath.org/days77
