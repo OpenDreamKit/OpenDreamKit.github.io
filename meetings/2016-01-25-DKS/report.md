@@ -1,140 +1,80 @@
 ---
 layout: subpage
-title: Report
+title: Status report of Sage-Gap days
 ---
 
-# Partial status reports for ODK days
+# {{ page.title }}
 
-## 2016-01-26-T-1403-odk-status-report.md
+## Mission statement
 
-Status report
+- [Knowledge first strategy](/meetings/2016-01-25-DKS/Kohlhase_slides.pdf) (Michael)
+
+## Knowledge representation in LMFDB
+
+John, Michael + some of his team
+
+- proofreading and annotating lmfdb
+- taking the information that the LMFDB stores in knowls
+- process to convert to the MMT format, already begun, we did more on that
+- spin-off from that: more rules on the LMFDB
+- we haven't yet got a process to do conversion automatically in the other direction
+
+Michael:
+
+- the other thing we did: the schema file we showed you yesterday night
+  expressed as lists of lists of lists of certain form in JSON
+- the codecs between, we've proofread that list, documented it and extended it
+  so that that part of the LMFDB we have a 
+- I think John realized that 2x2 matrices need to be documented rather
+  than the lists of elements that were documented before
+- from that documentation we plan to make more of these mmt schema theories
+  which will allow us to xxx 
+- and we're filling up the codecs repository with xxx
+
+# Comments
+Florian
+- we should implement a schema validator
 
 Michael
-- code sprints for the rest of the time
-- regular account of synchronization points
-- people
-  - say what they are working on
-  - say what they are planning to do
-  - maybe do a small demo
+- yes, that's something we discussed as well, it would be very nice to have
 
-so, regular points for touching base
+John
+- we delegated that to other people
 
-Go round the table, everybody says 2 sentences
-about what they are expecting to do or "don't know"
 
 ### John
-- work with Michael + some of his team on proofreading
-  annotating lmfdb
+- upgraded the description
+  - not only does it have the description of key-values pairs
+  - and human language description
+  - but also mathematical definition of what the thing is to represent
+- lmfdb work
 
-### Alex
-- graph, format
-- work with Bremen team, answering some questions on GAP
+### John
+- continued working on what i was doing yesterday
+- LMFDB has knowls
+  which started out as a way to get definition of words like conductor
+  - ended up being more
+  - each knowl links to other knowls
+  - interlinked nuggets of knowledge
+  - all are stored in the LMFDB database
+  - one consequence is that when you look at the LMFDB API
+  - JSON object with all the content and also all the authors and who edited it etc
+  - michael had already xxx and converted to his colored cloud
+  - yesterday we xxx
+  - i checked through that in the morning 
+  - about 20 xxx
+  - several have been updated, others have been created
+  - communicating between the two systems
 
-### Mihna
-- knowledge part, lmfdb part, other systems, Sage, how to parse it,
-  next GAP
+  - perhaps it could be made more automatic
+  - i think that's it really
 
-### Markus
-- will be working with Dennis
-  on exporting categories in Sage to something that can be exported to mmt
-- Alex sent me a script which generates XML
+## Knowledge representation in Findstat
 
-### Dennis
-- work with Markus, importing that stuff into MMT
-- formal description of the type system for MMT
-- generate MMT code
-- see what we can do with it
-- make MMT objects, that are directly connected to xxx
+Viviane, Florian, Paul
 
-### Florian
-- interested in many things
-- going to assume that Dennis in charge of GAP
-- get together and have a look at FindStat
-- exactly how the knowledge is represented
-- work with Nicolas on the Sage categories
-- later on with Viviane on Findstat
-
-### Paul
-- Findstat
-- I already pushed something to Tom
-
-### Tom
-- been improving the python api for mmt a bit
-- would like to demo this at some point today
-- (just after this round)
-- started to get inspired for jupyter kernel for mmt
-- not clear to us what we want that to actually do
-- Florian: interesting challenge would be to have MMT / Sage
-- even just for the plain mmt, not clear what we want to do
-
-### Steve
-- interesting in both the other GAP activities
-- try and dig out some more comprehensive exports to some format
-
-### Samuel
-- this morning explained Sage, SageMathCloud, Jupyter to the Bremen team
-- keep doing that or join some other activity
-- or work on SageMath questions
-- work on MMT tutorial by Dennis
-
-### Viviane
-- findstat modelisation with Florian and Paul
-- I am here this afternoon and leaving tonight
-
-### Benoît
-- I'll pass
-
-### Nicolas
-- making myself available to whoever wants to work
-
-### Michael
-- being notified of many successes
-- proofreading
-
-### Luca
-- teaching duties
-- pass
-
-### Ursula
-- I'm listening with interest
-
-## Before everyone goes
-
-Nicolas, Michael: let's all thank the organisers
-- good organisation and good welcome, spectacular venues
-
-Steve
-- about the advisory board:
-  - i found a list of suggested people on the odk private repository odk/participants
-  - i added a column to indicate who knows them, and would be willing to approach them
-
-## Demo
-
-### Tom
-
-python api for mmt: can query mmt from python,
-can turn the objects you get from mmt into python literals,
-and possibly in the future sage objects or GAP objects
-
-Florian demoed yesterday elliptic curves
-
-now doing the very same demo for python
-
-up here we set a uri or path 
-
-```
-# paths to the elliptic curves
-lmfdb_elliptic_curves = path.Path.parse("http://www.lmfdb.org/")
-```
-
-## 2016-01-26T1655 ODK days status report
-
-1655 Status report
-
-### Viviane
-- worked with Florian on MMT and Findstat
-  to build an abstract image of findstat
-  - gave him read access to our git repo
+- first step toward an abstract image of findstat
+- gave him read access to our git repo
 
 Florian
 - my impression was that the data in findstat is an easily accessible state
@@ -155,9 +95,6 @@ Paul
 Viviane
 - we can do that kind of statistics already
 
-Nicolas
-- xxx
-
 Viviane
 - I still need to be convinced about this
 - right now our main concern is efficiency and quickness of the answer
@@ -172,39 +109,9 @@ Viviane
 - we've built our little circle of knowledge
 - this could be interesting to link it in different ways
 
-### Benoît
-- we are going to write the minutes by the end of the week
-- to be sent to the SC members on Friday
-- next ODK workshop: need to choose dates
+## Knowledge representation in GAP
 
-### John
-- Michael and I were taking the information that the LMFDB stores in knowls
-- process to convert to the MMT format, already begun, we did more on that
-- spin-off from that: more rules on the LMFDB
-- we haven't yet got a process to do conversion automatically in the other direction
-
-Michael
-- the other thing we did: the schema file we showed you yesterday night
-  expressed as lists of lists of lists of certain form in JSON
-- the codecs between, we've proofread that list, documented it and extended it
-  so that that part of the LMFDB we have a 
-- I think John realized that 2x2 matrices need to be documented rather
-  than the lists of elements that were documented before
-- from that documentation we plan to make more of these mmt schema theories
-  which will allow us to xxx 
-- and we're filling up the codecs repository with xxx
-
-Florian
-- we should implement a schema validator
-
-Michael
-- yes, that's something we discussed as well, it would be very nice to have
-
-John
-- we delegated that to other people
-
-Tom
-- xxx
+Alex, Markus, Steve, ...
 
 ### Steve
 - working with Alexander and Markus
@@ -256,8 +163,103 @@ Markus
 - once you load the semigroups package, xxx
 
 Alex
-- xxx
+- graph, format
+- work with Bremen team, answering some questions on GAP
 
+
+### Alex
+- punished myself with lack of sleep, coding till 1am
+- updated the rather big map of the GAP type system
+  - it is now available for download
+  - core GAP version
+  - core GAP + GAP packages version
+- continue manual consistency checker
+  - checker does the following
+    - 7 types: method, attribute, class, function, xxx
+    - the manual entries say "this is a function" or "a method" etc
+    - sometimes people just copy-paste, and refer to the wrong thing
+    - 10% errors in the manual
+    - 300 of them has this wrong type
+  - my checker now reports the line in the manual or in the code
+    that we need to fix
+  - automated test in travis
+    - when someone submits a pull request
+- TODO:
+  color code the various keywords
+  eg methods pink, etc.
+
+### Markus
+- TODO:
+  - export GAP types properties attributes
+  - JSON
+  - I can make a GAP package and deposit this
+  - 
+Michael: this should stay in GAP
+Alex: This is useful, because sometimes people ask
+what properties can a group have
+
+### Mihnea
+- I made an OMDoc importer for the GAP xxx
+- example files don't have a lot of math,
+  the only thing I can do is xxx
+- kind of works except my importer is not finished
+- can check consistency and report a few bugs
+
+Michael: what's the licensing of all the stuff that you're exporting
+I guess that since GAP is probably GPL, the things you're exporting
+
+Markus: we require GPL2+ licensing for new GAP code;
+there are bits of GAP like the Small groups library where
+the license says you're not allowed to change them.
+
+Michael: the other part is the documentation.
+Alex, Markus: same as GAP.
+Michael: that is something you want to clarify at some point.
+It needs to be licensed.
+Markus: I'll keep a note of this and I'll try to clarify this.
+John: I'll try to get the LMFDB side settled too.
+
+### Mihnea
+- Alex explained the GAP internals
+- GAP manual XML
+- actually have few MB of content
+- fixing the exporter
+
+### Dennis
+- GAP importer
+- running after whatever improvements Markus is doing
+- expected outcome: all of the GAP objects map with exports
+- translate them in some way into MMT objects
+- not know what way to translate them yet
+- some connection to the scscp server for gap
+- such that we are able to
+  - get objects from GAP, convert them to MMT
+  - get objects from MMT, convert them to GAP
+
+### Markus
+- hacking on exporting all the type information for GAP
+- categories filters, attributes
+- together with some information
+- for attributes, what categories they
+- ever growing JSON file
+- one  of the outcomes
+  - i now understand some of the internals of the GAP type system better
+  - i will translate some of what i did into GAP functions
+
+### Markus
+- will be working with Dennis
+  on exporting categories in Sage to something that can be exported to mmt
+- Alex sent me a script which generates XML
+
+### Dennis
+- work with Markus, importing that stuff into MMT
+- formal description of the type system for MMT
+- generate MMT code
+- see what we can do with it
+- make MMT objects, that are directly connected to xxx
+
+
+## MMT and Jupyter
 
 ### Tom
 - got a jupyter kernel for mmt running
@@ -289,133 +291,12 @@ Markus
   - you either do it in your mmt initerface if it has user authentication
   - or you use jupyterhub
 
-### Mihnea
-- looked at GAP
-- managed to get at least one example in the format
-- put it in the odk/gap repo
+## MMT and MathHub (Florian, Michael)
 
-### Samuel
-- yesterday put up my ODK logo proposal
-- filled in my time sheets after gentle reminder by Benoît
-- read stuff
-- emailed my department about buying SageMathCloud pro subscription
-
-### Paul
-- talked with Viviane about Findstat
-- talked with Nicolas about categories in SageMath
-- draft implementation of xxx
-- I'm trying to understand where xxx
-- in Sage I think there are two levels
-  - 
-  - 
-- I'm pushing it right now to the existing ODK repositories
-- there is no repository for Python
-- probably it would be good to have that
-
-### Florian
-- from my perspective it's still early to report
-- I think we should code some more tomorrow
-
-Nicolas
-- or tonight
-
-### Michael
-- we worked on the purple thing
-- can we start seeing the blue thing?
-
-Someone
-- start from something simpler than elliptic curves
-
-Michael
-- magmas
-
-Nicolas
-- aim for rings
-
-
-## 2016-01-27T1002 ODK days status report
-
-Status report about activity since last night + plans for today
-
-### John
-- upgraded the descriptoin
-  - not only does it have the description of key-values pairs
-  - and human language description
-  - but also mathematical definition of what the thing is to represent
-- lmfdb work
-
-### Alex
-- punished myself with lack of sleep, coding till 1am
-- updated the rather big map of the GAP type system
-  - it is now available for download
-  - core GAP version
-  - core GAP + GAP packages version
-- continue manual consistency checker
-  - checker does the following
-    - 7 types: method, attribute, class, function, xxx
-    - the manual entries say "this is a function" or "a method" etc
-    - sometimes people just copy-paste, and refer to the wrong thing
-    - 10% errors in the manual
-    - 300 of them has this wrong type
-  - my checker now reports the line in the manual or in the code
-    that we need to fix
-  - automated test in travis
-    - when someone submits a pull request
-- TODO:
-  color code the various keywords
-  eg methods pink, etc.
-
-### Markus
-- nothing to report
-- TODO:
-  - export GAP types properties attributes
-  - JSON
-  - I can make a GAP package and deposit this
-  - 
-Michael: this should stay in GAP
-Alex: This is useful, because sometimes people ask
-what properties can a group have
-
-### Dennis
-- Scala data structures
-- now need to figure out what to do with them
-- this requires spending time understanding GAP
-
-Michael: seeing things the past two days there seems to be
-more potential than we thought in the project.
-Let us start a visiting program.
-I would like to invite Markus to Bremen for a week or so.
-It could also be the other way around, that we send Dennis
-or Mihnea to St Andrews.
-
-
-### Mihnea
-- I made an OMDoc importer for the GAP xxx
-- example files don't have a lot of math,
-  the only thing I can do is xxx
-- kind of works except my importer is not finished
-- can check consistency and report a few bugs
-
-Michael: what's the licensing of all the stuff that you're exporting
-I guess that since GAP is probably GPL, the things you're exporting
-
-Markus: we require GPL2+ licensing for new GAP code;
-there are bits of GAP like the Small groups library where
-the license says you're not allowed to change them.
-
-Michael: the other part is the documentation.
-Alex, Markus: same as GAP.
-Michael: that is something you want to clarify at some point.
-It needs to be licensed.
-Markus: I'll keep a note of this and I'll try to clarify this.
-John: I'll try to get the LMFDB side settled too.
-
-### Florian
 - clearing up some things in MMT
 - make the parsers to parse arbitrary snippets of MMT
 - interactive interpreters
 
-### Michael
 - doing various cleanup, getting people to scream
   because I've moved stuff around in the mathhub directory
   but I see
@@ -426,12 +307,23 @@ John: I'll try to get the LMFDB side settled too.
 
 Dennis: speaking of that I just xxx
 
-### Samuel
-- open trac tickets for OpenMath and SCSCP interfaces
+## Knowledge representation in Sage
 
-### Nicolas
-- working with Paul and Florian
-  thinking about how we want to express the purple blob for Sage
+### Explaining Sage categories (Nicolas, with Florian, Paul, ...)
+
+[Categories/theories in Sage](../survey-Sage/) (Nicolas) ([demo](../survey-Sage.ipynb))
+
+TODO: add links to tutorials on categories and axioms
+
+### Very early draft of MMT formalisation of Python / Sage category infrastructure (Paul)
+
+Pushed python repository: TODO: add link
+
+### Sage-GAP semantic interface
+
+Nicolas, with help of Paul, Florian, Markus, ...
+
+- thinking about how we want to express the purple blob for Sage
 - what syntax we want for the blue blob
 - as a target want to have something like this working today
 - http://github.com/nthiery/sage-gap-semantic-interface/
@@ -445,128 +337,107 @@ Dennis: speaking of that I just xxx
             ...
   ```
 - one difficulty we were not expecting
-  - both in Sage and GAP we have both additive magma and multiplicative magma
+
+  - In Sage and GAP (and most other systems with a category mechanism)
+    we distinguish additive magma and multiplicative magma,
+    duplicating all the information, code, ...
+
+  - In MMT, thanks to morphisms, there is no such distinction; there are just Magmas.
+
   - at the intersection we have magmas
   - need to figure out how to add a keyword to specify additive vs multiplicative
 
-### Tom
-- now i've implemented it in such a way that xxx
-  and I get a JSON back, which might not be that useful at this point
-  but I can imagine everybody writing their own codec
-  so that we can xxx
-- plan: code sprint for Nicolas
-
-### Paul
-- pushed python repository: very early draft of mmt formalisation
-
-## 2016-01-27T1414 odk-days-status-report
-
-Update round
-
-### Paul
-- not been very productive
-- sat next to Nicolas and talked to him
-- gone for a walk
-
-### Samuel
-- discussed MMT and SageMathCloud with Florian, Tom, Mihnea, Nicolas
-
-### Nicolas
 - coding sprint MMT
 - at this point the code is written
 - it parses which doesn't mean much in python
 - now need to make it run
-- chat with Florian about categories
 
-### Michael
-- massaging the LMFDB-inspired blue blog
-- chatting with John
-- I think we're synchronising quite nicely at a variety of levels
-- and make the blue blob slightly better
+### The blue thing
 
-### Florian
-- spoke to markus about GAP
-- to Nicolas about categories in sage
-- good understanding now about what's going on
-- need to go over my notes and digest
+## Discussions around SCSCP and OpenMath support
 
-Nicolas
-- there is a tutorial on Categories
-- and another one about Axioms
-- the refereeing process for getting that in Sage was long and painful
+Nicolas, Alex, Samuel, ...
 
-### Steve
-- interesting conversations mostly
-- i think i have more understanding now of what you mean by your pictures
-- and how that might possibly pan out
+- open Sage trac tickets for OpenMath and SCSCP interfaces
+- No Scala implementation, but a Java one
 
-### Tom
-- coded for Nicolas
-- Alex told me about SCSCP
-- don't really know what to do with it now
+- For Sage, a reasonable approach would be to implement the SCSCP
+  protocol in Python (possibly by wrapping the C++ implementation).
 
-Nicolas
-- do we have a Scala implementation of SCSCP?
 
-Someone
-- no but we have a Java one
+## General discussions about the Knowledge first approach
 
-Michael
-- Alex, can you point us to the Java implementation
+Steve:
 
-### Mihnea
-- Alex explained the GAP internals
-- GAP manual XML
-- actually have few MB of content
-- fixing the exporter
+- I think i have more understanding now of what you mean by your
+  pictures and how that might possibly pan out
 
-### Dennis
-- GAP importer
-- running after whatever improvements Markus is doing
-- expected outcome: all of the GAP objects map with exports
-- translate them in some way into MMT objects
-- not know what way to translate them yet
-- some connection to the scscp server for gap
-- such that we are able to
-  - get objects from GAP, convert them to MMT
-  - get objects from MMT, convert them to GAP
+## Python API for MMT (Tom, with feedback from Nicolas, ...)
 
-### Markus
-- hacking on exporting all the type information for GAP
-- categories filters, attributes
-- together with some information
-- for attributes, what categories they
-- ever growing JSON file
-- one  of the outcomes
-  - i now understand some of the internals of the GAP type system better
-  - i will translate some of what i did into GAP functions
+- been improving the python api for mmt a bit
+- would like to demo this at some point today
 
-### Alex
-- in addition to what was mentioned before
-- i was able to send a pull request to GAP with the consistency check
-  that I mentioned this morning
+Python api for mmt: can query mmt from python,
+can turn the objects you get from mmt into python literals,
+and possibly in the future Sage objects or GAP objects
 
-### John
-- continued working on what i was doing yesterday
-- LMFDB has knowls
-  which started out as a way to get definition of words like conductor
-  - ended up being more
-  - each knowl links to other knowls
-  - interlinked nuggets of knowledge
-  - all are stored in the LMFDB database
-  - one consequence is that when you look at the LMFDB API
-  - JSON object with all the content and also all the authors and who edited it etc
-  - michael had already xxx and converted to his colored cloud
-  - yesterday we xxx
-  - i checked through that in the morning 
-  - about 20 xxx
-  - several have been updated, others have been created
-  - communicating between the two systems
+Demo (repeating Florian's elliptic curves demo in MMT)
 
-  - perhaps it could be made more automatic
-  - i think that's it really
+up here we set a uri or path
 
-### Michael
+```
+# paths to the elliptic curves
+lmfdb_elliptic_curves = path.Path.parse("http://www.lmfdb.org/")
+
+TODO: add a link
+
+Misc stuff:
+
+- now i've implemented it in such a way that xxx
+  and I get a JSON back, which might not be that useful at this point
+  but I can imagine everybody writing their own codec
+  so that we can xxx
+
+## Explaining SageMathCloud, Jupyter, ... (Samuel)
+
+## MMT and Mathhub tutorial (Florian, Michael)
+
+The idea for this session is to see how knowledge representation in
+[MMT](https://svn.kwarc.info/repos/MMT/doc/html/index.html) could
+serve as a generic knowledge backbone for integrating the various
+systems.
+
+[See here to browse the mentioned MMT theories](http://ash.eecs.jacobs-university.de:8080/)
+
+[and here to browse the ODK instance of MathHub](https://odk.mathhub.info/ODK/lmfdb/)
+
+## ODK
+
+- Advisory board (Steve, with Michael, Nicolas, ...)
+- Steering committee (Benoît):
+  Progress on the minutes; will be sent to the committee in a few days
+- Yearly meeting for 2016 in June (Michael, Nicolas, ...)
+  Planning discussion
+- ODK logo proposal (Samuel)
+- SageMathCloud pro subscription for the math department in Orsay
+- Time sheets (Benoît, Samuel, Nicolas ...)
+
+## Debriefing
+
+Michael & all
+
+Nicolas, Michael: let's all thank the organisers
+- Nice and very welcoming organization, with spectacular venues
+
+
+Michael: seeing things the past two days there seems to be
+more potential than we thought in the project.
+Let us start a visiting program.
+I would like to invite Markus to Bremen for a week or so.
+It could also be the other way around, that we send Dennis
+or Mihnea to St Andrews.
+
+
 - one of the things that i've been thinking about
 - turn the talk i made about knowledge-first strategy into a talk at cicm
 - cicm has a session on projects and systems
@@ -589,3 +460,26 @@ Michael
   - building a small knowledge cloud that binds these systems together
   - maybe have that as a reference for other people who want to try
 - if there's a consensus then I'll go and create a repository
+
+
+##############################################################################
+##############################################################################
+
+### Tom
+- Florian: interesting challenge would be to have MMT / Sage
+- even just for the plain mmt, not clear what we want to do
+
+### Mihnea
+- managed to get at least one example in the format
+- put it in the odk/gap repo
+
+### Dennis
+- Scala data structures
+- now need to figure out what to do with them
+- this requires spending time understanding GAP
+
+### Alex
+- i was able to send a pull request to GAP with the consistency check
+  that I mentioned this morning
+
+
