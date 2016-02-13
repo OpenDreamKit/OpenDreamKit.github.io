@@ -5,7 +5,7 @@ title: Status report of Sage-Gap days
 
 # {{ page.title }}
 
-## Mission statement
+## Mission statement for the workshop
 
 - [Knowledge first strategy](/meetings/2016-01-25-DKS/Kohlhase_slides.pdf) (Michael)
 
@@ -309,50 +309,69 @@ Dennis: speaking of that I just xxx
 
 ## Knowledge representation in Sage
 
-### Explaining Sage categories (Nicolas, with Florian, Paul, ...)
+### Explaining Sage categories
 
-[Categories/theories in Sage](../survey-Sage/) (Nicolas) ([demo](../survey-Sage.ipynb))
+Nicolas gave a presentation on [Categories/theories in Sage](../survey-Sage/) (Nicolas)
+backed up with a ([demo](../survey-Sage.ipynb)).
 
-TODO: add links to tutorials on categories and axioms
+This was followed by in depth discussions with Florian and Paul toward
+formalizing them in MMT.
+
+References:
+
+- [Elements, parents, and categories in Sage: a (draft of) primer](http://doc.sagemath.org/html/en/reference/categories/sage/categories/primer.html)
+- [Implementing axioms in Sage](http://doc.sagemath.org/html/en/reference/categories/sage/categories/category_with_axiom.html)
 
 ### Very early draft of MMT formalisation of Python / Sage category infrastructure (Paul)
 
 Pushed python repository: TODO: add link
 
-### Sage-GAP semantic interface
+## Sage-GAP semantic interface
 
-Nicolas, with help of Paul, Florian, Markus, ...
+During the [first joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/),
 
-- thinking about how we want to express the purple blob for Sage
-- what syntax we want for the blue blob
-- as a target want to have something like this working today
-- http://github.com/nthiery/sage-gap-semantic-interface/
-  ```
-    @mmt("Magma", "additive", file="additive_magmas.py")
-    class AdditiveMagmas:
+Nicolas worked on a prototype of generic semantic handle Sage-GAP
+interface. The idea is to generalize the existing wrappers for matrix
+groups or permutation groups which are monolithic and do not scale to
+other kind of structures.
 
-        class ElementMethods:
+Instead, the approach is to enrich the handle `h` to a GAP object `O`
+by retrieving from GAP the mathematical properties of `O` and exposing
+them to Sage, so that the handle behave as a native Sage object with
+those properties.
 
-            @mmt("°", operator="+")
-            ...
-  ```
-- one difficulty we were not expecting
+See: https://github.com/nthiery/sage-gap-semantic-interface/
 
-  - In Sage and GAP (and most other systems with a category mechanism)
-    we distinguish additive magma and multiplicative magma,
-    duplicating all the information, code, ...
+During this "Knowledge" workshop, Nicolas, with help from Paul,
+Florian, Markus, Alex, explored how to scale to intefaces between
+multiple systems using the ideas outlined in Michael's talk.
 
-  - In MMT, thanks to morphisms, there is no such distinction; there are just Magmas.
+See: https://github.com/nthiery/sage-gap-semantic-interface/#scaling-to-multisystem-interfaces
 
-  - at the intersection we have magmas
-  - need to figure out how to add a keyword to specify additive vs multiplicative
+By the end of the workshop, a very crude proof of concept was
+implemented, using the latest Python bindings for MMT to fetch a tiny
+bit of information from the MMT specifications of Magmas, and using
+that to automatically generate a semantic interface with the adapter
+method mapping the `_mul_` method in Sage to the `Prod` method in GAP.
 
-- coding sprint MMT
-- at this point the code is written
-- it parses which doesn't mean much in python
-- now need to make it run
+At this point, we did not use a specification of Magmas in GAP, and
+instead hardcoded in the Sage annotation the name of the GAP
+method. Other than this, the infrastructure is generic, so up to
+debugging it should scale.
 
-### The blue thing
+## Building the Computational Semigroups community
+
+During this workshop and the previous one, Nicolas discussed with the
+developpers of the GAP Semigroups package. There are good
+opportunities for collaborations; in fact Nicolas's main motivation
+for the Sage-GAP interface is to be able to use the GAP Semigroup
+package from Sage as a building block for representation-theoretic
+calculations.
+
+Those discussions led to the creation of a
+[mailing list](https://listes.services.cnrs.fr/wws/info/computational-semigroup-theory)
+to better exchange information within the computational semigroup
+community, across the various computational systems.
 
 ## Discussions around SCSCP and OpenMath support
 
