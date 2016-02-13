@@ -31,7 +31,7 @@ Michael:
   which will allow us to xxx 
 - and we're filling up the codecs repository with xxx
 
-# Comments
+### Comments
 Florian
 - we should implement a schema validator
 
@@ -313,7 +313,6 @@ Dennis: speaking of that I just xxx
 
 Nicolas gave a presentation on [Categories/theories in Sage](../survey-Sage/) (Nicolas)
 backed up with a ([demo](../survey-Sage.ipynb)).
-
 This was followed by in depth discussions with Florian and Paul toward
 formalizing them in MMT.
 
@@ -328,10 +327,10 @@ Pushed python repository: TODO: add link
 
 ## Sage-GAP semantic interface
 
-During the [first joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/),
-
+The week before, during the [first joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/),
 Nicolas worked on a prototype of generic semantic handle Sage-GAP
-interface. The idea is to generalize the existing wrappers for matrix
+interface, with the help of many (Markus, Alex, Steve, Volker, ...).
+The idea is to generalize the existing wrappers for matrix
 groups or permutation groups which are monolithic and do not scale to
 other kind of structures.
 
@@ -342,9 +341,9 @@ those properties.
 
 See: https://github.com/nthiery/sage-gap-semantic-interface/
 
-During this "Knowledge" workshop, Nicolas, with help from Paul,
-Florian, Markus, Alex, explored how to scale to intefaces between
-multiple systems using the ideas outlined in Michael's talk.
+During this workshop, Nicolas (with support from Paul, Florian, Tom,
+...), explored how to scale to intefaces between multiple systems
+using the ideas outlined in Michael's talk.
 
 See: https://github.com/nthiery/sage-gap-semantic-interface/#scaling-to-multisystem-interfaces
 
