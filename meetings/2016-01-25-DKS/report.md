@@ -3,8 +3,6 @@ layout: page
 title: Status report DKS Workshop St.  Andrews
 ---
 
-# {{ page.title }}
-
 ## Mission statement for the workshop
 
 - [Knowledge first strategy](/meetings/2016-01-25-DKS/Kohlhase_slides.pdf) (Michael)
