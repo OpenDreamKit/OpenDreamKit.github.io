@@ -1,9 +1,7 @@
 ---
-layout: subpage
-title: Status report of Sage-Gap days
+layout: page
+title: Status report DKS Workshop St.  Andrews
 ---
-
-# {{ page.title }}
 
 ## Mission statement for the workshop
 
