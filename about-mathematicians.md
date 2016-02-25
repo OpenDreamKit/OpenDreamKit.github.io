@@ -25,7 +25,6 @@ title: "OpenDreamKit: the mathematician's perspective"
 <!-- TODO: add examples -->
 
 --
-
 ## Open Science getting momentum
 
 > [Open science](https://en.wikipedia.org/wiki/Open_science) is the
@@ -40,6 +39,22 @@ title: "OpenDreamKit: the mathematician's perspective"
 
 At the core of science for centuries. Finally getting recognition as
 *viable* and *necessary*, even by funding agencies
+
+--
+## Emergence of a vibrant ecosystem of **free software** for pure mathematics
+
+- Specialized libraries: [LinBox](http://www.linalg.org/), [PARI/GP](http://pari.math.u-bordeaux.fr/), [MPIR](http://mpir.org/), [Singular](http://www.singular.uni-kl.de/), ...
+- General purpose systems: [GAP](http://www.gap-system.org/), [SageMath](http://www.sagemath.org/), ...
+- Online databases: [OEIS](https://oeis.org/), [LMFDB](http://www.lmfdb.org/), ...
+- Interactive computing environments:<br>
+  [IPython/Jupyter](https://jupyter.org/), [SageMathCloud](https://cloud.sagemath.com/), ...
+- Together with the wider Scientific Python ecosystem
+
+###     
+
+### Viable alternatives to Maple, Mathematica, Matlab, ...
+
+For research and education. And the industry?
 
 ---
 # What are Virtual Research Environments?
@@ -71,28 +86,18 @@ environments to collaborate on **Software**, **Data**, and **Knowledge**:
 - Improve the productivity of researchers in pure mathematics and
   applications by further promoting collaborations on **Data**,
   **Knowledge**, and **Software**
-
 - Make it easy for teams of researchers of any size to set up custom,
   collaborative **Virtual Research Environments** tailored to their
   specific needs, resources and workflows
-
 - Support the entire life-cycle of computational work in mathematical
   research, from **initial exploration** to **publication**, **teaching**,
   and **outreach**
-
---
-
-- Performance, robustness, flexibility, ease of installation and use
-
+- Performance, robustness, flexibility, ease of install and use
 - Research on social aspects of collaborative software development in
   mathematics
 
-## Strategy
-
--   Join forces with the wider community
-
-    Scientific computing, ...
-
+--
+-   Join forces with the wider community (scientific computing, ...)
 -   Lower the software barrier between pure and applied mathematics
 
 ---
@@ -104,9 +109,7 @@ for the Advancement of Mathematics*
 
 [OpenDreamKit.org](OpenDreamKit.org)
 
--   [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
-
-    Work Programme: [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
+-   [H2020](https://ec.europa.eu/programmes/horizon2020/) [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures) Work Programme
 
     Call: Virtual Research Environments
 
