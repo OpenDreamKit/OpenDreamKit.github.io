@@ -4,10 +4,14 @@ title: "OpenDreamKit: the mathematician's perspective"
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# OpenDreamKit: the mathematician's perspective
+# OpenDreamKit in 5 slides
+
+## The mathematician's perspective
+
+<img src="https://cloud.githubusercontent.com/assets/6437976/11543197/22d9974c-98f0-11e5-8234-dcf6179f10b5.png" alt="OpenDreamKit's logo" height="30%">
 
 ---
-# Fundamental trends
+# Some fundamental trends
 
 ## Long standing and booming role of computers in pure mathematics
 
@@ -18,52 +22,51 @@ title: "OpenDreamKit: the mathematician's perspective"
 - Collaborative work
 - Education
 
-TODO: add examples
+<!-- TODO: add examples -->
 
-## Emergence of Open Science
+--
 
-TODO: 3 items about what Open Science is about
+## Open Science getting momentum
 
-- ...
-- Reproducibility
+> [Open science](https://en.wikipedia.org/wiki/Open_science) is the
+> movement to make scientific research, data and dissemination
+> accessible to all levels of an inquiring society, amateur or
+> professional
 
-- Open publications: arxiv, ...
-- Open source software:
-- Open data and even better open knowledge
+- Open Knowledge (Access, Educational Ressources)
+- Open Source or better Free Software
+- Open Data
+- Open Peer Review, Methodology, ...
 
-Now recognized as *necessary* and *viable*!
-
-Even by funding agencies :-)
+At the core of science for centuries. Finally getting recognition as
+*viable* and *necessary*, even by funding agencies
 
 ---
-
 # What are Virtual Research Environments?
 
-From the call of the H2020 European Research Infrastructures Work Programme
+Definition from the call of the H2020 European Research
+Infrastructures Work Programme:
+
+> Groups of researchers, typically widely dispersed who are working
+> together through ubiquitous, trusted and easy access to services for
+> scientific data, computing, and networking, in a *collaborative
+> virtual environment*
 
 
-``Groups of researchers, typically widely dispersed who are working
-together through ubiquitous, trusted and easy access to services for
-scientific data, computing and networking, in a \emph{collaborative
-virtual environment}.''
+--
 
-
----
-
-# Virtual Research Environments for mathematics?
+## Virtual Research Environments for mathematics?
 
 Fact: Mathematicians are already immersed in a multitude of virtual
-environments to collaborate on *Software*, *Data*, and *Knowledge*:
+environments to collaborate on **Software**, **Data**, and **Knowledge**:
 
 ![](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Proposal/Pictures/TheBigPicture.svg)
 
-TODO: add screenshots from the proposal
+<!-- TODO: add screenshots from the proposal -->
 
 ---
 
 # Now, what's next?
-
-Target features:
 
 - Improve the productivity of researchers in pure mathematics and
   applications by further promoting collaborations on **Data**,
@@ -77,14 +80,20 @@ Target features:
   research, from **initial exploration** to **publication**, **teaching**,
   and **outreach**
 
+--
+
 - Performance, robustness, flexibility, ease of installation and use
 
 - Research on social aspects of collaborative software development in
   mathematics
 
-TODO: highlight somewhere the strategy of joining forces with the
-wider community (scientific computing, ...) whenever possible.  Lower
-the software barrier between pure and applied mathematics.
+## Strategy
+
+-   Join forces with the wider community
+
+    Scientific computing, ...
+
+-   Lower the software barrier between pure and applied mathematics
 
 ---
 
@@ -95,21 +104,26 @@ for the Advancement of Mathematics*
 
 [OpenDreamKit.org](OpenDreamKit.org)
 
-- [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
-  [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)<br> Work Programme
-  Call: Virtual Research Environments
+-   [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 
-- Budget: 7.6 million euros
+    Work Programme: [European Research Infrastructures](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
 
-- [15 sites, 50 participants](http://opendreamkit.org/partners)<br>
-  In close collaboration with the international community!
+    Call: Virtual Research Environments
+
+-   Budget: 7.6M€
+
+-   [15 sites, 50 participants](http://opendreamkit.org/partners)
+
+    In close collaboration with the international community!
 
 ---
 
 # More reading
 
-- The [developer's perspective](/about-developers) on OpenDreamKit.
+- The [developer's perspective](/about-developers) on OpenDreamKit
 
 - [About OpenDreamKit](/about)
+
+- The OpenDreamKit [proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf)
 
 </section>
