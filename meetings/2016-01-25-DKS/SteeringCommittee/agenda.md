@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Steering committee meeting, agenda
 ---
@@ -6,7 +6,7 @@ title: Steering committee meeting, agenda
 [Presentation slides](../SC-StAndrews_presentation_final.pdf)
 
 
-[Minutes](meetings/2016-01-25-DKS/SteeringCommittee/2601-steeringcommittee-minutes.md)
+[Minutes](meetings/../2601-steeringcommittee-minutes.md)
 
 ## Adoption of final Consortium Agreement
 
