@@ -22,6 +22,7 @@ First expenses done
 ## Hiring
 
 Jan Aksamit has been hired part time and performed some preparatory work on [D2.8: Demonstrator: Linear Algebra - interactive book](https://github.com/OpenDreamKit/OpenDreamKit/issues/48). 
+
 ---
 
 ## Achievements
