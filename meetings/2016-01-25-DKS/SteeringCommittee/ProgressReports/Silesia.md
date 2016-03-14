@@ -29,7 +29,7 @@ Jan Aksamit has been hired part time and performed some preparatory work on [D2.
 
 ### Demonstrators
 
-We will start working on demonstrators [D2.9: Demonstrator: Nonlinear Processes in Biology interactive book](https://github.com/OpenDreamKit/OpenDreamKit/issues/49) and [D2.14: Demonstrators: Problems in Physics with Sage, Computational Mathematics for Engineering](https://github.com/OpenDreamKit/OpenDreamKit/issues/39)  till summer 2016. T
+We will start working on demonstrators [D2.9: Demonstrator: Nonlinear Processes in Biology interactive book](https://github.com/OpenDreamKit/OpenDreamKit/issues/49) and [D2.14: Demonstrators: Problems in Physics with Sage, Computational Mathematics for Engineering](https://github.com/OpenDreamKit/OpenDreamKit/issues/39)  till summer 2016. 
 
 Demonstrator [D2.8: Demonstrator: Linear Algebra - interactive book](https://github.com/OpenDreamKit/OpenDreamKit/issues/48) will start as sphinx  book with sagecell code cells. The reason is, that its due date is in the middle of the project (I mean it is soon for a demonstrator). If there will be any better solution we will adapt.  The first commits should be avaiable during next months.
 
