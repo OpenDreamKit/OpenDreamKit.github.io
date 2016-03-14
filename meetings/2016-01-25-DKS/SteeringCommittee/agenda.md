@@ -1,4 +1,5 @@
-﻿layout: page
+﻿---
+layout: page
 title: Steering committee meeting, agenda
 ---
 
