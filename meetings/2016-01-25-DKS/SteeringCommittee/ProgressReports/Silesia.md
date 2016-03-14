@@ -14,7 +14,9 @@ author: XXXXXX
 ---
 
 ## Financial and administrative setup
+
 First expenses done
+
 ---
 ## Hiring
 
