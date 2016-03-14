@@ -13,23 +13,23 @@ of the WP6 meeting
 
 Were physically present:
 - John Cremona (JC): University of Warwick
-- Luca di Feo (LDF): Université de Versailles Saint-Quentin
-- Paul-Olivier Dehaye (POD): Universität Zürich
+- Luca di Feo (LDF): UniversitÃ© de Versailles Saint-Quentin
+- Paul-Olivier Dehaye (POD): UniversitÃ¤t ZÃ¼rich
 - Steven Linton (SL): University of St Andrews
 - Ursula Martin (UM): University of Oxford
-- Viviane Pons (VP): Université Paris Sud
+- Viviane Pons (VP): UniversitÃ© Paris Sud
 - Nicolas Thiery (NT): Coordinator
 - Michael Kohlhase (MK): Jacobs University Bremen
 - Benoit Pilorget (BP): Project manager
 
 Were able to participate remotely via hubl.in:
 - Hans Fangohr (HF): University of Southampton
-- Clément Pernet (CP): Université Joseph Fourier
-- Martin Alnæs (MA): Simula Research Laboratory
+- ClÃ©ment Pernet (CP): UniversitÃ© Joseph Fourier
+- Martin AlnÃ¦s (MA): Simula Research Laboratory
 
 Neil Lawrence (NL: University of Sheffield), Wolfram Decker (WD:
 University of Kaiserslautern), Dima Pasechnik (DP, University of
-Oxford), Marcin Kostur (University of Silesia), and Florent Cayré
+Oxford), Marcin Kostur (University of Silesia), and Florent CayrÃ©
 (FC, Logilab) also attempted to participate; however the sound quality
 was too low for them to follow the live discussion.
 
@@ -68,19 +68,19 @@ BP presents the consortium agreement
 
 http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Kaiserslautern/
 
-- [Université Paris Sud](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/ParisSud)
+- [UniversitÃ© Paris Sud](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/ParisSud)
 - [CNRS](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/CNRS)
 - [Jacobs University Bremen](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/JacU)
-- [Université Joseph Fourier](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/UJF)
+- [UniversitÃ© Joseph Fourier](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/UJF)
 - [University of Kaiserslautern](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Kaiserslautern)
 - [Oxford](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Oxford)
 - [University of Silesia](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Silesia)
 - [University of Sheffield](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Sheffield)
 - [University of Southampton](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Southampton)
 - [University of St Andrews](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/StAndrews.md)
-- [Université Versailles Saint-Quentin](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/UVersailles)
+- [UniversitÃ© Versailles Saint-Quentin](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/UVersailles)
 - [University of Warwick](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Warwick)
-- [Universität Zürich](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Zurich)
+- [UniversitÃ¤t ZÃ¼rich](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Zurich)
 - [Logilab](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Logilab)
 - [Simula Research Laboratory](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Simula)
 
@@ -103,16 +103,16 @@ Comments and discussions:
   LDF: I'll expand D3.1 to contain anything containerized; please, put
   @mvousden in contact with me through OpenDreamKit/OpenDreamKit#58
 
-## Zürich partner situation (PO Dehaye position at the University)
+## ZÃ¼rich partner situation (PO Dehaye position at the University)
 
-POD: My contract as Assistant Professor at the University of Zürich
+POD: My contract as Assistant Professor at the University of ZÃ¼rich
 ends August 31st 2016. OpenDreamKit has 12(+1) person months planned
 specifically for my salary months 12-24 (so it starts exactly when my
-regular contract ends). Zürich is part of WP6, to lead one task ending
+regular contract ends). ZÃ¼rich is part of WP6, to lead one task ending
 early, and helping up to month 24. I am the only ODK participant in
-Zürich.
+ZÃ¼rich.
 
-Potential problem: Zürich says they require PIs to be professors, and
+Potential problem: ZÃ¼rich says they require PIs to be professors, and
 it may not be possible to nominally extend my Assistant Professorship
 even though the money is available, in which case they would not be
 able to host me between months 12 and 24.
@@ -127,7 +127,7 @@ following:
 - POD's work is essential to the good process of OpenDreamKit; they
   need to find a way to keep POD in the consortium for months 12-24.
 
-- Without POD there, Zürich would not be able to fulfill its ODK
+- Without POD there, ZÃ¼rich would not be able to fulfill its ODK
   duties and would need to be shut down as an ODK partner.
 
 - The SC gives the ability to the coordinator NT, POD, and MK to
