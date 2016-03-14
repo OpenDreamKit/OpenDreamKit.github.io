@@ -18,6 +18,7 @@ author: XXXXXX
 First expenses done
 
 ---
+
 ## Hiring
 
 Jan Aksamit has been hired part time and performed some preparatory work on [D2.8: Demonstrator: Linear Algebra - interactive book](https://github.com/OpenDreamKit/OpenDreamKit/issues/48). 
@@ -42,6 +43,7 @@ More importantly, we have estabilished very successfull collaboration with a tea
 Source of the code: [K3d-jupyter](https://github.com/K3D-tools/K3D-jupyter)
 
 ---
+
 ## Main upcoming tasks and deliverables
 
 Nothing is urgent, perhaps next big movement would be to subcontract c.a. 50% of  K3D software.
