@@ -35,7 +35,10 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 ### Oxford partner presentation (catch up on the kick-off meeting)
 
-### [Steering committee meeting](../SteeringCommittee/agenda/) (10:30 local time)
+### Steering committee meeting (10:30 local time)
+
+- [Agenda](../SteeringCommittee/agenda)
+- [Minutes](../SteeringCommittee/minutes)
 
 ### Brainstorms and coding sprints
 
