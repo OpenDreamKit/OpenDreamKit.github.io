@@ -28,8 +28,8 @@ sites:
         homepage: 'http://www.math.u-psud.fr/~lelievre/index-en.html'
         github: slel
       - name: Erik Bray
-      homepage: 'http://iguananaut.net/'
-      github: embray
+        homepage: 'http://iguananaut.net/'
+        github: embray
       - name: Loïc Gouarin
         homepage: 'http://www.math.u-psud.fr/~gouarin/'
         github: gouarin
