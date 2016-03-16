@@ -67,6 +67,10 @@ svg.icon, img.icon {
     padding: 5px;
 }
 
+.logo-europe {
+    display: none;
+}
+
 @media (min-width: 48em) {
 
 .theme-base-odk .sidebar {
@@ -77,6 +81,10 @@ svg.icon, img.icon {
 
 .theme-base-odk .content {
     overflow: hidden;
+}
+
+.logo-europe {
+    display: block;
 }
 
 }
