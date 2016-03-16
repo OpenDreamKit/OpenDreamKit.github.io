@@ -69,15 +69,17 @@ svg.icon, img.icon {
 
 @media (min-width: 48em) {
 
-.sidebar-odk {
+.theme-base-odk .sidebar {
     float: left;
-    padding: 1rem;
-    width:  18rem;
 
 }
 
-.content {
+.theme-base-odk .content {
     overflow: hidden;
 }
 
+}
+
+.theme-base-odk .sidebar .lead {
+    color: 5B78FD;
 }
