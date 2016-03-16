@@ -71,8 +71,13 @@ svg.icon, img.icon {
 
 .sidebar-odk {
     float: left;
-    padding: 10px;
+    padding: 2rem;
+    width:  14rem;
 
+}
+
+.content {
+    overflow: hidden;
 }
 
 }
