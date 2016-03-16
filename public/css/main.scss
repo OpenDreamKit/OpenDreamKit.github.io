@@ -15,8 +15,8 @@ svg.icon, img.icon {
     display: flex;
     flex-flow: row wrap;
     .site {
-	min-width: 35ex;
-	flex: 1 1 50%;
+    min-width: 35ex;
+    flex: 1 1 50%;
     }
 }
 
@@ -25,23 +25,38 @@ svg.icon, img.icon {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
-    
+
     a {
-	margin: 10px;
-	img { height: 60px; }
+    margin: 10px;
+    img { height: 60px; }
     }
 }
 
 #legend {
     &::before {
-	content: " ";
-	display: block;
-	width: 4em;
-	border-top: solid thin black;
-	margin-top: 1em;
+    content: " ";
+    display: block;
+    width: 4em;
+    border-top: solid thin black;
+    margin-top: 1em;
     }
     span {
-	white-space: nowrap;
-	margin-right: 1em;
+    white-space: nowrap;
+    margin-right: 1em;
     }
+}
+
+/* ODK Blue */
+.theme-base-odk .sidebar {
+  background-color: #6a9fb5;
+}
+.theme-base-odk .content a,
+.theme-base-odk .related-posts li a:hover {
+  color: #6a9fb5;
+}
+
+sidebar h1 {
+    display: block;
+    margin: 10px;
+    background: #fff;
 }
