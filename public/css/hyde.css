@@ -60,7 +60,8 @@ html {
   background-color: #202020;
 }
 @media (min-width: 48em) {
-  .sidebar {
+
+/*  .sidebar {
     position: fixed;
     top: 0;
     left: 0;
@@ -68,7 +69,7 @@ html {
     width: 18rem;
     text-align: left;
   }
-}
+}*/
 
 /* Sidebar links */
 .sidebar a {
