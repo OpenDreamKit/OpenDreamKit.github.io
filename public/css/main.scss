@@ -71,7 +71,7 @@ svg.icon, img.icon {
     display: none;
 }
 
-@media (min-width: 48em) {
+@media screen and (min-width: 48em) {
 
 .theme-base-odk .sidebar {
     float: left;
@@ -91,4 +91,14 @@ svg.icon, img.icon {
 
 .theme-base-odk .sidebar p.lead, .theme-base-odk .sidebar p.lead a {
     color: #5B78FD;
+}
+
+.site-url { display: none }
+@media print {
+    .sidebar-nav, .logo-europe, .lead { display: none; }
+    .sidebar { padding: 0 }
+    .sidebar-about {
+	h1 { display: inline-block; width: 2em }
+	.lead.site-url { display: block; font-size: 80% }
+    }
 }
