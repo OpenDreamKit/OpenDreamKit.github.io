@@ -51,4 +51,4 @@ us. Loving math is a plus but not a necessity.
 
 - [A full time postdoctoral fellow/developer position](http://m.finn.no/job/fulltime/ad.html?finnkode=69302480&orgId=274233842&ref=fas)
   starting as early as possible in 2016 for two years. Deadline for
-  applications: January 30th 2016.
+  applications: January 30th 2016. (filled)
