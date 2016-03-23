@@ -1,0 +1,174 @@
+\documentclass[12pt]{amsbook}
+\usepackage[utf8]{inputenc}
+\usepackage{ae,aecompl,aeguill}	% pour utiliser << et >>
+\usepackage[francais]{babel}
+\frenchbsetup{og=«, fg=»}
+\usepackage{times}
+\usepackage[babel=true,kerning=true]{microtype}
+\usepackage{hyperref}
+
+\input{preamble}
+
+\begin{document}
+
+\title{Sage Days}
+
+\section{Scientific context}
+
+
+From their earliest days, computers have been used in pure
+mathematics, either to make tables, to prove theorems (famously the
+four colour theorem) or, as with the astronomer's telescope, to
+explore new theories. Computer-aided experiments, and the use of
+databases relying on computer calculations such as the Small Groups
+Library in GAP, the Modular Atlas in group and representation theory,
+or the $L$-functions and Modular Forms Database (\LMFDB, see later),
+are part of the standard toolbox of the pure mathematician, and
+certain areas of mathematics completely depend on it. Computers are
+also increasingly used to support collaborative work and education.
+
+The last decades witnessed the emergence of a wide ecosystem of
+open-source tools to support research in pure mathematics. This ranges
+from specialized to general purpose computational tools such as \GAP,
+\PariGP, \Linbox, \MPIR, \Sage, or \Singular, via online databases
+like the \LMFDB and does not count online services like Wikipedia,
+\Arxiv, or MathOverflow. A great opportunity is the rapid emergence of
+key technologies, and in particular the \Jupyter (previously \IPython)
+platform for interactive and exploratory computing which targets all
+areas of science. This has proven the viability and power of
+collaborative open-source development models, by users and for users,
+even for delivering general purpose systems targeting a large public
+(researchers, teachers, engineers, amateurs, \ldots).
+
+\Sage itself is a free general purpose open-source mathematics
+software system licensed under the GPL whose mission is to create a
+viable free open source alternative to Magma, Maple, Mathematica and
+Matlab. It's developed since 2005 by a growing worldwide community of
+about 150 researchers and teachers. It builds on top of many existing
+open-source packages, including NumPy, SciPy, matplotlib, Sympy,
+Maxima, and the aforementioned ones, all accessible from a
+Python-based library containing itself many unique mathematical
+features. \Sage can be used as well as batch program, through the
+\Jupyter interactive computing interface (command-line or graphical),
+or \href{cloud.sagemath.org}{on the cloud}.
+
+Thanks to this, \Sage is used regularly in universities, both for
+research and education; an indicator of its success in the French
+system is that, since 2014, \Sage is in the short list of official
+software for the oral examinations of the Agrégation de Mathématiques
+(the nation-wide recruiting competition for high school teachers), and
+that since 2015 this list contains only open source software.
+
+\section{The \Sage days tradition}
+
+The success of any research software or service is strongly linked to
+its ability to attract and retain a large number of users. The
+different communities (\Sage, \GAP, \Pari, \Singular, \Jupyter, ...)
+have each developed sustainable networks. For example, \Sage has
+accumulated thousands of users in under 10 years.
+
+This has been achieved thanks to a very strong community building
+philosophy, especially through the organization of
+“\href{https://wiki.sagemath.org/Workshops}{Sage-Days}” all over the
+world. The first Sage-Days was held in 2006 with 10 participants; to
+date there has been at least 77 of them, including about 10 in
+2015. Those workshops are typically week-long, and cover a wide
+variety of topics, ranging from focused workshops gathering a dozen
+developers for a coding-sprints on specific mathematical or technical
+features to training workshops with more than 80 people. To cite just
+a few of the recent or upcoming ones:
+
+\begin{itemize}
+\item Sage Education Days 6 (June 16-18, 2014, University of
+  Washington, Seattle)
+\item Sage Days 69 (September 4-9, 2015, San Diego): Women in Sage 6
+\item Sage Days 73 (May 04-07, 2016, Oaxaca (Mexico)): Translation surfaces
+\item Sage Days 77 (April 04-08, 2016. Cernay, Paris area, France):
+  Packaging, portability, documentation tools
+\item Sage Days 79 (November 21-25, Jerusalem, Israel): Combinatorics
+\end{itemize}
+
+All those workshops have in common to be highly hands on, with lots of
+room for tutorials and collaborative work, and a strong dynamic
+(project sessions, status reports, ...) to get everyone involved.
+
+\subsection{Experience of the proposers}
+
+All the proposers have a strong experience with \Sage Days. For
+example, Nicolas Thiéry attended 20+ \Sage Days, and was main
+organizer or coorganizer of more than a dozen of them.
+
+\subsection{Previous \Sage Days at CIRM}
+
+
+One particularly successful workshop,
+\href{https://www.lirmm.fr/arith/wiki/MathInfo2010/SageDays}{\Sage
+  Days 20}, was organized at CIRM in 2010, at the occasion of the
+thematic month
+\href{https://www.lirmm.fr/arith/wiki/MathInfo2010/}{Math-Info}. This
+workshop had a double focus on training and research. It was one of
+the largest \Sage Days, with about 80 participants, many of which
+became at this occasion regular \Sage users, if not contributors. One
+of the many outcome was a strong initial impetus to what was to become
+the first book about \Sage: \href{Calcul Mathématique avec
+  Sage}{http://sagebook.gforge.inria.fr/}, in French and under an open
+source license. Also a lot of training material was written during the
+workshop and reused extensively in followup workshops; a large chunk
+of this material was integrated in the \Sage official documentation in
+the form of thematic tutorials.
+
+The commodities at CIRM turned out just right for the purpose, and
+since then the proposers have been desiring to organize another one.
+
+\section{A cofunding opportunity: OpenDreamKit}
+
+\href{http://opendreamkit.org}{OpenDreamKit} is a Horizon 2020
+European Research Infrastructure project (\#676541) funded under the
+EINFRA-9 call~\cite{EINFRA-9}, that will run for four years starting
+from September 2015. It will provide substantial funding to the open
+source computational mathematics ecosystem, and in particular popular
+tools such as LinBox, MPIR, SageMath, GAP, Pari/GP, LMFDB, Singular,
+MathHub, and the IPython/Jupyter interactive computing environment.
+
+``From this ecosystem, \ODK will deliver a flexible toolkit enabling
+research groups to set up Virtual Research Environments, customised to
+meet the varied needs of research projects in pure mathematics and
+applications, and supporting the full research life-cycle from
+exploration, through proof and publication, to archival and sharing of
+data and code.''
+
+The \ODK consortium consists of core European developers of the
+aforementioned systems for pure mathematics, and reaching toward the
+numerical community, and in particular the \Jupyter community, to work
+together on joint needs.
+
+
+\textbf{Dissemination and training is at the heart of \ODK}. From the
+beginning of the conception of the proposal, back in 2014 (during ALEA
+2014 at CIRM!), it was planned to fund yearly large meetings to reach
+toward the larger community, disseminate the outcome, and train new
+users and developers. Besides CIRM in 2018, we are aiming for meetings
+in Dagstuhl, and ICMS (Edimburgh).
+
+% Yet some critical long term investments, in particular on the
+% technical side, are in order to boost the productivity and lower the
+% entry barrier:
+
+\section{Joint dynamics with JNCF 2018}
+
+\section{Goals}
+
+\subsection{Training}
+
+\subsection{Community building}
+
+\subsection{Public and prerequisites}
+
+\section{Program}
+
+\subsection{Keynote conferences}
+
+\subsection{Tutorials}
+
+
+\end{document}
