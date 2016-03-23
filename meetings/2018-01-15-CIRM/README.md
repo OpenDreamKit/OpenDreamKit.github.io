@@ -19,7 +19,7 @@ comité scientifique
 
 ## Commité scientifique
 
-  - Luca, Viviane, Nicolas, Steve? Karim?
+  - Karim Belabas, Luca DeFeo, Viviane Pons, Nicolas M. Thiéry, Steve?
 
 Élargi:
 
