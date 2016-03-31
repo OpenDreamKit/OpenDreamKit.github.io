@@ -1,4 +1,4 @@
-# Sage Days at CIRM 2018
+﻿# Sage Days at CIRM 2018
 
 ## Titre: Sage Days XXX
 
@@ -10,14 +10,14 @@ For private information, we use the repository: https://github.com/OpenDreamKit/
 12 mars (avant Alea 2018: 19 mars)
 
 
-## Commité organisateur
+## Comité organisateur
 
-  - Viviane, Nicolas, Benoît, Jeroen?
+  - Viviane, Nicolas, Benoît, Jeroen
 
 pour rappel : au moins un organisateur étranger dans l’équipe et du
 comité scientifique
 
-## Commité scientifique
+## Comité scientifique
 
   - Karim Belabas, Luca DeFeo, Viviane Pons, Nicolas M. Thiéry, Steve Linton
 
@@ -41,4 +41,5 @@ http://www.cirm-math.fr/dossier/?EX=dossier&id_renc=1744
      * Une liste préliminaire de participants potentiels et confirmés (pdf)
 
      * 3 choix de dates
+
      * Un budget préliminaire détaillé
