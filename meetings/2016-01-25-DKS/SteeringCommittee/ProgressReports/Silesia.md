@@ -1,9 +1,9 @@
 ---
 layout: slides
-title: "Progress report for XXXXX"
+title: "Progress report for University of Silesia"
 theme: white
 transition: none
-author: XXXXXX
+author: Marcin Kostur
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
