@@ -1,20 +1,36 @@
 \documentclass[12pt]{amsart}
 \usepackage[utf8]{inputenc}
 \usepackage{ae,aecompl,aeguill}	% pour utiliser << et >>
-\usepackage[francais]{babel}
-\frenchbsetup{og=«, fg=»}
+\usepackage[english]{babel}
 \usepackage{times}
 \usepackage[babel=true,kerning=true]{microtype}
-\usepackage{hyperref}
+\usepackage[pdfborder={0 0 0}]{hyperref}
 \usepackage{xspace}
+\usepackage[left=3cm,right=3cm,top=3cm, bottom=3cm]{geometry}
+
+\usepackage[parfill]{parskip}
+
+\makeatletter
+\def\subsection{\@startsection{subsection}{2}%
+  \z@{.3\linespacing\@plus.5\linespacing}{.1\linespacing}%
+  {\normalfont\bfseries}}
+
+\makeatother
 
 \input{preamble}
+
 
 \begin{document}
 
 \title{Calcul Mathématique Libre 2018:\\Volet scientifique}
 \maketitle
 \thispagestyle{empty}
+
+\renewcommand{\contentsname}{}
+
+\section*{Contents}
+\tableofcontents
+
 \section{Scientific context}
 
 \subsection{The ecosystem of open-source mathematical software}
@@ -63,7 +79,7 @@ software for the oral examinations of the Agrégation de Mathématiques
 (the nation-wide recruiting competition for high school teachers), and
 that since 2015 this list has been containing only open source software.
 
-\subsection{Challenges}
+\subsection{Upcoming challenges}
 
 Some of the upcoming major challenges are:
 \begin{itemize}
@@ -87,7 +103,9 @@ communities, in order to:
 \item Improve cross-systems development workflows.
 \end{itemize}
 
-\section{Conference goals: community building and training}
+\section{Conference goals and public}
+
+\subsection{Goals: community building and training}
 
 The conference goals can be summarized as follows:
 
@@ -133,7 +151,7 @@ involved. It's expected also that the participants will come with
 their own laptop. The software will be available either for direct
 installation or for remote usage through the web.
 
-\section{More context: opportunities and experience}
+\section{More context}
 
 \subsection{A cofunding opportunity: OpenDreamKit}
 
@@ -157,12 +175,12 @@ aforementioned systems for pure mathematics, and reaching toward the
 numerical community, and in particular the \Jupyter  community, to work
 together on joint needs.
 
-\textbf{Dissemination and training is at the heart of \ODK}. From the
-beginning of the design of the proposal, back in 2014 (during ALEA
-2014 at CIRM!), it was planned to fund yearly large meetings to reach
-toward the larger community, disseminate the outcome, and train new
-users and developers. Besides CIRM in 2018, we are aiming for meetings
-in Dagstuhl, and ICMS (Edimburgh).
+\textbf{Community building, dissemination and training is at the heart
+  of \ODK}. From the beginning of the design of the proposal, back in
+2014 (during ALEA 2014 at CIRM!), it was planned to fund yearly large
+meetings to reach toward the larger community, disseminate the
+outcome, and train new users and developers. Besides CIRM in 2018, we
+are aiming for meetings in Dagstuhl, and ICMS (Edimburgh).
 
 % Yet some critical long term investments, in particular on the
 % technical side, are in order to boost the productivity and lower the
