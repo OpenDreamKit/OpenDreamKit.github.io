@@ -14,7 +14,7 @@ For private information, we use the repository: https://github.com/OpenDreamKit/
 
   - Viviane, Nicolas, Benoît, Jeroen?
 
-pour rappel : au moins un organisateur étranger dans l’équipe) et du
+pour rappel : au moins un organisateur étranger dans l’équipe et du
 comité scientifique
 
 ## Commité scientifique
@@ -23,7 +23,7 @@ comité scientifique
 
 Élargi:
 
-  - Vincent, Clément, Dima, Dumas, Hans, Loïc,
+  - Vincent, Clément, Dima, Dumas, Hans, Loïc, Samuel, Florent
 
 ## Dossier sur le site du CIRM:
 
