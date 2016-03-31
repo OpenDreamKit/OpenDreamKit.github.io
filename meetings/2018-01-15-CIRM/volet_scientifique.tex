@@ -1,20 +1,36 @@
 \documentclass[12pt]{amsart}
 \usepackage[utf8]{inputenc}
 \usepackage{ae,aecompl,aeguill}	% pour utiliser << et >>
-\usepackage[francais]{babel}
-\frenchbsetup{og=«, fg=»}
+\usepackage[english]{babel}
 \usepackage{times}
 \usepackage[babel=true,kerning=true]{microtype}
-\usepackage{hyperref}
+\usepackage[pdfborder={0 0 0}]{hyperref}
 \usepackage{xspace}
+\usepackage[left=3cm,right=3cm,top=3cm, bottom=3cm]{geometry}
+
+\usepackage[parfill]{parskip}
+
+\makeatletter
+\def\subsection{\@startsection{subsection}{2}%
+  \z@{.3\linespacing\@plus.5\linespacing}{.1\linespacing}%
+  {\normalfont\bfseries}}
+
+\makeatother
 
 \input{preamble}
+
 
 \begin{document}
 
 \title{Calcul Mathématique Libre 2018:\\Volet scientifique}
 \maketitle
 \thispagestyle{empty}
+
+\renewcommand{\contentsname}{}
+
+\section*{Contents}
+\tableofcontents
+
 \section{Scientific context}
 
 \subsection{The ecosystem of open-source mathematical software}
@@ -63,7 +79,7 @@ software for the oral examinations of the Agrégation de Mathématiques
 (the nation-wide recruiting competition for high school teachers), and
 that since 2015 this list has been containing only open source software.
 
-\subsection{Challenges}
+\subsection{Upcoming challenges}
 
 Some of the upcoming major challenges are:
 \begin{itemize}
@@ -87,7 +103,9 @@ communities, in order to:
 \item Improve cross-systems development workflows.
 \end{itemize}
 
-\section{Conference goals: community building and training}
+\section{Conference goals and public}
+
+\subsection{Goals: community building and training}
 
 The conference goals can be summarized as follows:
 
@@ -134,7 +152,7 @@ involved. It's expected also that the participants will come with
 their own laptops. The software will be available either for direct
 installation or for remote usage through the web.
 
-\section{More context: opportunities and experience}
+\section{More context}
 
 \subsection{A cofunding opportunity: OpenDreamKit}
 
@@ -143,25 +161,25 @@ European Research Infrastructure project (\#676541) funded under the
 H2020-EINFRA-2015-1 call, that is running for four years, starting in
 September 2015. It will provide substantial funding to the open source
 computational mathematics ecosystem, and in particular popular tools
-such as LinBox, MPIR, \Sage, GAP, Pari/GP, LMFDB, Singular,
-MathHub, and the IPython/Jupyter interactive computing environment.
+such as LinBox, MPIR, \Sage, \GAP, \Pari/GP, LMFDB, Singular,
+MathHub, and the IPython/\Jupyter interactive computing environment.
 
 From this ecosystem, \ODK will deliver a flexible toolkit enabling
 research groups to set up Virtual Research Environments, customised to
 meet the varied needs of research projects in pure mathematics and
 applications, and supporting the full research life-cycle from
 exploration, through proof and publication, to archival and sharing of
-data and code.'
+data and code.
 
 The \ODK  consortium consists of core European developers of the
-aforementioned systems for pure mathematics, and reaching toward the
+aforementioned systems for pure mathematics, and extending toward the
 numerical community, and in particular the \Jupyter  community, to work
 together on joint needs.
 
-\textbf{Dissemination and training is at the heart of \ODK}. From the
+\textbf{Community building, dissemination and training is at the heart of \ODK}. From the
 beginning of the design of the proposal, back in 2014 (during ALEA
 2014 at CIRM!), it was planned to fund yearly large meetings to reach
-toward the larger community, disseminate the outcome, and train new
+out to the larger community, disseminate the outcome, and train new
 users and developers. Besides CIRM in 2018, we are aiming for meetings
 in Dagstuhl, and ICMS (Edimburgh).
 
@@ -184,7 +202,7 @@ world. The first \Sage Days was held in 2006 with 10 participants; to
 date there has been at least 77 of them, including about ten in
 2015. Those workshops are typically week-long and cover a wide
 variety of topics, ranging from focused workshops gathering a dozen
-developers for coding-sprints on specific mathematical or technical
+developers for coding sprints on specific mathematical or technical
 features to training workshops with more than 80 people. To cite just
 a few of the recent or upcoming ones:
 
@@ -213,15 +231,15 @@ workshop had a double focus on training and research. It was one of
 the largest \Sage Days, with about 80 participants, many of which
 became at this occasion regular \Sage users, if not contributors. One
 of the many outcome was a strong initial impetus to what was to become
-the first book about \Sage: \href{Calcul Mathématique avec
-  Sage}{http://sagebook.gforge.inria.fr/}, in French and under an open
+the first book about \Sage: \href{http://sagebook.gforge.inria.fr/}{Calcul Mathématique avec
+  Sage}, in French and under an open
 source license. Also a lot of training material was written during the
 workshop and reused extensively in followup workshops; a large chunk
 of this material was integrated in the \Sage official documentation in
 the form of thematic tutorials.
 
 The commodities at CIRM turned out just right for the purpose, and
-since then the proposers have been desiring to organize another one.
+since then the proposers have wished to organize another one.
 
 \subsection{Composition of the committees, invited speakers, and gender issues}
 
@@ -274,7 +292,7 @@ mathematics. At this point we have five confirmed speakers:
 \item[Joris VanDerHoeven] Design of general purpose mathematical software: Mathemagix (and TeXmacs)
 \item[Max Horn] Collaborative software development in a large system (GAP)
 \item[Fernando Perez] Scientific and interactive computing, user
-  interfaces (e.g. Jupyter) and community
+  interfaces (e.g. \Jupyter) and community
 \item[Anne Schilling] Experimental mathematics
 \end{description}
 
