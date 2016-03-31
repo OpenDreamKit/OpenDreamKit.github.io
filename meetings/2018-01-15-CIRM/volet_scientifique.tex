@@ -1,4 +1,4 @@
-\documentclass[12pt]{amsbook}
+\documentclass[12pt]{amsart}
 \usepackage[utf8]{inputenc}
 \usepackage{ae,aecompl,aeguill}	% pour utiliser << et >>
 \usepackage[francais]{babel}
@@ -12,7 +12,7 @@
 
 \begin{document}
 
-\title{Calcul Mathématique Libre}
+\title{Calcul Mathématique Libre 2018:\\Volet scientifique}
 \maketitle
 \thispagestyle{empty}
 \section{Scientific context}
@@ -131,10 +131,17 @@ of the others, including that at CIRM.
 
 \href{http://opendreamkit.org}{OpenDreamKit} is a Horizon 2020
 European Research Infrastructure project (\#676541) funded under the
+<<<<<<< HEAD
 H2020-EINFRA-2015-1 call, that will be running for four years starting
 from September 2015. It will provide substantial funding to the open
 source computational mathematics ecosystem, and in particular popular
 tools such as LinBox, MPIR, SageMath, GAP, Pari/GP, LMFDB, Singular,
+=======
+EINFRA-9 call, that will be running for four years starting from
+September 2015. It will provide substantial funding to the open source
+computational mathematics ecosystem, and in particular popular tools
+such as LinBox, MPIR, SageMath, GAP, Pari/GP, LMFDB, Singular,
+>>>>>>> 688700eb2f7797f861b6eee0c6122deaa0704d22
 MathHub, and the IPython/Jupyter interactive computing environment.
 
 ``From this ecosystem, \ODK will deliver a flexible toolkit enabling
@@ -162,6 +169,18 @@ in Dagstuhl, and ICMS (Edimburgh).
 
 \section{Joint dynamics with JNCF 2018}
 
+The communities involved in open source mathematical software are
+strong in Europe. There is in particular a strong overlap with the
+French Computer Algebra community. We are therefore coordinating the
+organization of this conference with the ``Journées Nationales du
+Calcul Formel 2018'', in the hope to organize them one right after the
+other. This will encourage participants to attend both events, reduce
+travel costs, and strongly increase the international attractiveness.
+
+In case this turns out to not be possible, there is also a large
+overlap with the ALEA community, and it would be fruitful to organize
+this event next to ALEA 2018.
+
 \section{Goals}
 
 \subsection{Community building}
@@ -182,17 +201,38 @@ particular by exposing them with role models}
 
 \subsection{Training}
 
-\subsection{}
-
 \subsection{Public and prerequisites}
 
+According to the above objectives, the public is meant to be diverse:
+\begin{itemize}
+\item Newcomers, and especially \textbf{graduate students and young
+    researchers}, that need to train themselves with computational
+  tools for their teaching or research;
+\item More advanced users that want to get an overview on the
+  ecosystem, benefit for expert advice;
+\item Contributors of the different systems of various levels of
+  expertise that want to share their knowledge, learn more, and
+  participate to coding sprints, in particular on cross-system
+  features.
+\end{itemize}
 
+It's to be expected that most participants will have a strong
+background in pure mathematics or computer science, although
+engineers, teachers, or researchers in neighboring fields (physics,
+...) having a need for computational mathematics tools will be
+welcome.
+
+Generally speaking there will be little prerequisites besides a strong
+desire to learn, get ones hands dirty, work in team, and possibly get
+involved. It's expected also that the participants will come with
+their own laptop. The software will be available either for direct
+installation or for remote usage through the web.
 
 \section{Program}
 
-The program will consists of keynote talks (one or two per day), many
-hands on tutorials, and a lot of free time for collaborative work and
-coding sprints.
+The program will consist of keynote talks (one or two per day), many
+hands on tutorials, some round tables, and a lot of free time for
+collaborative work and coding sprints.
 
 \subsection{Keynote talks}
 
@@ -201,17 +241,13 @@ variety of perspectives on the ecosystem of open source software for
 mathematics. At this point we have five confirmed speakers:
 
 \begin{description}
-\item[Historical perspective on contributions of researchers and
-  teachers to (open source) mathematical software]
-  Marie-Françoise Roy
-\item[Design of general purpose mathematical software: Mathemagix (and TeXmacs)]
-  Joris VanDerHoeven
-\item[Collaborative software development in a large system (GAP)]
-  Max Horn
-\item[Scientific and interactive computing, User interfaces (e.g. Jupyter) and community]
-  Fernando Perez
-\item[Experimental mathematics]
-  Anne Schilling
+\item[Marie-Françoise Roy] Historical perspective on contributions of
+  researchers and teachers to (open source) mathematical software
+\item[Joris VanDerHoeven] Design of general purpose mathematical software: Mathemagix (and TeXmacs)
+\item[Max Horn] Collaborative software development in a large system (GAP)
+\item[Fernando Perez] Scientific and interactive computing, user
+  interfaces (e.g. Jupyter) and community
+\item[Anne Schilling] Experimental mathematics
 \end{description}
 
 We are aiming at complementing those with speakers presenting the
@@ -240,6 +276,7 @@ design new ones, and possibly submit some to become
 
 Here are some tentative titles:
 \begin{itemize}
+\item Software installation
 \item Jupyter notebooks and reproducible research
 \item Introduction to GAP
 \item Introduction to Linbox
@@ -252,37 +289,45 @@ Here are some tentative titles:
 \item Collaborative software development (git, ...)
 \end{itemize}
 
-\subsection{Round tables}
+\subsection{Round tables and special event for teaching}
 
-We are considering the organization of a couple round tables to run
-debates and discussions among many participants on topics such as:
+We are considering the organization of a few round tables to run
+debates and discussions on topics such as:
 
 \begin{itemize}
-\item Women in open source math software (tentatively led by Marie-Françoise Roy).
-\item Funding software development.
+\item Women in open source mathematics software (tentatively led by
+  Marie-Françoise Roy);
+\item Development models, best practices, and funding for open source
+  mathematics software development;
+\item Software for teaching;
 \item ...
 \end{itemize}
 
+We will also reach toward local high-school, classes préparatoires,
+and university teachers and, pending enough interest, organize one
+half-day event focused on teaching (as in the previous Sage Days at
+CIRM).
+
 \subsection{Collaborative work and coding sprints}
 
-A lot of free time will be left each day, especially at the end of the
-week, for collaborative work. To support the self-organization of this
-time, there will be regular plenary discussions where participants
-will briefly expose the projects they want to work on and call for
-collaborators. Typical projects can be:
+A lot of free time will be reserved each day, especially at the end of
+the week, for collaborative work. To support the self-organization of
+this time, there will be regular plenary discussions where
+participants will briefly expose the projects they want to work on and
+call for collaborators. Typical projects will be of the form:
 \begin{itemize}
-\item I would like to train myself further on .. by going through
-  worksheet ...; who would like to join?
-\item I would like to learn more about ...; who else would be
-  interested? Could we have a tutorial?
-\item For my research, I am writing a program that ...; I would need
-  expert help on using ... for this.
-\item We want to add feature ... to ...; who wants to join?
+\item I would like to train myself further on XXX by going through
+  worksheet YYY; who would like to join?
+\item I would like to learn more about XXX; who else would be
+  interested? Who could deliver a tutorial?
+\item For my research, I am writing a program that XXX; I would need
+  expert help on using YYY for this.
+\item We want to add feature XXX to YYY; who wants to join?
 \end{itemize}
 
-A list of projects (and related progress report), will be maintained
-on the conference web page (typically through a wiki). Participants
-will be able to start suggest projects in the months before the
-conference, and keep adding more during the conference.
+A list of projects, and related progress report, will be maintained on
+the conference web page (typically through a wiki). Participants will
+be able to start suggest projects in the months before the conference,
+and keep adding more during the conference.
 
 \end{document}
