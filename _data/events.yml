@@ -23,6 +23,9 @@ InternalEvents:
       start: 2016-04-04
       end: 2016-04-08
       url: https://wiki.sagemath.org/days77
+    - title: Project meetings/Commission review/WP6 workshop
+      start: 2016-06-27
+      end: 2016-07-01
 ExternalEvents:
     - title: MPFR/MPC meeting
       start: 2016-05-23
