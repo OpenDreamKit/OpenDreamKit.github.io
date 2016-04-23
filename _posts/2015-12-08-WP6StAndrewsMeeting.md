@@ -68,7 +68,7 @@ For more information please contact:
 * Nicolas Thiéry (Project coordinator - UPSud), steering committee member
 * Benoît Pilorget (Project Manager - UPSud), steering committee member
 * Viviane Pons (UPSud), steering committee member
-* Ursula Martin (UOXF), replacing D. Pasechnick to the steering committee meeting
+* Ursula Martin (UOXF), replacing D. Pasechnik to the steering committee meeting
 * John Cremona, (UWarwick), steering committee member
 * Luca de Feo (UVSQ), steering committee member
 * Paul-Olivier Dehaye (UZH), steering committee member
