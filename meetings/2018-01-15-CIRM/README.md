@@ -1,45 +1,37 @@
-﻿# Sage Days at CIRM 2018
+﻿# Conference Calcul Mathematique Libre 2018
 
-## Titre: Sage Days XXX
+This directory holds public information about the large conference
+"Calcul Mathematique Libre" that we will tentatively organize at CIRM
+in early 2018, cofunded by ODK.
 
-For private information, we use the repository: https://github.com/OpenDreamKit/CIRM2018
+This is complemented by a [private repository](https://github.com/OpenDreamKit/CIRM2018)
 
-## Dates
-15 janvier (avant JNCF 2018)
-29 janvier (après JNCF 2018)
-12 mars (avant Alea 2018: 19 mars)
+# Proposal submitted to CIRM on March 31st
 
+- [French abstract](resume.tex)
+- [English abstract](abstract.tex)
+- [Description of the meeting and its objectives](volet_scientifique.tex)
+- [Preliminary list of speakers](orateurs.tex)
+- [List of potential participants](participants.tex)
+- [Summary file produced by CIRM's system](1744.html)
 
-## Comité organisateur
+The CIRM committee will meet on May 17th, and the answer will be
+announced shortly after.
 
-  - Viviane, Nicolas, Benoît, Jeroen
+## Tentative Dates
 
-pour rappel : au moins un organisateur étranger dans l’équipe et du
-comité scientifique
+January 15-19 (before JNCF 2018)
+January 22-26 janvier (after JNCF 2018)
+March 12-17 (before Alea 2018)
 
-## Comité scientifique
+## Organizing committee
 
-  - Karim Belabas, Luca DeFeo, Viviane Pons, Nicolas M. Thiéry, Steve Linton
+- Jeroen Demeyer, Benoît Pilorget, Viviane Pons, Nicolas M. Thiéry
 
-Élargi:
+## Scientific committee
 
-  - Vincent, Clément, Dima, Dumas, Hans, Loïc, Samuel, Florent
+- Karim Belabas, Luca DeFeo, Steve Linton, Viviane Pons, Nicolas M. Thiéry
 
-## Dossier sur le site du CIRM:
+with additional feedback from:
 
-http://www.cirm-math.fr/dossier/?EX=dossier&id_renc=1744
-
-### Contenu du dossier
-
-   * Une description de la rencontre avec son but principal et ses
-       objectifs (avec un résumé en anglais)
-
-     nouveauté, impact local et international
-
-     * Une liste préliminaire des conférenciers prévus (pdf)
-
-     * Une liste préliminaire de participants potentiels et confirmés (pdf)
-
-     * 3 choix de dates
-
-     * Un budget préliminaire détaillé
+- Vincent, Clément, Dima, Dumas, Hans, Loïc, Samuel, Florent, ...
