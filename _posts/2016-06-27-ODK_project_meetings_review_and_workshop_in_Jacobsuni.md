@@ -1,5 +1,5 @@
 ﻿---
-layout: Post
+layout: post
 title: Project meetings in Jacobsuni
 ---
 
@@ -7,10 +7,10 @@ The meeting is going to take place in Bremen, from Monday the 27th of June to Fr
 
 # Tentative agenda for that week
 
--	Monday : General Assembly where all partners will present status reports + Steering Committee meeting + other activities to be defined
--	Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per partner must be present for this) + possible side-review activities for ODK participants can take place 
--	Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
--	Thursday & Friday : workgroup sessions (especially on WP6)
+- Monday : General Assembly where all partners will present status reports + Steering Committee meeting + other activities to be defined
+- Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per partner must be present for this) + possible side-review activities for ODK participants can take place 
+- Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
+- Thursday & Friday : workgroup sessions (especially on WP6)
 
 
 # Accomodation and venue
