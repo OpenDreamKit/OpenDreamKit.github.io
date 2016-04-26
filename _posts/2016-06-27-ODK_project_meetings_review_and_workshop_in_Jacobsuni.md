@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Project meetings, review and workshop in Jacobsuni (Bremen)
 ---
