@@ -1,7 +1,6 @@
 ﻿---
 layout: post
 title: ODK project meetings, review and workshop in Jacobsuni
-
 ---
 
 The meeting is going to take place in Bremen, from Monday the 27th of June to Friday the 1st of July. The beginning of the week will be dedicated to ODK open and closed meetings (including the review with the Commission reviewers), and the end of the week will be dedicated to joint work sessions devoted to WP6 activities (priority is given to WP6 but other workgroups can join in!).
