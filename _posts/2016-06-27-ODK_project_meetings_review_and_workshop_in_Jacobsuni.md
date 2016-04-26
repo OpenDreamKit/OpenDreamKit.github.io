@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Project meetings in Jacobsuni
 ---
