@@ -3,7 +3,7 @@ layout: post
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 ---
 
-This is an announcement for a full-time developer ([Ingénieur de
+This is an announcement for several full-time developer ([Ingénieur de
 Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
 position opening at Université de Bordeaux, working on open source
 software engineering for computational mathematics.
@@ -12,15 +12,14 @@ contact: vincent.delecroix-AT-labri.fr
 
 # Duration
 
-For 4 years starting in Fall 2015. Interviews will be run
-in September.
+From 2 to 4 years starting as soon as possible.
 
 # Salary
 
-Depending on the applicant's past experience, 1600 € to 2300 €
+Depending on the applicant's past experience, 1600 € to 2900 €
 of monthly *salaire net* (salary after non-wage labour cost but before
 income tax). Equivalently, this is a yearly *salaire brut* of
-23600 € to 34999 €.
+23600 € to 40000 €.
 
 # Location
 
@@ -55,7 +54,7 @@ defined in the OpenDreamKit project. Among these:
 - Development in Unix-like environments;
 
 - Experience with code optimisation, parallelism (pthread, OpenMP, MPI),
-  debugging (valgrind, gdb);
+  and debugging tools (valgrind, gdb);
 
 - Fluency in several of C, C++, Python, Cython, assemblers;
 
@@ -70,6 +69,8 @@ The following are not prerequisites but would be very much appreciated:
   [SageMath](http://sagemath.org) or [PARI/GP](http://pari.math.u-bordeaux.fr/);
 
 - Mathematics background.
+
+- System administration.
 
 # Applications
 
