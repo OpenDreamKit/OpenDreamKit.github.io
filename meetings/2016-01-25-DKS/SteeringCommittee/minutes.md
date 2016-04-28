@@ -68,8 +68,6 @@ BP presents the consortium agreement
 
 ## Brief progress reports for all sites
 
-http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Kaiserslautern/
-
 - [Université Paris Sud](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/ParisSud)
 - [CNRS](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/CNRS)
 - [Jacobs University Bremen](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/JacU)
