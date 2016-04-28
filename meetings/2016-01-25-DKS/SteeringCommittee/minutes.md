@@ -12,17 +12,19 @@ of the WP6 meeting
 ## Attendance
 
 Were physically present:
+
 - John Cremona (JC): University of Warwick
 - Luca di Feo (LDF): Université de Versailles Saint-Quentin
 - Paul-Olivier Dehaye (POD): Universität Zürich
 - Steven Linton (SL): University of St Andrews
 - Ursula Martin (UM): University of Oxford
 - Viviane Pons (VP): Université Paris Sud
-- Nicolas Thiery (NT): Coordinator
+- Nicolas M. Thiéry (NT): Coordinator
 - Michael Kohlhase (MK): Jacobs University Bremen
 - Benoit Pilorget (BP): Project manager
 
 Were able to participate remotely via hubl.in:
+
 - Hans Fangohr (HF): University of Southampton
 - Clément Pernet (CP): Université Joseph Fourier
 - Martin Alnæs (MA): Simula Research Laboratory
