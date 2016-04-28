@@ -22,11 +22,11 @@ For accommodation (June 26 - July 2, 2016), participants need to book and pay th
 
 Thirty rooms in total have been blocked by Jacobsuni at the following hotels (webpage in German):
 
-- Hotel Strandlust, Bremen - Vegesack / price 96,50 € for single room incl. breakfast OR 140€ double room incl. breakfast (pre-reservation of 15 rooms) 
+- Hotel Strandlust, Bremen-Vegesack / price 96,50 € for single room incl. breakfast OR 140€ double room incl. breakfast (pre-reservation of 15 rooms) 
 - Hotel Atlantic, Bremen-Vegesack /  price 82,00 € for single room incl. breakfast OR 107€ double room incl. breakfast (pre-reservation of 15 rooms) 
 
 Keep in mind that rooms are booked on the "first come – first serve” basis.
 
-Both hotels are located close to Jacobs University. Participants who would like to reserve a room, should mention the booking code "ODK - Kohlhase" or can get in contact with me.
+Both hotels are located close to Jacobs University. Participants who would like to reserve a room, should mention the booking code "ODK - Kohlhase" or can get in contact with Benoît Pilorget (benoit.pilorget@lri.fr).
 
 Deadline for reservation is May 16, 2015. Later reservation is possible depending on availability. 
