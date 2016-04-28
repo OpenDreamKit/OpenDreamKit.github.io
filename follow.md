@@ -43,4 +43,4 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 # Reports
 
-* 29/02/2016: [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34) - [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf)
+* 29/02/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf) for [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34): Starting press release
