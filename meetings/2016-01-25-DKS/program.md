@@ -11,7 +11,7 @@ title: Tentative program
 
 ### State of the art
 
-The idea here is that we efficiently collect and share information about knowledge representation in the various systems. NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation accoring to [this survey](survey-generic.md).
+The idea here is that we efficiently collect and share information about knowledge representation in the various systems. NOT to present the systems in general. Therefore we will only ask presenters to structure their (half-hour) presentation according to [this survey](survey-generic.md).
 
 - Knowledge representation in FindStat (Viviane)
 - Knowledge representation in LMFDB (Paul)
