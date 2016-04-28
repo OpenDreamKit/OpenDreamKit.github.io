@@ -77,7 +77,7 @@ BP presents the consortium agreement
 - [University of Silesia](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Silesia)
 - [University of Sheffield](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Sheffield)
 - [University of Southampton](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Southampton)
-- [University of St Andrews](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/StAndrews.md)
+- [University of St Andrews](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/StAndrews)
 - [Université Versailles Saint-Quentin](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/UVersailles)
 - [University of Warwick](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Warwick)
 - [Universität Zürich](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/Zurich)
