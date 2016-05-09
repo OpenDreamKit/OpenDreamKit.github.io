@@ -123,6 +123,9 @@ sites:
       - name: Ian Hawke
         homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
         github: IanHawke
+      - name: Marijan Beg 
+        homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
+        github: mb1a15
   - name: University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
