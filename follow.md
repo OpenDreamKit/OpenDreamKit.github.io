@@ -45,7 +45,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * 01/09/2015: [Kick-off meeting minutes](http://opendreamkit.org/meetings/2015-09-02-Kickoff/projects/)
 * 30/09/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP1/D1.1/D1.1-basic-project-infrastructure.pdf) for [D1.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/17): Basic project infrastructure
 * 23/12/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP5/D5.1/D5.1-final-report.pdf) for [D5.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/107): Turn the Python prototypes for tree exploration into production code, integrate to Sage
-* 26/01/2016: [Steering committee minutes](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/minutes/)
+* 26/01/2016: Steering committee [minutes](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/minutes/) and [program](http://opendreamkit.org/meetings/2015-09-02-Kickoff/program/)
 * 29/02/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf) for [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34): Starting press release
 * 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP1/D1.2/D1.2-Data_management_plan_V1.pdf) for [D1.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/18): Data management plan V1
 * 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.1/D3.1-Virtual_images_and_containers.pdf) for [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58): Virtual images & containers
