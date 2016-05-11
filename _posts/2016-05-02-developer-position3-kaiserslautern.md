@@ -67,7 +67,7 @@ Interested candidates should send an email to goodwillhart at googlemail.com for
 
 # Deadline for applications
 
-The deadline for applications for this position will be announced later. Applications should consist of an email to goodwillhart at googlemail.com and decker at mathematik.uni-kl.de with a CV, statement that you wish to apply for the position, a cover letter and a link to some code you have written, preferably on GitHub.
+The deadline for applications for this position is 9am GMT 26th May 2016. Applications should consist of an email to goodwillhart at googlemail.com and decker at mathematik.uni-kl.de with a CV, statement that you wish to apply for the position, a cover letter and a link to some code you have written, preferably on GitHub.
 
 The application process also requires us to do a short interview, which can be conducted by telephone or Skype if candidates are not in Germany at the time.
 
