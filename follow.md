@@ -43,6 +43,6 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 # Reports
 * 01/09/2015: [Kick-off meeting minutes](http://opendreamkit.org/meetings/2015-09-02-Kickoff/projects/)
-* [Final report] for [D1.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
+* 30/09/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP1/D1.1/D1.1-basic-project-infrastructure.pdf) for [D1.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/17): Basic project infrastructure
 * 26/01/2016: [Steering committee minutes](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/minutes/)
 * 29/02/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf) for [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34): Starting press release
