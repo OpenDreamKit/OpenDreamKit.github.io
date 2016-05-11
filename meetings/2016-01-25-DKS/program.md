@@ -1,6 +1,6 @@
 ---
 layout: subpage
-title: Tentative program
+title: Program
 ---
 
 ## Monday 25th
