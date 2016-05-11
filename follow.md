@@ -48,4 +48,4 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * 26/01/2016: [Steering committee minutes](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/minutes/)
 * 29/02/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf) for [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34): Starting press release
 * 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP1/D1.2/D1.2-Data_management_plan_V1.pdf) for [D1.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/18): Data management plan V1
-* 01/03/2016:[Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.1/D3.1-Virtual_images_and_containers.pdf) for [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58): Virtual images & containers
+* 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.1/D3.1-Virtual_images_and_containers.pdf) for [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58): Virtual images & containers
