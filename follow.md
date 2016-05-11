@@ -46,7 +46,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * 30/09/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP1/D1.1/D1.1-basic-project-infrastructure.pdf) for [D1.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/17): Basic project infrastructure
 * November 2015:[Sage days 70](https://wiki.sagemath.org/days70) (Berkeley) TODO add minutes
 * 23/12/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP5/D5.1/D5.1-final-report.pdf) for [D5.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/107): Turn the Python prototypes for tree exploration into production code, integrate to Sage
-* January 2016: [Atelier PARI/GP 2016](http://pari.math.u-bordeaux.fr/Events/PARI2016/) [minutes](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Workshops/PARI-GP_atelier.txt)
+* January 2016: [Atelier PARI/GP] 2016(http://pari.math.u-bordeaux.fr/Events/PARI2016/) [minutes](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Workshops/PARI-GP_atelier.txt)
 * January 2016: 1st [joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/) TODO add minutes
 * 26/01/2016: Steering committee [minutes](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/minutes/) and [program](http://opendreamkit.org/meetings/2015-09-02-Kickoff/program/)
 * January 2016: [Knowledge representation Workshop](http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/) (WP6) TODO add minutes
