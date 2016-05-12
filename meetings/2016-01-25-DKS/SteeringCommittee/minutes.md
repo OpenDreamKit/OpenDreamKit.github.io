@@ -91,16 +91,16 @@ Comments and discussions:
   this is to create a GitHub issue for that, and to ask you to
   complete a survey.
 
-- Discussion needed between WP4 leader and MK for D4.2 (structured
-  documents) and D4.3 (MathHub.info)
+- Discussion needed between WP4 leader and MK for [D4.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/91) (structured
+  documents) and [D4.3](https://github.com/OpenDreamKit/OpenDreamKit/issues/92) (MathHub.info)
 
-- HF: For D3.1, it would be good to include micromagnetic virtual
+- HF: For [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58), it would be good to include micromagnetic virtual
   images/containers, or at least make sure that best practice is
   follewed either way. I have a student in Southampton who is
   interested in that. Who would be a good person for him to get in
   touch with? (@mvousden)
 
-  LDF: I'll expand D3.1 to contain anything containerized; please, put
+  LDF: I'll expand [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58) to contain anything containerized; please, put
   @mvousden in contact with me through OpenDreamKit/OpenDreamKit#58
 
 ## Zürich partner situation (PO Dehaye position at the University)
@@ -165,7 +165,7 @@ See the status reports for the already submitted deliverables.
 
 The slides contain deliverables due for June 2016.
 
-UPSud asks to postpone "D3.2 Understand and document SageMathCloud backend code" to M18 
+UPSud asks to postpone "[D3.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/61) Understand and document SageMathCloud backend code" to M18 
 due to the delay encountered in recruiting the engineers.
 
 ## Data Management plan (DMP)
