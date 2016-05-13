@@ -33,6 +33,10 @@ InternalEvents:
       start: 2016-06-29
       end: 2016-07-02
 ExternalEvents:
+    - title: Sage Days 78 (Combinatorics)
+      start: 2016-06-29
+      end: 2016-07-02
+      url : https://wiki.sagemath.org/days78
     - title: MPFR/MPC meeting
       start: 2016-05-23
       end: 2016-05-25
