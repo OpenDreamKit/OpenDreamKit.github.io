@@ -27,6 +27,6 @@ Thirty rooms in total have been blocked by Jacobsuni at the following hotels (we
 
 Keep in mind that rooms are booked on the "first come – first serve” basis.
 
-Both hotels are located close to Jacobs University. Participants who would like to reserve a room, should mention the booking code "ODK - Kohlhase".
+Both hotels are located close to Jacobs University. Participants who would like to reserve a room, should mention the booking code "ODK - Kohlhase" to the hotel or book the room through Ms. Anja Müller an.mueller@jacobs-university.de
 
-Deadline for reservation is May 16, 2015. Later reservation is possible depending on availability. 
+Deadline for reservation is June 13, 2016. Later reservation is possible depending on availability. 
