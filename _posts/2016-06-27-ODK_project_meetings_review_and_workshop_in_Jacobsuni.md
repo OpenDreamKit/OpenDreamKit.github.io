@@ -9,7 +9,7 @@ The poll for presence at coffee breaks and meals was created. [Please fill it in
 # Tentative agenda for that week
 
 - Monday : General Assembly where all partners will present status reports + Steering Committee meeting + other activities to be defined
-- Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per deliverable must be present for this) + possible side-review activities for ODK participants can take place 
+- Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per due deliverable must be present for this) + possible side-review activities for ODK participants can take place 
 - Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
 - Thursday & Friday : workgroup sessions (especially on WP6 AND WP4)
 
