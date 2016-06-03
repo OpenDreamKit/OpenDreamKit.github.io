@@ -44,7 +44,7 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 # Reports
 * 01/09/2015: [Kick-off meeting minutes](http://opendreamkit.org/meetings/2015-09-02-Kickoff/projects/)
 * 30/09/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP1/D1.1/D1.1-basic-project-infrastructure.pdf) for [D1.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/17): Basic project infrastructure
-* November 2015:[Sage days 70](https://wiki.sagemath.org/days70) (Berkeley) TODO add minutes
+* November 2015: [Final report](https://cloud.sagemath.com/projects/ad9e7c84-b1de-4c64-b056-9a5e04d9107e/files/) for [Sage days 70](https://wiki.sagemath.org/days70) (Berkeley)
 * 23/12/2015: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP5/D5.1/D5.1-final-report.pdf) for [D5.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/107): Turn the Python prototypes for tree exploration into production code, integrate to Sage
 * January 2016: [Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2016/) 2016 [minutes](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Workshops/PARI-GP_atelier.txt)
 * January 2016: 1st [joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/) TODO add minutes
