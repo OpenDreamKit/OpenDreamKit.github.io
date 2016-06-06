@@ -8,19 +8,9 @@ on hiring about ten full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
-# Université Paris Sud, Orsay:
+# University of Sheffield, Sheffield
 
-- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/22/developer-position-paris-sud),
-  starting in Fall 2015 for up to four years (filled).
-
-- A full time developer position (Ingénieur de Recherche), starting
-  in Fall 2016 for up to three years (filled).
-
-- A part time project administrator position (Ingénieur d'Étude),
-  starting in Fall 2015 for up to four years, recruited jointly with
-  the European Open FET project MagicSky to make this into a full time
-  position (filled).
-
+- [A full time research software engineer position](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/) starting June/July 2016 for two years.
 
 # Université Bordeaux, Talence
 
@@ -43,6 +33,20 @@ us. Loving math is a plus but not a necessity.
 
 - [A full time developer position](http://opendreamkit.org/2016/05/02/developer-position3-kaiserslautern)
   starting in August 2016 for six months.
+
+# Université Paris Sud, Orsay:
+
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/22/developer-position-paris-sud),
+  starting in Fall 2015 for up to four years (filled).
+
+- A full time developer position (Ingénieur de Recherche), starting
+  in Fall 2016 for up to three years (filled).
+
+- A part time project administrator position (Ingénieur d'Étude),
+  starting in Fall 2015 for up to four years, recruited jointly with
+  the European Open FET project MagicSky to make this into a full time
+  position (filled).
+
 
 # University of Southampton, United Kingdom
 
