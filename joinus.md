@@ -8,7 +8,7 @@ on hiring about ten full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
-# University of Sheffield, Sheffield
+# University of Sheffield, United Kingdom
 
 - [A full time research software engineer position](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/) starting June/July 2016 for two years.
 
