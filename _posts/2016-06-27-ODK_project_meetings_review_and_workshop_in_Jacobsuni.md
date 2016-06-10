@@ -25,6 +25,7 @@ The poll for presence at coffee breaks and meals was created. [Please fill it in
 
 
 - Tuesday : 
+Partners will be presentend by the site leaders/representatives, deliverables will be presented by deliverables leaders/representatives
 
   - 8:30-9:00: The reviewers’ pre-meeting
   - 9:00-10:15: Short presentation of the partners (5 minutes each partner)
