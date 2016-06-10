@@ -8,7 +8,21 @@ The poll for presence at coffee breaks and meals was created. [Please fill it in
 
 # Tentative agenda for that week
 
-- Monday : General Assembly where all partners will present status reports + Steering Committee meeting + other activities to be defined
+- Monday 
+  9:00-10:00  Informal brainstorms
+  10:00-10:30 Word of welcome, round table
+  10:30-11:00 Coffee break
+  11:00-12:30 Progress reports of all sites
+
+  12:30-14:00 Lunch
+
+  14:00-16:00 Steering Committee meeting / brainstorms for the other participants
+  16:00-16:30 Coffee break
+  16:30-19:00 Brainstorm and planning for the upcoming deliverables
+  
+  Evening: Dinner and informal brainstorms
+
+
 - Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per due deliverable must be present for this) + possible side-review activities for ODK participants can take place 
 - Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
 - Thursday & Friday : workgroup sessions (especially on WP6 AND WP4)
