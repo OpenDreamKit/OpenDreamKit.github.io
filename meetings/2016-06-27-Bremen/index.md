@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenDreamKit Annual project meeting
+title: OpenDreamKit annual project meeting
 ---
 
 Jacobs's University, Bremen, Germany
@@ -40,3 +40,10 @@ Keep in mind that rooms are booked on the "first come – first serve” basis.
 Both hotels are located close to Jacobs University. Participants who would like to reserve a room, should mention the booking code "ODK - Kohlhase" to the hotel or book the room through Ms. Anja Müller an.mueller@jacobs-university.de
 
 Deadline for reservation is June 13, 2016. Later reservation is possible depending on availability.
+
+# How to come
+
+The fastest way from the airport is certainly taking a cab (ca 20 min).
+Taking the tram/train takes an hour to 90 min.
+
+[Directions](http://www.jacobs-university.de/campus-map-directions).
