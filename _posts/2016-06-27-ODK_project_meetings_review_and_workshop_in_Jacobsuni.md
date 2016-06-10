@@ -9,4 +9,3 @@ will take place in Bremen, from Monday the 27th of June to Friday the
 and internal meetings (including the review with the Commission
 reviewers), while the end of the week will be dedicated to joint work
 sessions devoted to WP4 & WP6 activities.
-
