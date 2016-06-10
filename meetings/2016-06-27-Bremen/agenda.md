@@ -22,7 +22,7 @@ title: Agenda, ODK's annual project meeting, June 2016
 
 - Tuesday :
 
-  - 8:30-9:00: The reviewers’ pre-meeting
+  - 8:30-9:00: Reviewers’ pre-meeting
   - 9:00-10:15: Short presentation of the partners (5 minutes each partner)
   - 10:15-10:45: Presentation of deliverables:
     - [D1.1: Basic project infrastructure (websites, wikis, issue trackers, mailing lists, repositories)](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
@@ -49,10 +49,10 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 13:45-15:45: Presentation of deliverables (cont'd)
   - 15:45-16:05 Coffee break
   - 16:05-16:35: Presentation of D6.1
-  - 16:35-17H:00: The reviewers’ meeting after the presentations
+  - 16:35-17H:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
 
-  - Evening: Social dinner
+  - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
 
 - Wednesday-Friday:
   - Further discussions with the reviewers if necessary/possible
