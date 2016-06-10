@@ -8,22 +8,40 @@ The poll for presence at coffee breaks and meals was created. [Please fill it in
 
 # Tentative agenda for that week
 
-- Monday 
-  9:00-10:00  Informal brainstorms
-  10:00-10:30 Word of welcome, round table
-  10:30-11:00 Coffee break
-  11:00-12:30 Progress reports of all sites
+- Monday
 
-  12:30-14:00 Lunch
+  - 9:00-10:00: Informal brainstorms
+  - 10:00-10:30: Word of welcome, round table
+  - 10:30-11:00: Coffee break
+  - 11:00-12:30: Progress reports of all sites
 
-  14:00-16:00 Steering Committee meeting / brainstorms for the other participants
-  16:00-16:30 Coffee break
-  16:30-19:00 Brainstorm and planning for the upcoming deliverables
+  - 12:30-14:00: Lunch
+
+  - 14:00-16:00: Steering Committee meeting / brainstorms for the other participants
+  - 16:00-16:30: Coffee break
+  - 16:30-19:00: Brainstorm and planning for the upcoming deliverables
   
-  Evening: Dinner and informal brainstorms
+  - Evening: Dinner and informal brainstorms
 
 
-- Tuesday : the all-day Review with our Project Officer and four reviewers (at least one participant per due deliverable must be present for this) + possible side-review activities for ODK participants can take place 
+- Tuesday : 
+
+  - 8:30-9:00: The reviewers’ pre-meeting
+  - 9:00-10:15: Short presentation of the partners (5 minutes each partner)
+  - 10:15-10:45: Presentation of deliverables D1.1, D2.1 and D1.2
+  - 10:45-11:15: Coffee break
+  - 11:45- 12:30 : Presentation of deliverable D3.1 and D4.1
+  
+  - 12:30-13:45: Lunch
+   
+  - 13:45-15:45: Presentation of deliverables D4.2 and D5.1 
+  - 15:45-16:05 Coffee break
+  - 16:05-16:35: Presentation of D6.1
+  - 16:35-17H:00: The reviewers’ meeting after the presentations
+  - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
+  
+  - Evening: Social dinner
+
 - Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
 - Thursday & Friday : workgroup sessions (especially on WP6 AND WP4)
 
