@@ -5,7 +5,7 @@ title: Agenda, ODK's annual project meeting, June 2016
 
 # Tentative agenda for that week
 
-- Monday
+## Monday, June 27th
 
   - 9:00-10:00: Informal brainstorms
   - 10:00-10:30: Word of welcome, round table
@@ -20,7 +20,7 @@ title: Agenda, ODK's annual project meeting, June 2016
 
   - Evening: Dinner and informal brainstorms
 
-- Tuesday :
+## Tuesday, June 28th
 
   - 8:30-9:00: Reviewers’ pre-meeting
   - 9:00-10:15: Short presentation of the partners (5 minutes each partner)
@@ -54,7 +54,8 @@ title: Agenda, ODK's annual project meeting, June 2016
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
 
-- Wednesday-Friday:
+## Wednesday June 29th - Friday July 1st
+
   - Further discussions with the reviewers if necessary/possible
   - Workshop on WP4
   - Workshop on WP6
