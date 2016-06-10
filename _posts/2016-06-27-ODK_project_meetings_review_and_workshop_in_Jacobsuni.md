@@ -40,7 +40,7 @@ The poll for presence at coffee breaks and meals was created. [Please fill it in
   - 16:35-17H:00: The reviewers’ meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
   
-  - Evening: Social dinner
+  - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
 
 - Wednesday: more talks with the reviewers if necessary/possible + free time for all ODK participants to work together 
 - Thursday & Friday : workgroup sessions (especially on WP6 AND WP4)
