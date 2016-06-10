@@ -33,6 +33,10 @@ InternalEvents:
       start: 2016-06-29
       end: 2016-07-02
 ExternalEvents:
+    - title: Sage Days 75 (Coding theory, performance)
+      start: 2016-08-22
+      end: 2016-08-26
+      url : https://wiki.sagemath.org/days75
     - title: Sage Days 78 (Combinatorics)
       start: 2016-06-29
       end: 2016-07-02
