@@ -161,7 +161,7 @@ sites:
       - name: Christian Maeder
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
         github: cmaeder
-      - name Dennis Müller
+      - name: Dennis Müller
          homepage: 'https://kwarc.info/people/dmueller'
          github: Jazzpirate
       - name: Mihnea Iancu
