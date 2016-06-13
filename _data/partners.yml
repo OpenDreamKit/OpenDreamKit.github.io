@@ -162,8 +162,8 @@ sites:
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
         github: cmaeder
       - name: Dennis Müller
-         homepage: 'https://kwarc.info/people/dmueller'
-         github: Jazzpirate
+        homepage: 'https://kwarc.info/people/dmueller'
+        github: Jazzpirate
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
         github: m-iancu
