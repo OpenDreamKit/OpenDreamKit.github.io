@@ -163,10 +163,10 @@ sites:
         github: cmaeder
       - name Dennis Müller
          homepage: 'https://kwarc.info/people/dmueller'
-	 github: Jazzpirate
+         github: Jazzpirate
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
-	github: m-iancu
+        github: m-iancu
   - name: Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
