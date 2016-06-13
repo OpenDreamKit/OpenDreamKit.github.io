@@ -160,7 +160,7 @@ sites:
         github: florian-rabe
       - name: Christian Maeder
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
-	github: cmaeder
+        github: cmaeder
       - name Dennis Müller
          homepage: 'https://kwarc.info/people/dmueller'
 	 github: Jazzpirate
