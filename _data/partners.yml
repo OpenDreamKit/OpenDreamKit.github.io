@@ -160,8 +160,13 @@ sites:
         github: florian-rabe
       - name: Christian Maeder
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
+	github: cmaeder
+      - name Dennis Müller
+         homepage: 'https://kwarc.info/people/dmueller'
+	 github: Jazzpirate
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
+	github: m-iancu
   - name: Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
