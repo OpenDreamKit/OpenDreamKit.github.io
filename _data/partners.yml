@@ -167,6 +167,9 @@ sites:
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
         github: m-iancu
+      - name: Tom Wiesing
+        homepage: 'https://kwarc.info/people/twiesing'
+        github: tkw1536
   - name: Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
