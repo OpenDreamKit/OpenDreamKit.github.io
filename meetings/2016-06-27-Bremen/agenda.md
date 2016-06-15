@@ -49,7 +49,7 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 13:45-15:45: Presentation of deliverables (cont'd)
   - 15:45-16:05 Coffee break
   - 16:05-16:35: Presentation of deliverables (cont'd)
-  - 16:35-17H:00: Reviewers's meeting after the presentations
+  - 16:35-17:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
