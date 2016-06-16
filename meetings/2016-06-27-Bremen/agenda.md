@@ -38,7 +38,7 @@ title: Agenda, ODK's annual project meeting, June 2016
     - [D4.2: Active/Structured Documents Requirements and existing Solutions](https://github.com/OpenDreamKit/OpenDreamKit/issues/91)
       Michael Kohlhase
     - [D5.1: Turn the Python prototypes for tree exploration into production code, integrate to Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
-      Luca De Feo
+      Nicolas M. Thiéry
     - [D6.1: Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)](https://github.com/OpenDreamKit/OpenDreamKit/issues/133)
       Michael Kohlhase
   - 10:45-11:15: Coffee break
