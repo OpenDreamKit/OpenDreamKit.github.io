@@ -10,7 +10,7 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 9:00-10:00: Informal brainstorms
   - 10:00-10:30: Word of welcome, round table
   - 10:30-11:00: Coffee break
-  - 11:00-12:30: [Yearly Progress reports](../ProgressReports/) for all sites
+  - 11:00-12:30: [Yearly Progress reports](ProgressReports/) for all sites
 
   - 12:30-14:00: Lunch
 
@@ -38,7 +38,7 @@ title: Agenda, ODK's annual project meeting, June 2016
     - [D4.2: Active/Structured Documents Requirements and existing Solutions](https://github.com/OpenDreamKit/OpenDreamKit/issues/91)
       Michael Kohlhase
     - [D5.1: Turn the Python prototypes for tree exploration into production code, integrate to Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
-      Luca De Feo
+      Nicolas M. Thiéry
     - [D6.1: Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)](https://github.com/OpenDreamKit/OpenDreamKit/issues/133)
       Michael Kohlhase
   - 10:45-11:15: Coffee break
@@ -48,8 +48,8 @@ title: Agenda, ODK's annual project meeting, June 2016
 
   - 13:45-15:45: Presentation of deliverables (cont'd)
   - 15:45-16:05 Coffee break
-  - 16:05-16:35: Presentation of D6.1
-  - 16:35-17H:00: Reviewers's meeting after the presentations
+  - 16:05-16:35: Presentation of deliverables (cont'd)
+  - 16:35-17:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
