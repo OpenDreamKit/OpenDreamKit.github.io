@@ -16,7 +16,7 @@ OpenDreamKit being funded by Horizon 2020, the EU asks us to promote its financi
   -	Audio-visual material (interviews, promotional videos etc)
   -	Infrastructure and major results funded by the grant
 
-!!! This does not include your day-to-day research and collaborations !!!
+!!! This of course does not include your day-to-day research and collaborations !!!
 
 For the communication actions and dissemination listed above, they must:
 

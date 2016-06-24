@@ -53,8 +53,8 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * 29/02/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP2/D2.1/report-final.pdf) for [D2.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/34): Starting press release
 * 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP1/D1.2/report-final.pdf) for [D1.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/18): Data management plan V1
 * 01/03/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP3/D3.1/report-final.pdf) for [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58): Virtual images & containers
-* April 2016: [Sage days 77](https://wiki.sagemath.org/days77) (Cernay) TODO add minutes
-* May 2016: [Sage days 73](https://wiki.sagemath.org/days73) (Oaxaca) TODO add minutes
+* April 2016: [Sage days 77](https://wiki.sagemath.org/days77) (Cernay) TODO; add minutes
+* May 2016: [Sage days 73](https://wiki.sagemath.org/days73) (Oaxaca) TODO: add minutes
 * May-June 2016: [Sage days 74](https://wiki.sagemath.org/days74) (Meudon)
-* 17/06/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP4/D4.2/report-final.pdf) for [D4.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/91): Active/Structured Documents Requirements and existing Solutions
+* 17/06/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP4/D4.2/report-final.pdf) for [D4.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/91): Active/Structured Documents requirements and existing solutions
 * 17/06/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.1/report-final.pdf) for [D6.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/133): Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)
