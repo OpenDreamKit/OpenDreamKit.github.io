@@ -4,6 +4,7 @@ title: Agenda, Steering committee, June 2016
 ---
 
 
+  - Brexit
   - Advisory Board
   - Amendment to the Grant: addition of partner + other changes
   - Position of UZH
