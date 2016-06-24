@@ -1,9 +1,9 @@
 ---
 layout: slides
-title: "Steering Committee- Brement, 27th June 2016"
+title: "Steering Committee- Bremen, 27th June 2016"
 theme: white
 transition: none
-author: Benoît PILORGET
+author: Benoit PILORGET
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -40,7 +40,7 @@ author: Benoît PILORGET
 
 ## Amendment to the Grant: addition of partner + other changes
 
-- [12/15 (80%) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
+- [12/15 (80 per cent) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
 Remaining 3 partners have not officially voted
 	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow)
 - Changes (already accepted) in due datesfor deliverables and tasks implemented in the Grant under PO's recommendation
@@ -59,7 +59,7 @@ Remaining 3 partners have not officially voted
 - Results of the vote for adding Gent in the consortium
     - Pre-financing month 1= 2 134 754,45 Euros
     - Funds spent month 9= 441 756,08 Euros (without USTAN, Logilab, UOXF + some personnel costs)
-     - Percentage of money spent at 9 months: 20,69%
+     - Percentage of money spent at 9 months: 20,69 per cent
 
 ---
 
