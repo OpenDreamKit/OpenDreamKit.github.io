@@ -14,7 +14,7 @@ title: Agenda, ODK's annual project meeting, June 2016
 
   - 12:30-14:00: Lunch
 
-  - 14:00-16:00: Steering Committee meeting / brainstorms for the other participants
+  - 14:00-16:00: [Steering Committee meeting](meetings/2016-06-27/steeringcommitteeagenda.md) / brainstorms for the other participants
   - 16:00-16:30: Coffee break
   - 16:30-19:00: Brainstorm and planning for the upcoming deliverables
 
