@@ -41,7 +41,7 @@ author: Benoît PILORGET
 ## Amendment to the Grant: addition of partner + other changes
 
 - [12/15 (80%) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
-	Remaining 3 partners have not officially voted
+Remaining 3 partners have not officially voted
 	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow)
 - Changes (already accepted) in due datesfor deliverables and tasks implemented in the Grant under PO's recommendation
 - Changes in budget: UPSud transfers money to UGent, reshuffling of Jacobsuni's budget
@@ -59,7 +59,7 @@ author: Benoît PILORGET
 - Results of the vote for adding Gent in the consortium
     - Pre-financing month 1= 2 134 754,45€
     - Funds spent month 9= 441 756,08€ (without USTAN, Logilab, UOXF + some personnel costs)
-      - Percentage of money spent at 9 months: 20,69%
+     - Percentage of money spent at 9 months: 20,69%
 
 ---
 
