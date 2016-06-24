@@ -57,8 +57,8 @@ Remaining 3 partners have not officially voted
 - Received feedback from most partners except from: USTAN, Logilab, Oxford
 - Best practices for all partners
 - Results of the vote for adding Gent in the consortium
-    - Pre-financing month 1= 2 134 754,45€
-    - Funds spent month 9= 441 756,08€ (without USTAN, Logilab, UOXF + some personnel costs)
+    - Pre-financing month 1= 2 134 754,45 Euros
+    - Funds spent month 9= 441 756,08 Euros (without USTAN, Logilab, UOXF + some personnel costs)
      - Percentage of money spent at 9 months: 20,69%
 
 ---
