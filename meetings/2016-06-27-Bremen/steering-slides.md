@@ -14,7 +14,7 @@ author: Benoit PILORGET
 ---
 
 ## Agenda
-- Brexit
+- Brexitl
 - Advisory Board
 - Amendment to the Grant
 - Position of Paul-Olivier DEHAYE in UZH
