@@ -25,3 +25,4 @@ The slides below are not yet up to date.
 - [Universität Zürich](Zurich)
 - [Logilab](Logilab)
 - [Simula Research Laboratory](Simula)
+- [Universiteit Gent](UGent/ugent.pdf)
