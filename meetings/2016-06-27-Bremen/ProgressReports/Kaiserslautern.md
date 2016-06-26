@@ -1,9 +1,9 @@
 ---
 layout: slides
-title: "Progress report for XXXXX"
+title: "Progress report for Kaiserslautern"
 theme: white
 transition: none
-author: XXXXXX
+author: Wolfram Decker
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
