@@ -21,7 +21,7 @@ author: Florent Cayré
 
 ## Hiring
 
-- N/A
+- Not applicable
 
 ---
 
