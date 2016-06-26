@@ -12,7 +12,7 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 10:30-11:00: Coffee break
   - 11:00-12:30: [Yearly Progress reports](../ProgressReports/) for all sites
 
-  - 12:30-14:00: Lunch
+  - 12:30-14:00: Lunch.
 
   - 14:00-16:00: [Steering Committee meeting](../steeringcommitteeagenda/) / brainstorms for the other participants
   - 16:00-16:30: Coffee break
