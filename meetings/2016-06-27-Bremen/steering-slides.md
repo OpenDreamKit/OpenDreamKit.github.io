@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Steering Committee- Bremen, 27th June 2016"
+title: "Steering Committee - Bremen, 27th June 2016"
 theme: white
 transition: none
 author: Benoît PILORGET
@@ -36,9 +36,11 @@ author: Benoît PILORGET
 
 	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow if amendment accepted)
 
-- Changes (already accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
+- Changes (previously accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
 
-- Changes in budget: UPSud transfers 30,5 person-monthsand travel money (10 000€) to UGent, reshuffling of Jacobsuni's budget
+- Changes in budget:
+    - UPSud transfers 30,5 person-months and travel money (10k€) to UGent
+    - Minor reshuffling of Jacobsuni's budget
 ---
 
 ## Position of Paul-Olivier DEHAYE in UZH
@@ -70,7 +72,7 @@ author: Benoît PILORGET
 
 ---
 
-## Next meeting: where and when?
+## Next meeting: where and when??
 
 - January 2017
 - June 2017
