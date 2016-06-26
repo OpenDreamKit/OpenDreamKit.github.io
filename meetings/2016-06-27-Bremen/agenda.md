@@ -10,7 +10,7 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 9:00-10:00: Informal brainstorms
   - 10:00-10:30: Word of welcome, round table
   - 10:30-11:00: Coffee break
-  - 11:00-12:30: [Yearly Progress reports](../ProgressReports/) for all sites
+  - 11:00-12:30: [Yearly progress reports](../ProgressReports/) for all sites
 
   - 12:30-14:00: Lunch
 
