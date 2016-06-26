@@ -3,7 +3,7 @@ layout: slides
 title: "Steering Committee- Bremen, 27th June 2016"
 theme: white
 transition: none
-author: Benoit PILORGET
+author: Benoît PILORGET
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -31,14 +31,14 @@ author: Benoit PILORGET
 
 ## Amendment to the Grant: addition of partner + other changes
 
-- [12/15 (80 per cent) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
-Remaining 3 partners have not officially voted
+- [12/15 (80%) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
+3 partners have not officially voted
 
-	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow)
+	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow if amendment accepted)
 
 - Changes (already accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
 
-- Changes in budget: UPSud transfers money to UGent, reshuffling of Jacobsuni's budget
+- Changes in budget: UPSud transfers 30,5 person-monthsand travel money (10 000€) to UGent, reshuffling of Jacobsuni's budget
 ---
 
 ## Position of Paul-Olivier DEHAYE in UZH
@@ -50,10 +50,10 @@ Remaining 3 partners have not officially voted
 
 - Received feedback from most partners except from: USTAN, Logilab, Oxford
 - All partners seem to have best practice
-- Results of the vote for adding Gent in the consortium
+- Expenses months 1-9
     - Pre-financing month 1= 2 134 754,45 Euros
     - Funds spent month 9= 441 756,08 Euros (without USTAN, Logilab, UOXF + some personnel costs)
-     - Percentage of money spent at 9 months: 20,69 per cent
+     - Percentage of money spent at 9 months: 20,69%
 
 ---
 
@@ -70,7 +70,11 @@ Remaining 3 partners have not officially voted
 
 ---
 
-## Next meeting: where and when
+## Next meeting: where and when?
+
+- January 2017
+- June 2017
+
 ---
 
 ## ODK conferences: planning and possible locations for their organisation
