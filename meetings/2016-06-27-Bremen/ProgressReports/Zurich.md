@@ -30,7 +30,10 @@ author: PO Dehaye
 
 ---
 ## Main upcoming tasks and deliverables
-
+- T6.3 DKS Base Design
+- T6.7 LMFDB
+- D6.6 (due: 18) LMFDB deep modelling: Fragment Identification & Initial Model
+Design
 - Work on paper summarizing MitM for Galois representations
 
 </section>
