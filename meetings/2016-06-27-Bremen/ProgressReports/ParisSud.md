@@ -15,7 +15,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 ## Financial and administrative setup
 
-- Money transfer from paris-Sud to UGent: PM for Jeroen Demeyer+ 4 unused PM for Erik Bray+travel expenses
+- Money transfer from UPSudto UGent: PM for Jeroen Demeyer+ 4 unused PM for Erik Bray+travel expenses
 
 ---
 ## Hiring
@@ -29,7 +29,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 --
 
 -   Jeroen Demeyer, Research Engineer
-    - Start: January 1rs, working remotly from Belgium
+    - Start: January 1rst, working remotely from Belgium
     - **Temporary situation until Ghent is made a partner**
     - Former Sage release manager
     - Will work on portability, Sphinx documentation, packaging, ...
@@ -87,7 +87,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 - Other deliverables: 
 	- Review on emerging technologies
 	- Community building: report on impact and activities
-	- Internel progess report
+	- Internal progess report
 
 -   Upcoming events
     - Women in Sage (January 2017)
