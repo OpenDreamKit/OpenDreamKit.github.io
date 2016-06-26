@@ -18,7 +18,7 @@ The slides below are not yet up to date.
 - [Oxford](Oxford)
 - [University of Silesia](Silesia)
 - [University of Sheffield](Sheffield)
-- [University of Southampton](Southampton)
+- [University of Southampton](southampton.pdf)
 - [University of St Andrews](StAndrews)
 - [Université Versailles Saint-Quentin](UVersailles)
 - [University of Warwick](Warwick)
