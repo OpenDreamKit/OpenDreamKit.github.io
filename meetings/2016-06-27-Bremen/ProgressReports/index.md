@@ -6,7 +6,7 @@ title: Yearly progress reports, ODK's annual project meeting, June 2016
 Brief yearly progress reports for all sites.
 
 Includes job openings, hires, and associated persons to the project,
-main activities, achieved and ongoing deliverables, ...
+main activities, achieved and ongoing deliverables ...
 
 The slides below are not yet up to date.
 
