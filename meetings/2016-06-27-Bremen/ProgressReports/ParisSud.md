@@ -15,83 +15,100 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 ## Financial and administrative setup
 
-- Money transfer from UPSudto UGent: PM for Jeroen Demeyer+ 4 unused PM for Erik Bray+travel expenses
+- Everything on rails: money arrived, first expenses done
+- Main expenses:
+    - Workshops (co)organization
+    - Teaching reliefs (on indirect costs)
+    - Laptops (on indirect costs)
+
+- Transfer from UPSudto UGent: 30.5PM for Jeroen Demeyer+ 4 unused PM
+  for Erik Bray + travel expenses
 
 ---
 ## Hiring
 
+-   **Erik Bray**, Research Engineer
+    - Former Astropy core developer
+    - January 1st-end of project
+    - Works on portability, packaging, infrastructure, ...
 
--   Erik Bray, Research Engineer 
-    - Start: January 1st, physical arrival Frebruary 1st
-    - Duration: until end of project
-    - Works on portability, packaging, ...
-
---
-
--   Jeroen Demeyer, Research Engineer
-    - Start: January 1rst, working remotely from Belgium
-    - **Temporary situation until Ghent is made a partner**
+-   **Jeroen Demeyer**, Research Engineer
     - Former Sage release manager
-    - Will work on portability, Sphinx documentation, packaging, ...
+    - March 1st-July 1st: employee of Paris Sud
+    - July 1st-end of project: employee of Ghent
+    - Part time for now, full time starting in Fall 2017
+    - Works on interfaces, Sphinx documentation tools, packaging, ...
+    - Manpower for debian packaging
 
 ---
 ## Achievements
 
-- Before January (reminder)
-	-   [D1.1: Project infrastructure](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
-	-   Kickoff organization 
-	-   Funding of several people for the joint Sage/Jupyter Days in Berkeley
-	-   [D5.1: Turn the Python prototypes for tree exploration into production code, integrate into Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
-	-   [EInfra Booklet](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Communication/eInfra-Booklet/ODK.md): 1 page for ODK delivered
-
+- [D1.1: Project infrastructure](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
+- [D5.1: Turn the Python prototypes for tree exploration into production code, integrate into Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
+- [EInfra Booklet](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Communication/eInfra-Booklet/ODK.md): 1 page for ODK delivered
 - [D1.2: Data Management Plan V1](https://github.com/OpenDreamKit/OpenDreamKit/issues/18)
-
 - [D2.1: Starting press release](https://github.com/OpenDreamKit/OpenDreamKit/issues/34)
-	- Announced the project  through diverse media
-	- updates available on the [website](http://opendreamkit.org/follow/#press-releases)
-	- in preparation: an official announcement on [Gazette de la SMF](http://smf.emath.fr/)
+- [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
 
-- Sage Days in Cernay
-	- **TODO: Nicolas**
+--
+## Work in progress
 
-- Sage Days in Meudon
-	- **TODO Nicolas**
+- Participation to WP6 activities
+- [D3.9: Semantic-aware Sage interface to GAP](https://github.com/OpenDreamKit/OpenDreamKit/issues/68)
+- [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
+- [D4.13: Refactorisation of SageMath's Sphinx documentation system](https://github.com/OpenDreamKit/OpenDreamKit/issues/87)
+- Portability of Sage on Windows (cygwin)
+- Application of containers:
+  - [Windows installer](https://github.com/sagemath/docker-images/issues/1)
+  - [Continuous integration]
+- Participation to the maintenance of the Sage infrastructure
 
-- Sage intervention at Cimpa School ECCO 2016 (Medellin, Colombia)
-	- 2 x 2 hours of Sage introduction (~50 participants)
-	- using [Live USB Keys](http://www.sagemath.org/download-liveusb.html) bought by OpenDreamKit
-	- Spanish translation of some introduction Sage tutorials
-	- a great success!
+--
+## Workshops
 
-- Sage Days in Vancouver
-	- Focus on combinatorics as a satellite event of FPSAC 2016
-	- Dates: June 29 -- July 1st 2016
-	- Around 30 expected participants
-	- The reason Viviane is not here (flying from Colombia to Vancouver)
+- [Kickoff](http://127.0.0.1:4000/2015/09/02/KickoffMeeting/)
 
+- Cofunding of the joint [Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November
+    - Theme: SageMathCloud and Jupyter
+
+- Organization of [Sage Days 77](https://wiki.sagemath.org/days77), Cernay, April
+    - Themes: Packaging, documentation tools, portability
+
+- Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74), Meudon, May
+    - Themes: Manifolds, 3D vizualization
+
+--
+## Workshops (cont'd)
+
+- Sage at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/) (Medellin, Colombia)
+    - 2 x 2 hours of Sage tutorials (~50 participants)
+    - using [Live USB Keys](http://www.sagemath.org/download-liveusb.html) bought by OpenDreamKit
+    - Spanish translation of some introduction Sage tutorials
+    - a great success!
+
+- Organization of [Sage Days 77](https://wiki.sagemath.org/days74), Vancouver, June 29--July 1st
+    - Theme: algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
+    - 30 expected participants
+
+- The reason Viviane is not here (Colombia => Vancouver)
 
 ---
 ## Main upcoming tasks and deliverables
 
+- [D1.3: Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/#19)
+- [D2.2: Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
+- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
 - [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
-	- Work in progress with V. Pons and J. Demeyer
-	- Documenting installation of development version of SMC in SMC or on personal laptops, following [William Stein's talk](https://cloud.sagemath.com/ad9e7c84-b1de-4c64-b056-9a5e04d9107e/raw/wstein/talks/smc-dev/smc-dev.pdf) 
-	- Started to look at SMC code base and intending to document its basic structure
-
+- [D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular](https://github.com/OpenDreamKit/OpenDreamKit/issues/93)
 - [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
-	- **TODO: where are we on this??**
+- [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
 
-- [D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular]
-	- **TODO: where are we on this??**
+## Upcoming events
 
-- Other deliverables: 
-	- Review on emerging technologies
-	- Community building: report on impact and activities
-	- Internal progess report
+- Women in Sage (January 2017)
 
--   Upcoming events
-    - Women in Sage (January 2017)
-    - Calcul Mathématique Lire 2018: rejected from CIRM first 2018 call, planning
-      to reapply while looking for other hosting options
+- Calcul Mathématique Libre 2018
+    - Rejected from CIRM first call for 2018
+    - Planning to reapply while looking for other hosting options
 
 </section>
