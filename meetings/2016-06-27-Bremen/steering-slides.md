@@ -42,8 +42,11 @@ author: Benoit PILORGET
 
 - [12/15 (80 per cent) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
 Remaining 3 partners have not officially voted
+
 	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow)
-- Changes (already accepted) in due datesfor deliverables and tasks implemented in the Grant under PO's recommendation
+
+- Changes (already accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
+
 - Changes in budget: UPSud transfers money to UGent, reshuffling of Jacobsuni's budget
 ---
 
