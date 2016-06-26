@@ -47,7 +47,7 @@ author: XXXXXX
 
 * [D 5.5 Write an assembly superoptimiser supporting AVX and upcoming Intel processor extensions for the MPIR library and optimise MPIR for modern processors](https://github.com/OpenDreamKit/OpenDreamKit/issues/118)
   * Due month 18
-  * Alex 1 has used the asmjit library to write an assembly superoptimiser supporting AVX **TODO** insert public repo URL here
+  * Alex 1 has used the asmjit library to write an assembly superoptimiser supporting AVX [1]
   * The superoptimiser is now working on many of the architectures we have access to and can be used to optimise MPIR asm code
   * Have been working closely with a new MPIR contributor, Jens Nurmann, who has been writing new Skylake assembly code and also updating code for older two and three port processors (he now has access to the superoptimiser and is using it)
   * Have been validating the superoptimiser on Piledriver and a new Haswell machine purchased by Uni KL
@@ -72,5 +72,7 @@ author: XXXXXX
   * Anders has implemented a number of threaded and SIMD projects to be made available in Singular
   * Anders has written papers on the above implementations **TODO** insert Anders' list here
   * has been some cross-fertilisation with D5.6
+
+[1] https://github.com/alexjbest/ajs/
 
 </section>
