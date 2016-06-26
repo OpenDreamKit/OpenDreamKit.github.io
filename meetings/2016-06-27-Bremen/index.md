@@ -11,7 +11,7 @@ Monday June 27th - Friday July 1st
 
 # Agenda
 
-- Monday: general project meeting:
+- Monday: General project meeting:
   status reports, steering committee meeting, brainstorms
 - Tuesday: project review
 - Wednesday-: specialized workshops on WP4 and WP6
