@@ -3,7 +3,7 @@ layout: slides
 title: "Steering Committee - Bremen, 27th June 2016"
 theme: white
 transition: none
-author: Benoît PILORGET
+author: Benoit PILORGET
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
