@@ -24,10 +24,10 @@ author: Vincent Delecroix
 ---
 ## Hiring
 
-- failed to recruit an ingeneer on time: only 2 reasonable
-  candidates among the 20 auditions and they did not take
-  the job (September 2015). We are in the process of hiring
-  an ingeneer for September 2016.
+- failed to recruit an engineer on time: only two reasonable
+  candidates among the 20 interviews and they did not take the job
+  (September 2015). We are in the process of hiring an engineer for
+  September 2016.
 
 ---
 ## Achievements
@@ -49,10 +49,10 @@ author: Vincent Delecroix
 ---
 ## Main upcoming tasks and deliverables
 
-- T5.6 The engineer in stage of being recruited will work intensively on the
-  task T5.6 (HPC infrastructure for combinatorics). We already have a
-  prototype for the C library.
+- [T5.6: HPC infrastructure for combinatorics](https://github.com/OpenDreamKit/OpenDreamKit/issues/104)
+  The engineer to be recruited will work intensively on this task. We
+  already have a prototype for the C library.
 
-- D5.10 "parallelization engine for pari"
+- [D5.10: Parallelization engine for pari](https://github.com/OpenDreamKit/OpenDreamKit/issues/108)
 
 </section>
