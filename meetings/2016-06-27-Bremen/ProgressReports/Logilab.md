@@ -40,7 +40,7 @@ author: Florent Cayré
 
 ## Achievements (2/2)
 
-- D3.10 Debian packaging of recent IPython and Jupyter
+- T3.3 Debian packaging of recent IPython and Jupyter
 
   [ipython 4.1](https://packages.qa.debian.org/i/ipython.html),
   [ipykernel 4.3](https://packages.qa.debian.org/i/ipykernel.html),
