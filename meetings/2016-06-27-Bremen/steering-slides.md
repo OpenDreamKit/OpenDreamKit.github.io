@@ -14,27 +14,18 @@ author: Benoit PILORGET
 ---
 
 ## Agenda
-- Brexitl
-- Advisory Board
+
 - Amendment to the Grant
 - Position of Paul-Olivier DEHAYE in UZH
 - Results of intern financial evaluation
+- Brexit
+- Advisory Board
+- Next meeting
 - ODK conferences
 - Workshops
-- Next meeting
 
 
----
 
-## Brexit
-
----
-
-## Advisory Board
-
-- Stephen Linton in charge of setting it up
-- [Preliminary list of potential members](https://github.com/OpenDreamKit/Participants/blob/master/AdvisoryBoard.md)
-	=> News?
 
 ---
 
@@ -42,8 +33,11 @@ author: Benoit PILORGET
 
 - [12/15 (80 per cent) partners have accepted](https://www.adoodle.org/index.php?action=showresults&survey=a1a71a9f201cd8c0b42f210bc6daf4c5)
 Remaining 3 partners have not officially voted
+
 	=> Quorum is reached: UGent becomes the 16th OpenDreamKit partner (Amendment signed by UGent and UPSud - Commission to follow)
-- Changes (already accepted) in due datesfor deliverables and tasks implemented in the Grant under PO's recommendation
+
+- Changes (already accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
+
 - Changes in budget: UPSud transfers money to UGent, reshuffling of Jacobsuni's budget
 ---
 
@@ -55,7 +49,7 @@ Remaining 3 partners have not officially voted
 ## Results of intern financial evaluation
 
 - Received feedback from most partners except from: USTAN, Logilab, Oxford
-- Best practices for all partners
+- All partners seem to have best practice
 - Results of the vote for adding Gent in the consortium
     - Pre-financing month 1= 2 134 754,45 Euros
     - Funds spent month 9= 441 756,08 Euros (without USTAN, Logilab, UOXF + some personnel costs)
@@ -63,16 +57,29 @@ Remaining 3 partners have not officially voted
 
 ---
 
+## Brexit
+
+
+---
+
+## Advisory Board
+
+- Stephen Linton in charge of setting it up
+- [Preliminary list of potential members](https://github.com/OpenDreamKit/Participants/blob/master/AdvisoryBoard.md)
+	=> News?
+
+---
+
+## Next meeting: where and when
+---
+
 ## ODK conferences: planning and possible locations for their organisation
 
 - Viviane Pons has contacted UNIKL and USTAN for planned conferences
-- UPSud application at the CIRM (Marseille) was not accepted
+- OpenDreamKit application at the CIRM (Marseille) was not accepted
 - ???
 
 ---
 
 ## Workshops: planning and entertwinment approach
 
----
-
-## Next meeting: where and when

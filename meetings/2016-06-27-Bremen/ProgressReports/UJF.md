@@ -15,22 +15,20 @@ author: Clement Pernet
 
 ## Financial and administrative setup
 
-- Everything on rails: money arrived, first expenses done,
-  we were even allowed to use some of the overhead.
+- Everything on rails: money arrived, first expenses done.
 
 ---
 ## Hiring
 
-- Pierrick Brunet (engineer planned to be recruited à T0 found another job). UJF decided to delay this recrutement until spring 16.
+- Pierrick Brunet (engineer planned to be recruited à T0) found another job. UJF decided to delay this recrutement until sept 16.
 
-- First hiring will take place this spring.
+- Another hiring of engineer will take fall 2016.
 
-- Then another engineer planned for sept 16.
 
 ---
 ## Achievements
 
-- Research work in progress on T5.3 (main effort schedule to start in sept 16)
+- Research work in progress on T5.3 (main effort scheduled to start in sept 16)
 ---
 ## Main upcoming tasks and deliverables
 

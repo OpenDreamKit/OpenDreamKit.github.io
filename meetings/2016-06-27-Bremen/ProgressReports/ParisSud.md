@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides
 title: "Progress report for Paris Sud"
 theme: white
@@ -15,13 +15,14 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 ## Financial and administrative setup
 
-** TODO Benoit / Nicolas **
-
 - Everything on rails: money arrived, first expenses done
 - Main expenses:
     - Workshops (co)organization
     - Teaching reliefs (on indirect costs)
     - Laptops (on indirect costs)
+
+- Transfer from UPSudto UGent: 30.5PM for Jeroen Demeyer+ 4 unused PM
+  for Erik Bray + travel expenses
 
 ---
 ## Hiring
