@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides
 title: "Progress report for Paris Sud"
 theme: white
@@ -15,7 +15,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 ## Financial and administrative setup
 
-- ** TODO Benoit / Nicoals **
+- Money transfer from paris-Sud to UGent: PM for Jeroen Demeyer+ 4 unused PM for Erik Bray+travel expenses
 
 ---
 ## Hiring
@@ -86,7 +86,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 - Other deliverables: 
 	- Review on emerging technologies
-	- Comminuty building: report on impact and activities
+	- Community building: report on impact and activities
 	- Internel progess report
 
 -   Upcoming events
