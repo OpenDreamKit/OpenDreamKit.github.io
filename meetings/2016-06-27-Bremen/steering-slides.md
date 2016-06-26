@@ -3,7 +3,7 @@ layout: slides
 title: "Steering Committee- Bremen, 27th June 2016"
 theme: white
 transition: none
-author: Benoît PILORGET
+author: BenoÃ®t PILORGET
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -38,7 +38,7 @@ author: Benoît PILORGET
 
 - Changes (already accepted) in due dates for deliverables and tasks implemented in the Grant under PO's recommendation
 
-- Changes in budget: UPSud transfers 30,5 person-monthsand travel money (10 000€) to UGent, reshuffling of Jacobsuni's budget
+- Changes in budget: UPSud transfers 30,5 person-monthsand travel money (10 000â‚¬) to UGent, reshuffling of Jacobsuni's budget
 ---
 
 ## Position of Paul-Olivier DEHAYE in UZH
