@@ -15,20 +15,22 @@ author: PO Dehaye
 
 ## Financial and administrative setup
 
-- Everything on rails, but about to be perturbed: first expenses OK, next year unclear
+- Employment rate past year: 0%
+- Got all admin training etc. First expenses report cleared
+- Next year: still uncertain the exact conditions, but have seen a template to contract for rehiring me another 10 months or so. (Concerns about seniority on temporary conttract)
 
 ---
 ## Hiring
 
--   Paul-Olivier Dehaye, leaving September 2016
 ---
 ## Achievements
 
-- Preliminary work for St Andrews with Bremen
+- WP6 St Andrews
+- "Interoperability in the OpenDreamKit Project: The Math-in-the-Middle Approach" paper
 
 ---
 ## Main upcoming tasks and deliverables
 
-- First deliverable in WP6 (database survey) already delayed, please contribute to GitHub issues requesting information!!!
+- Work on paper summarizing MitM for Galois representations
 
 </section>
