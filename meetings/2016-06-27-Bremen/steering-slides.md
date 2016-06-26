@@ -69,7 +69,7 @@ Remaining 3 partners have not officially voted
 ## ODK conferences: planning and possible locations for their organisation
 
 - Viviane Pons has contacted UNIKL and USTAN for planned conferences
-- UPSud application at the CIRM (Marseille) was not accepted
+- OpenDreamKit application at the CIRM (Marseille) was not accepted
 - ???
 
 ---
