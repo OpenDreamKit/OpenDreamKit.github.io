@@ -36,6 +36,8 @@ author: Florent Cayré
 - T4.8 - 3D mesh visualization components based on X3DOM
   See http://yuanxiangfranck.github.io/x3dom-plugins-API/
 
+---
+
 ## Achievements (2/2)
 
 - D3.10 Debian packaging of recent IPython and Jupyter
