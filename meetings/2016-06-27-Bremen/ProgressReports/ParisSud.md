@@ -37,6 +37,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
     - July 1st-end of project: employee of Ghent
     - Part time for now, full time starting in Fall 2017
     - Works on interfaces, Sphinx documentation tools, packaging, ...
+    - Manpower for debian packaging
 
 ---
 ## Achievements
@@ -58,40 +59,48 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 - Portability of Sage on Windows (cygwin)
 - Application of containers:
   - [Windows installer](https://github.com/sagemath/docker-images/issues/1)
-  - []
+  - [Continuous integration]
 - Participation to the maintenance of the Sage infrastructure
 
 --
 ## Workshops
 
 - [Kickoff](http://127.0.0.1:4000/2015/09/02/KickoffMeeting/)
+
 - Cofunding of the joint [Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November
     - Theme: SageMathCloud and Jupyter
-- Organization of [Sage Days 77](https://wiki.sagemath.org/days77) in Cernay, April
+
+- Organization of [Sage Days 77](https://wiki.sagemath.org/days77), Cernay, April
     - Themes: Packaging, documentation tools, portability
-- Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74) in Meudon, May
+
+- Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74), Meudon, May
     - Themes: Manifolds, 3D vizualization
-- Sage tutorials at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/) (Medellin, Colombia)
+
+--
+## Workshops (cont'd)
+
+- Sage at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/) (Medellin, Colombia)
     - 2 x 2 hours of Sage tutorials (~50 participants)
     - using [Live USB Keys](http://www.sagemath.org/download-liveusb.html) bought by OpenDreamKit
     - Spanish translation of some introduction Sage tutorials
     - a great success!
-- Organization of [Sage Days 77](https://wiki.sagemath.org/days74) in Vancouver, June 29 -- July 1st
-    - Theme: algebraic combinatorics (satellite event of FPSAC 2016)
-    - Around 30 expected participants
-    - The reason Viviane is not here (flying from Colombia to Vancouver)
+
+- Organization of [Sage Days 77](https://wiki.sagemath.org/days74), Vancouver, June 29--July 1st
+    - Theme: algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
+    - 30 expected participants
+
+- The reason Viviane is not here (Colombia => Vancouver)
 
 ---
 ## Main upcoming tasks and deliverables
 
-- D1.3: [Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/#19)
-- D2.2: [Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
-- D2.3: [Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
-- D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
-- D4.4: [Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular](https://github.com/OpenDreamKit/OpenDreamKit/issues/93)
-- D4.5: [Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
-
-- D3.3
+- [D1.3: Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/#19)
+- [D2.2: Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
+- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
+- [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
+- [D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular](https://github.com/OpenDreamKit/OpenDreamKit/issues/93)
+- [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
+- [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
 
 ## Upcoming events
 
