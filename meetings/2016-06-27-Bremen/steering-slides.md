@@ -14,7 +14,7 @@ author: Benoit PILORGET
 ---
 
 ## Agenda
-- Brexitl
+- Brexit
 - Advisory Board
 - Amendment to the Grant
 - Position of Paul-Olivier DEHAYE in UZH
@@ -55,7 +55,7 @@ Remaining 3 partners have not officially voted
 ## Results of intern financial evaluation
 
 - Received feedback from most partners except from: USTAN, Logilab, Oxford
-- Best practices for all partners
+- All partners seem to have best practice
 - Results of the vote for adding Gent in the consortium
     - Pre-financing month 1= 2 134 754,45 Euros
     - Funds spent month 9= 441 756,08 Euros (without USTAN, Logilab, UOXF + some personnel costs)
