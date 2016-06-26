@@ -58,6 +58,6 @@ author: Florent Cayré
 
 - T4.6 Have SAGE active Jupyter-based documentation improved and integrated
 
-- D3.10 Package more SAGE components into debian
+- T3.3 Package more SAGE components into debian
 
 </section>
