@@ -16,13 +16,16 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 ## Financial and administrative setup
 
 - Everything on rails: money arrived, first expenses done
+
+- Transfer from UPSud to UGent:
+    - 30.5PM for Jeroen Demeyer (+ 4 unused PMs of Erik Bray)
+    - 10k€ travel expenses
+
 - Main expenses:
-    - Workshops (co)organization
+    - Salaries (two research engineers, one administrator)
+    - Workshops (co)organization & travel
     - Teaching reliefs (on indirect costs)
     - Laptops (on indirect costs)
-
-- Transfer from UPSudto UGent: 30.5PM for Jeroen Demeyer+ 4 unused PM
-  for Erik Bray + travel expenses
 
 ---
 ## Hiring
@@ -38,14 +41,13 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
     - July 1st-end of project: employee of Ghent
     - Part time for now, full time starting in Fall 2017
     - Works on interfaces, Sphinx documentation tools, packaging, ...
-    - Manpower for debian packaging
 
 ---
 ## Achievements
 
 - [D1.1: Project infrastructure](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
 - [D5.1: Turn the Python prototypes for tree exploration into production code, integrate into Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
-- [EInfra Booklet](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Communication/eInfra-Booklet/ODK.md): 1 page for ODK delivered
+- [EInfra Booklet](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Communication/eInfra-Booklet/ODK.md): one page about ODK delivered
 - [D1.2: Data Management Plan V1](https://github.com/OpenDreamKit/OpenDreamKit/issues/18)
 - [D2.1: Starting press release](https://github.com/OpenDreamKit/OpenDreamKit/issues/34)
 - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
@@ -60,7 +62,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 - Portability of Sage on Windows (cygwin)
 - Application of containers:
   - [Windows installer](https://github.com/sagemath/docker-images/issues/1)
-  - [Continuous integration]
+  - Continuous integration (sage-patchbot)
 - Participation to the maintenance of the Sage infrastructure
 
 --
@@ -103,6 +105,7 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 - [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
 - [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
 
+--
 ## Upcoming events
 
 - Women in Sage (January 2017)
