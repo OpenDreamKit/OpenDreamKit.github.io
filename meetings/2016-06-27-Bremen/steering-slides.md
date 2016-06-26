@@ -70,7 +70,7 @@ author: Benoît PILORGET
 
 ---
 
-## Next meeting: where and when?
+## Next meeting: where and when??
 
 - January 2017
 - June 2017
