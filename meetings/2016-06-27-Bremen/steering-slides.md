@@ -14,27 +14,18 @@ author: Benoit PILORGET
 ---
 
 ## Agenda
-- Brexit
-- Advisory Board
+
 - Amendment to the Grant
 - Position of Paul-Olivier DEHAYE in UZH
 - Results of intern financial evaluation
+- Brexit
+- Advisory Board
+- Next meeting
 - ODK conferences
 - Workshops
-- Next meeting
 
 
----
 
-## Brexit
-
----
-
-## Advisory Board
-
-- Stephen Linton in charge of setting it up
-- [Preliminary list of potential members](https://github.com/OpenDreamKit/Participants/blob/master/AdvisoryBoard.md)
-	=> News?
 
 ---
 
@@ -66,6 +57,22 @@ Remaining 3 partners have not officially voted
 
 ---
 
+## Brexit
+
+
+---
+
+## Advisory Board
+
+- Stephen Linton in charge of setting it up
+- [Preliminary list of potential members](https://github.com/OpenDreamKit/Participants/blob/master/AdvisoryBoard.md)
+	=> News?
+
+---
+
+## Next meeting: where and when
+---
+
 ## ODK conferences: planning and possible locations for their organisation
 
 - Viviane Pons has contacted UNIKL and USTAN for planned conferences
@@ -76,6 +83,3 @@ Remaining 3 partners have not officially voted
 
 ## Workshops: planning and entertwinment approach
 
----
-
-## Next meeting: where and when
