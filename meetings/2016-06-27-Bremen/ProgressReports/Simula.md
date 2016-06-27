@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Simula"
 theme: white
 transition: none
-author: Martin Alnæs and Min RK
+author: Martin Alnæs, Min RK, Vidar Tonaas Fauske
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -39,8 +39,7 @@ author: Martin Alnæs and Min RK
 -   Due month 12:
 
     - D4.3 (MathHub.info) Jacobs University in charge
-    - D4.4 (GAP/PARI kernels) UPSud leads this one, I believe there was work done at a PARI workshop
-    - D4.5 (Sage/Jupyter notebooks) Much progress on the Sage side
+    - D4.4 (GAP/PARI kernels) UPSud leads this one, in good shape
       - Workshop sprinting on exporting sage to ipynb (combining https://github.com/vbraun/ExportSageNB and https://github.com/nthiery/rst-to-ipynb)
     - D4.6 (nbdime) well on its way
 
