@@ -13,8 +13,6 @@ author: M.Kohlhase
 
 ---
 
----
-
 ## Role in the OpenDreamKit Project
 
 * Responsible for WP6: "Data/Knowledge/Software-Bases" (46 PM)
