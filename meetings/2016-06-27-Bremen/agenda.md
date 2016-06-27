@@ -22,7 +22,7 @@ title: Agenda, ODK's annual project meeting, June 2016
 ## Tuesday, June 28th
 
   - 8:30-9:30: Reviewers’ pre-meeting
-  - 9:30-10:30: Short presentation of the partners (5 minutes each partner)
+  - 9:30-10:30: Short presentation of the OpenDreamkit and of sites by N. Thiéry
   - 10:30-11:00: Coffee break
   - 11:00-12:30: Presentation of deliverables:
     - [D1.1: Basic project infrastructure (websites, wikis, issue trackers, mailing lists, repositories)](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
