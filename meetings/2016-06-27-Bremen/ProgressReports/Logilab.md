@@ -15,13 +15,8 @@ author: Florent Cayré
 
 ## Financial and administrative setup
 
-- No problem
-
----
-
-## Hiring
-
-- Not applicable
+- Everything OK
+- Expenses: mainly salaries, a bit for workshop participations (Kick-off meeting, Sage days 77, Bremen)
 
 ---
 
