@@ -22,6 +22,7 @@ author: M.Kohlhase
 
 hired a research software engineer (Dr. Christian Maeder) for 6 months and two Ph.D. students
 (Xu He and Tom Wiesing)  on 1/4 contracts. 
+
 ---
 ## Achievements
 
@@ -31,13 +32,14 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 * Implementing the basic setup for the MitM paradigm of intetration for St. Andrews.
 * Working on MathHub.info portal and the underlying MMT-based build system.
 * good progress  on parsing OEIS data set.
-* ODK/MitM paper  at [CICM](http://cicm-conference.org/2016) (Conference on Intelligent Computer Mathematics).
-* OEIS paper at  [ICMS](http://icms2016.zib.de/) (International Conference on Mathematical Software)
+* ODK/MitM paper  at [CICM](http://cicm-conference.org/2016) 
+* OEIS paper at  [ICMS](http://icms2016.zib.de/) 
 * First (baby) steps towards a computational foundation. 
 ---
 ## Deliverables
-D4.2 Active/Structured Documents Requirements and existing Solutions
-D6.1 Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)
+
+* D4.2 Active/Structured Documents Requirements and existing Solutions
+* D6.1 Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)
 --
 ## Main upcoming tasks and deliverables
 
