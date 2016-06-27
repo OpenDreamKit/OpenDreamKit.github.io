@@ -28,7 +28,6 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 
 ## Role in the OpenDreamKit Project
 
-
 * Responsible for WP6: "Data/Knowledge/Software-Bases" (46 PM)
   * Our Interpretation Integrating D/K/S for system  integration -->  VRE
 * Participating in WP4: "User Interfaces" (12PM)
