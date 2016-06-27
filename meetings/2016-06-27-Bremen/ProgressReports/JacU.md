@@ -6,7 +6,8 @@ transition: none
 author: M.Kohlhase
 ---
 
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+<section data-markdown data-separator="^---\n" data-separator-vertical="^---\n">
+
 # {{ page.title }}
 
 {{ page.author }}
