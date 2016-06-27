@@ -28,12 +28,12 @@ author: Florent Cayré, David Douard, Julien Cristau
 - T5.7 Pythran type inference improvements - Aliasing analysis
   See http://serge-sans-paille.github.io/pythran-stories/identifier-binding-computation.html
 
-- T4.8 - 3D mesh visualization components based on X3DOM
-  See http://yuanxiangfranck.github.io/x3dom-plugins-API/
-
 ---
 
 ## Achievements (2/2)
+
+- T4.8 - 3D mesh visualization components based on X3DOM
+  See http://yuanxiangfranck.github.io/x3dom-plugins-API/
 
 - T3.3 Debian packaging of recent IPython and Jupyter
 
@@ -42,7 +42,7 @@ author: Florent Cayré, David Douard, Julien Cristau
   [jupyter-core 4.1](https://packages.qa.debian.org/j/jupyter-core.html),
   [jupyter-client 4.2](https://packages.qa.debian.org/j/jupyter-client.html)
 
-- T4.6 Active SAGE documentation prototype using Jupyter via Thebe.js
+- T4.6 Active SAGE documentation prototype using Jupyter notebook via [Thebe.js](https://github.com/oreillymedia/thebe)
   See http://trac.sagemath.org/ticket/20690
 
 ---
