@@ -32,7 +32,7 @@ author: Florent Cayré, David Douard, Julien Cristau
 
 ## Achievements (2/2)
 
-- T4.8 - 3D mesh visualization components based on X3DOM
+- T4.8 3D mesh visualization components based on X3DOM
   See http://yuanxiangfranck.github.io/x3dom-plugins-API/
 
 - T3.3 Debian packaging of recent IPython and Jupyter
@@ -49,10 +49,10 @@ author: Florent Cayré, David Douard, Julien Cristau
 
 ## Main upcoming tasks and deliverables
 
-- T4.8 Turn the current 3D mesh visualizer into a Jupyter component
+- T4.8 Make the current 3D mesh visualizer work in a Jupyter notebooks
 
-- T4.6 Have SAGE active Jupyter-based documentation improved and integrated
+- T4.6 Have SAGE active Jupyter-based documentation improved and integrated into SAGE code base
 
-- T3.3 Package more SAGE components into debian
+- T3.3 Package more and more SAGE components into Debian
 
 </section>
