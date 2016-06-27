@@ -26,6 +26,17 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 
 ---
 
+## Role in OpenDreamKit 
+
+
+* Responsible for WP6: "Data/Knowledge/Software-Bases" (46 PM)
+  * Our Interpretation Integrating D/K/S for system  integration -->  VRE
+* Participating in WP4: "User Interfaces" (12PM)
+  * Our interpretation:  math documents as Knowledge-Based UI for Math Systems
+* KWARC much better integrated in ODK than anticipated <-- foundational interests
+
+---
+
 ## Achievements
 
 * St. Andrews Workshop on WP6 with 15 participants (from JacU, ParisSud, Versailles,
