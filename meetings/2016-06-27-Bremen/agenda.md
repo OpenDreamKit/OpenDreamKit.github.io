@@ -45,13 +45,15 @@ title: Agenda, ODK's annual project meeting, June 2016
     - [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83) Luca DeFeo ([slides](../DeliverablePresentations/D4.1))
     - [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61) Luca DeFeo
 
-
   - 12:30-13:45: Lunch
 
   - 13:45-16:10: Presentation of deliverables (cont'd)
   - 16:10-16:30 Coffee break
   - 16:30-17:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
+       - [Website improvements for reviewers](https://github.com/OpenDreamKit/OpenDreamKit.github.io/issues/18)
+       - Workflow and format for deliverable reports
+       - ...
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
 
