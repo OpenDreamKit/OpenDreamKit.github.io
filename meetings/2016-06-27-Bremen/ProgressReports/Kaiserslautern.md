@@ -32,6 +32,8 @@ author: Wolfram Decker
   * Writing assembly superotimiser for MPIR
   * has obtained PhD. position in Boston
 
+--
+
 * Alexander Kruppa, postdoc
   * 1 Aug -- 31 Jan
   * AVX support in MPIR
@@ -56,6 +58,7 @@ author: Wolfram Decker
   * Alex 2 will write new assembly code for modern processors (esp. AVX) and superoptimise it
   * Project is exactly on schedule
 
+--
 * [D5.6: Parallelise the relation sieving component of the Quadratic Sieve and implement a parallel version of Block-Wiederman linear algebra over GF2 and the triple large prime variant](https://github.com/OpenDreamKit/OpenDreamKit/issues/119)
   * Due month 18
   * Anders Jensen (with some help from Alex Best) has written a Block-Wiedermann implementation
@@ -64,7 +67,7 @@ author: Wolfram Decker
   * Parallel BW implementation is exactly on schedule
   * relation sieving component is straightforward and expected to be delivered on time
   * triple large prime variant implementation has not begun (other than a single large prime implementation mostly finished shortly before the project began), however William Hart will be hired 25% on ODK project from Jul 1st to ensure this is delivered on time
-
+--
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
   * Due month 48
   * The above are example deliverables only (we will delivers these in addition to other parallel/Singular HPC projects)
