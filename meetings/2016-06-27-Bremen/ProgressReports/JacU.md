@@ -56,7 +56,7 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 * D4.2 Active/Structured Documents Requirements and existing Solutions
 * D6.1 Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)
 
---
+---
 
 ## Main upcoming tasks and deliverables
 
