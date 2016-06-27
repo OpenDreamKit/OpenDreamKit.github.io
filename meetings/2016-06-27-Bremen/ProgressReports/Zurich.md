@@ -15,12 +15,13 @@ author: PO Dehaye
 
 ## Financial and administrative setup
 
-- Employment rate past year: 0%
-- Got all admin training etc. First expenses report cleared
-- Next year: still uncertain the exact conditions, but have seen a template to contract for rehiring me another 10 months or so. (Concerns about seniority on temporary conttract)
+- Employment rate past year:     0%
+- Got all admin training sorted, first expenses report cleared
 
 ---
 ## Hiring
+
+- Next year: still uncertain the exact conditions, but have seen a template to contract for rehiring me another 10 months or so. (Concerns about seniority on temporary contract)
 
 ---
 ## Achievements
@@ -31,7 +32,7 @@ author: PO Dehaye
 ---
 ## Main upcoming tasks and deliverables
 - T6.3 DKS Base Design
-- T6.7 LMFDB
+- T6.7 LMFDB use case 
 - D6.6 (due: 18) LMFDB deep modelling: Fragment Identification & Initial Model
 Design
 - Work on paper summarizing MitM for Galois representations
