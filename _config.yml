@@ -13,6 +13,7 @@ future:              True
 gems:
   - jemoji
   - jekyll-paginate
+  - jekyll-github-metadata
 
 exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', '_activities/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
@@ -23,10 +24,11 @@ author:
   email:             contact@opendreamkit.org
   twitter:           opendreamkit
 
+repository:          OpenDreamKit/OpenDreamKit.github.io
+
 collections:
   activities:
     output: true
 
 # Custom vars
 version:             0.2.0
-
