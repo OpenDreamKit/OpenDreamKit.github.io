@@ -32,14 +32,14 @@ author: Martin Alnæs, Min RK, Vidar Tonaas Fauske
   - nbdime accepted to Jupyter project as [JPEP#8](https://github.com/jupyter/enhancement-proposals/pull/8)
   - working integration with git for CLI diffs
   - working prototype for GUI diffs with git difftool
+- Preliminary explorations for D4.12: 3D visualization in Jupyter
 
 ---
 ## Main upcoming tasks and deliverables
 
 -   Due month 12:
 
-    - D4.3 (MathHub.info) Jacobs University in charge
-    - D4.4 (GAP/PARI kernels) UPSud leads this one, in good shape
+    - D4.5 (Sage/Jupyter notebook convergence)
       - Workshop sprinting on exporting sage to ipynb (combining https://github.com/vbraun/ExportSageNB and https://github.com/nthiery/rst-to-ipynb)
     - D4.6 (nbdime) well on its way
 
