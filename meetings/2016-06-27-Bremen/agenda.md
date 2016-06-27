@@ -52,7 +52,7 @@ title: Agenda, ODK's annual project meeting, June 2016
   - 16:30-17:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
        - [Website improvements for reviewers](https://github.com/OpenDreamKit/OpenDreamKit.github.io/issues/18)
-       - Workflow and format for deliverable reports
+       - Workflow and format for deliverable reports (see also [#172](https://github.com/OpenDreamKit/OpenDreamKit/issues/172))
        - ...
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
