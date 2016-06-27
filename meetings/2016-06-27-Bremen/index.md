@@ -16,6 +16,8 @@ Monday June 27th - Friday July 1st
 - Tuesday: project review
 - Wednesday-: specialized workshops on WP4 and WP6
 
+[Pad for discussions and taking notes](https://mensuel.framapad.org/p/BWEKoBS4jU)
+
 [Detailed Agenda](agenda/)
 
 # Registration
