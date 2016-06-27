@@ -28,7 +28,7 @@ title: Agenda, ODK's annual project meeting, June 2016
     - [D1.1: Basic project infrastructure (websites, wikis, issue trackers, mailing lists, repositories)](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
       Nicolas M. Thiéry
     - [D1.2: Data Management Plan V1](https://github.com/OpenDreamKit/OpenDreamKit/issues/18)
-      Benoît Pilorget
+      Benoît Pilorget ([slides](../D1.2-slides))
     - [D2.1: Starting press release](https://github.com/OpenDreamKit/OpenDreamKit/issues/34)
       Nicolas M. Thiéry et Benoît Pilorget
     - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
