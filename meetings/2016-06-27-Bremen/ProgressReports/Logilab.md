@@ -49,7 +49,7 @@ author: Florent Cayré, David Douard, Julien Cristau
 
 ## Main upcoming tasks and deliverables
 
-- T4.8 Make the current 3D mesh visualizer work in Jupyter notebooks and extend its toolset to CFD/ electromagnetics
+- T4.8 Make the current 3D mesh visualizer work in Jupyter notebooks, extend its toolset (e.g. vector data representation), apply to CFD/ electromagnetics
 
 - T4.6 Have SAGE active Jupyter-based documentation improved and integrated into SAGE code base; contribute to Thebe.js
 
