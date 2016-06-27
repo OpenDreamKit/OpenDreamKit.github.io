@@ -33,7 +33,7 @@ title: Agenda, ODK's annual project meeting, June 2016
       Nicolas M. Thiéry et Benoît Pilorget
     - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
       Erik Bray
-    - [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
+    - [D4.1: Python/Cython bindings for PARI and its integration in Sage](../DeliverablePresentations/D4.1)
       Luca DeFeo
     - [D4.2: Active/Structured Documents Requirements and existing Solutions](https://github.com/OpenDreamKit/OpenDreamKit/issues/91)
       Michael Kohlhase
