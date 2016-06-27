@@ -4,16 +4,17 @@ title: "OpenDreamKit: the mathematician's perspective"
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# OpenDreamKit in 5 slides
+# OpenDreamKit
 
 ## The mathematician's perspective
 
-<img src="https://cloud.githubusercontent.com/assets/6437976/11543197/22d9974c-98f0-11e5-8234-dcf6179f10b5.png" alt="OpenDreamKit's logo" height="30%">
+![](/public/logos/odk-elected-logo.svg)
+
 
 ---
-# Some fundamental trends
+## Some fundamental trends
 
-## Long standing and booming role of computers in pure mathematics
+### Long standing and booming role of computers in pure mathematics
 
 - Computer exploration
 - Conjecture verification
@@ -25,7 +26,7 @@ title: "OpenDreamKit: the mathematician's perspective"
 <!-- TODO: add examples -->
 
 --
-## Open Science getting momentum
+### Open Science getting momentum
 
 > [Open science](https://en.wikipedia.org/wiki/Open_science) is the
 > movement to make scientific research, data and dissemination
@@ -38,26 +39,25 @@ title: "OpenDreamKit: the mathematician's perspective"
 - Open Peer Review, Methodology, ...
 
 At the core of science for centuries. Finally getting recognition as
-*viable* and *necessary*, even by funding agencies
+*viable* and *necessary*, even by funding agencies!
 
 --
-## Emergence of a vibrant ecosystem of **free software** for pure mathematics
+### Emergence of a vibrant ecosystem of **free software** for pure mathematics
 
 - Specialized libraries: [LinBox](http://www.linalg.org/), [PARI/GP](http://pari.math.u-bordeaux.fr/), [MPIR](http://mpir.org/), [Singular](http://www.singular.uni-kl.de/), ...
 - General purpose systems: [GAP](http://www.gap-system.org/), [SageMath](http://www.sagemath.org/), ...
 - Online databases: [OEIS](https://oeis.org/), [LMFDB](http://www.lmfdb.org/), ...
+
 - Interactive computing environments:<br>
   [IPython/Jupyter](https://jupyter.org/), [SageMathCloud](https://cloud.sagemath.com/), ...
 - Together with the wider Scientific Python ecosystem
 
-###     
-
 ### Viable alternatives to Maple, Mathematica, Matlab, ...
 
-For research and education. And the industry?
+For research and education (and the industry?)
 
 ---
-# What are Virtual Research Environments?
+## Virtual Research Environments (VRE)?
 
 Definition from the call of the H2020 European Research
 Infrastructures Work Programme:
@@ -70,39 +70,141 @@ Infrastructures Work Programme:
 
 --
 
-## Virtual Research Environments for mathematics?
+### VRE for mathematics?
 
-Fact: Mathematicians are already immersed in a multitude of virtual
-environments to collaborate on **Software**, **Data**, and **Knowledge**:
+Mathematicians are already immersed in a multitude of virtual
+environments to collaborate on
 
-![](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Proposal/Pictures/TheBigPicture.svg)
+- **Software**
+
+- **Data**
+
+- **Knowledge**
+
+--
+
+![](/public/logos/TheBigPicture.svg)
 
 <!-- TODO: add screenshots from the proposal -->
 
 ---
-
-# Now, what's next?
+## The next frontier?
 
 - Improve the productivity of researchers in pure mathematics and
   applications by further promoting collaborations on **Data**,
   **Knowledge**, and **Software**
+
 - Make it easy for teams of researchers of any size to set up custom,
   collaborative **Virtual Research Environments** tailored to their
   specific needs, resources and workflows
+
 - Support the entire life-cycle of computational work in mathematical
   research, from **initial exploration** to **publication**, **teaching**,
   and **outreach**
-- Performance, robustness, flexibility, ease of install and use
-- Research on social aspects of collaborative software development in
-  mathematics
 
 --
--   Join forces with the wider community (scientific computing, ...)
--   Lower the software barrier between pure and applied mathematics
+### A tension:
+
+- Mathematicicans want a seamless user experience while interacting with mathematics
+
+- Implementing a one-size-fits-all VRE is intractable
 
 ---
+## An approach
 
-# OpenDreamKit (2015-2019)
+Building a **math VRE toolkit** based on:
+
+- The ecosystem of open source math software
+
+- Open collaborative tools and models
+
+### Architecture:
+
+- VRE deployment and management system (e.g. JupyterHub, SageMathCloud)
+- User interface (e.g Jupyter notebook)
+- Computational components (e.g. Sage, GAP, Singular)
+- Data / knowledge bases (e.g. OEIS)
+- Physical resources (e.g. cloud infrastructure)
+
+--
+### Added values
+
+- **Customizability** for a variety of use cases:
+    - A single person installation on a laptop
+    - A collaborative VRE between three researchers, running on their lab's server
+    - A university wide VRE for teaching
+
+- Joining forces with the wider scientific computing community
+
+- Lowering the software barrier between pure and applied maths
+
+- **Modularity**, **sustainability**
+
+---
+## How to get there?
+
+--
+### Component architecture (WP3)
+
+- Goal: ease of deployment. Requires:
+
+    - Modularity, packaging, portability, distribution
+    - For individual systems and combinations thereof
+
+- Development workflows in ecosystems of software
+
+--
+### User interfaces (WP4)
+
+- Jupyter as uniform notebook interface
+
+- Improving Jupyter (collaboration, 3D, ...)
+
+- Coordination SageMathCloud / JupyterHub
+
+- Collaborative, reproducible, active documents
+
+--
+### Performance (WP5)
+
+- Goal: Make the most of available hardware
+    - multicore
+    - HPC
+    - cloud
+
+- For individual systems and combinations thereof
+
+--
+### Data/Knowledge/Software (WP6)
+
+- Goal: enable rich and robust interaction between
+    - computational systems
+    - data bases
+    - knowledge bases
+    - users
+
+- This requires:
+    - explicit common semantic spaces
+    - a language to express them
+    - tools to leverage them
+
+--
+### Community building and dissemination (WP2)
+
+- Developer Workshops
+
+- Training workshops
+
+- Conferences
+
+### Social aspects (WP7)
+
+- Analysis of user needs
+
+- Research on collaborative software development in mathematics
+
+---
+## OpenDreamKit (2015-2019)
 
 *Open Digital Research Environment Toolkit
 for the Advancement of Mathematics*
@@ -119,9 +221,29 @@ for the Advancement of Mathematics*
 
     In close collaboration with the international community!
 
+--
+## A user-driven consortium
+
+European power users and core developers of the ecosystem of open
+source software for Mathematics:
+
+- GAP (St Andrews, Oxford)
+- Linbox (Grenoble)
+- Pari/GP (Bordeaux, Versailles)
+- Sage (Bordeaux, Grenoble, Paris Sud, Oxford, Versailles)
+- Singular (Kaiserslautern)
+- LMFDB (Warwick, Zürich)
+- MathHub, MMT/OpenMath (Bremen)
+- Jupyter (Simula)
+- Scientific Python (SouthHampton, Sheffield, Silesia)
+
+--
+Supported by:
+    - Research engineers
+    - An open source based company (Logilab)
 ---
 
-# More reading
+## More reading
 
 - The [developer's perspective](/about-developers) on OpenDreamKit
 
