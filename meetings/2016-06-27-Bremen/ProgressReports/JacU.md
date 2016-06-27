@@ -21,6 +21,8 @@ author: M.Kohlhase
 * Our interpretation:  math documents as Knowledge-Based UI for Math Systems
 * KWARC much better integrated in ODK than anticipated (foundational interests)
 
+---
+
 ## Financial and administrative setup
 
 - everything OK
