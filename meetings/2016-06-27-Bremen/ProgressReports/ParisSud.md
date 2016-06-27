@@ -42,6 +42,11 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
     - Part time for now, full time starting in Fall 2017
     - Works on interfaces, Sphinx documentation tools, packaging, ...
 
+--
+- Looking for a PhD student or postdoc
+
+  WP6 related tasks
+
 ---
 ## Achievements
 

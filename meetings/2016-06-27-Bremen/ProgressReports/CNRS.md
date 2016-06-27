@@ -18,8 +18,9 @@ author: Vincent Delecroix
 - Everything on rails: money arrived, first expenses done,
   we were even allowed to use some of the overhead.
 
-- Signature of the consortium agreement is a bit of a
-  labyrinth but finally it looks like it will be done soon!
+- Going back and force between laboratory administration and
+  CNRS is a bit of a nightmare. But with patience, things
+  gets done.
 
 ---
 ## Hiring
@@ -32,19 +33,19 @@ author: Vincent Delecroix
 ---
 ## Achievements
 
-- Sage school during DIMACOS school in Alger (Novembre 2015)
+- T2.5 Sage school during DIMACOS school in Alger (Novembre 2015)
 
-- [PARI/GP days in Grenoble (January 2016)](http://pari.math.u-bordeaux.fr/Events/PARI2016/)
+- T2.3 [PARI/GP days in Grenoble (January 2016)](http://pari.math.u-bordeaux.fr/Events/PARI2016/)
 
-- [Sage day in Monastir (March 2016)](http://www.edsf.fss.rnu.tn/Colloque1/colloque3.html)
+- T2.5 [Sage day in Monastir (March 2016)](http://www.edsf.fss.rnu.tn/Colloque1/colloque3.html)
 
-- [Sage days 73 in Oaxaca (May 2016)](http://wiki.sagemath.org/days73)
+- T2.5 [Sage days 73 in Oaxaca (May 2016)](http://wiki.sagemath.org/days73)
 
-- [50 new tickets in Sage](https://trac.sagemath.org/query?author=~Vincent+Delecroix&or&author=~Adrien+Boussicault&max=500&col=id&col=summary&col=status&col=milestone&col=component&desc=1&order=milestone)
+- WP5 [50 Sage tickets](https://trac.sagemath.org/query?author=~Vincent+Delecroix&or&author=~Adrien+Boussicault&max=500&col=id&col=summary&col=status&col=milestone&col=component&desc=1&order=milestone) about algebra, arithmetic, combinatorics and core functionalities.
 
 - [PARI/GP port in javascript](http://pari.math.u-bordeaux.fr/gp.html)
 
-- [PARI/GP release (2.7.6)](http://pari.math.u-bordeaux.fr/download.html)
+- [PARI/GP release (2.7.6)](http://pari.math.u-bordeaux.fr/download.html) (bugfix release)
 
 ---
 ## Main upcoming tasks and deliverables

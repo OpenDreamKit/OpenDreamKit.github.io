@@ -7,10 +7,9 @@ title: Agenda, ODK's annual project meeting, June 2016
 
 ## Monday, June 27th
 
-  - 9:00-10:00: Informal brainstorms
-  - 10:00-10:30: Word of welcome, round table
-  - 10:30-11:00: Coffee break
-  - 11:00-12:30: [Yearly progress reports](../ProgressReports/) for all sites
+  - 9:00-9:45: Informal brainstorms
+  - 9:45-10:00 Word of welcome, round table
+  - 10:00-12:30: [Yearly progress reports](../ProgressReports/) for all sites
 
   - 12:30-14:00: Lunch.
 
@@ -22,9 +21,10 @@ title: Agenda, ODK's annual project meeting, June 2016
 
 ## Tuesday, June 28th
 
-  - 8:30-9:00: Reviewers’ pre-meeting
-  - 9:00-10:15: Short presentation of the partners (5 minutes each partner)
-  - 10:15-10:45: Presentation of deliverables:
+  - 8:30-9:30: Reviewers’ pre-meeting
+  - 9:30-10:30: Short presentation of the partners (5 minutes each partner)
+  - 10:30-11:00: Coffee break
+  - 11:00-12:30: Presentation of deliverables:
     - [D1.1: Basic project infrastructure (websites, wikis, issue trackers, mailing lists, repositories)](https://github.com/OpenDreamKit/OpenDreamKit/issues/17)
       Nicolas M. Thiéry
     - [D1.2: Data Management Plan V1](https://github.com/OpenDreamKit/OpenDreamKit/issues/18)
@@ -41,15 +41,12 @@ title: Agenda, ODK's annual project meeting, June 2016
       Nicolas M. Thiéry
     - [D6.1: Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)](https://github.com/OpenDreamKit/OpenDreamKit/issues/133)
       Michael Kohlhase
-  - 10:45-11:15: Coffee break
-  - 11:45- 12:30: Presentation of deliverables (cont'd)
 
   - 12:30-13:45: Lunch
 
-  - 13:45-15:45: Presentation of deliverables (cont'd)
-  - 15:45-16:05 Coffee break
-  - 16:05-16:35: Presentation of deliverables (cont'd)
-  - 16:35-17:00: Reviewers's meeting after the presentations
+  - 13:45-16:10: Presentation of deliverables (cont'd)
+  - 16:10-16:30 Coffee break
+  - 16:30-17:00: Reviewers's meeting after the presentations
   - 17:00-18:30: Discussion between reviewers and consortium to see how the project could be improved
 
   - Evening: Social dinner at [Restaurant Havenhaus](http://www.hotel-havenhaus.de/)
