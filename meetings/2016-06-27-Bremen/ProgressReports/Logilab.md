@@ -36,9 +36,11 @@ author: Florent Cayré
 - T4.8 - 3D mesh visualization components based on X3DOM
   See http://yuanxiangfranck.github.io/x3dom-plugins-API/
 
+---
+
 ## Achievements (2/2)
 
-- D3.10 Debian packaging of recent IPython and Jupyter
+- T3.3 Debian packaging of recent IPython and Jupyter
 
   [ipython 4.1](https://packages.qa.debian.org/i/ipython.html),
   [ipykernel 4.3](https://packages.qa.debian.org/i/ipykernel.html),
@@ -56,6 +58,6 @@ author: Florent Cayré
 
 - T4.6 Have SAGE active Jupyter-based documentation improved and integrated
 
-- D3.10 Package more SAGE components into debian
+- T3.3 Package more SAGE components into debian
 
 </section>
