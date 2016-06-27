@@ -3,7 +3,7 @@ layout: slides
 title: "Progress report for Logilab"
 theme: white
 transition: none
-author: Florent Cayré, David Douard, Julien Cristau
+author: Florent Cayré, Serge Guelton, David Douard, Julien Cristau
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
