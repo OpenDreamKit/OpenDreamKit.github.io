@@ -16,9 +16,9 @@ author: M.Kohlhase
 ## Role in the OpenDreamKit Project
 
 * Responsible for WP6: "Data/Knowledge/Software-Bases" (46 PM)
-  - Our Interpretation Integrating D/K/S for system  integration  (towards VRE)
+* Our Interpretation Integrating D/K/S for system  integration  (towards VRE)
 * Participating in WP4: "User Interfaces" (12PM)
-  - Our interpretation:  math documents as Knowledge-Based UI for Math Systems
+* Our interpretation:  math documents as Knowledge-Based UI for Math Systems
 * KWARC much better integrated in ODK than anticipated (foundational interests)
 
 ## Financial and administrative setup
