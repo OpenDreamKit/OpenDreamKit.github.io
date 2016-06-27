@@ -56,7 +56,7 @@ hired a research software engineer (Dr. Christian Maeder) for 6 months and two P
 
 ---
 
-## Possibly Relevant Events (please contribute)
+## Possibly Relevant Events
 
 * 25-19 July 2016 [CICM Conference](http://cicm-conference.org/2016) (Conference on Intelligent Computer Mathematics).
   * relevant Tracks: CALCULEMUS & MKM
