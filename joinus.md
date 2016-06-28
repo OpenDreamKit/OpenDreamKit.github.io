@@ -14,6 +14,8 @@ they get formalized.
 
 # Université Bordeaux, Talence
 
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux) starting in Fall 2016 for two years (filled)
+
 - [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2016/06/28/developer-position2-bordeaux)
   starting in Fall 2016 or 2017 for two years.
 
