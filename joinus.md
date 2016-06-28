@@ -14,14 +14,8 @@ they get formalized.
 
 # Université Bordeaux, Talence
 
-- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
-  starting in Fall 2015 for up to four years.
-
-{%comment%}
-If you like collaborative open source development, innovative
-technologies, architectural challenges, autonomy, get in touch with
-us. Loving math is a plus but not a necessity.
-{%endcomment%}
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2016/06/28/developer-position2-bordeaux)
+  starting in Fall 2016 or 2017 for two years.
 
 # TU Kaiserslautern, Germany
 
