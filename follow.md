@@ -34,6 +34,8 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 
 
 # Press releases
+
+* 18 Jun 2015, CNRS [Projet européen sur les logiciels libres de mathématiques](http://www.cnrs.fr/CNRS-Hebdo/aquitaine/lettre.php?numero=664#actu13784)
 * 01 Jul 2015, University of St Andrews, [EU open source software project gets the green light](http://www.st-andrews.ac.uk/news/archive/2015/title,263113,en.php)
 * 02 Jul 2015, University of Southampton, [EU Open source software project receives green light](http://cmg.soton.ac.uk/news/2015/07/open-source-software-project-receives-green/)
 * [05 Jul 2015, University of Oxford](http://www.cs.ox.ac.uk/news/954-full.html)
