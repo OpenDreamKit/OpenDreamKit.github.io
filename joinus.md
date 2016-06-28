@@ -14,25 +14,21 @@ they get formalized.
 
 # Université Bordeaux, Talence
 
-- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux)
-  starting in Fall 2015 for up to four years.
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2015/05/29/developer-position-bordeaux) starting in Fall 2016 for two years (filled)
 
-{%comment%}
-If you like collaborative open source development, innovative
-technologies, architectural challenges, autonomy, get in touch with
-us. Loving math is a plus but not a necessity.
-{%endcomment%}
+- [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2016/06/28/developer-position2-bordeaux)
+  starting in Fall 2016 or 2017 for two years.
 
 # TU Kaiserslautern, Germany
 
 - [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
-  starting in November 2015 for four years. Deadline for applications: Sept 23 2015.
+  starting in November 2015 for four years (filled).
 
 - [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
-  starting in March 2016 for one year.
+  starting in March 2016 for one year (filled).
 
 - [A full time developer position](http://opendreamkit.org/2016/05/02/developer-position3-kaiserslautern)
-  starting in August 2016 for six months.
+  starting in August 2016 for six months (filled).
 
 # Université Paris Sud, Orsay:
 
