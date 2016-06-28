@@ -18,9 +18,9 @@ author: Vincent Delecroix
 - Everything on rails: money arrived, first expenses done,
   we were even allowed to use some of the overhead.
 
-- Going back and force between laboratory administration and
+- Going back and forth between laboratory administration and
   CNRS is a bit of a nightmare. But with patience, things
-  gets done.
+  get done.
 
 ---
 ## Hiring
@@ -33,11 +33,11 @@ author: Vincent Delecroix
 ---
 ## Achievements
 
-- T2.5 Sage school during DIMACOS school in Alger (Novembre 2015)
+- T2.5 Sage school during DIMACOS school in Alger (Nov 2015)
 
-- T2.3 [PARI/GP days in Grenoble (January 2016)](http://pari.math.u-bordeaux.fr/Events/PARI2016/)
+- T2.3 [PARI/GP days in Grenoble (Jan 2016)](http://pari.math.u-bordeaux.fr/Events/PARI2016/)
 
-- T2.5 [Sage day in Monastir (March 2016)](http://www.edsf.fss.rnu.tn/Colloque1/colloque3.html)
+- T2.5 [Sage day in Monastir (Mar 2016)](http://www.edsf.fss.rnu.tn/Colloque1/colloque3.html)
 
 - T2.5 [Sage days 73 in Oaxaca (May 2016)](http://wiki.sagemath.org/days73)
 
