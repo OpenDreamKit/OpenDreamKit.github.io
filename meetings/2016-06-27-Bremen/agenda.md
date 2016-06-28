@@ -33,7 +33,7 @@ title: Agenda, ODK's annual project meeting, June 2016
       Nicolas M. Thiéry et Benoît Pilorget
 
     - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
-      Erik Bray
+      Erik Bray ([slides](https://docs.google.com/presentation/d/1rV2-2xxEuvBbhkNVmbMWwoKWjXqFx_OTMv41g1xSWOw/edit?usp=sharing))
     - [D5.1: Turn the Python prototypes for tree exploration into production code, integrate to Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/107)
       Nicolas M. Thiéry ([slides](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP5/D5.1/slides-final.pdf))
 
