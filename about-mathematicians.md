@@ -133,6 +133,7 @@ Building a **math VRE toolkit** based on:
     - A single person installation on a laptop
     - A collaborative VRE between three researchers, running on their lab's server
     - A university wide VRE for teaching
+    - Service provided by a european grid infrastructure
 
 - Joining forces with the wider scientific computing community
 
@@ -197,6 +198,8 @@ Building a **math VRE toolkit** based on:
 
 - Conferences
 
+###
+
 ### Social aspects (WP7)
 
 - Analysis of user needs
@@ -239,10 +242,49 @@ source software for Mathematics:
 
 --
 Supported by:
-    - Research engineers
-    - An open source based company (Logilab)
----
 
+- Research engineers
+- An open source based company (Logilab)
+
+---
+## How are we doing?
+
+--
+
+
+### The bad news
+
+- Some tasks harder than expected
+
+- We expected recruitment to be hard. It really was.
+
+- We exected the admistrative overhead to be high. It really is.
+
+--
+
+### The good news
+
+- Intensive work started on all fronts
+    - Current deliverables not representative
+
+- Some really good recruitement
+
+- Joint workshops are very effective
+
+- Interesting technology raising
+    - Windows support for Linux apps
+
+--
+### Ways to improve?
+
+- There could be more interactions in certain areas
+
+- Some workpackages could benefit from more animation
+
+- More workshops / joint visits / online meetings?
+
+
+---
 ## More reading
 
 - The [developer's perspective](/about-developers) on OpenDreamKit
