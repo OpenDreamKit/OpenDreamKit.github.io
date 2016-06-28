@@ -20,13 +20,13 @@ they get formalized.
 # TU Kaiserslautern, Germany
 
 - [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
-  starting in November 2015 for four years. Deadline for applications: Sept 23 2015.
+  starting in November 2015 for four years (filled).
 
 - [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
-  starting in March 2016 for one year.
+  starting in March 2016 for one year (filled).
 
 - [A full time developer position](http://opendreamkit.org/2016/05/02/developer-position3-kaiserslautern)
-  starting in August 2016 for six months.
+  starting in August 2016 for six months (filled).
 
 # Université Paris Sud, Orsay:
 
