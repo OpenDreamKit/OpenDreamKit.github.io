@@ -3,6 +3,8 @@ layout: post
 title: Full-time two year Postdoctoral Fellow position at Simula Research Laboratory in Norway beginning early 2016
 ---
 
+**This position has been filled** by Dr. Vidar Tonaas Fauske
+
 We are seeking a full-time postdoctoral fellow at
 [Simula Research Laboratory](http://www.simula.no) to work with
 Dr. Min Ragan-Kelley and Dr. Martin S. Alnæs
