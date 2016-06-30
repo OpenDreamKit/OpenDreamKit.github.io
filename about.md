@@ -6,7 +6,7 @@ title: About
 {% include intro.md %}
 
 
-The project involves about 50 people spread over 15 sites
+The project involves about 50 people spread over 16 sites
 in Europe, with a total budget of about 7.6 million euros. The largest
 portion of that will be devoted to employing an average of 11
 researchers and developers working full time on the
