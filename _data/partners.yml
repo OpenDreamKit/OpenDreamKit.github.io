@@ -73,6 +73,9 @@ sites:
       - name: Prof. Dr. Wolfram Decker
         homepage: 'http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/prof-dr-wolfram-decker/'
         github: wdecker
+      - name: Dr Anders Jensen
+      - name: Alex Best
+      - name: Dr Alexander Kruppa
   - name: University of Oxford
     logo: ox_brand.png
     homepage: 'http://www.ox.ac.uk'
