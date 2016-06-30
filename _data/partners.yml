@@ -249,6 +249,8 @@ sites:
         github: martinal
   - name: Universiteit Gent
     logo: universiteit_gent.gif
+    homepage: 'http://www.ugent.be/en'
+    members:
 
 partners:
   - name: CNRS
