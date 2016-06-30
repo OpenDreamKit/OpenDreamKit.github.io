@@ -1,0 +1,30 @@
+---
+layout: activity
+title: "OpenMath in OpenDreamKit"
+author: Michael Kohlhase
+type: blog
+date: 2016/06/30
+---
+
+The [http://opendreamkit.org](OpenDreamKit) project aims to build a virtural research environment for 
+mathematics from an ecosystem of open source mathematical software systems. A crucial subgoal in this 
+is to enable the systems to communicate mathematical objects, e.g. concrete elliptic curves or groups. 
+
+The OpenDreamKit project uses the [http://openmath.org](OpenMath) format for this, as OpenMath objects are 
+designed for a content-oriented representation of mathematical concepts, objects, and models. To create 
+common meaning space, the OpenDreamKit project is pursuding the 
+[{https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/CICM2016/published.pdf](Math-in-the-Middle) (MitM)
+paradigm to establish an ontology of mathematics that can act as a joint context for the communication. 
+
+In the OpenMath terminology, the MitM ontology acts as a set of content dictionaries (CDs) that anchor the OpenMath 
+objects semantically. For communication between the systems we only need to equip them with OpenMath phrasebooks 
+(I/O libraries for OpenMath objects). The MitM ontology will be semi-automatically curated and connected to 
+"system interface ontologies" (CDs for the system objects). 
+
+The MitM Ontology can enable multiple added value services including 
+* remote evaluation of mathematical expressions via 
+  [http://www.sciencedirect.com/science/article/pii/S0747717111002124](SCSCP)
+* MONET-style service discovery via the MitM CDs. 
+
+The current state of play is that we have initial exports of system interface ontologies for 
+SageMath, GAP and (partially) and the LMFDB. 
