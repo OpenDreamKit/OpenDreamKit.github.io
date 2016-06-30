@@ -247,6 +247,8 @@ sites:
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
         github: martinal
+  - name: Universiteit Gent
+    logo: universiteit_gent.gif
 
 partners:
   - name: CNRS
