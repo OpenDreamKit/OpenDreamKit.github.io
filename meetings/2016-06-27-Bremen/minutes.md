@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Steering committee meeting, minutes
 ---
