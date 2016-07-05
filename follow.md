@@ -60,5 +60,5 @@ Twitter](https://twitter.com/{{ site.author.twitter }}).
 * May-June 2016: [Sage days 74](https://wiki.sagemath.org/days74) (Meudon)
 * 17/06/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP4/D4.2/report-final.pdf) for [D4.2](https://github.com/OpenDreamKit/OpenDreamKit/issues/91): Active/Structured Documents requirements and existing solutions
 * 17/06/2016: [Final report](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP6/D6.1/report-final.pdf) for [D6.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/133): Full-text Search (Formulae + Keywords) over LaTeX-based Documents (e.g. the arXiv subset)
-* 27/06/2016: Steering committee [minutes](http://opendreamkit.org/meetings/2016-06-27-Bremen/minutes/)) and program
+* 27/06/2016: Steering committee [minutes](http://opendreamkit.org/meetings/2016-06-27-Bremen/minutes/) and program
 * 28/06/2016: interim review from the European Comission for the 1st reporting period (from 09/2016 to 03/2017)
