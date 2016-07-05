@@ -3,11 +3,9 @@ layout: page
 title: Steering committee meeting, minutes
 ---
 
-# Minutes for the meeting of the OpenDreamKit Steering Commitee on the 26th of January 2016
+# Minutes for the meeting of the OpenDreamKit Steering Commitee on the 27th of June 2016
 
-The meeting was held at the University of St Andrews, at the occasion
-of the WP6 meeting
-[Knowledge representation in mathematical software and databases](http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/)
+The meeting was held at the Jacobs Universityät Bremen.
 
 ## Attendance
 
