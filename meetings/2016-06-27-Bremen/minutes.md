@@ -5,7 +5,7 @@ title: Steering committee meeting, minutes
 
 # Minutes for the meeting of the OpenDreamKit Steering Commitee on the 27th of June 2016
 
-The meeting was held at the Jacobs Universityät Bremen.
+The meeting was held at the Jacobs Universität Bremen.
 
 ## Attendance
 
@@ -23,7 +23,7 @@ Were physically present:
 - Vincent Delecroix (VD): CNRS
 - Florent Cayré (FC): Logilab
 - Alexander Konovalov (AK): University of St Andrews
-- Benoit Pilorget (BP): Project manager
+- Benoît Pilorget (BP): Project manager
 
 Were able to participate remotely via conference call:
 
