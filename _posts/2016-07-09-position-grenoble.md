@@ -12,7 +12,7 @@ contact: clement.pernet@imag.fr and jean-guillaume.dumas.fr
 
 # Duration
 
-For 2 years starting in Fall 2015. Interviews will be run in September.
+For 2 years starting in Fall 2016. Interviews will be run in September.
 
 # Salary
 
@@ -24,25 +24,23 @@ income tax). Equivalently, this is a yearly *salaire brut* of approx. 35000 €.
 The developer will work at the [LJK](http://www-ljk.imag.fr) lab. on the campus of Saint-Martin d'Heres, 15 minutes
 from Grenoble city center by public transport.
 
+# Context
+
+Exact linear algebra, computing arbitrary precision integer or rationals, and over finite field, is at a core component of computer algebra software and also plays a central role in numerous computation intensive applications, ranging from algebraic cryptanalysis to experimental mathematics.
+The [LinBox](http://github.com/linbox-team/linbox) library and its components, the [Givaro](http://github.com/linbox-team/givaro) and the [FFLAS-FFPACK](http://github.com/linbox-team/fflas-ffpack) libraries, form a C++ library ecosystem offering high performance implementation of the most common exact linear algebra routines.
+These open-source libraries are integrated in the [SageMath](http://sagemath.org) open-source mathematics software.
+
+Recently the fflas-ffpack library has been parallized for multi-core architectures which leads way to two development directions:
+* propose a framework and new implementations for distributed memory architectures and accelerators such as GPU and MIC;
+* make SageMath's linear algebra's routines parallel by properly exposing the new features in the interface
+
 # Mission
 
-To support the maintenance and development of the OpenDreamKit
-components, and in particular of the [SageMath](http://sagemath.org) and
-[PARI/GP](http://pari.math.u-bordeaux.fr/) projects.
-
-# Activities
-
-According to his or her specific skills, the developer will take on, in close
-collaboration with the community, a selection of the software engineering tasks
-defined in the OpenDreamKit project. Among these:
-
-- Improve the existing software components (code optimisation and
-  parallelisation);
-
-- Improve communication between the software components;
-
-- Participate actively in regular European development and training meetings
-  with the other OpenDreamKit participants.
+The engineer will be in charge of
+- explore, experiment and develop new parallel implementations for exact linear algebra routines over distributed memory plateforms and GPU
+- improve and maintain the interface between SageMath and LinBox;
+- Participate actively in regular European development and training meetings with the other OpenDreamKit participants.
+- maintain and improve the continuous integration system for the linbox ecosystem
 
 # Skills and background required
 
@@ -67,7 +65,7 @@ The following are not prerequisites but would be very much appreciated:
 
 # Applications
 
-Applicants should send an email to clement.pernet@imag.fr with:
+Applicants should send an email to clement.pernet@imag.fr and jean-guillaume.dumas@image.fr with:
 
 - A complete CV
 
