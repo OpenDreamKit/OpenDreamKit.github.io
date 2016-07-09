@@ -8,7 +8,7 @@ Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
 position opening at Université Grenoble-Alpes, working on open source
 software engineering for computational mathematics.
 
-contact: clement.pernet@imag.fr and jean-guillaume.dumas.fr
+contact: clement.pernet@imag.fr and jean-guillaume.dumas@imag.fr
 
 # Duration
 
