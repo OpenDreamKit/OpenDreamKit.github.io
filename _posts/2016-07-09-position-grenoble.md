@@ -36,11 +36,11 @@ Recently the fflas-ffpack library has been parallized for multi-core architectur
 
 # Mission
 
-The engineer will be in charge of
-- explore, experiment and develop new parallel implementations for exact linear algebra routines over distributed memory plateforms and GPU
-- improve and maintain the interface between SageMath and LinBox;
-- Participate actively in regular European development and training meetings with the other OpenDreamKit participants.
-- maintain and improve the continuous integration system for the linbox ecosystem
+The mission of the engineer will be to
+* explore, experiment and develop new parallel implementations for exact linear algebra routines over distributed memory plateforms and GPU
+* improve and maintain the interface between SageMath and LinBox;
+* Participate actively in regular European development and training meetings with the other OpenDreamKit participants.
+* maintain and improve the continuous integration system for the linbox ecosystem
 
 # Skills and background required
 
