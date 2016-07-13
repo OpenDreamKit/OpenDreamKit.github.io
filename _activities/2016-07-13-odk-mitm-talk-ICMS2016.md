@@ -1,6 +1,6 @@
 ---
 layout: activity
-title: "Interoperability in the \ODK Project: The Math-in-the-Middle Approach"
+title: "Interoperability in the OpenDreamKit Project: The Math-in-the-Middle Approach"
 author: Michael Kohlhase
 type: talk
 location: "ICMS 2016, Berlin, Germnay"
