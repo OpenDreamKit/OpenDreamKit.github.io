@@ -1,4 +1,7 @@
-# Pad for taking notes during ODK's project meeting
+# Backup of Pad for taking notes during ODK's project meeting
+
+TODO: go through this, make sure everything is in the minutes of the
+steering committee meeting or in the report, and then delete.
 
 Video-conference  https://hubl.in/odk-steering
 
