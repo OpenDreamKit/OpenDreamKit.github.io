@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenDreamKit annual project meeting: backup of the Pad for taking notes
+title: "OpenDreamKit annual project meeting: backup of the Pad for taking notes"
 ---
 
 TODO: go through this, make sure everything is in the minutes of the
