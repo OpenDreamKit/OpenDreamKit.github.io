@@ -1,6 +1,6 @@
 ---
 layout: activities
-title: Infrastructure for generic code in SageMath: categories, axioms, constructions
+title: "Infrastructure for generic code in SageMath: categories, axioms, constructions"
 author: Nicolas M. Thiéry
 type: talk
 location: "CICM 2016, Białystok, Poland"
