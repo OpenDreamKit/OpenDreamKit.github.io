@@ -22,7 +22,7 @@ following commands
 The above commands will start a docker container with jupyter and a complete GAP installation ready to use. Here's an
 example of use:
 
-![Jupyter/GAP/Docker](public/img/gap-docker-jupyter-demo.png){: .center-image }
+![Jupyter/GAP/Docker](/public/img/gap-docker-jupyter-demo.png){: .center-image }
 
 Note that this is an early version, and the roadmap for the next release is already quite clearly laid out. Contributions
 to GAP-Jupyter and the GAP system itself are very welcome. Please submit them through the appropriate trackers on github.
