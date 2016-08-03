@@ -8,9 +8,9 @@ date: 2016/08/03
 
 Yesterday Alexander Konovalov and Markus Pfeiffer created a [Docker](https://docker.com) image containing
 [GAP](http://www.gap-system.org), and an early version of the [GAP-Jupyter](https://github.com/gap-packages/jupyter-gap)
-interface for ease of access. It is available from [dockerhub](https://hub.docker.com/r/gapsystem/gap-docker-jupyter/).
+interface for ease of access. It is available from [DockerHub](https://hub.docker.com/r/gapsystem/gap-docker-jupyter/).
 
-If you have docker already installed on your system, it should be fairly easy to get yourself up and running with the
+If you have Docker already installed on your system, it should be fairly easy to get yourself up and running with the
 following commands
 
 ```
@@ -19,10 +19,13 @@ following commands
 # firefox http://localhost:8888
 ```
 
-The above commands will start a docker container with jupyter and a complete GAP installation ready to use. Here's an
+The above commands will start a Docker container with Jupyter and a complete GAP installation ready to use. Here's an
 example session:
 
 ![Jupyter/GAP/Docker](/public/img/gap-docker-jupyter-demo.png){: .center-image }
 
-Note that this is an early version, and the roadmap for the next release is already quite clearly laid out. Contributions
-to GAP-Jupyter and the GAP system itself are very welcome. Please submit them through the appropriate trackers on github.
+Note that this is an early version, and the roadmap for the next release is already quite
+clearly laid out with many improvements. Contributions to [GAP-Jupyter](https://github.com/gap-packages/jupyter-gap),
+and the [GAP system](https://github.com/gap-system/gap) itself are very welcome.
+
+Please contact us through the appropriate trackers on [GitHub](https://github.com).
