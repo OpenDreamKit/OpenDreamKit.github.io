@@ -247,6 +247,7 @@ sites:
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
         github: martinal
+      - name: Vidar Tonaas Fauske
   - name: Universiteit Gent
     logo: universiteit_gent.gif
     homepage: 'http://www.ugent.be/en'
