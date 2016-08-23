@@ -25,7 +25,7 @@ upcoming formal review at Month 18 (March 2017).
 - [Yearly progress reports](../ProgressReports/) for all sites
 - [Steering Committee meeting](../minutes/)
 - Status reports for the workshops (TODO; for now, see the
-  [old Pad for discussions and taking notes](pad-backup/)
+  [old Pad for discussions and taking notes](pad-backup/))
 
 # Agenda
 
@@ -39,6 +39,8 @@ upcoming formal review at Month 18 (March 2017).
 # Registration
 
 Please fill it in the [poll for coffee breaks and meals](https://framadate.org/UVLeP6qgpHinTuU2).
+
+TODO: make this into a participant list
 
 # Accomodation and venue
 
