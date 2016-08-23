@@ -3,11 +3,29 @@ layout: page
 title: OpenDreamKit annual project meeting
 ---
 
-Jacobs's University, Bremen, Germany
+OpenDreamKit’s annual project meeting took place at Jacobs's
+University in Bremen (Germany), from Monday the 27th of June to Friday
+the 1st of July. It gathered 21 ODK participants together with ODK's
+project officer and three reviewers from the EU Commission.
 
-Lecture Hall of Research 2
+The beginning of the week was dedicated to ODK’s open
+and internal meetings, including an informal review with our Project
+Officer and the Commission reviewers. The rest of the week was
+dedicated to joint work sessions on WP4 (User Interfaces) & WP6
+(Data/Knowledge/Software bases, aka Math-in-the-middle) activities.
 
-Monday June 27th - Friday July 1st
+This meeting was the occasion to build a common overview of what was
+achieved during the first ten months, and plan together work on the
+upcoming tasks and deliverables. The informal project review was
+enormously helpful to get early feedback and start preparing for the
+upcoming formal review at Month 18 (March 2017).
+
+# Reports
+
+- [Yearly progress reports](../ProgressReports/) for all sites
+- [Steering Committee meeting](../minutes/)
+- Status reports for the workshops (TODO; for now, see the
+  [old Pad for discussions and taking notes](pad-backup/)
 
 # Agenda
 
@@ -15,8 +33,6 @@ Monday June 27th - Friday July 1st
   status reports, steering committee meeting, brainstorms
 - Tuesday: project review
 - Wednesday: specialized workshops on WP4 and WP6
-
-[Pad for discussions and taking notes](pad-backup/)
 
 [Detailed Agenda](agenda/)
 
