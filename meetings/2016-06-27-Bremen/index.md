@@ -46,7 +46,7 @@ upcoming formal review at Month 18 (March 2017).
 - Southampton: Hans Fangohr, Marijan Beg
 - USTAN: Alexander Konovalov, Markus Pfeiffer
 - UVSQ: Luca De Feo
-- UZH: Paul-olivier Dehaye
+- UZH: Paul-Olivier Dehaye
 - Logilab: Florent Cayré
 - Simula: Benjamin Ragan-Kelley
 
