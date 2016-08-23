@@ -38,7 +38,7 @@ upcoming formal review at Month 18 (March 2017).
 
 # Participants
 
-- European Commission attendants: Anni Hellman (Project Officer), peter Dzwig, Isabelle Perseil and Wil Schilders (reviewers)
+- European Commission: Anni Hellman (Project Officer), Peter Dzwig, Isabelle Perseil and Wil Schilders (reviewers)
 - UPSud: Nicolas Thiéry, Benoît Pilorget, Erik Bray, Samuel Lelièvre
 - JacobsUni: Michael Kohlhase, Florian Rabe, Tom Wiesing, Mihnea Iancu, Dennis Müller
 - CNRS: Vincent Delecroix
