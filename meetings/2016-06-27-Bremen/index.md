@@ -36,11 +36,19 @@ upcoming formal review at Month 18 (March 2017).
 
 [Detailed Agenda](agenda/)
 
-# Registration
+# Participants
 
-Please fill it in the [poll for coffee breaks and meals](https://framadate.org/UVLeP6qgpHinTuU2).
-
-TODO: make this into a participant list
+- European Commission attendants: Anni Hellman (Project Officer), peter Dzwig, Isabelle Perseil and Wil Schilders (reviewers)
+- UPSud: Nicolas Thiéry, Benoît Pilorget, Erik Bray, Samuel Lelièvre
+- JacobsUni: Michael Kohlhase, Florian Rabe, Tom Wiesing, Mihnea Iancu, Dennis Müller
+- CNRS: Vincent Delecroix
+- OXF: Dmitrii Pasechnik
+- Southampton: Hans Fangohr, Marijan Beg
+- USTAN: Alexander Konovalov, Markus Pfeiffer
+- UVSQ: Luca De Feo
+- UZH: Paul-olivier Dehaye
+- Logilab: Florent Cayré
+- Simula: Benjamin Ragan-Kelley
 
 # Accomodation and venue
 
