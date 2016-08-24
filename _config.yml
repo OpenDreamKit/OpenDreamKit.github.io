@@ -1,0 +1,29 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:               OpenDreamKit
+tagline:             'Open Digital Research Environment Toolkit for the Advancement of Mathematics'
+description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
+url:                 http://opendreamkit.org
+baseurl:             ''
+paginate:            5
+paginate_path:       "/news/page:num/"
+future:              True
+gems:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-github-metadata
+
+# About/contact
+author:
+  name:              'The OpenDreamKit consortium'
+  url:               http://opendreamkit.org
+  email:             contact@opendreamkit.org
+  twitter:           opendreamkit
+
+
+
+# Custom vars
+version:             1.0.0
+repository:          OpenDreamKit/OpenDreamKit.github.io
