@@ -1,0 +1,67 @@
+
+body {
+    padding-top: 50px;
+}
+
+.navbar-default {
+    background-color: #5B78FD;
+    color: #fff;
+}
+
+.navbar-default .nav li a {
+    color:#fff;
+}
+
+.navbar-default a.navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .nav > li > a:hover,
+.navbar-default .nav > li > a:focus,
+.navbar-default .dropdown-menu > li > a:hover,
+.navbar-default .dropdown-menu > li > a:focus,
+.navbar-default a.navbar-brand:hover,
+.navbar-default a.navbar-brand:focus{
+  text-decoration: none;
+  background-color: #eee;
+  color: #333;
+}
+
+.navbar-default .nav li.active a {
+    background-color: #003399;
+    color: #fff;
+}
+
+.europe-banner {
+    margin-top: 10px;
+    background: #003399;
+    color:#fff;
+}
+
+.europe-banner a {
+    color: #9d9d9d;
+}
+
+.europe-banner a:hover {
+    color: #fff;
+}
+
+.europe-logo {
+    float: left;
+    margin-right: 10px;
+}
+
+.europe-logo img {
+    height: 50px;
+    border-right: solid 1px #fff;
+}
+
+.europe-text {
+    margin-top: 15px;
+}
+
+footer {
+    margin-top: 10px;
+    padding: 20px;
+    background: #5B78FD;
+}
