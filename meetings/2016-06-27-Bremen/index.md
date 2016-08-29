@@ -23,7 +23,7 @@ upcoming formal review at Month 18 (March 2017).
 # Reports
 
 - [Yearly progress reports](../2016-06-27-Bremen/ProgressReports/) for all sites
-- [Steering Committee meeting](../minutes/)
+- [Steering Committee meeting](../2016-06-27-Bremen/minutes/)
 - Status reports for the workshops (TODO; for now, see the
   [old Pad for discussions and taking notes](pad-backup/))
 
