@@ -1,5 +1,5 @@
 ---
-layout: activities
+layout: activity
 title: "Infrastructure for generic code in SageMath: categories, axioms, constructions"
 author: Nicolas M. Thiéry
 type: talk
