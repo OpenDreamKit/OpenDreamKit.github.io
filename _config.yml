@@ -14,6 +14,8 @@ gems:
   - jemoji
   - jekyll-paginate
   - jekyll-github-metadata
+kramdown:
+  toc_levels: "2"
 
 exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', '_activities/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
