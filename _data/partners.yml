@@ -30,9 +30,6 @@ sites:
       - name: Erik Bray
         homepage: 'http://iguananaut.net/'
         github: embray
-      - name: Jeroen Demeyer
-        homepage: 'http://cage.ugent.be/~jdemeyer/'
-        github: jdemeyer
       - name: Loïc Gouarin
         homepage: 'http://www.math.u-psud.fr/~gouarin/'
         github: gouarin
@@ -252,6 +249,9 @@ sites:
     logo: universiteit_gent.gif
     homepage: 'http://www.ugent.be/en'
     members:
+      - name: Jeroen Demeyer
+        homepage: 'http://cage.ugent.be/~jdemeyer/'
+        github: jdemeyer
 
 partners:
   - name: CNRS
