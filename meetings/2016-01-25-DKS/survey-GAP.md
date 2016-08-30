@@ -26,7 +26,10 @@ errors.
 
 # What knowledge do you have?
 
-Properties, theorems, algorithms, ...
+Apart from the knowledge that is stored in data libraries as explained above, there is
+a wealth of knowledge about properties of algebraic objects, or how to compute them
+encoded in method installation and code.
+This knowledge can often not easily be extracted from the system. 
 
 ## Some aspects of GAP design
 
