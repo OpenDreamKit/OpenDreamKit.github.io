@@ -9,8 +9,61 @@
     </div>
 </div>
 
-<footer>
+<footer id="contact" >
     <div class="container-fluid" >
-        bla bla bla
+        <div class="row footer-links">
+            <ul class="list-inline text-center">
+                <li>
+                    <a href="mailto:{{ site.author.email }}" title="email">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-envelope fa-stack-1x fa-inverse "></i>
+                        </span>
+                        <span class="sr-only">Email</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ site.baseurl }}/atom.xml" title="feed">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <span class="sr-only">Feed</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/{{ site.author.twitter }}" title="twitter">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <span class="sr-only">Twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://github.com/{{ site.github.owner_name }}" title="github">
+                        <span class="fa-stack fa-lg" aria-hidden="true">
+                            <i class="fa fa-circle fa-stack-2x"></i>
+                            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <span class="sr-only">Github</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="row footer-contact">
+            <div class="col-md-4" >
+                {% capture my-include %}{% include footer-content-1.md %}{% endcapture %}
+                {{ my-include | markdownify }}
+            </div>
+            <div class="col-md-4" >
+                {% capture my-include %}{% include footer-content-2.md %}{% endcapture %}
+                {{ my-include | markdownify }}
+            </div>
+            <div class="col-md-4" >
+                {% capture my-include %}{% include footer-content-3.md %}{% endcapture %}
+                {{ my-include | markdownify }}
+            </div>
+        </div>
     </div>
 </footer>

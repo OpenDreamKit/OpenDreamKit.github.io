@@ -1,11 +1,12 @@
 
 body {
-    padding-top: 50px;
+    padding-top: 60px;
 }
 
 .navbar-default {
     background-color: #5B78FD;
     color: #fff;
+    border-bottom: solid 1px #003399;
 }
 
 .navbar-default .nav li a {
@@ -32,6 +33,13 @@ body {
     color: #fff;
 }
 
+.odk-logo {
+    width: 200px;
+    float: left;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 .europe-banner {
     margin-top: 10px;
     background: #003399;
@@ -39,12 +47,9 @@ body {
 }
 
 .europe-banner a {
-    color: #9d9d9d;
-}
-
-.europe-banner a:hover {
     color: #fff;
 }
+
 
 .europe-logo {
     float: left;
@@ -64,4 +69,23 @@ footer {
     margin-top: 10px;
     padding: 20px;
     background: #5B78FD;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+footer .footer-links a {
+    color: #003399;
+}
+
+footer .footer-links a:hover .fa-inverse {
+    color: #5B78FD;
 }

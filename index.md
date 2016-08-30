@@ -5,7 +5,7 @@ title: Home
 
 # OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
 
-bla bla
+{% include intro.md %}
 
 
 

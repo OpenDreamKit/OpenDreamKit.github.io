@@ -5,12 +5,20 @@
 
   <body>
 
-      {% include nav.html %}
+    <div class="odk-logo" >
+        <a href="{{ site.baseurl }}">
+            <img class="img-responsive" src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" alt="OpenDreamKit logo" />
+        </a>
+    </div>
+
+    {% include nav.html %}
+
+    <div class="container main-content" >
+        {{ content }}
+    </div>
 
 
-      {{ content }}
-
-      {% include footer.html %}
+    {% include footer.html %}
 
   </body>
 <!--
