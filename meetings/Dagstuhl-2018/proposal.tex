@@ -1,27 +1,26 @@
-\documentclass[12pt]{amsart}
-\usepackage[utf8]{inputenc}
-\usepackage[english]{babel}
-\usepackage{times}
-\usepackage[babel=true,kerning=true]{microtype}
-\usepackage[pdfborder={0 0 0}]{hyperref}
-\usepackage{xspace}
+\documentclass[a4paper,11pt]{article}
+\usepackage[top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
 
-\usepackage[left=3cm,right=3cm,top=3cm, bottom=3cm]{geometry}
+\usepackage{url,xcolor,wrapfig,amsmath,amssymb,paralist,xspace,preamble}
+\usepackage{tabularx}
+\usepackage[show]{ed}
 
-\usepackage[parfill]{parskip}
+\setcounter{tocdepth}{1}
+\usepackage[bookmarks,linkcolor=blue,citecolor=blue,urlcolor=gray,colorlinks,breaklinks,bookmarksopen,bookmarksnumbered]{hyperref}
 
-\input{preamble}
+\setlength{\hfuzz}{3pt}
+\hbadness=10001 %make box warning less strict
+
+\title{Application for a Dagstuhl Seminar \\ \emph{Integrating Computational Mathematics}}
+\author{Jacques Carette and Wolfram Decker and Viviane Pons and Florian Rabe}
+\date{\today}
+
 
 \begin{document}
-
-\title{Integrating Computational Mathematics}
 \maketitle
-\thispagestyle{empty}
 
-\tableofcontents
-
-\section{Context}
-
+\begin{abstract}
+\ednote{@all: needs rewrite}
 The last decades have witnessed the emergence of a full ecosystem of
 open source software for (pure) mathematics, developed by overlapping
 international communities of researchers, teachers, engineers and
@@ -32,390 +31,148 @@ purpose systems (e.g. Mathemagix, \Sage), via online databases
 trend for Open and Reproducible Science, and is supported by the
 advancement of cross-discipline tools like the interactive computing
 environment \Jupyter.
+\end{abstract}
 
-The involved communities are strong in Europe, specifically so in
-France. We are coordinating the organization of this conference with the Journées
-Nationales du Calcul Formel 2018, in the hope of organizing them one
-after the other in order to encourage participants to attend both
-events, and to increase the international attractiveness.
+\ednote{deadline is Nov 1}
+\ednote{See \url{http://www.dagstuhl.de/programm/dagstuhl-seminare/antrag/} for details about how to write proposal}
 
-\section{Objectives}
+\tableofcontents
 
-The main goal of this conference, cofunded by the H2020 European
-E-Infrastructure project \href{opendreamkit.org}{OpenDreamKit}, is
-community building and training:
+\newpage
+
+% % % % % % % % % % % % % % % % % %
+\section{Basic Information about the Seminar}
+
+\subsection{Title}
+
+The title \emph{Integrating Computational Mathematics} means to emphasize the vision of a universal environment for mathematical computation.
+We hope this will provide a joint goal for the currently disparate communities.
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Organizers}
+
+\ednote{@all: add yourself}
 \begin{itemize}
-\item Bringing together the various communities of users and
-  developers of the ecosystem of (open source) (pure) mathematics
-  software.
-\item Give newcomers as well as experts an overview of this ecosystem:
-  what the existing software systems are, what they can compute or solve, how
-  they are developed and by whom, what the success stories and
-  difficulties are.
-\item Train newcomers as well as experts on using this ecosystem to
-  solve their own problems.
-\item Share perspectives and best practices, build a joint vision, and
-  seek venues for tighter cooperation.
-\item Encourage participants to get involved, especially
-  women and more junior researchers, in particular by showcasing role models.
+\item PD Dr. Florian Rabe \\
+Jacobs University Bremen - Computer Science\\
+P.O. Box 750 561
+28725 Bremen Germany
+\\
+Phone: + 49 421 200 3051\\
+%Fax: + 49 421 200 493051\\
+Email: \texttt{f.rabe@jacobs-university.de}  \\
+Homepage: \url{http://kwarc.info/people/frabe/}
 \end{itemize}
 
-\section{Program}
+% % % % % % % % % % % % % % % % % %
+\subsection{Type of event, duration, and size}
 
-Following a long trend of highly productive workshops within the
-various communities (e.g. the \Sage Days series), this conference will consist of:
+We propose a 5-day Dagstuhl Seminar with 45 participants.
+
+\subsection{Topics}
+
+\ednote{@all: we have to select 1-3 from a list of topics; strangely none fits very well}
+\begin{compactitem}
+ \item data bases / information retrieval
+ \item data structures / algorithms / complexity
+ \item modelling / simulation
+ \item semantics / formal methods
+ \item sw-engineering
+ \item verification / logic
+\end{compactitem}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Keywords}
+
+\ednote{@all: revise/extend}
+\begin{compactitem}
+\item computer algebra
+\item computation
+\item reusability
+\item interoperability
+\end{compactitem}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Proposed Seminar Dates}
+
+\ednote{@all: Dagstuhl will pick the date, typically early 2018, but it could be be several months earlier or later; please add your preferences}
+
+Block-out Dates: 
 \begin{itemize}
-\item 5-6 keynote talks delivering a variety of perspectives on the
-  ecosystem.
-\item Hands-on tutorials run by experts of the various systems.
-\item Plenty of free time for interactions and collaborative work,
-  self-organized through regular project sessions and progress
-  reports.
+\item 
 \end{itemize}
 
-\section{Scientific context}
-
-\subsection{The ecosystem of open-source mathematical software}
-
-From their earliest days, computers have been used in pure
-mathematics, either to make tables, to prove theorems (famously the
-four colour theorem) or, as with the astronomer's telescope, to
-explore new theories. Computer-aided experiments, and the use of
-databases relying on computer calculations such as the Small Groups
-Library in GAP, the Modular Atlas in group and representation theory,
-or the $L$-functions and Modular Forms Database (\LMFDB, see later),
-are part of the standard toolbox of the pure mathematician, and
-certain areas of mathematics completely depend on it. Computers are
-also increasingly used to support collaborative work and education.
-
-The last decades witnessed the emergence of a wide ecosystem of
-open-source tools to support research in pure mathematics. This ranges
-from specialized to general purpose computational tools such as \GAP,
-\PariGP, \Linbox, \MPIR, \Sage, or \Singular, via online databases
-like the \LMFDB and does not count online services like Wikipedia,
-\Arxiv, or MathOverflow. A great opportunity is the rapid emergence of
-key technologies, and in particular the \Jupyter (previously \IPython)
-platform for interactive and exploratory computing which targets all
-areas of science. This has proven the viability and power of
-collaborative open-source development models, by users and for users,
-even for delivering general purpose systems targeting a large public
-(researchers, teachers, engineers, amateurs, \ldots).
-
-An exemplary success in the last decade is that of \Sage,
-a free general purpose open-source mathematics
-software system licensed under the GPL whose mission is to create a
-viable free open source alternative to Magma, Maple, Mathematica and
-Matlab. It has been developed since 2005 by a growing worldwide community of
-about 150 researchers and teachers. It builds on top of many existing
-open-source packages, including NumPy, SciPy, matplotlib, Sympy,
-Maxima, and the aforementioned ones, all accessible from a
-Python-based library containing itself many unique mathematical
-features. \Sage can also be used as batch program, through the
-\Jupyter interactive computing interface (command-line or graphical),
-or \href{cloud.sagemath.org}{on the cloud}.
-
-Thanks to this, \Sage is regularly used in universities, both for
-research and education pruposes.  An indicator of its success in the French
-system is that \Sage has been since 2014 in the shortlist of official
-software for the oral examinations of the Agrégation de Mathématiques
-(the nation-wide recruiting competition for high school teachers), and
-that since 2015 this list has been containing only open source software.
-
-\subsection{Upcoming challenges}
-
-Some of the upcoming major challenges are:
-\begin{itemize}
-\item Lower the entry barrier, in particular via \textbf{unified user
-    interfaces}, and \textbf{Virtual Research Environments} that
-  groups of users can setup to collaborate on data, software,
-  computations, or knowledge;
-\item Further enable \textbf{computations involving multiple systems},
-  as transparently as possible;
-\item Keep the development efforts manageable as the size and
-  complexity of software systems increase;
-\item Train a new generation of users and developers.
+\noindent
+Preferred Dates: 
+ \begin{itemize}
+ \item 
 \end{itemize}
 
-A key step is to strengthen collaborations \emph{between} the various
-communities, in order to:
-\begin{itemize}
-\item Seek for opportunities for collaboration or outsourcing of
-  components to save on development efforts;
-\item Share expertise and best practices;
-\item Improve cross-systems development workflows.
-\end{itemize}
+% % % % % % % % % % % % % % % % % %
+\section{Description of the Seminar}
+  \input{description}
 
-\section{Conference goals and public}
+% % % % % % % % % % % % % % % % % %
+\subsection{Relation to Previous Dagstuhl Seminars}
+\input{previous}
 
-\subsection{Goals: community building and training}
+% % % % % % % % % % % % % % % % % %
+\section{List of Potential Participants}
 
-The conference goals can be summarized as follows:
+We have identified \ednote{add number} relevant researchers with a particular focus on
+\begin{compactitem}
+  \item including leading experts from all involved communities,
+  \item bringing together researchers with particular interest in universality and interoperability.
+\end{compactitem}
+\medskip
 
-\begin{itemize}
-\item Bringing together the community of users and developers of the
-  ecosystem of (open source) (pure) mathematics software;
-\item Give newcomers as well as specialists an overview of this
-  ecosystem: what are the existing software systems, what sorts of
-  problems can be solved thanks to them, how they are developped and
-  by whom;
-\item Train a new generation of users (and the current generations as
-  well) on using this ecosystem to solve their own problems;
-\item Encourage people to get involved and contribute, especially
-  women and junior researchers, in particular by exposing them with role models;
-\item Share perspectives and best practices;
-\item Build a joint vision and
-  seek venues for tighter cooperation.
-\end{itemize}
+\ednote{@all: revise areas and subareas depending on what people we want; the topics listed here will be referenced in the spreadsheet containing the suggested participants}
 
-\subsection{Public and prerequisites}
+\noindent
+We carefully selected participants to cover the following areas:
+\begin{compactitem}
+\item computation systems
+  \begin{compactitem}
+    \item symbolic computation
+    \item exact computation
+    \item numerical computation
+  \end{compactitem}
+\item related systems
+  \begin{compactitem}
+    \item user interfaces
+    \item databases
+    \item knowledge bases
+  \end{compactitem}
+\item applications
+  \begin{compactitem}
+    \item mathematical databases
+    \item scientific computation
+    \item industrial applications
+  \end{compactitem}
+\item system integration
+  \begin{compactitem}
+    \item integration frameworks
+    \item individual system connections
+  \end{compactitem}
+\end{compactitem}
+\medskip
 
-According to the above objectives, the public is meant to be diverse:
-\begin{itemize}
-\item Newcomers, and especially \textbf{graduate students and young
-    researchers}, that need to train themselves with computational
-  tools for their teaching or research;
-\item More advanced users that want to get an overview on the
-  ecosystem or benefit from expert advice;
-\item Contributors of the different systems of various levels of
-  expertise that want to share their knowledge, learn more, and
-  participate to coding sprints, in particular on cross-system
-  features.
-\end{itemize}
+\noindent
+Moreover, the participants include\ednote{add numbers at the end}
+\begin{compactitem}
+\item XXX from Germany, XXX from France, XXX from UK, XXX from the rest of Europe, XXX from North America
+\item XXX junior, XXX female (one of them co-organizer), and XXX industrial researchers.
+\end{compactitem}
 
-It's to be expected that most participants will have a strong
-background in pure mathematics or computer science, although
-engineers, teachers, or researchers in neighboring fields (e.g. physics)
-having a need for computational mathematics tools will be
-welcome.
+% % % % % % % % % % % % % % % % % %
+\section{Information on the Organizers}
+\ednote{add a 0.5-1 page research CV of yourself: overview of an organizer's academic career, especially points out community services and recognitions, list the five most relevant papers}
 
-Generally speaking there will be little prerequisites besides a strong
-desire to learn, get one's hands dirty, work in team, and possibly get
-involved. It's expected also that the participants will come with
-their own laptops. The software will be available either for direct
-installation or for remote usage through the web.
+\subsection{Brief presentation of the organizers}
+Florian Rabe has developed the MMT framework and the LF module system and is the main contributor of the LATIN atlas. He has extensive expertise in individual deduction systems including major case studies regarding Mizar, HOL Light, PVS, and TPTP.
 
-\section{More context}
-
-\subsection{A cofunding opportunity: OpenDreamKit}
-
-\href{http://opendreamkit.org}{OpenDreamKit} is a Horizon 2020
-European Research Infrastructure project (\#676541) funded under the
-H2020-EINFRA-2015-1 call, that is running for four years, starting in
-September 2015. It will provide substantial funding to the open source
-computational mathematics ecosystem, and in particular popular tools
-such as \Linbox, \MPIR, \Sage, \GAP, \Pari/GP, \LMFDB, \Singular,
-\MathHub, and the \IPython/\Jupyter interactive computing environment.
-
-From this ecosystem, \ODK will deliver a flexible toolkit enabling
-research groups to set up Virtual Research Environments, customised to
-meet the varied needs of research projects in pure mathematics and
-applications, and supporting the full research life-cycle from
-exploration, through proof and publication, to archival and sharing of
-data and code.
-
-The \ODK  consortium consists of core European developers of the
-aforementioned systems for pure mathematics, and extending toward the
-numerical community, and in particular the \Jupyter  community, to work
-together on joint needs.
-
-\textbf{Community building, dissemination and training is at the heart of \ODK}. From the
-beginning of the design of the proposal, back in 2014 (during ALEA
-2014 at CIRM!), it was planned to fund yearly large meetings to reach
-out to the larger community, disseminate the outcome, and train new
-users and developers. Besides CIRM in 2018, we are aiming for meetings
-in Dagstuhl, and ICMS (Edimburgh).
-
-% Yet some critical long term investments, in particular on the
-% technical side, are in order to boost the productivity and lower the
-% entry barrier:
-
-\subsection{The \Sage Days tradition}
-
-The success of any research software or service is strongly linked to
-its ability to attract and retain a large number of users. The
-different communities (\Sage, \GAP, \Pari, \Singular, \Jupyter, ...)
-have each developed sustainable networks. For example, \Sage has
-accumulated thousands of users in under 10 years.
-
-This has been achieved thanks to a very strong community building
-philosophy, especially through the organization of
-“\href{https://wiki.sagemath.org/Workshops}{\Sage Days}” all over the
-world. The first \Sage Days was held in 2006 with 10 participants; to
-date there has been at least 77 of them, including about ten in
-2015. Those workshops are typically week-long and cover a wide
-variety of topics, ranging from focused workshops gathering a dozen
-developers for coding sprints on specific mathematical or technical
-features to training workshops with more than 80 people. To cite just
-a few of the recent or upcoming ones:
-
-\begin{itemize}
-\item \Sage Education Days 6 (June 16-18, 2014, University of
-  Washington, Seattle)
-\item \Sage Days 69 (September 4-9, 2015, San Diego): Women in Sage 6
-\item \Sage Days 73 (May 04-07, 2016, Oaxaca (Mexico)): Translation surfaces
-\item \Sage Days 77 (April 04-08, 2016. Cernay, Paris area, France):
-  Packaging, portability, documentation tools
-\item \Sage Days 79 (November 21-25, Jerusalem, Israel): Combinatorics
-\end{itemize}
-
-All those workshops have in common to be highly hands on, with lots of
-room for tutorials and collaborative work, and a strong dynamic
-(project sessions, status reports, ...) to get everyone involved.
-
-\subsection{Previous \Sage Days at CIRM}
-
-One particularly successful workshop,
-\href{https://www.lirmm.fr/arith/wiki/MathInfo2010/SageDays}{\Sage
-  Days 20}, was organized at CIRM in 2010, at the occasion of the
-thematic month
-\href{https://www.lirmm.fr/arith/wiki/MathInfo2010/}{Math-Info}. This
-workshop had a double focus on training and research. It was one of
-the largest \Sage Days, with about 80 participants, many of which
-became at this occasion regular \Sage users, if not contributors. One
-of the many outcome was a strong initial impetus to what was to become
-the first book about \Sage: \href{http://sagebook.gforge.inria.fr/}{Calcul Mathématique avec
-Sage}, in French and under an open
-source license. Also a lot of training material was written during the
-workshop and reused extensively in followup workshops; a large chunk
-of this material was integrated in the \Sage official documentation in
-the form of thematic tutorials.
-
-The commodities at CIRM turned out just right for the purpose, and
-since then the proposers have wished to organize another one.
-
-\subsection{Composition of the committees, invited speakers, and gender issues}
-
-All the members of the Organization and Scientific committees have a
-strong experience with \Sage Days or similar events. For example,
-Nicolas Thiéry attended 20+ \Sage Days, was main organizer or
-coorganizer of more than a dozen of them, and invited speaker in many
-of the others, including that at CIRM. They are also involved in the
-OpenDreamKit project and present a variety of perspectives.
-
-Alas, our field suffers very badly from the lack of gender parity (5
-to 10\% of female researchers). Despite our best efforts this is reflected by the
-composition of the committees.
-
-We have focused on showcasing female role models in the keynote
-speakers (Marie Françoise Roy and Anne Schilling and we are seeking
-for another one), and for maintaining a proper ratio among tutorial
-leaders. We will also take measures to attract and promote female
-participants, and in particular PhD students and Postdocs.
-
-\subsection{Joint dynamics with JNCF 2018 (or ALEA 2018)}
-
-The communities involved in open source mathematical software are
-strong in Europe. There is in particular a strong overlap with the
-French Computer Algebra community. We are therefore coordinating the
-organization of this conference with the ``Journées Nationales du
-Calcul Formel 2018'', in the hope to organize them one right after the
-other. This will encourage participants to attend both events, reduce
-travel costs, and strongly increase the international attractiveness.
-
-In case this turns out to not be possible, there is also a good
-overlap with the ALEA community, and it would be fruitful to organize
-this event next to ALEA 2018.
-
-\section{Program}
-
-The program will consist of keynote talks (one or two per day), many
-hands on tutorials, some round tables, and a lot of free time for
-collaborative work and coding sprints.
-
-\subsection{Keynote talks}
-
-We are aiming at 5-6 one-hour keynote talks. The goal is to deliver a
-variety of perspectives on the ecosystem of open source software for
-mathematics. At this point we have five confirmed speakers:
-
-\begin{description}
-\item[Marie-Françoise Roy] Historical perspective on contributions of
-  researchers and teachers to (open source) mathematical software
-\item[Joris VanDerHoeven] Design of general purpose mathematical software: \Mathemagix (and TeXmacs)
-\item[Max Horn] Collaborative software development in a large system (\GAP)
-\item[Fernando Perez] Scientific and interactive computing, user
-  interfaces (e.g. \Jupyter) and community
-\item[Anne Schilling] Experimental mathematics
-\end{description}
-
-We are aiming at complementing those with speakers presenting the
-developers perspective from a large system like GAP and a specialized
-library. We have a short list of speakers for those, but decided to
-postpone the decision and invitations, in order to keep some
-flexibility to accommodate for potential evolutions in the coming
-months as we reach toward neighbor communities (e.g. proof systems).
-
-\subsection{Hands-on tutorials}
-
-We will reserve 6-8 slots for hands-on tutorial on the various
-software of the ecosystem. Each tutorial will be delivered by experts
-(typically one leader and several helpers). After a brief overview,
-the participants will be guided through a collection of exercise
-worksheets, designed to accommodate various levels of expertise.  The
-participants will be able to keep working on them after the tutorials,
-with informal help from the experts whenever needed.
-
-Many such worksheets have been crafted over time at the occasion of
-previous such meetings (including several of
-\href{http://doc.sagemath.org/html/en/thematic_tutorials/}{Sage's
-  thematic tutorials}). This workshop will be the occasion to polish them,
-design new ones, and possibly submit some to become
-\href{http://software-carpentry.org/lessons/}{Software Carpentry lessons}.
-
-Here are some tentative titles:
-\begin{itemize}
-\item Software installation
-\item Jupyter notebooks and reproducible research
-\item Introduction to GAP
-\item Introduction to Linbox
-\item Introduction to Mathemagix
-\item Introduction to Pari/GP
-\item Introduction to Sage
-\item Introduction to Singular
-\item Introduction to XCas
-\item Programming in Python
-\item Collaborative software development (git, ...)
-\end{itemize}
-
-\subsection{Round tables and special event for teaching}
-
-We are considering the organization of a few round tables to run
-debates and discussions on topics such as:
-
-\begin{itemize}
-\item Women in open source mathematics software (tentatively led by
-  Marie-Françoise Roy);
-\item Development models, best practices, and funding for open source
-  mathematics software development;
-\item Software for teaching;
-\item ...
-\end{itemize}
-
-We will also reach toward local high-school, \textit{classes préparatoires},
-and university teachers and, pending enough interest, organize one
-half-day event focused on teaching (as in the previous \Sage Days at
-CIRM).
-
-\subsection{Collaborative work and coding sprints}
-
-A lot of free time will be reserved each day, especially at the end of
-the week, for collaborative work. To support the self-organization of
-this time, there will be regular plenary discussions where
-participants will briefly expose the projects they want to work on and
-call for collaborators. Typical projects will be of the form:
-\begin{itemize}
-\item I would like to train myself further on XXX by going through
-  worksheet YYY; who would like to join?
-\item I would like to learn more about XXX; who else would be
-  interested? Who could deliver a tutorial?
-\item For my research, I am writing a program that XXX; I would need
-  expert help on using YYY for this.
-\item We want to add feature XXX to YYY; who wants to join?
-\end{itemize}
-
-A list of projects, and related progress report, will be maintained on
-the conference web page (typically through a wiki). Participants will
-be able to start suggesting projects in the months before the conference,
-and keep adding more during the conference.
+ \newpage
+  \subsection{Florian Rabe - CV}
+    \input{florian}
 
 \end{document}
