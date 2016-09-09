@@ -223,8 +223,10 @@ not improve accessiblity for casual end-users, many users of open research
 software tend to become *de facto* developers as well, as the more they use
 the software the more interested they become in modifying it for their own
 purposes.  Making it possible for Windows users to do development on otherwise
-UNIX-oriented software, without leaving their personal desktop environments,
-is appealing.
+UNIX-oriented software, without leaving their personal desktop environments, is
+appealing.  Being able to compile one's own software is also important for some
+highly optimized numerical software, which tunes itself at compile time to the
+computer it is being built on, sometimes with dramatic results.
 
 Although this does not yet provide a fully reliable immediate solution for
 porting OpenDreamKit software to Windows, we will continue to keep an eye
