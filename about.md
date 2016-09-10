@@ -104,8 +104,8 @@ was a natural fit: putting the emphasis on Virtual Research
 Environments nicely wraps up all the above needs in a single aim.
 
 A great opportunity is the rapid emergence of key technologies, and in
-particular the [Jupyter](jupyter.org) (previously
-[IPython](ipython.org)) platform for interactive and exploratory
+particular the [Jupyter](http://jupyter.org) (previously
+[IPython](http://ipython.org)) platform for interactive and exploratory
 computing which targets all areas of science.
 
 We built the consortium by gathering core European developers of the
