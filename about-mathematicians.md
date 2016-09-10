@@ -120,8 +120,8 @@ Building a **math VRE toolkit** based on:
 
 ### Architecture:
 
-- VRE deployment and management system (e.g. JupyterHub, SageMathCloud)
-- User interface (e.g Jupyter notebook)
+- Collaborative workspaces (e.g. JupyterHub, SageMathCloud)
+- User interfaces (e.g Jupyter notebook)
 - Computational components (e.g. Sage, GAP, Singular)
 - Data / knowledge bases (e.g. OEIS)
 - Physical resources (e.g. cloud infrastructure)

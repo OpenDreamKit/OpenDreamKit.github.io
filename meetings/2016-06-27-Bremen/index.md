@@ -3,11 +3,29 @@ layout: page
 title: OpenDreamKit annual project meeting
 ---
 
-Jacobs's University, Bremen, Germany
+OpenDreamKit’s annual project meeting took place at Jacobs's
+University in Bremen (Germany), from Monday the 27th of June to Friday
+the 1st of July. It gathered 21 ODK participants together with ODK's
+project officer and three reviewers from the EU Commission.
 
-Lecture Hall of Research 2
+The beginning of the week was dedicated to ODK’s open
+and internal meetings, including an informal review with our Project
+Officer and the Commission reviewers. The rest of the week was
+dedicated to joint work sessions on WP4 (User Interfaces) & WP6
+(Data/Knowledge/Software bases, aka Math-in-the-middle) activities.
 
-Monday June 27th - Friday July 1st
+This meeting was the occasion to build a common overview of what was
+achieved during the first ten months, and plan together work on the
+upcoming tasks and deliverables. The informal project review was
+enormously helpful to get early feedback and start preparing for the
+upcoming formal review at Month 18 (March 2017).
+
+# Reports
+
+- [Yearly progress reports](../2016-06-27-Bremen/ProgressReports/) for all sites
+- [Steering Committee meeting](../2016-06-27-Bremen/minutes/)
+- Status reports for the workshops (TODO; for now, see the
+  [old Pad for discussions and taking notes](pad-backup/))
 
 # Agenda
 
@@ -16,13 +34,21 @@ Monday June 27th - Friday July 1st
 - Tuesday: project review
 - Wednesday: specialized workshops on WP4 and WP6
 
-[Pad for discussions and taking notes](https://mensuel.framapad.org/p/BWEKoBS4jU)
-
 [Detailed Agenda](agenda/)
 
-# Registration
+# Participants
 
-Please fill it in the [poll for coffee breaks and meals](https://framadate.org/UVLeP6qgpHinTuU2).
+- European Commission: Anni Hellman (Project Officer), Peter Dzwig, Isabelle Perseil and Wil Schilders (reviewers)
+- UPSud: Nicolas Thiéry, Benoît Pilorget, Erik Bray, Samuel Lelièvre
+- JacobsUni: Michael Kohlhase, Florian Rabe, Tom Wiesing, Mihnea Iancu, Dennis Müller
+- CNRS: Vincent Delecroix
+- OXF: Dmitrii Pasechnik
+- Southampton: Hans Fangohr, Marijan Beg
+- USTAN: Alexander Konovalov, Markus Pfeiffer
+- UVSQ: Luca De Feo
+- UZH: Paul-Olivier Dehaye
+- Logilab: Florent Cayré
+- Simula: Benjamin Ragan-Kelley
 
 # Accomodation and venue
 
