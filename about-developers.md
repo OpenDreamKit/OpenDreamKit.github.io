@@ -10,6 +10,7 @@ title: "OpenDreamKit: the developer's perspective"
 
 ![](/public/logos/odk-elected-logo.svg)
 
+---
 # Trends from the last decade(s)
 
 ## Emergence of a vibrant ecosystem of **open source software** for pure mathematics
@@ -31,7 +32,7 @@ For:
 - Education
 - Industry?
 
----
+--
 
 ## A successful development model ...
 
