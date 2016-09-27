@@ -3,8 +3,7 @@ layout: slides
 title: "OpenDreamKit: the developer's perspective"
 ---
 
----
-
+<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # Trends from the last decade(s)
 
 ## Emergence of a vibrant ecosystem of **open source software** for pure mathematics
@@ -104,3 +103,4 @@ TODO: link to tasks
 
 - The [mathematician's perspective](/about-mathematicians) on OpenDreamKit.
 - [About OpenDreamKit](/about)
+</section>
