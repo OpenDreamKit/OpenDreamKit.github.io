@@ -198,8 +198,7 @@ Building a **math VRE toolkit** based on:
 
 - Conferences
 
-###
-
+--
 ### Social aspects (WP7)
 
 - Analysis of user needs
