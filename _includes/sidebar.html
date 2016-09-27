@@ -36,7 +36,11 @@
 
       {% include sidebar-nav-item.html url="/acknowledge/" title="Acknowledge" %}<br>
 
-      <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball', 'edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}">Edit this page</a><br>
+      <a class="sidebar-nav-item" href="{{ site.github.zip_url | replace: 'zipball',
+					'edit' }}/{% if page.source %}{{ page.source }}{%
+					else %}{{ page.path }}{% endif %}">Edit this  page</a>
+      (<a class="sidebar-nav-item" href="https://github.com/OpenDreamKit/OpenDreamKit.github.io/#repository-holding-the-sources-of-the-opendreamkitorg-website-aka-opendreamkitgithubio">HowTo</a>)<br/>
+
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
