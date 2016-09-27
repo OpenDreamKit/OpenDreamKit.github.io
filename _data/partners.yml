@@ -104,6 +104,9 @@ sites:
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
         github: mikecroucher
+      - name: Guy Brown
+        homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
+        github: guyjbrown
   - name: University of Silesia
     logo: US.png
     homepage: 'http://english.us.edu.pl/'
