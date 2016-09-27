@@ -85,14 +85,14 @@ https://github.com/OpenDreamKit/Participants/blob/master/AdvisoryBoard.md
 
 # Next meetings
 
-##January 2017 (small meeting)
+## January 2017 (small meeting)
  - workshop PARI/GP Jan 9th-13th 2016 Lyon
  - Bilefeld (group theory)
 USTAN and UJF agreed to come together to decide which of their workshops can host ODK meeting 
- - Review month 18 (March): located in Brussels and/or Gent?
+ - Formal Review up to month 18 (May): located in Brussels and/or Gent?
 
-##June 2017 (preparation for month 24 deliveries)
-- Keep an eye out  the other conferences, notably FOCM (Barcelona 10-19 July)
+## June 2017 (preparation for month 24 deliveries)
+- Keep an eye out for the other conferences, notably FOCM (Barcelona 10-19 July)
 
 # Conferences
 
