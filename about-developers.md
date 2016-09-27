@@ -4,6 +4,12 @@ title: "OpenDreamKit: the developer's perspective"
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+# OpenDreamKit
+
+## The developer's perspective
+
+![](/public/logos/odk-elected-logo.svg)
+
 # Trends from the last decade(s)
 
 ## Emergence of a vibrant ecosystem of **open source software** for pure mathematics
@@ -14,6 +20,8 @@ title: "OpenDreamKit: the developer's perspective"
 - Interactive computing environments:<br>
   [IPython/Jupyter](https://jupyter.org/), [SageMathCloud](https://cloud.sagemath.com/), ...
 - Together with the wider Scientific Python ecosystem
+
+--
 
 ## Viable alternatives to Maple, Mathematica, Matlab, ...
 
