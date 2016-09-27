@@ -150,7 +150,7 @@ Building a **math VRE toolkit** based on:
 - Goal: ease of deployment. Requires:
 
     - Modularity, packaging, portability, distribution
-    - For individual systems and combinations thereof
+    - For individual components and combinations thereof
 
 - Development workflows in ecosystems of software
 
@@ -173,13 +173,13 @@ Building a **math VRE toolkit** based on:
     - HPC
     - cloud
 
-- For individual systems and combinations thereof
+- For individual computational components and combinations thereof
 
 --
 ### Data/Knowledge/Software (WP6)
 
 - Goal: enable rich and robust interaction between
-    - computational systems
+    - computational components
     - data bases
     - knowledge bases
     - users
