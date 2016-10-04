@@ -62,12 +62,12 @@ An even deeper complication to writing portable software is the system calls--
 software run by users interacts with the operating system to perform low-level
 operations such as writing to disk, or making network connections, through
 special functions provided by the operating system called "system calls".
-Modern UNIX-like operating systems follow, to an extent the [POSIX standard]
-(https://en.wikipedia.org/wiki/POSIX) for system calls, allowing them to be
-generally more interoperable.  Windows, on the other hand, has its own
+Modern UNIX-like operating systems follow, to an extent the [POSIX
+standard](https://en.wikipedia.org/wiki/POSIX) for system calls, allowing them
+to be generally more interoperable.  Windows, on the other hand, has its own
 system call defitions that are not necessarily in one-to-one correspondence
-with POSIX system calls.  As such, a program built for Linux has no idea how
-to communicate with a Windows operating system.
+with POSIX system calls.  As such, a program built for Linux has no idea how to
+communicate with a Windows operating system.
 
 This can be a problem even on higher-level interpreted languages like Python.
 Although code writing in Python abstracts away most operating system
@@ -202,7 +202,7 @@ Windows](http://www.pcworld.com/article/3055403/windows/windows-10s-bash-shell-c
 For many mathematical softwares this is a non-issue--they are text based:
 numbers in; numbers out.  Additionally, graphical interfaces for interactive
 research environments are increasingly moving to the web (see for example 
-[SageMathCloud](http://opendreamkit.org/activities/2016-08-30_SMC)).  In such
+[SageMathCloud](https://cloud.sagemath.com/)).  In such
 cases the GUI elements have been moved out to the web browser and the backend
 typically runs "headlessly"--it has no reliance on the system's desktop
 interface.
