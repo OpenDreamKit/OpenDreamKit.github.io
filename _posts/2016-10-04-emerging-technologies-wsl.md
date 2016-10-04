@@ -3,7 +3,7 @@ layout: activity
 title: "Emerging Technologies: Windows Subsystem for Linux"
 author: Erik M. Bray
 type: blogpost
-date: 2016/09/09
+date: 2016/10/04
 ---
 
 One of the goals of the OpenDreamKit project is to improve support for open
