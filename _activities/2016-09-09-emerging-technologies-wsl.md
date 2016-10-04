@@ -80,9 +80,9 @@ specific features, for example, can only run on a version of the Python
 A third difficulty has to do with minor differences in user interface
 standards.  For example, a common issue in Windows support is its different
 standard for representing file paths.  While Windows paths contain a "drive
-letter" and uses the backslash ("\") to separate between folders (e.g.
-*C:\Windows\cmd.exe*), UNIX-like systems have no concept of a "drive letter",
-and use forward-slashes ("/") (e.g. */bin/bash*).  Issues like this can cause
+letter" and uses the backslash ("`\`") to separate between folders (e.g.
+`C:\Windows\cmd.exe`), UNIX-like systems have no concept of a "drive letter",
+and use forward-slashes ("`/`") (e.g. `/bin/bash`).  Issues like this can cause
 many small, but pervasive bugs when porting software between operating systems.
 
 
@@ -140,15 +140,15 @@ For example, Ubuntu's software repository already includes builds of many of
 the packages that are central to OpenDreamKit, such as
 [GAP](http://packages.ubuntu.com/trusty/gap),
 [PARI/GP](http://packages.ubuntu.com/trusty/pari-gp), and some smaller packages
-including many of the dependencies of SAGE.  SAGE itself has an unofficial
+including many of the dependencies of Sage.  Sage itself has an unofficial
 Ubuntu package--this has been found so far to nominally "work" on WSL, but
-there are have been found to be many bugs.  That said, a great deal of other
+there have been found to be many bugs.  That said, a great deal of other
 mathematical software--especially that which is less dependent on OS-specific
-features, should work already work out of the box.
+features, should already work out of the box.
 
 An additional potential advantage for WSL (indeed, one of the project's goals
 as detailed in [this article at Ars
-Technica](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/)
+Technica](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/))
 is to make the development tools and command-line interfaces favored by
 UNIX-oriented developers available on Windows.  This makes it possible,
 in principle, to develop software like Sage the same way on both Windows
