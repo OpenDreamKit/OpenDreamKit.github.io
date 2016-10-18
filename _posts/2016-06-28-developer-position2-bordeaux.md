@@ -12,7 +12,7 @@ contact: vincent.delecroix-AT-labri.fr
 
 # Duration
 
-2 years starting in September 2016 or 2017
+1 to 3 years starting in Fall 2016 or 2017
 
 # Salary
 
