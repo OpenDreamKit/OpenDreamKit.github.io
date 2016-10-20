@@ -36,6 +36,10 @@ InternalEvents:
       start: 2016-11-21
       end: 2016-11-24
       url: https://wiki.sagemath.org/days79
+    - title: Atelier PARI/GP 2017
+      start: 2017-01-09
+      end: 2017-01-13
+      url: http://pari.math.u-bordeaux.fr/Events/PARI2017/
 ExternalEvents:
     - title: AnacondaCON
       start: 2017-02-07
