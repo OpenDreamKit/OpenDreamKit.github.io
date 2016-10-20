@@ -32,7 +32,15 @@ InternalEvents:
     - title: Workshops on WP4, WP6
       start: 2016-06-29
       end: 2016-07-02
+    - title: Sage Days 79
+      start: 2016-11-21
+      end: 2016-11-24
+      url: https://wiki.sagemath.org/days79
 ExternalEvents:
+    - title: AnacondaCON
+      start: 2017-02-07
+      end: 2017-02-09
+      url: https://anacondacon17.io/
     - title: Sage Days 75 (Coding theory, performance)
       start: 2016-08-22
       end: 2016-08-26
