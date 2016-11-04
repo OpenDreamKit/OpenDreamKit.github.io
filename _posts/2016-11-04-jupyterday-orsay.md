@@ -6,7 +6,7 @@ type: blogpost
 date: 2016/11/04
 ---
 
-The LoOPS network, DevLog and OpenDreamKit are organising a day for the various tools available in the Jupyter environment.
+The LoOPS network, DevLog and OpenDreamKit are organising a day for the various tools available in the [Jupyter environment](http://jupyter.org/).
 Notebooks are more and more used among research communities thanks to their ease of use and their interactivity. They allow
 an easy access to class documentation and appealing practical exercises for students, to share ideas between colleagues and
 to initiate a reflexion to allow reproducible research works.
@@ -15,7 +15,7 @@ to initiate a reflexion to allow reproducible research works.
 - When: 6th of December 2016
 - Who: four core developers of Jupyter tools will be present (S. Corlay, A, Darian, T. Kluyver, B. Ragan-Kelley) and V. Pons who is working on SageMathCloud.
 
-[Subscriptions are free but mandatory](https://indico.lal.in2p3.fr/event/3319/registration/register#/register). Most of
+[Subscriptions](https://indico.lal.in2p3.fr/event/3319/registration/register#/register) are free but mandatory. Most of
 talks and workshops will be given in English. You may need to bring your own training materials, in which case we will
 warn you in advance.
 
@@ -24,10 +24,10 @@ warn you in advance.
 
 - 9h15-9h45: Welcome
 - 9h45-12h45 Presentations
- - A. Darian et S. Corlay : JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks.
- - B. Ragan-Kelley : JupyterHub: Deploying Jupyter Notebooks for students and researchers.
- - B. Ragan-Kelley : nbdime: diffing and merging notebooks.
- - V. Pons : the SageMathCloud platform
+  - A. Darian et S. Corlay : JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks.
+  - B. Ragan-Kelley : JupyterHub: Deploying Jupyter Notebooks for students and researchers.
+  - B. Ragan-Kelley : nbdime: diffing and merging notebooks.
+  - V. Pons : the SageMathCloud platform
 
 - 12h45-14h00 Buffet
 - 14h00-14h30 T. Kluyver: Nbconvert: make things from notebooks
