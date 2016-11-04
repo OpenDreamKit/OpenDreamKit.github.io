@@ -40,6 +40,9 @@ InternalEvents:
       start: 2017-01-09
       end: 2017-01-13
       url: http://pari.math.u-bordeaux.fr/Events/PARI2017/
+    - title: French JupyterDay
+      start: 2016-12-06
+      end: 2016-12-06
 ExternalEvents:
     - title: AnacondaCON
       start: 2017-02-07
