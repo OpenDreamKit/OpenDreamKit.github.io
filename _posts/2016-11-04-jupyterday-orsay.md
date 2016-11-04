@@ -14,6 +14,7 @@ to initiate a reflexion to allow reproducible research works.
 - Where: Room 1-2-3 of the [Institut d'Astrophysique Spatiale](http://www.ias.u-psud.fr/), Orsay, France
 - When: 6th of December 2016
 - Who: four core developers of Jupyter tools will be present (S. Corlay, A, Darian, T. Kluyver, B. Ragan-Kelley) and V. Pons who is working on SageMathCloud.
+- Event organisation: Loïc Gouarin 
 
 [Subscriptions](https://indico.lal.in2p3.fr/event/3319/registration/register#/register) are free but mandatory. Most of
 talks and workshops will be given in English. You may need to bring your own training materials, in which case we will
