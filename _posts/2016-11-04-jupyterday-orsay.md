@@ -1,4 +1,4 @@
-﻿---
+---
 layout: activity
 title: "JupyterDay: discover the tools available in the Jupyter environment"
 author: Benoît PILORGET
