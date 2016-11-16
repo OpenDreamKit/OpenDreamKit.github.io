@@ -36,6 +36,14 @@ find some suggestions following the links below:
 If you will be exploring options from the Local Accommodation page, we suggest to look
 at venues listed in sections 1 (South) and 2 (Central).
 
+# Financial support
+
+Limited funding is available primarily to support young researchers without own travel funds 
+and offering essential contributions to the workshop. If you would like to apply for support,
+please state the estimated amount in the registration form and provide further details on
+your interests, skills, and suggested contributions to the workshop. We will consider this 
+request and will let you know.
+
 # Contact
 
 If you have questions or suggestions, please contact the local organiser – [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk).
