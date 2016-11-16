@@ -9,9 +9,21 @@ in Edinburgh on 16-20 January 2017. It is organised jointly by the
 [OpenDreamKit](http://opendreamkit.org/) and [CoDiMa](http://www.codima.ac.uk/)
 projects.
 
-This page is currently under development - please check it later for further 
-updates and registration details. For the moment, some further details are
-available [here](https://github.com/OpenDreamKit/OpenDreamKit/issues/208).
+We invite developers and users with programming experience (at least at the 
+beginner's level) interested in [SageMath](http://www.sagemath.org/), 
+[GAP](http://www.gap-system.org/), [Singular](https://www.singular.uni-kl.de/),
+[Python](https://www.python.org/), [Jupyter](http://jupyter.org/), and related 
+projects and using them in research and/or teaching.
+
+The workshop will have format similar to previous [SageMath days](https://wiki.sagemath.org/Workshops) 
+and [GAP days](http://gapdays.de/). Approximately a half of the activities will be in the form of 
+lectures and tutorials, and the other half would consist of collaborative coding and documentation 
+sprints in parallel break-out groups, suggested by participants (to see some anticipated activities,
+see [this discussion](https://github.com/OpenDreamKit/OpenDreamKit/issues/208) on GitHub).
+
+The focus of the workshop is on various components from the [Jupyter's ecosystem](https://jupyter.readthedocs.io/en/latest/architecture/visual_overview.html) and
+related projects such as, for example, Jupyter notebooks kernels for mathematical
+software systems, and their applications in research, training and teaching.
 
 # Registration
 
@@ -46,7 +58,10 @@ request and will let you know.
 
 # Contact
 
-If you have questions or suggestions, please contact the local organiser – [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk).
+If you have questions or suggestions, please join the discussion on GitHub 
+[here](https://github.com/OpenDreamKit/OpenDreamKit/issues/208) or contact 
+the local organiser – [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk) -
+by email.
 
 You may also follow updates from OpenDreamKit and CoDiMa projects on Twitter at
 [@opendreamkit](https://twitter.com/opendreamkit) and 
