@@ -5,7 +5,7 @@ author: Benoît PILORGET
 type: blogpost
 date: 2016/11/04
 ---
-#SUBSCRIPTIONS ARE CLOSED
+# SUBSCRIPTIONS ARE CLOSED
 
 The LoOPS network, DevLog and OpenDreamKit are organising a day for the various tools available in the [Jupyter environment](http://jupyter.org/).
 Notebooks are more and more used among research communities thanks to their ease of use and their interactivity. They allow
