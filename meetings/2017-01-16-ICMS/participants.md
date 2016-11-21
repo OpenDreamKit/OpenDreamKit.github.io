@@ -1,4 +1,10 @@
-Registered participants:
+---
+layout: page
+title: Registered participants
+---
+
+The following participants registered so far for the
+[Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop:
 
 - John Cremona (University of Warwick)
 - Pedro A. García-Sánchez (Universidad de Granada)
