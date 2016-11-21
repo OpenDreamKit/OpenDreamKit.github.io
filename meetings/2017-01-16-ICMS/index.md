@@ -62,8 +62,10 @@ request and will let you know.
 
 If you have questions or suggestions, please join the discussion on GitHub 
 [here](https://github.com/OpenDreamKit/OpenDreamKit/issues/208) or contact 
-the local organiser – [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk) -
-by email.
+local organisers by email:
+
+- [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk)
+- [Markus Pfeiffer](mailto: mp397@st-andrews.ac.uk)
 
 You may also follow updates from OpenDreamKit and CoDiMa projects on Twitter at
 [@opendreamkit](https://twitter.com/opendreamkit) and 
