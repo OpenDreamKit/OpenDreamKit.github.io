@@ -32,6 +32,8 @@ as the number of places is limited. To fill in the registration form please proc
 [this Eventbrite page](https://www.eventbrite.com/e/computational-mathematics-with-jupyter-registration-29379662361)
 and click on the "Register" button and then on "Checkout".
 
+The list of participants registered so far can be viewed [here](participants.md).
+
 # Travel and accommodation
 
 Attendees are asked to make their own arrangements for travel and accommodation. You may 
