@@ -15,6 +15,8 @@ The following participants registered so far for the
 - [Samuel Lelièvre](http://www.math.u-psud.fr/~lelievre) (Université Paris-Sud)
 - Manuel Martins (Universidade Aberta)
 - Mike Ogiugo (University of Ibadan)
+- [Dmitrii Pasechnik](http://users.ox.ac.uk/~coml0531/) (University of Oxford)
 - [Markus Pfeiffer](https://www.morphism.de/~markusp/) (University of St Andrews)
 - [Raniere Silva](https://www.software.ac.uk/about/people/raniere-silva) (Software Sustainability Institute)
 - Torstein Vik (Fagerlia VGS)
+- [Wilf Wilson](http://wilf.me) (University of St Andrews)
