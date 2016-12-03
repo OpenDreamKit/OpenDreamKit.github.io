@@ -28,7 +28,7 @@ warn you in advance.
 - 9h45-12h45 Presentations
   - A. Darian et S. Corlay : JupyterLab and third-party extensions, featuring ipywidgets: the next generation of Jupyter notebooks.
   - B. Ragan-Kelley : JupyterHub: Deploying Jupyter Notebooks for students and researchers.
-  - B. Ragan-Kelley : nbdime: diffing and merging notebooks.
+  - V Fauske : nbdime: diffing and merging notebooks.
   - V. Pons : the SageMathCloud platform
 
 - 12h45-14h00 Buffet
@@ -52,7 +52,7 @@ servers are spawned can also be customized to use services such as Docker, Kuber
 The tutorial will cover a basic deployment of JupyterHub on a single machine, then extending it to use docker and GitHub
 authentication, as well as general best practices for JupyterHub deployment.
      
-3) B. Ragan-Kelley : nbdime: diffing and merging notebooks
+3) V. Fauske : nbdime: diffing and merging notebooks
 
 Jupyter notebooks are JSON documents containing a combination of code, prose, and output. These outputs may be rich
 media, such as HTML or images. The use of JSON and including output can present challenges when working with version
