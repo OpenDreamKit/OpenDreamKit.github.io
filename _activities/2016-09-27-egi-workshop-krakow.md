@@ -8,12 +8,10 @@ author: Dima Pasechnik
 date: 2016/09/27
 fulldate: 27 September 2016
 location: -- [EGI](https://www.egi.eu/) workshop [Design your e-infrastructure](https://indico.egi.eu/indico/event/3025/), co-located with [DI4R](http://digitalinfrastructures.eu/)
-
-
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# OpenDreamKit
+# {{page.title}}
 
 {{page.author}}
 
@@ -101,15 +99,17 @@ notebooks, SMC notebooks, )
 - how e-infrastructures can help
 
   - more integration, better testing/development plaforms?
- 
+
   - running SMC and similar services on federated clouds?
+
+See our [Proposed use cases](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP3/2016-09-27-DesignYourInfrastructureWorkshop-UseCase.md)
 
 ---
 ##  OpenDreamKit - workshop plans
 
 - to get an idea how federated clouds may be useful for us
 
-- start on using some of it? 
+- start on using some of it?
 
 - social nets, can they help us?
 
