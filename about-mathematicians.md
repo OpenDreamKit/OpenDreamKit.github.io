@@ -122,7 +122,7 @@ Building a **math VRE toolkit** based on:
 
 - Collaborative workspaces (e.g. JupyterHub, SageMathCloud)
 - User interfaces (e.g Jupyter notebook)
-- Computational components (e.g. Sage, GAP, Singular)
+- Computational components (e.g. Linbox, Pari/GP, GAP, Sage, Singular, ...)
 - Data / knowledge bases (e.g. OEIS)
 - Physical resources (e.g. cloud infrastructure)
 
