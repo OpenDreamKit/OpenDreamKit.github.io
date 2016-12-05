@@ -1,0 +1,198 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm]{geometry}
+
+\usepackage{url,xcolor,wrapfig,amsmath,amssymb,paralist,xspace,preamble}
+\usepackage{tabularx}
+\usepackage[show]{ed}
+
+\setcounter{tocdepth}{1}
+\usepackage[bookmarks,linkcolor=blue,citecolor=blue,urlcolor=gray,colorlinks,breaklinks,bookmarksopen,bookmarksnumbered]{hyperref}
+
+\setlength{\hfuzz}{3pt}
+\hbadness=10001 %make box warning less strict
+
+\title{Application for a Dagstuhl Seminar \\ \emph{Integrating Computation Systems}}
+\author{Jacques Carette and Wolfram Decker and Viviane Pons and Florian Rabe}
+\date{\today}
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+\ednote{@all revise}
+The last decades have witnessed the emergence of a complex ecosystem of open source software for scientific and mathematical computational, developed by overlapping international communities of researchers (in both computer science and mathematics), teachers, engineers, and amateurs.
+This is part of the greater trend for open and reproducible science.
+Current systems range from specialized libraries (e.g. \MPIR, \Linbox) to thematic systems (e.g. \GAP, \Pari, \Singular, xcas) to general purpose systems (e.g. Mathemagix, \Sage).
+Moreover, many related systems have been developed such as online databases (e.g. OEIS, LMFDB), interactive computing environments (e.g., \Jupyter), or knowledge management systems (e.g., \MathHub).
+
+These very dynamic developments are making it more and more difficult to share computations across systems, develop generic support systems, and avoid the expensive duplicate development of libraries.
+Numerous collaborations and projects to design knowledge representation languages and frameworks aimed at system interoperability and integration (e.g., OpenMath, Science, OpenDreamKit) have been initiated.
+But none of them has reached the critical mass to assemble significant enough a share of the community to gain the universal appeal that an interoperability solution needs to gain traction.
+
+In this seminar, we bring together agents from all relevant communities in order to develop tools, best practices, and open standards for sharing algorithms and data across computation systems.
+\end{abstract}
+
+\ednote{deadline is Nov 1}
+\ednote{See \url{http://www.dagstuhl.de/programm/dagstuhl-seminare/antrag/} for details about how to write proposal}
+
+\tableofcontents
+
+\newpage
+
+\ednote{Comment by JC: I don't think it is necessary to re-focus, but rather to make sure that there are clear "new" topics to discuss, with a clear hope that the discussion can lead to real progress.
+So if the workshop is to be about interoperability of (some) systems that focus on 'computation', it seems that a good starting point would be a list, articulated by some of the principal stakeholders of said systems, of what kinds of computations they would like to borrow from another system AND what currently prevents them from just doing it.
+I, of course, entirely agree with the basic idea "that systems should share knowledge better".  But you and I are 'solution providers' in this area, where the solutions are implemented in systems which otherwise do not "do" enough to be attractive at large.  So we need to work with the system builders to understand what their actual problems are, and bridge the gap.  Or so I think.
+It seems we need equal involvement (in the workshop definition) from some of the principal system builders involved in OpenDreamKit to get a balanced proposal.
+}
+
+% % % % % % % % % % % % % % % % % %
+\section{Basic Information about the Seminar}
+
+\subsection{Title}
+
+The title \emph{Integrating Computation Systems} means to emphasize the vision of a universal environment for scientific and mathematical computation.
+We hope this will provide a joint goal for the currently disparate communities.
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Organizers}
+
+\ednote{@all: add yourself}
+\begin{itemize}
+\item PD Dr. Florian Rabe \\
+Jacobs University Bremen - Computer Science\\
+P.O. Box 750 561
+28725 Bremen Germany
+\\
+Phone: + 49 421 200 3051\\
+%Fax: + 49 421 200 493051\\
+Email: \texttt{f.rabe@jacobs-university.de}  \\
+Homepage: \url{http://kwarc.info/people/frabe/}
+
+\item PD Dr. Viviane Pons \\
+Universit\'e Paris-Sud - Laboratoire de Recherche en Informatique\\
+Bat 650 Ada Lovelace
+91405 Orsay Cedex France 
+\\
+Email: \texttt{viviane.pons@lri.fr}  \\
+Homepage: \url{https://www.lri.fr/~pons/}
+\end{itemize}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Type of event, duration, and size}
+
+We propose a 5-day Dagstuhl Seminar with 45 participants.
+
+\subsection{Topics}
+
+\ednote{@all: we have to select 1-3 from a list of topics; strangely none fits very well}
+\begin{compactitem}
+ \item data bases / information retrieval
+ \item data structures / algorithms / complexity
+ \item modelling / simulation
+ \item semantics / formal methods
+ \item sw-engineering
+ \item verification / logic
+\end{compactitem}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Keywords}
+
+\ednote{@all: revise/extend}
+\begin{compactitem}
+\item computer algebra
+\item computation
+\item reusability
+\item interoperability
+\end{compactitem}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Proposed Seminar Dates}
+
+\ednote{@all: Dagstuhl will pick the date, typically early 2018, but it could be be several months earlier or later; please add your preferences}
+
+Block-out Dates: 
+\begin{itemize}
+\item 
+\end{itemize}
+
+\noindent
+Preferred Dates: 
+ \begin{itemize}
+ \item 
+\end{itemize}
+
+% % % % % % % % % % % % % % % % % %
+\section{Description of the Seminar}
+  \input{description}
+
+% % % % % % % % % % % % % % % % % %
+\subsection{Relation to Previous Dagstuhl Seminars}
+\input{previous}
+
+% % % % % % % % % % % % % % % % % %
+\section{List of Potential Participants}
+
+We have identified \ednote{add number} relevant researchers with a particular focus on
+\begin{compactitem}
+  \item including leading experts from all involved communities,
+  \item bringing together researchers with particular interest in universality and interoperability.
+\end{compactitem}
+\medskip
+
+\ednote{@all: revise areas and subareas depending on what people we want; the topics listed here will be referenced in the spreadsheet containing the suggested participants}
+
+\noindent
+We carefully selected participants to cover the following areas:
+\begin{compactitem}
+\item computation systems
+  \begin{compactitem}
+    \item symbolic computation
+    \item exact computation
+    \item numerical computation
+  \end{compactitem}
+\item related systems
+  \begin{compactitem}
+    \item user interfaces
+    \item databases
+    \item knowledge bases
+  \end{compactitem}
+\item applications
+  \begin{compactitem}
+    \item mathematical databases
+    \item scientific computation
+    \item industrial applications
+  \end{compactitem}
+\item system integration
+  \begin{compactitem}
+    \item integration frameworks
+    \item individual system connections
+  \end{compactitem}
+\end{compactitem}
+\medskip
+
+\noindent
+Moreover, the participants include\ednote{add numbers at the end}
+\begin{compactitem}
+\item XXX from Germany, XXX from France, XXX from UK, XXX from the rest of Europe, XXX from North America
+\item XXX junior, XXX female (one of them co-organizer), and XXX industrial researchers.
+\end{compactitem}
+
+% % % % % % % % % % % % % % % % % %
+\section{Information on the Organizers}
+\ednote{add a 0.5-1 page research CV of yourself: overview of an organizer's academic career, especially points out community services and recognitions, list the five most relevant papers}
+
+\subsection{Brief presentation of the organizers}
+Florian Rabe has developed the MMT framework and the LF module system and is the main contributor of the LATIN atlas. He has extensive expertise in individual deduction systems including major case studies regarding Mizar, HOL Light, PVS, and TPTP.
+
+Viviane Pons is a researcher in Combinatorics, leader of the dissemination work package of the OpenDreamKit H2020 project. She has been involved in the development of SageMath. She has been organizing Sage Days and given many Sage interventions and tutorial.
+
+ \newpage
+  \subsection{Florian Rabe - CV}
+    \input{florian}
+    
+  \newpage
+  \subsection{Viviane Pons - CV}
+    \input{viviane}
+
+\end{document}

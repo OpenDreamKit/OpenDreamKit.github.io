@@ -3,6 +3,10 @@ InternalEvents:
       start: 2015-09-02
       end: 2015-09-06
       url: http://opendreamkit.org/2015/09/02/KickoffMeeting/
+    - title: Women in Sage (SagemathFemmes)
+      start: 2017-01-09
+      end: 2017-01-14
+      url: https://wiki.sagemath.org/days82
     - title: Atelier PARI/GP 2016
       start: 2016-01-11
       end: 2016-01-16
@@ -32,7 +36,27 @@ InternalEvents:
     - title: Workshops on WP4, WP6
       start: 2016-06-29
       end: 2016-07-02
+    - title: Sage Days 79
+      start: 2016-11-21
+      end: 2016-11-24
+      url: https://wiki.sagemath.org/days79
+    - title: Atelier PARI/GP 2017
+      start: 2017-01-09
+      end: 2017-01-13
+      url: http://pari.math.u-bordeaux.fr/Events/PARI2017/
+    - title: French JupyterDay
+      start: 2016-12-06
+      end: 2016-12-06
+      url: http://opendreamkit.org/2016/11/04/jupyterday-orsay/
+    - title: Computational Mathematics with Jupyter
+      start: 2017-01-16
+      end : 2017-01-21
+      url : http://opendreamkit.org/meetings/2017-01-16-ICMS/
 ExternalEvents:
+    - title: AnacondaCON
+      start: 2017-02-07
+      end: 2017-02-09
+      url: https://anacondacon17.io/
     - title: Sage Days 75 (Coding theory, performance)
       start: 2016-08-22
       end: 2016-08-26
@@ -80,3 +104,7 @@ ExternalEvents:
       start: 2015-12-03
       end: 2015-12-04
       url: http://www.lestudium-ias.com/event/retour-experiences-recherche-reproductible-r4
+    - title: 2nd CoDiMa Training School in Computational Discrete Mathematics 
+      start: 2016-10-17
+      end: 2016-10-22
+      url: http://www.codima.ac.uk/school2016/
