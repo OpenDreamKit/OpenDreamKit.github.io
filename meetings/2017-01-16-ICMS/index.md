@@ -25,6 +25,10 @@ The focus of the workshop is on various components from the [Jupyter's ecosystem
 related projects such as, for example, Jupyter notebooks kernels for mathematical
 software systems, and their applications in research, training and teaching.
 
+# Preliminary programme
+
+The preliminary programme of the workshop will shortly become available [here](programme).
+
 # Registration
 
 Registration for the workshop is free of charge, but all participants need to register 
