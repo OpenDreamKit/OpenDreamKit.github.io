@@ -16,6 +16,7 @@ The following participants registered so far for the
 - [Sebastian Gutsche](http://wwwb.math.rwth-aachen.de/~gutsche/) (Universität Siegen)
 - [Andreas Holmstrom](http://andreasholmstrom.org) (Fagerlia VGS)
 - Dimitris Kamilis (University of Edinburgh)
+- [Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/) (University of Southampton)
 - [Alexander Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/) (University of St Andrews)
 - [Samuel Lelièvre](http://www.math.u-psud.fr/~lelievre) (Université Paris-Sud)
 - Manuel Martins (Universidade Aberta)
