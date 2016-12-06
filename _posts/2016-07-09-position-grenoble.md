@@ -68,7 +68,7 @@ The following are not prerequisites but would be very much appreciated:
 
 # Applications
 
-Applicants should send an email to clement.pernet@imag.fr and jean-guillaume.dumas@image.fr with:
+Applicants should send an email to clement.pernet@imag.fr and jean-guillaume.dumas@imag.fr with:
 
 - A complete CV
 
