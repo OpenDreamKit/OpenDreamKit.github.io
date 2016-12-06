@@ -12,13 +12,13 @@ contact: clement.pernet@imag.fr and jean-guillaume.dumas@imag.fr
 
 # Duration
 
-For 2 years starting early 2017. Interviews will be run in December 16 and
+For 2 years (one year renewable) starting early 2017. Interviews will be run in December 16 and
 January 17.
 
 # Salary
 
-Approx. 2000 € of monthly *salaire net* (salary after non-wage labour cost but before
-income tax). Equivalently, this is a yearly *salaire brut* of approx. 35000 €.
+Approx. 2200 € of monthly *salaire net* (salary after non-wage labour cost but before
+income tax).
 
 # Location
 

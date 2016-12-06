@@ -10,7 +10,9 @@ they get formalized.
 
 # Université Grenoble Alpes, France
 
-- [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/) starting early 2017 for two years.
+-
+  [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/)
+  starting early 2017 for two years (1 year renewable).
 
 # University of Sheffield, United Kingdom
 
