@@ -8,6 +8,10 @@ on hiring about ten full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
+# Université Grenoble Alpes, France
+
+- [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/) starting early 2017 for two years.
+
 # University of Sheffield, United Kingdom
 
 - [A full time research software engineer position](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/) starting June/July 2016 for two years.
