@@ -8,6 +8,7 @@ The following participants registered so far for the
 
 - [Tania Allard](http://rse.shef.ac.uk/) (University of Sheffield)
 - Mashaer Alsaeedi (University of Birmingham)
+- [Alexandre Borovik](http://www.borovik.net) (University of Manchester)
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/) (University of Warwick)
 - [Michael Croucher](http://www.walkingrandomly.com/?page_id=2) (University of Sheffield)
 - Justine Falque (Université Paris-Sud)
@@ -21,6 +22,7 @@ The following participants registered so far for the
 - [Samuel Lelièvre](http://www.math.u-psud.fr/~lelievre) (Université Paris-Sud)
 - Manuel Martins (Universidade Aberta)
 - [Patrick Maier](http://www.dcs.gla.ac.uk/~pmaier/) (University of Glasgow)
+- [James Mitchell](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/) (University of St Andrews)
 - Mike Ogiugo (University of Ibadan)
 - [Dmitrii Pasechnik](http://users.ox.ac.uk/~coml0531/) (University of Oxford)
 - [Markus Pfeiffer](https://www.morphism.de/~markusp/) (University of St Andrews)
@@ -30,3 +32,4 @@ The following participants registered so far for the
 - [Michael Torpey](http://www-circa.mcs.st-and.ac.uk/~mct25/) (University of St Andrews)
 - Torstein Vik (Fagerlia VGS)
 - [Wilf Wilson](http://wilf.me) (University of St Andrews)
+- Sukru Yalcinkaya (İstanbul University)
