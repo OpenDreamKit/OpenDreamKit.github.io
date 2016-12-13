@@ -18,7 +18,7 @@ will sign up to the proposed coding and documentation sprints.
 
 * Mike Croucher: Is your research software correct?
 
-* (title to be added) (Raniere Silva)
+* Raniere Silva: Software Sustainability on Computational Mathematics
 
 * (title to be added) (Thomas Kluyver)
 
