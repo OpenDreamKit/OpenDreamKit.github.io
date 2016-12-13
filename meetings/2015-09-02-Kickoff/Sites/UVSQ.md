@@ -8,7 +8,7 @@ by [Luca De Feo](http://defeo.lu/)
 
 Sep 2, 2015. [OpenDreamKit](http://opendreamkit.org) kickoff meeting.
 
-{% include slideshow_link.md %}
+{% include slideshow_link %}
 
 ---
 
