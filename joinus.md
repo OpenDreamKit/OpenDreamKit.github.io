@@ -27,8 +27,11 @@ they get formalized.
 
 # TU Kaiserslautern, Germany
 
+- [A full time researcher/developer position](http://opendreamkit.org/2016/12/15/developer-position-kaiserslautern)
+  for two and a half years, starting as soon as possible.
+
 - [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
-  starting in November 2015 for four years (filled).
+  starting in November 2015 (filled).
 
 - [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
   starting in March 2016 for one year (filled).
