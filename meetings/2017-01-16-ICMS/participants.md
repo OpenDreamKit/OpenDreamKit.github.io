@@ -7,6 +7,7 @@ The following participants registered so far for the
 [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop:
 
 - [Tania Allard](http://rse.shef.ac.uk/) (University of Sheffield)
+- [Martin Alnæs](https://www.simula.no/people/martinal) (Simula Research Laboratory)
 - Mashaer Alsaeedi (University of Birmingham)
 - [Alexandre Borovik](http://www.borovik.net) (University of Manchester)
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/) (University of Warwick)
