@@ -28,6 +28,8 @@ will sign up to the proposed coding and documentation sprints.
 
 * Alexander Konovalov: Reproducible computational experiments using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)
 
+* Markus Pfeiffer and Manuel Martins: Interactive computational discrete mathematics with GAP Jupyter interface
+
 
 ## Coding and documentation sprints
 
