@@ -44,3 +44,12 @@ The following coding and documentation sprints were suggested so far
 * Contributing to [STACK](https://moodle.org/plugins/qtype_stack) (exact title TBC) (lead: Chris Sangwin)
 
 * Lecture notes hackathon: bring your lecture notes to convert them to Jupyter notebooks.
+
+
+
+## Desirable tutorials
+
+- Introduction to Jupyter
+- IPywidgets: interactive widgets 
+- Version control with git and nbdime
+- Publishing notebooks with github, nbviewer, mybinder
