@@ -18,18 +18,27 @@ will sign up to the proposed coding and documentation sprints.
 
 * Mike Croucher: Is your research software correct?
 
+* Mike Croucher: ["An introduction to SageMathCloud' for lecturers"](https://github.com/mikecroucher/SMC_tutorial)
+
 * Raniere Silva: Software Sustainability on Computational Mathematics
 
-* (title to be added) (Thomas Kluyver)
+* Thomas Kluyver: (exact title TBC)
 
-* (title to be added) (Christian Lawson-Perfect)
+* Christian Lawson-Perfect: [Numbas](http://www.numbas.org.uk/) (exact title TBC) 
+
+* Alexander Konovalov: Reproducible computational experiments using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)
+
 
 ## Coding and documentation sprints
 
 The following coding and documentation sprints were suggested so far
 
-* Developing Software Carpentry lesson on SageMath (Alexander Konovalov, Raniere Silva)
+* Improving documentation for ["An introduction to SageMathCloud' for lecturers"](https://github.com/mikecroucher/SMC_tutorial) (lead: Mike Croucher)
 
-* Tools for computations in semigroups (James Mitchell)
+* Developing Software Carpentry lesson on SageMath (leads: Alexander Konovalov, Raniere Silva)
 
-* Contributing to [STACK](https://moodle.org/plugins/qtype_stack) (exact title TBA) (Chris Sangwin)
+* Tools for computations in semigroups (lead: James Mitchell)
+
+* Contributing to [STACK](https://moodle.org/plugins/qtype_stack) (exact title TBC) (lead: Chris Sangwin)
+
+* Lecture notes hackathon: bring your lecture notes to convert them to Jupyter notebooks.
