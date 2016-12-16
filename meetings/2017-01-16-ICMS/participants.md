@@ -12,6 +12,7 @@ The following participants registered so far for the
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/) (University of Warwick)
 - [Michael Croucher](http://www.walkingrandomly.com/?page_id=2) (University of Sheffield)
 - [Pierre-Philippe Dechant](https://www.york.ac.uk/maths/staff/pierre-philippe-dechant/) (University of York)
+- [Vincent Delecroix](http://www.labri.fr/perso/vdelecro/index.html) (Université de Bordeaux)
 - Justine Falque (Université Paris-Sud)
 - [Will Furnass](http://rse.shef.ac.uk/) (University of Sheffield)
 - [Pedro A. García-Sánchez](http://www.ugr.es/local/pedro) (Universidad de Granada)
