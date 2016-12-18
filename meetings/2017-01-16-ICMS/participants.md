@@ -15,6 +15,7 @@ The following participants registered so far for the
 - [Pierre-Philippe Dechant](https://www.york.ac.uk/maths/staff/pierre-philippe-dechant/) (University of York)
 - [Vincent Delecroix](http://www.labri.fr/perso/vdelecro/index.html) (Université de Bordeaux)
 - Justine Falque (Université Paris-Sud)
+- [Hans Fangohr](http://www.southampton.ac.uk/~fangohr/) (University of Southampton)
 - [Will Furnass](http://rse.shef.ac.uk/) (University of Sheffield)
 - [Pedro A. García-Sánchez](http://www.ugr.es/local/pedro) (Universidad de Granada)
 - [Chris Graham](http://www.ncl.ac.uk/maths/staff/profile/christophergraham.html#teaching) (Newcastle University)
