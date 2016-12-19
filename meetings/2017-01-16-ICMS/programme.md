@@ -30,6 +30,8 @@ will sign up to the proposed coding and documentation sprints.
 
 * Markus Pfeiffer and Manuel Martins: Interactive computational discrete mathematics with GAP Jupyter interface
 
+* Vidar T. Fauske: Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)
+
 
 ## Coding and documentation sprints
 
@@ -51,5 +53,4 @@ The following coding and documentation sprints were suggested so far
 
 - Introduction to Jupyter
 - IPywidgets: interactive widgets 
-- Version control with git and nbdime
 - Publishing notebooks with github, nbviewer, mybinder
