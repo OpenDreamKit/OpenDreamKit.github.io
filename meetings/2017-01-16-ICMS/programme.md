@@ -32,6 +32,7 @@ will sign up to the proposed coding and documentation sprints.
 
 * Vidar T. Fauske: Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)
 
+* Yuvi Panda: Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways.
 
 ## Coding and documentation sprints
 
