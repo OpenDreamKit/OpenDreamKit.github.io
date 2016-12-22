@@ -34,6 +34,8 @@ will sign up to the proposed coding and documentation sprints.
 
 * Yuvi Panda: Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways.
 
+* Hans Fangohr and Marijan Beg: A case study of computational science in Jupyter notebooks - [JOOMMF](https://joommf.github.io)
+
 ## Coding and documentation sprints
 
 The following coding and documentation sprints were suggested so far
