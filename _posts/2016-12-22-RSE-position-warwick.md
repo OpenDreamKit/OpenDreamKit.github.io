@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Full-time open-ended research software engineer position at the
-University of Warwick.
+title: Full-time open-ended research software engineer position at the University of Warwick.
 ---
 
 We are seeking a full-time research software engineer at Warwick to
