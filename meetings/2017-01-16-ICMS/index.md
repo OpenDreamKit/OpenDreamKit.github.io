@@ -32,7 +32,9 @@ The preliminary programme of the workshop will shortly become available [here](p
 # Registration
 
 Registration for the workshop is free of charge, but all participants need to register 
-as the number of places is limited. To fill in the registration form please proceed to
+as the number of places is limited. If you plan to come, we will appreciate if you 
+could register as soon as possible to help us with planning. The deadline for the
+registration is January 7th, 2017. To fill in the registration form please proceed to
 [this Eventbrite page](https://www.eventbrite.com/e/computational-mathematics-with-jupyter-registration-29379662361)
 and click on the "Register" button and then on "Checkout".
 
