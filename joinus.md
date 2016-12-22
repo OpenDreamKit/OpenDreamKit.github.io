@@ -8,6 +8,12 @@ on hiring about ten full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
+# University of Warwick, UK
+
+- [A full-time research software engineer
+  position](http://opendreamkit.org/2016/12/22/RSE-position-warwick/)
+  starting early in 2017, open-ended.
+
 # Université Grenoble Alpes, France
 
 -
