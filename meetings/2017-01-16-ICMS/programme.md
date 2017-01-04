@@ -36,6 +36,8 @@ will sign up to the proposed coding and documentation sprints.
 
 * Hans Fangohr and Marijan Beg: A case study of computational science in Jupyter notebooks - [JOOMMF](https://joommf.github.io)
 
+* Hans Fangohr: Introduction to [NBVAL](https://github.com/computationalmodelling/nbval), a `py.test` plugin to validate Jupyter Notebooks
+
 ## Coding and documentation sprints
 
 The following coding and documentation sprints were suggested so far
