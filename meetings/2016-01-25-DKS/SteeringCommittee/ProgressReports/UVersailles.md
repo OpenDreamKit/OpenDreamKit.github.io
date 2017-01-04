@@ -29,7 +29,7 @@ author: Luca De Feo
   with GEANT OER, strategy not clear yet (due M24)
 
 - D4.1 Python/Cython bindings for PARI and its integration in Sage:
-  work started at Pari/GP workshop, still figuring out the best way to
+  work started at PARI/GP workshop, still figuring out the best way to
   do it, will be finished on time (due M6)
 
 ---

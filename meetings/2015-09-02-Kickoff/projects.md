@@ -60,7 +60,7 @@ Participants: Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
 
 Min gave a presentation on the Jupyter notebook's architecture and how
 to write kernels. Markus, Sebastian and Jeroen started to implement
-kernels for GAP, Singular, and Pari/GP respectively.
+kernels for GAP, Singular, and PARI/GP respectively.
 
 Other kernels to explore would include Linbox+CLING and XCAS.
 

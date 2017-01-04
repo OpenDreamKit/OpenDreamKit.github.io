@@ -55,7 +55,7 @@ mathematics ecosystem -- and in particular
 [MPIR](http://mpir.org),
 [SageMath](http://sagemath.org/),
 [GAP](http://www.gap-system.org/),
-[Pari/GP](http://pari.math.u-bordeaux.fr/),
+[PARI/GP](http://pari.math.u-bordeaux.fr/),
 [LMFDB](http://lmfdb.org/),
 [Singular](http://www.singular.uni-kl.de/),
 [MathHub](https://mathhub.info/),

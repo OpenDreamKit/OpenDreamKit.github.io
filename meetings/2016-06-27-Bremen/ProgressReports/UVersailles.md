@@ -33,7 +33,7 @@ author: Luca De Feo
 ## Main upcoming tasks and deliverables
 
 - [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
-  - Work started at Pari/GP workshop with J. Demeyer (Paris Sud).
+  - Work started at PARI/GP workshop with J. Demeyer (Paris Sud).
   - Intially due on M6. Technical difficulties have slowed down
     development. Delayed to M12.
   - Work split into four steps. 33% complete.
