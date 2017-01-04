@@ -88,8 +88,6 @@ sites:
           - site-leader
           - wp7-leader
         github: dimpase 
-      - name: Ursula Martin
-        homepage: https://www.cs.ox.ac.uk/people/ursula.martin/
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
   - name: University of Sheffield
