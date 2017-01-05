@@ -28,6 +28,7 @@ The following participants registered so far for the
 - [Alexander Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/) (University of St Andrews)
 - [Christian Lawson-Perfect](http://www.numbas.org.uk) (Newcastle University)
 - [Samuel Lelièvre](http://www.math.u-psud.fr/~lelievre) (Université Paris-Sud)
+- [Stephen Linton](http://www.cs.st-andrews.ac.uk/directory/person?id=sal) (University of St Andrews)
 - Manuel Martins (Universidade Aberta)
 - [Patrick Maier](http://www.dcs.gla.ac.uk/~pmaier/) (University of Glasgow)
 - [James Mitchell](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/) (University of St Andrews)
