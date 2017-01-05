@@ -15,6 +15,12 @@ The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburg
 
 To be filled soon
 
+- Short sum up of what the Review of the 1st reporting period means for ODK
+- Discussions to finish the work due for February
+- Amendment to add Nürnberg + other small datails
+- Key performance Indicators
+- Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
+
 ## Progress reports per site to update
 
 - [Université Paris Sud](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud)
