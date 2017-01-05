@@ -13,6 +13,7 @@ period: Reporting period from Sept. 2015 to February 2017
 {{ page.author }}
 
 {{ page.period }}
+
 ---
 
 ## Financial and administrative setup
