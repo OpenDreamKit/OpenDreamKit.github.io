@@ -55,7 +55,7 @@ period: Reporting period from Sept. 2015 to February 2017
 
 - The 24-month post of Research Software Engineer (as in the proposal)
   was advertised in December 2016 with a closing date of 26 January
-  2017.  Cooperation with Warwick's Centre for Scientific Computing
+  2017\.  Cooperation with Warwick's Centre for Scientific Computing
   enabled the post to be advertised as permanent and at a higher level
   than in the proposal; this is good, but caused a delay of several
   months.
