@@ -27,7 +27,13 @@ software systems, and their applications in research, training and teaching.
 
 # Preliminary programme
 
-The preliminary programme of the workshop will shortly become available [here](programme).
+The list of activities suggested for the workshop could be found [here](programme).
+
+We plan to hold presentations and tutorials during morning sessions, and coding and 
+documentation sprints during afternoon sessions. The schedule of the morning sessions 
+will be determined prior to the workshop. Actitivies that will take place in the 
+afternoons and their schedule will be decided at the beginning of the workshop 
+dependently on how many people will sign up to the proposed coding and documentation sprints.
 
 # Registration
 
