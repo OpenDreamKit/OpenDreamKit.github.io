@@ -5,8 +5,9 @@ title: Edinburgh Steering Committee
 The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh in order to organise it along with the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop. Its main objective is to finalise all deliverables due for Month 18, aka February 2017, (end of the hard deadline known as the 1st Reporting Period). 
 
 
-- Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
 - Date: 19/01/2017
+- Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
+- Starting hour and precise room location at the ICMS to be specified
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
