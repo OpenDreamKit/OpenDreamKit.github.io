@@ -39,7 +39,7 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 - [Agenda](../SteeringCommittee/agenda)
 - [Minutes](../SteeringCommittee/minutes)
-- [Yearly Progress reports for all sites](../ProgressReports/)
+- [Yearly Progress reports for all sites](../SteeringCommittee/ProgressReports/)
 
 ### Brainstorms and coding sprints
 
