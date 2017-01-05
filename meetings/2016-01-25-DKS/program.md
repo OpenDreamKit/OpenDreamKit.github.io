@@ -39,7 +39,7 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 - [Agenda](../SteeringCommittee/agenda)
 - [Minutes](../SteeringCommittee/minutes)
-- [Yearly Progress reports for all sites](../SteeringCommittee/ProgressReports/)
+- [Yearly Progress reports for all sites](http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/)
 
 ### Brainstorms and coding sprints
 
