@@ -39,7 +39,7 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 - [Agenda](../SteeringCommittee/agenda)
 - [Minutes](../SteeringCommittee/minutes)
-- [Yearly Progress reports for all sites](OpenDreamKit.github.io/meetings/2016-01-25-DKS/SteeringCommittee/ProgressReports/)
+- [Yearly Progress reports](2016-01-25-DKS/ProgressReports/) for all sites
 
 ### Brainstorms and coding sprints
 
