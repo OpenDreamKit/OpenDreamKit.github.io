@@ -17,7 +17,7 @@ To be filled soon
 
 - Short sum up of what the Review of the 1st reporting period means for ODK
 - Discussions to finish the work due for February
-- Amendment to add Nürnberg + other small datails
+- Amendment to add Nürnberg + other small details
 - Key performance Indicators
 - Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
 
