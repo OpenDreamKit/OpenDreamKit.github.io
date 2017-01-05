@@ -15,8 +15,7 @@ This OpenDreamKit consortium workshop is a part of workpackage on Data/Knowledge
 
 - [Agenda](/meetings/2016-01-25-DKS/SteeringCommittee/agenda)
 - [Presentation slides](/meetings/2016-01-25-DKS/SteeringCommittee/SC-StAndrews_presentation_final.pdf)
-- [Minutes](/meetings/2016-01-25-DKS/SteeringCommittee/minutes)
-- [Yearly Progress reports](/meetings/2016-01-25-DKS/ProgressReports/) for all sites
+- [Minutes](/meetings/2016-01-25-DKS/SteeringCommittee/minutes) and yearly progress reports for all sites
 
 # Registration for the workshop
 

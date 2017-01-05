@@ -37,10 +37,6 @@ The idea for this session is to see how knowledge representation in [MMT](https:
 
 ### Steering committee meeting (10:30 local time)
 
-- [Agenda](../SteeringCommittee/agenda)
-- [Minutes](../SteeringCommittee/minutes)
-- [Yearly Progress reports](2016-01-25-DKS/ProgressReports/) for all sites
-
 ### Brainstorms and coding sprints
 
 - Proof of concept OMDoc/MMT theory for simple Python
