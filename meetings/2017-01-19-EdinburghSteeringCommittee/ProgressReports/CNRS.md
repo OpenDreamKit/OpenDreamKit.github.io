@@ -11,6 +11,7 @@ period: Reporting period from Sept. 2015 to February 2017
 # {{ page.title }}
 
 {{ page.author }}
+
 {{ page.period }}
 
 ---
