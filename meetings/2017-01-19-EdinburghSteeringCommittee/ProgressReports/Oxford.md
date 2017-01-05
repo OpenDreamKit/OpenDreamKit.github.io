@@ -4,6 +4,7 @@ title: "Progress report for Oxford"
 theme: white
 transition: none
 author: Ursula Martin and Dima Pasechnik
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -11,6 +12,8 @@ author: Ursula Martin and Dima Pasechnik
 
 {{ page.author }}
 
+
+{{ page.period }}
 ---
 
 ## Financial and administrative setup

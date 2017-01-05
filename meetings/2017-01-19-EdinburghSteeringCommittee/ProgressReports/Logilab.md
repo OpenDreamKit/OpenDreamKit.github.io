@@ -1,15 +1,19 @@
----
+﻿---
 layout: slides
 title: "Progress report for Logilab"
 theme: white
 transition: none
 author: Florent Cayré, Serge Guelton, David Douard, Julien Cristau
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
+
+
+{{ page.period }}
 
 ---
 

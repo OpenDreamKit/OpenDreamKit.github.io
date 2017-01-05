@@ -4,6 +4,7 @@ title: "Progress report for St Andrews"
 theme: white
 transition: none
 author: Steve Linton
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -11,6 +12,7 @@ author: Steve Linton
 
 {{ page.author }}
 
+{{ page.period }}
 ---
 ## Financial and administrative setup, hiring
 

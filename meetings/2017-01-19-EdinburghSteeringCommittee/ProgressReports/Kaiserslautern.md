@@ -4,12 +4,16 @@ title: "Progress report for Kaiserslautern"
 theme: white
 transition: none
 author: Wolfram Decker
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
+
+
+{{ page.period }}
 
 ---
 

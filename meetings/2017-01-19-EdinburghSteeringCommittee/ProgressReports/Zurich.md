@@ -3,7 +3,8 @@ layout: slides
 title: "Progress report for Zurich"
 theme: white
 transition: none
-author: PO Dehaye
+author: Paul-Olivier Dehaye
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -11,6 +12,7 @@ author: PO Dehaye
 
 {{ page.author }}
 
+{{ page.period }}
 ---
 
 ## Financial and administrative setup

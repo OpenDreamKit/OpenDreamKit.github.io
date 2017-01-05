@@ -4,12 +4,16 @@ title: "Progress report for Sheffield"
 theme: white
 transition: none
 author: Michael Croucher and Neil Lawrence
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
+
+
+{{ page.period }}
 
 ---
 

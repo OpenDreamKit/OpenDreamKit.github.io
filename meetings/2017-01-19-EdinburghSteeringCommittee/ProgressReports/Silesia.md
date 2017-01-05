@@ -4,12 +4,16 @@ title: "Progress report for University of Silesia"
 theme: white
 transition: none
 author: Marcin Kostur
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
+
+
+{{ page.period }}
 
 ---
 

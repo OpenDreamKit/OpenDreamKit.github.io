@@ -4,6 +4,7 @@ title: "Progress report for Jacobs University"
 theme: white
 transition: none
 author: M.Kohlhase
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^---\n">
@@ -11,6 +12,9 @@ author: M.Kohlhase
 # {{ page.title }}
 
 {{ page.author }}
+
+
+{{ page.period }}
 
 ---
 

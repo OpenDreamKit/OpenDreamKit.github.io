@@ -1,9 +1,10 @@
----
+﻿---
 layout: slides
 title: "Progress report for Université Paris-Sud"
 theme: white
 transition: none
 author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -11,6 +12,8 @@ author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
 
 {{ page.author }}
 
+
+{{ page.period }}
 ---
 
 ## Financial and administrative setup
