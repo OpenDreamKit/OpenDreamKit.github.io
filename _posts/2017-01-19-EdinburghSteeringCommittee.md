@@ -10,6 +10,7 @@ This means that all deliverables due by this date will have to be finished for m
 - Date: 19/01/2017
 - Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
 - Starting hour and precise room location at the ICMS to be specified
+- [Participants](https://framadate.org/IsCZEQqctimhKiHU)
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
