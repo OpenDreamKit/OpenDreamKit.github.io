@@ -20,7 +20,7 @@ To be filled soon
 ## Progress reports per site to update
 
 - [Université Paris Sud](ParisSud)
-- [CNRS](CNRS)
+- [CNRS](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/CNRS)
 - [Jacobs University Bremen](JacU)
 - [Université Joseph Fourier](UJF)
 - [University of Kaiserslautern](Kaiserslautern)
