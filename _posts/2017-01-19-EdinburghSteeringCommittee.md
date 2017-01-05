@@ -11,11 +11,11 @@ Its main objective is to finalise all deliverables due for Month 18 (end of the 
 The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh in order to organise it along with the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop.
 Its main objective is to finalise all deliverables due for Month 18 (end of the hard deadline known as the 1st Reporting Period). 
 
+## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
+
 ## Agenda
 
 To be filled soon
-
-## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
 ## Progress reports per site to update
 
