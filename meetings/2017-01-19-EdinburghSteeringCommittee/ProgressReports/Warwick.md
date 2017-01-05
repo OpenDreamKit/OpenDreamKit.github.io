@@ -25,12 +25,12 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ## Activities 1/2
 
-- John Cremona was on study leave from mid-September to mid-December,
-  but spent much of that time working on LMFDB matters which are
-  relevant to WP6.
+- John Cremona was on study leave from mid-September to mid-December
+  2015, spending much of that time working on LMFDB matters relevant
+  to WP6.
 
 - Work on LMFDB (funded externally by EPSRC and ICERM) has included
-  better documentation of the database contents (constitutent
+  better documentation of the database contents (constituent
   databases and collections, definition of data fields and types)
   towards Task 6.8 (LMFDB Case Study), part of WP6.
 
@@ -53,7 +53,14 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ##Hiring
 
-- Next planned activity:  advertise and hire the 24-month Research
-  Software Engineer as in the proposal.
+- The 24-month post of Research Software Engineer (as in the proposal)
+  was advertised in December 2016 with a closing date of 26 January
+  2017.  Cooperation with Warwick's Centre for Scientific Computing
+  enabled the post to be advertised as permanent and at a higher level
+  than in the proposal; this is good, but caused a delay of several
+  months.
+
+- Once appointed the RSE will work approximately 0.8FTE for ODK for
+  the remaining 30 months, until 31 August 2019.
 
 </section>
