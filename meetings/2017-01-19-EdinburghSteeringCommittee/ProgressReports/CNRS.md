@@ -4,13 +4,14 @@ title: "Progress report for CNRS"
 theme: white
 transition: none
 author: Vincent Delecroix
-Reporting period: Sept. 2015 to February 2017
+period: Reporting period from Sept. 2015 to February 2017
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
+{{ page.period }}
 
 ---
 
