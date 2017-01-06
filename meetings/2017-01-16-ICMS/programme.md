@@ -3,9 +3,10 @@ layout: page
 title: Preliminary programme
 ---
 
-This is the draft programme for the 
+This is the tentative programme for the 
 [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop.
-Please watch this page for updates!
+It’s possible that there will be some minor changes in the order of activities, so please check it
+for updates!
 
 We will hold presentations and tutorials during morning sessions, and
 concurrent coding and documentation sprints during afternoon sessions
