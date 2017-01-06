@@ -3,16 +3,17 @@ layout: page
 title: Preliminary programme
 ---
 
-Here we collect items for the programme of the 
+This is the draft programme for the 
 [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop.
 Please watch this page for updates!
 
-We plan to hold presentations and tutorials during morning sessions, and
-concurrent coding and documentation sprints during afternoon sessions. 
-The schedule of the morning sessions will be determined prior to the workshop. 
+We will hold presentations and tutorials during morning sessions, and
+concurrent coding and documentation sprints during afternoon sessions
+(except swapping them places on Thursday).
 Actitivies that will take place in the afternoons and their schedule will 
 be decided at the beginning of the workshop dependently on how many people 
-will sign up to the proposed coding and documentation sprints.
+will sign up to the proposed coding and documentation sprints. At the end 
+of each day we will hear brief reports from group activities.
 
 ## Monday, 16th January
 
@@ -24,8 +25,8 @@ will sign up to the proposed coding and documentation sprints.
 
 * Raniere Silva: **Software Sustainability on Computational Mathematics**
 
-* Alexander Konovalov: Reproducible computational experiments 
-using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)
+* Alexander Konovalov: **Reproducible computational experiments 
+using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
 
 ### Sprints 
 
@@ -41,11 +42,11 @@ install releases or development versions of GAP, SageMath, etc.).
 
 ### Presentations and tutorials (morning)
 
-* Thomas Kluyver: Introduction to [Jupyter](http://jupyter.org/)
+* Thomas Kluyver: **Introduction to [Jupyter](http://jupyter.org/)**
 
-* Vidar T. Fauske: Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)
+* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)**
 
-* Yuvi Panda: Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways.
+* Yuvi Panda: **Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways**
 
 ### Sprints (afternoon)
 
@@ -60,11 +61,12 @@ and we will help to convert them to Jupyter notebooks.
 
 ### Presentations and tutorials (morning)
 
-* Markus Pfeiffer and Manuel Martins: Interactive computational discrete mathematics with GAP Jupyter interface
+* Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics 
+with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
-* Mike Croucher: ["An introduction to SageMathCloud for lecturers"](https://github.com/mikecroucher/SMC_tutorial)
+* Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
-* Christian Lawson-Perfect: [Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics
+* Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics**
 
 ### Sprints (afternoon)
 
@@ -89,20 +91,20 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Jeroen Demeyer: IPywidgets and interact functions
+* Jeroen Demeyer: **IPywidgets and interact functions**
 
-* Sylvain Corlay: custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab).
+* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
 
 
 ## Friday, 20th January
 
 ### Presentations and tutorials (morning)
 
-* Hans Fangohr: Introduction to [NBVAL](https://github.com/computationalmodelling/nbval), a `py.test` plugin to validate Jupyter Notebooks
+* Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
 
-* Hans Fangohr and Marijan Beg: A case study of computational science in Jupyter notebooks - [JOOMMF](https://joommf.github.io)
+* Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)**
 
-* Mark Quinn: Using SageMathCloud for undergraduate physics
+* Mark Quinn: **Using SageMathCloud for teaching undergraduate physics**
 
 ### Sprints (afternoon)
 
@@ -126,11 +128,18 @@ we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov
 * Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)
 (lead: Alexander Konovalov): SCSCP is a remote procedure call protocol
 supported by several computer algebra systems and another software tools.
-I will show how to use it, and will provide further guidelines for using
+I coudl demonstrated how to use it, and provide further guidelines for using
 it in your code.
 
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
 
-- Publishing notebooks with github, nbviewer, mybinder
+- Publishing notebooks with [GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3), 
+[nbviewer](https://nbviewer.jupyter.org/), [mybinder](http://mybinder.org/).
+
+- Using [nbgrader](http://nbgrader.readthedocs.io/en/stable/) to create and grade assigments.
+
+As an option, we may just have sprints where we will try to make use of these
+tools, following their documentation, and report our experiences.
+
