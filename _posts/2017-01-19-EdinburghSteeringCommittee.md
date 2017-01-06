@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edinburgh Steering Committee 
+title: Biannual ODK Steering Committee meeting in Edinburgh
 ---
 The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh in order to organise it along with the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop. Its main objective is to finalise all deliverables due for Month 18, aka February 2017, (end of the hard deadline known as the 1st Reporting Period). 
 
@@ -16,7 +16,7 @@ This means that all deliverables due by this date will have to be finished for m
 
 ## Tentative agenda
 
-(Update me)
+(please suggest other topics of discussions)
 
 - Short sum up of what the Review of the 1st reporting period means for ODK
 - Discussions to finish the work due for February
