@@ -16,7 +16,7 @@
  
  1. How is it produced?
 
-   Data that ends up in the LMFDB has many different origins. Some are historical computations. Most are done in either GAP, Pari, Sage, Magma, etc, with the person who coded these original sources a member of the LMFDB who aims to make their data more accessible to their peers. Some of the data shown on the website is actually computed on the fly. 
+   Data that ends up in the LMFDB has many different origins. Some are historical computations. Most are done in either GAP, PARI, Sage, Magma, etc, with the person who coded these original sources a member of the LMFDB who aims to make their data more accessible to their peers. Some of the data shown on the website is actually computed on the fly. 
 
     Data comes in through a variety of ad hoc ways, but essentially always transits through a JSON format before upload to the Mongo database. At some point there was discussion of allowing anyone to upload their data [through an online form](http://www.lmfdb.org/upload/?related_to=/). This option is still there, but sees little use. 
  
@@ -53,7 +53,7 @@
  
 1. What software do you have?
 
- The LMFDB is mostly written in Python, relies on Sage and Pari/GP as libraries. It uses the database MongoDB (and possibly also an SQL one), uses the web framework Flask, and the templating engine Jinja. 
+ The LMFDB is mostly written in Python, relies on Sage and PARI/GP as libraries. It uses the database MongoDB (and possibly also an SQL one), uses the web framework Flask, and the templating engine Jinja. 
  
  1. What custom software are you running?
 

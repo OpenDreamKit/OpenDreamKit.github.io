@@ -77,7 +77,7 @@ development model.
 - MPIR (William Hart)
 - [Singular](../Software/Singular.pdf) (Wolfram)
 - [Giac/XCas](../Software/giac-general.pdf) [HPC in Giac/XCas](../Software/giac-polynomials.pdf) (Frédéric Han; on Thursday)
-- Pari/GP (Jean-Pierre Flori?)
+- PARI/GP (Jean-Pierre Flori?)
 - [SageMath](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/meetings/2015-09-02-Kickoff/Software/SageMath.md) (Luca De Feo)
 - [OOMMF](../Software/OOMMF.pdf) (Hans Fangohr)
 

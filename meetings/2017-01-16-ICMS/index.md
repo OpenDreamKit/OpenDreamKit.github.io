@@ -25,10 +25,22 @@ The focus of the workshop is on various components from the [Jupyter's ecosystem
 related projects such as, for example, Jupyter notebooks kernels for mathematical
 software systems, and their applications in research, training and teaching.
 
+# Preliminary programme
+
+The list of activities suggested for the workshop could be found [here](programme).
+
+We plan to hold presentations and tutorials during morning sessions, and coding and 
+documentation sprints during afternoon sessions. The schedule of the morning sessions 
+will be determined prior to the workshop. Actitivies that will take place in the 
+afternoons and their schedule will be decided at the beginning of the workshop 
+dependently on how many people will sign up to the proposed coding and documentation sprints.
+
 # Registration
 
 Registration for the workshop is free of charge, but all participants need to register 
-as the number of places is limited. To fill in the registration form please proceed to
+as the number of places is limited. If you plan to come, we will appreciate if you 
+could register as soon as possible to help us with planning. The deadline for the
+registration is January 7th, 2017. To fill in the registration form please proceed to
 [this Eventbrite page](https://www.eventbrite.com/e/computational-mathematics-with-jupyter-registration-29379662361)
 and click on the "Register" button and then on "Checkout".
 

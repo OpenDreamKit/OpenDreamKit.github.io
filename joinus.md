@@ -8,9 +8,21 @@ on hiring about ten full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
+# University of Warwick, UK
+
+- [A full-time research software engineer
+  position](http://opendreamkit.org/2016/12/22/RSE-position-warwick/)
+  starting early in 2017, open-ended.
+
+# Université Grenoble Alpes, France
+
+-
+  [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/)
+  starting early 2017 for two years (1 year renewable).
+
 # University of Sheffield, United Kingdom
 
-- [A full time research software engineer position](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/) starting June/July 2016 for two years.
+- [A full time research software engineer position](http://www.jobs.ac.uk/job/ANT812/research-software-engineer/) starting June/July 2016 for two years (filled)
 
 # Université Bordeaux, Talence
 
@@ -21,8 +33,11 @@ they get formalized.
 
 # TU Kaiserslautern, Germany
 
+- [A full time researcher/developer position](http://opendreamkit.org/2016/12/15/developer-position-kaiserslautern)
+  for two and a half years, starting as soon as possible.
+
 - [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
-  starting in November 2015 for four years (filled).
+  starting in November 2015 (filled).
 
 - [A full time developer position](http://opendreamkit.org/2015/07/01/developer-position2-kaiserslautern)
   starting in March 2016 for one year (filled).

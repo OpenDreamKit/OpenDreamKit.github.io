@@ -61,7 +61,7 @@ location: "Journée LOOPS: «Je code, je diffuse, oui mais comment ?»"
 
 - Systèmes libres spécialisés:
 
-   Maxima, GAP, Pari/GP, Singular, Macaulay, ...
+   Maxima, GAP, PARI/GP, Singular, Macaulay, ...
 
 - OVNIS:
 

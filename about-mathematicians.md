@@ -122,7 +122,7 @@ Building a **math VRE toolkit** based on:
 
 - Collaborative workspaces (e.g. JupyterHub, SageMathCloud)
 - User interfaces (e.g Jupyter notebook)
-- Computational components (e.g. Linbox, Pari/GP, GAP, Sage, Singular, ...)
+- Computational components (e.g. Linbox, PARI/GP, GAP, Sage, Singular, ...)
 - Data / knowledge bases (e.g. OEIS)
 - Physical resources (e.g. cloud infrastructure)
 
@@ -231,7 +231,7 @@ source software for Mathematics:
 
 - GAP (St Andrews, Oxford)
 - Linbox (Grenoble)
-- Pari/GP (Bordeaux, Versailles)
+- PARI/GP (Bordeaux, Versailles)
 - Sage (Bordeaux, Grenoble, Paris Sud, Oxford, Versailles)
 - Singular (Kaiserslautern)
 - LMFDB (Warwick, Zürich)

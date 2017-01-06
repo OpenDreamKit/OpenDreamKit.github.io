@@ -50,7 +50,7 @@ sites:
         homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
-  - name: Université Joseph Fourier
+  - name: Université Grenoble Alpes
     logo: Logo-UJF.svg
     homepage: 'https://www.ujf-grenoble.fr'
     members:
@@ -88,8 +88,6 @@ sites:
           - site-leader
           - wp7-leader
         github: dimpase 
-      - name: Ursula Martin
-        homepage: https://www.cs.ox.ac.uk/people/ursula.martin/
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
   - name: University of Sheffield
@@ -107,6 +105,11 @@ sites:
       - name: Guy Brown
         homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
         github: guyjbrown
+      - name: Tania R. Allard
+        github:
+      - name: William Furnass
+        homepage: 'https://www.sheffield.ac.uk/civil/staff/research/furnassw'
+        github: willfurnass
   - name: University of Silesia
     logo: US.png
     homepage: 'http://english.us.edu.pl/'

@@ -1,0 +1,41 @@
+% Copyright 2012 Pieter Belmans
+% https://github.com/pbelmans/ugent-beamer
+%
+% Based on Nico Schlömer's ua-beamer (https://github.com/nschloe/ua-beamer)
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+\mode<presentation>
+
+\defbeamertemplate*{title page}{ugent theme}
+{
+  \begin{center}
+    %\pgfuseimage{logo}%
+    %\vskip1cm
+    \usebeamerfont{title}\usebeamercolor[fg]{title}\inserttitle%
+    \ifx\insertsubtitle\@empty%
+    \else%
+      \vskip2ex%
+      \usebeamerfont{subtitle}\usebeamercolor[fg]{subtitle}\insertsubtitle%
+    \fi%
+    \ifx\insertauthor\@empty%
+    \else%
+      \vskip2ex%
+      \usebeamerfont{author}\usebeamercolor[fg]{author}\insertauthor%
+    \fi%
+    \ifx\insertinstitution\@empty%
+    \else%
+      \vskip2ex%
+      \usebeamerfont{author}\usebeamercolor[fg]{author}\insertinstitute%
+    \fi%
+  \end{center}
+  \vfill%
+}
+
+\setbeamertemplate{blocks}[rounded]
+
+\mode
+<all>

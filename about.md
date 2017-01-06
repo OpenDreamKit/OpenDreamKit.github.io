@@ -34,7 +34,7 @@ and publication, to archival and sharing of data and code.
 
 OpenDreamKit will be built out of a sustainable ecosystem of
 community-developed open software, databases, and services, including
-popular tools such as LinBox, MPIR, Sage(sagemath.org), GAP, PariGP,
+popular tools such as LinBox, MPIR, Sage(sagemath.org), GAP, PARI/GP,
 LMFDB, and Singular. We will extend the Jupyter Notebook environment to
 provide a flexible UI. By improving and unifying existing building
 blocks, OpenDreamKit will maximise both sustainability and impact, with

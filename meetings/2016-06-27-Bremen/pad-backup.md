@@ -144,7 +144,7 @@ DONT TAKE NOTES PER PERSON
 - the code is on github in a repo that belongs to the OpenMath project
   https://github.com/OpenMath/py-openmath
 - once this is done, we can use it to get pretty quickly and fast
-  scscp support for Pari (should be doable through CyPari)
+  scscp support for PARI (should be doable through CyPari)
 
 
 
