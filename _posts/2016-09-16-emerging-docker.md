@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Running Docker Natively on Windows and Mac
+title: "Emerging technologies: Running Docker Natively on Windows and Mac"
 ---
 
 As part of our series reviewing *emerging technologies*, we look at
