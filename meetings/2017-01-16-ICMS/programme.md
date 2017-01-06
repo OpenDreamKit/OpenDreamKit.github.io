@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preliminary programme
+title: Programme of the workshop
 ---
 
 This is the tentative programme for the 
@@ -10,11 +10,11 @@ for updates!
 
 We will hold presentations and tutorials during morning sessions, and
 concurrent coding and documentation sprints during afternoon sessions
-(except swapping them places on Thursday).
-Actitivies that will take place in the afternoons and their schedule will 
-be decided at the beginning of the workshop dependently on how many people 
-will sign up to the proposed coding and documentation sprints. At the end 
-of each day we will hear brief reports from group activities.
+(except swapping them places on Thursday). Actitivies that will take 
+place in the afternoons and their schedule will be decided at the 
+beginning of the workshop depending on how many people will sign up 
+to the proposed coding and documentation sprints. At the end of 
+each day we will hear brief reports from group activities.
 
 ## Monday, 16th January
 
@@ -54,7 +54,8 @@ install releases or development versions of GAP, SageMath, etc.)
 * **Lecture notes hackathon** (lead: Mike Croucher): bring your lecture notes,
 and we will help to convert them to Jupyter notebooks
 
-* **Further practicalities** of [nbdime](https://github.com/jupyter/nbdime),
+* **Further practicalities** of [Jupyter](http://jupyter.org/), 
+[nbdime](https://github.com/jupyter/nbdime),
 [JupyterHub](https://github.com/jupyterhub/jupyterhub) and other tools
 
 
@@ -77,7 +78,7 @@ new question type for the Moodle quiz. Using it, one could use the computer
 algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
 
 * **Improving documentation for [An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
-(lead: Mike Croucher): this could be a follow-up activity after the corresponding talk
+(lead: Mike Croucher): follow-up activity for the morning talk
 
 ## Thursday, 19th January
 
