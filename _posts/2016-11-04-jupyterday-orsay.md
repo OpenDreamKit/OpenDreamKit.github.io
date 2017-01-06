@@ -1,6 +1,6 @@
 ---
 layout: activity
-title: "JupyterDay: discover the tools available in the Jupyter environment"
+title: "Jupyter Day in Orsay: discover the tools available in the Jupyter environment"
 author: Benoît PILORGET
 type: blogpost
 date: 2016/11/04
