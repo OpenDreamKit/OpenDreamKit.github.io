@@ -35,7 +35,7 @@ using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
 * **Installation and setup**: if you haven't installed all relevant software
 prior to the workshop, we will help you with this (for example, install 
 [Jupyter](http://jupyter.org/) to follow the forthcoming Jupyter tutorial;
-install releases or development versions of GAP, SageMath, etc.).
+install releases or development versions of GAP, SageMath, etc.)
 
 
 ## Tuesday, 17th January
@@ -50,11 +50,11 @@ install releases or development versions of GAP, SageMath, etc.).
 
 ### Sprints (afternoon)
 
-* Lecture notes hackathon (lead: Mike Croucher): bring your lecture notes,
-and we will help to convert them to Jupyter notebooks.
+* **Lecture notes hackathon** (lead: Mike Croucher): bring your lecture notes,
+and we will help to convert them to Jupyter notebooks
 
-* Further practicalities of [nbdime](https://github.com/jupyter/nbdime),
-[JupyterHub](https://github.com/jupyterhub/jupyterhub) and other tools.
+* **Further practicalities** of [nbdime](https://github.com/jupyter/nbdime),
+[JupyterHub](https://github.com/jupyterhub/jupyterhub) and other tools
 
 
 ## Wednesday, 18th January
@@ -70,13 +70,13 @@ with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 ### Sprints (afternoon)
 
-* Contributing to [STACK](https://moodle.org/plugins/qtype_stack) (lead: Chris Sangwin):
+* **Contributing to [STACK](https://moodle.org/plugins/qtype_stack)** (lead: Chris Sangwin):
 STACK is a computer aided assessment package for mathematics, which provides a 
 new question type for the Moodle quiz. Using it, one could use the computer 
-algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers.
+algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
 
-* Improving documentation for ["An introduction to SageMathCloud for lecturers"](https://github.com/mikecroucher/SMC_tutorial)
-(lead: Mike Croucher): this could be a follow-up activity after the corresponding talk.
+* **Improving documentation for [An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
+(lead: Mike Croucher): this could be a follow-up activity after the corresponding talk
 
 ## Thursday, 19th January
 
@@ -111,34 +111,34 @@ the afternoon.
 * To be selected.
 
 
-## Unscheduled coding and documentation sprints
+## Coding and documentation sprints yet to be scheduled
 
 We will schedule these sprints during our planning session on Monday, 
 dependently on how many participants will be interested to join them.
 Some of these sprints may be recurring for several days.
 
-* Developing [Software Carpentry lesson on SageMath](http://alex-konovalov.github.io/sage-lesson/)
+* **Developing [Software Carpentry lesson on SageMath](http://alex-konovalov.github.io/sage-lesson/)**
 (leads: Alexander Konovalov, Raniere Silva): we would like to make progress with establishing
 the Software Carpentry lesson on SageMath, which is being at the early development stage in 
 [this repository](https://github.com/alex-konovalov/sage-lesson). If there will be an interest,
-we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/).
+we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/)
 
-* Tools for computations in semigroups (lead: James Mitchell)
+* **Tools for computations in semigroups** (lead: James Mitchell)
 
-* Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)
+* **Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)**
 (lead: Alexander Konovalov): SCSCP is a remote procedure call protocol
 supported by several computer algebra systems and another software tools.
 I coudl demonstrated how to use it, and provide further guidelines for using
-it in your code.
+it in your code
 
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
 
-- Publishing notebooks with [GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3), 
-[nbviewer](https://nbviewer.jupyter.org/), [mybinder](http://mybinder.org/).
+- **Publishing notebooks** with [GitHub](https://github.com/blog/1995-github-jupyter-notebooks-3), 
+[nbviewer](https://nbviewer.jupyter.org/), [mybinder](http://mybinder.org/)
 
-- Using [nbgrader](http://nbgrader.readthedocs.io/en/stable/) to create and grade assigments.
+- **Using [nbgrader](http://nbgrader.readthedocs.io/en/stable/) to create and grade assigments**
 
 As an option, we may just have sprints where we will try to make use of these
 tools, following their documentation, and report our experiences.
