@@ -25,15 +25,17 @@ The focus of the workshop is on various components from the [Jupyter's ecosystem
 related projects such as, for example, Jupyter notebooks kernels for mathematical
 software systems, and their applications in research, training and teaching.
 
-# Preliminary programme
+# Programme
 
-The list of activities suggested for the workshop could be found [here](programme).
+The tentative programme of the workshop could be found [here](programme). It's
+possible that there will be some minor changes in the order of activities.
 
-We plan to hold presentations and tutorials during morning sessions, and coding and 
-documentation sprints during afternoon sessions. The schedule of the morning sessions 
-will be determined prior to the workshop. Actitivies that will take place in the 
-afternoons and their schedule will be decided at the beginning of the workshop 
-dependently on how many people will sign up to the proposed coding and documentation sprints.
+We will hold presentations and tutorials during morning sessions, and concurrent 
+coding and documentation sprints during afternoon sessions (except swapping 
+them places on Thursday). Actitivies that will take place in the afternoons 
+and their schedule will be decided at the beginning of the workshop dependently 
+on how many people will sign up to the proposed coding and documentation sprints. 
+At the end of each day we will hear brief reports from group activities.
 
 # Registration
 
