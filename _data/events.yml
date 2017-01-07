@@ -56,6 +56,10 @@ InternalEvents:
       start: 2017-01-16
       end : 2017-01-21
       url : http://opendreamkit.org/meetings/2017-01-16-ICMS/
+    - title: Polytopes in/with Sage
+      start: 2017-02-27
+      end: 2017-03-12
+      url: https://wiki.sagemath.org/days84
 ExternalEvents:
     - title: AnacondaCON
       start: 2017-02-07
