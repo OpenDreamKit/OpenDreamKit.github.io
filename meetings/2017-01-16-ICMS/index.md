@@ -37,6 +37,17 @@ and their schedule will be decided at the beginning of the workshop dependently
 on how many people will sign up to the proposed coding and documentation sprints. 
 At the end of each day we will hear brief reports from group activities.
 
+# Venue
+
+The [International Centre for Mathematical Sciences](http://www.icms.org.uk/) is 
+a mathematical research centre which brings together mathematicians and practitioners 
+in science, industry and commerce for research workshops and other meetings. See
+[this page](http://www.icms.org.uk/information/facilities) for the details about
+its facilities and travel directions. ICMS provides Eduroam wireless network,
+but in order to be able to connect, you have to configure it at your home 
+institution before travel. Alternatively, please ask for guest logins at the
+workshop.
+
 # Registration
 
 Registration for the workshop is free of charge, but all participants need to register 
