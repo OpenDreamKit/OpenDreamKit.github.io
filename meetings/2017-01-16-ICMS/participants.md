@@ -38,6 +38,7 @@ The following participants registered so far for the
 - [Dmitrii Pasechnik](http://users.ox.ac.uk/~coml0531/) (University of Oxford)
 - Benoît Pilorget (Université Paris-Sud)
 - [Markus Pfeiffer](https://www.morphism.de/~markusp/) (University of St Andrews)
+- [Viviane Pons](https://www.lri.fr/~pons/) (Université Paris-Sud)
 - Martin Renou  ([Logilab](https://www.logilab.fr/))
 - [Mark Quinn](http://www.sheffield.ac.uk/physics/contacts/mark-quinn) (University of Sheffield)
 - [Chris Sangwin](http://www.maths.ed.ac.uk/school-of-mathematics/people/show?person=439) (University of Edinburgh)
