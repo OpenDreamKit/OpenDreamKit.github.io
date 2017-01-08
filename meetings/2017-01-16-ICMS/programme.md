@@ -133,6 +133,9 @@ supported by several computer algebra systems and another software tools.
 I coudl demonstrated how to use it, and provide further guidelines for using
 it in your code
 
+* **How to contribute to software projects represented at the workshop?**: quick guides
+provided by members of developers' teams of relevant systems
+
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
