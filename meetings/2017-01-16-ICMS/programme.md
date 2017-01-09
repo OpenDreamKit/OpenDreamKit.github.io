@@ -47,8 +47,6 @@ install releases or development versions of GAP, SageMath, etc.)
 
 * Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)**
 
-* Yuvi Panda: **Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways**
-
 ### Sprints (afternoon)
 
 * **Lecture notes hackathon** (lead: Mike Croucher): bring your lecture notes,
@@ -66,6 +64,8 @@ and we will help to convert them to Jupyter notebooks
 * Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics 
 with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
+* Jeroen Demeyer: **IPywidgets and interact functions**
+
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
 * Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics**
@@ -80,6 +80,8 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
 * **Improving documentation for [An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 (lead: Mike Croucher): follow-up activity for the morning talk
 
+**Workshop dinner:** Wednesday, 18th January, staring at 18.30, location TBC
+
 ## Thursday, 19th January
 
 **Remark**: in the morning, all OpenDreamKit Steering Committee members will be 
@@ -93,7 +95,7 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Jeroen Demeyer: **IPywidgets and interact functions**
+* Yuvi Panda: **Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways**
 
 * Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
 
