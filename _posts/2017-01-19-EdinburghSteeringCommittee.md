@@ -20,7 +20,7 @@ This means that all deliverables due by this date will have to be finished for m
 
 - Short sum up of what the Review of the 1st reporting period means for ODK
 - Discussions to finish the work due for February
-- Amendment to add Nürnberg + other small details
+- Amendment to add FAU Erlangen-Nürnberg + other small details
 - Key performance Indicators
 - Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
 
