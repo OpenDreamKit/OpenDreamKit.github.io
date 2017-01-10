@@ -36,6 +36,13 @@ and their schedule will be decided at the beginning of the workshop dependently
 on how many people will sign up to the proposed coding and documentation sprints. 
 At the end of each day we will hear brief reports from group activities.
 
+- **9.30** - morning sessions begin
+- **11.00** - coffee break
+- **13.00** - lunch
+- **15.30** - coffee break
+- **17.00** - ICMS is closed for visitors
+
+
 # Venue
 
 The [International Centre for Mathematical Sciences](http://www.icms.org.uk/) is 
