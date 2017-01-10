@@ -27,8 +27,7 @@ software systems, and their applications in research, training and teaching.
 
 # Programme
 
-The tentative programme of the workshop could be found [here](programme). It's
-possible that there will be some minor changes in the order of activities.
+The programme of the workshop could be found [here](programme). 
 
 We will hold presentations and tutorials during morning sessions, and concurrent 
 coding and documentation sprints during afternoon sessions (except swapping 
