@@ -47,6 +47,9 @@ install releases or development versions of GAP, SageMath, etc.)
 
 * Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)**
 
+* Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
+
+
 ### Sprints (afternoon)
 
 * **Lecture notes hackathon** (lead: Mike Croucher): bring your lecture notes,
@@ -103,8 +106,6 @@ the afternoon.
 ## Friday, 20th January
 
 ### Presentations and tutorials (morning)
-
-* Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
 
 * Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)**
 
