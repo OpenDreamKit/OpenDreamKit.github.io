@@ -84,7 +84,7 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ---
 
-## Proposed Title Changes for Deliverables (in the amended Grant Agreement)
+## Proposed Deliverable Title Changes
 
 We changed our priority in WP6 from algorithm verification to system interoperability and
 distributed computing in the ``Math-in-the-Middle'' Paradigm, therefore we would like to
