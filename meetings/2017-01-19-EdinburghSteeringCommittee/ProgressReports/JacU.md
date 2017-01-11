@@ -84,11 +84,11 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ---
 
-## Proposed Title Changes for Deliverables.
+## Proposed Title Changes for Deliverables (in the amended Grant Agreement)
 
 We changed our priority in WP6 from algorithm verification to system interoperability and
 distributed computing in the ``Math-in-the-Middle'' Paradigm, therefore we would like to
-change the titles of three deliverables 
+change the titles of three deliverables: 
 
 * D6.5 (Due: 24) Generating GAP/ SAGE Interface Theories in OMDoc/MMT for System
   Interoperation (Was: ``PYTHON/ SAGE Computational Foundation Module in OMDoc/MMT``)
@@ -103,4 +103,4 @@ change the titles of three deliverables
 
 * 17-21 July 2016 [CICM Conference](http://cicm-conference.org/2017) (Conference on Intelligent Computer Mathematics).
   * relevant Tracks: CALCULEMUS & MKM
-</section>
+</section>:
