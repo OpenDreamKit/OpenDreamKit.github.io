@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides
 title: "Progress report for Université Paris-Sud"
 theme: white
@@ -46,9 +46,9 @@ period: Reporting period from Sept. 2015 to February 2017
     - Works on interfaces, Sphinx documentation tools, packaging, ...
 
 --
-- Looking for a PhD student or postdoc
-
+- Opening a postdoc position instead of a PhD position for Fall 2017
   WP6 related tasks
+   -> changes to add to the 2nd amendment
 
 ---
 ## Achievements
@@ -59,9 +59,17 @@ period: Reporting period from Sept. 2015 to February 2017
 - [D1.2: Data Management Plan V1](https://github.com/OpenDreamKit/OpenDreamKit/issues/18)
 - [D2.1: Starting press release](https://github.com/OpenDreamKit/OpenDreamKit/issues/34)
 - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
+- [D1.3: Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/19)
+- [D2.2: Community building](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
+- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43) : in reality lead by UVSQ
+
+TODO before end February
+- [D4.4: Basic Jupyter interface](https://github.com/OpenDreamKit/OpenDreamKit/issues/93): to be polished for February
+- [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
+- [D1.4: Innovation Management Plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/20)
 
 --
-## Work in progress
+## Work in progress (to update)
 
 - Participation to WP6 activities
 - [D3.9: Semantic-aware Sage interface to GAP](https://github.com/OpenDreamKit/OpenDreamKit/issues/68)
@@ -96,27 +104,27 @@ period: Reporting period from Sept. 2015 to February 2017
     - Spanish translation of some introduction Sage tutorials
     - a great success!
 
-- Organization of [Sage Days 77](https://wiki.sagemath.org/days74), Vancouver, June 29--July 1st
+- Organization of [Sage Days 78](https://wiki.sagemath.org/days78), Vancouver, June 29--July 1st
     - Theme: algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
-    - 30 expected participants
+    - 30 participants
 
-- The reason Viviane is not here (Colombia => Vancouver)
+- Organization of [Sage Days 75](https://wiki.sagemath.org/days75), Cernay, August 22--26
+
+- Organization of [Women in Sage](https://wiki.sagemath.org/days82), Ris-Orangis, January 9--13
+
+- Organization of Jupyter day in December? (or funded by Bordeaux?)
 
 ---
 ## Main upcoming tasks and deliverables
 
-- [D1.3: Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/#19)
-- [D2.2: Community building: Impact of development workshops, dissemination and training activities, year 1](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
-- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43)
-- [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
+- Writing of 1st Reporting Period reports: Scientific report and Administrative report
+
 - [D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular](https://github.com/OpenDreamKit/OpenDreamKit/issues/93)
 - [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
 - [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
 
 --
 ## Upcoming events
-
-- Women in Sage (January 2017)
 
 - Calcul Mathématique Libre 2018
     - Rejected from CIRM first call for 2018
