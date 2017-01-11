@@ -87,8 +87,7 @@ period: Reporting period from Sept. 2015 to February 2017
 ## Proposed Deliverable Title Changes
 
 We changed our priority in WP6 from algorithm verification to system interoperability and
-distributed computing in the ``Math-in-the-Middle'' Paradigm, therefore we would like to
-change the titles of three deliverables: 
+distributed computing in the ``Math-in-the-Middle'' Paradigm
 
 * D6.5 (Due: 24) *Generating GAP/ SAGE Interface Theories in OMDoc/MMT for System*
   Interoperation* (Was: *PYTHON/ SAGE Computational Foundation Module in OMDoc/MMT*)
