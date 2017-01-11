@@ -43,9 +43,9 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ## Hiring
 
-hired a research software engineer (Dr. Christian Maeder) for 6 months and two Ph.D. students
-(Xu He and Tom Wiesing)  on 1/4 contracts. We will hire new junior researchers once the
-project move to FAU has been settled. 
+- a research software engineer (Dr. Christian Maeder) for 6 months
+- two Ph.D. students (Xu He (until summer 2016) and Tom Wiesing)  on 1/4 contracts.
+- We will hire new junior researchers once the project move to FAU has been settled. 
 
 ---
 
@@ -80,7 +80,22 @@ project move to FAU has been settled.
 * D4.3 (Due: September 2016, postponed to Feb. 2017) [Distributed, Collaborative, Versioned Editing of Active Documents in MathHub.info](OpenDreamKit:tree/master/WP4/D4.3)
 * D4.8 (Due: February 2017) [In-place computation in active documents (context/computation)](OpenDreamKit:tree/master/WP4/D4.8)
 * D6.4 (Due: August 2017 ) [Conversion of existing and new Databases ( LMFDB , OEIS, FindStat ) to unified interoperable System)](OpenDreamKit:tree/master/WP6/D6.4)
+* D4.11 (Due: August 2017) Notebook Import into MathHub.info (interactive display) 
 
+---
+
+## Proposed Title Changes for Deliverables.
+
+We changed our priority in WP6 from algorithm verification to system interoperability and
+distributed computing in the ``Math-in-the-Middle'' Paradigm, therefore we would like to
+change the titles of three deliverables 
+
+* D6.5 (Due: 24) Generating GAP/ SAGE Interface Theories in OMDoc/MMT for System
+  Interoperation (Was: ``PYTHON/ SAGE Computational Foundation Module in OMDoc/MMT``)
+D6.7 (Due: 36) GAP/ SAGE Interface Views OMDoc/MMT (was ``PYTHON/ SAGE Declarative Semantics in OMDoc/MMT``)
+D6.8 (Due: 36) Curated Math-in-the-Middle Ontology covering exemplary parts of LMFDB,
+  OEIS, FINDSTAT, GAP, SAGE knowledge bases. (Was ``LMFDB Algorithm Verification with respect to a Triformal
+  Theory``)
 ---
 
 ## Possibly Relevant Events
