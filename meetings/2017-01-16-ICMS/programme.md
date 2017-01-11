@@ -143,6 +143,9 @@ it in your code
 * **How to contribute to software projects represented at the workshop?**: quick guides
 provided by members of developers' teams of relevant systems
 
+* **[NumericalSgps](https://www.gap-system.org/Packages/numericalsgps.html)** 
+(lead: Pedro A. García Sánchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
+
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
