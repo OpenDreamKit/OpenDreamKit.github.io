@@ -23,6 +23,7 @@ This means that all deliverables due by this date will have to be finished for m
 - Amendment to add FAU Erlangen-Nürnberg + other small details
 - Key performance Indicators
 - Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
+- Discuss WP7 topics in view of personnel changes
 
 ## [Readme](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/README.md) to know how to submit deliverables
 
@@ -33,7 +34,7 @@ This means that all deliverables due by this date will have to be finished for m
 - [Jacobs University Bremen](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/JacU)
 - [Université Joseph Fourier](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UJF)
 - [University of Kaiserslautern](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Kaiserslautern)
-- [Oxford](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Oxford)
+- [University of Oxford](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Oxford)
 - [University of Silesia](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Silesia)
 - [University of Sheffield](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Sheffield)
 - [University of Southampton](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/southampton.pdf)
