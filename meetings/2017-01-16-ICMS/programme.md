@@ -144,6 +144,8 @@ provided by members of developers' teams of relevant systems
 * **[NumericalSgps](https://www.gap-system.org/Packages/numericalsgps.html)** 
 (lead: Pedro A. García Sánchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
 
+* **Extending and integrating nbval and nbdime features** Developers of nbval and nbdime and others interested in contributing should meet to extend nbval and possibly nbdime.
+
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
