@@ -42,6 +42,9 @@ At the end of each day we will hear brief reports from group activities.
 - **15.30** - coffee break
 - **17.00** - ICMS is closed for visitors
 
+**Workshop dinner:** Wednesday, 18th January, 18.30-21.00, 
+[Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) 
+(19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
 
 # Venue
 
@@ -54,16 +57,16 @@ but in order to be able to connect, you have to configure it at your home
 institution before travel. Alternatively, please ask for guest logins at the
 workshop.
 
-# Registration
+# Registration (closed)
 
 Registration for the workshop is free of charge, but all participants need to register 
 as the number of places is limited. If you plan to come, we will appreciate if you 
 could register as soon as possible to help us with planning. The deadline for the
-registration is January 7th, 2017. To fill in the registration form please proceed to
+registration is **January 7th, 2017**. To fill in the registration form please proceed to
 [this Eventbrite page](https://www.eventbrite.com/e/computational-mathematics-with-jupyter-registration-29379662361)
 and click on the "Register" button and then on "Checkout".
 
-The list of participants registered so far can be viewed [here](participants).
+The list of participants can be viewed [here](participants).
 
 # Travel and accommodation
 
