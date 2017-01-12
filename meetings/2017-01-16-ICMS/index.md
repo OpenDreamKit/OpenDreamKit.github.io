@@ -42,6 +42,9 @@ At the end of each day we will hear brief reports from group activities.
 - **15.30** - coffee break
 - **17.00** - ICMS is closed for visitors
 
+**Workshop dinner:** Wednesday, 18th January, 18.30-21.00, 
+[Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) 
+(19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
 
 # Venue
 
