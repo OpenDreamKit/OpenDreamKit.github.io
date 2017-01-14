@@ -6,8 +6,8 @@ title: Registered participants
 The following participants registered so far for the
 [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop:
 
-- [Tania Allard](http://rse.shef.ac.uk/) (University of Sheffield)
-- [Martin Alnæs](https://www.simula.no/people/martinal) (Simula Research Laboratory)
+1. [Tania Allard](http://rse.shef.ac.uk/) (University of Sheffield)
+2. [Martin Alnæs](https://www.simula.no/people/martinal) (Simula Research Laboratory)
 - Mashaer Alsaeedi (University of Birmingham)
 - [Alexandre Borovik](http://www.borovik.net) (University of Manchester)
 - Florent Cayré ([Logilab](https://www.logilab.fr/))
@@ -35,7 +35,6 @@ The following participants registered so far for the
 - Manuel Martins (Universidade Aberta)
 - [Patrick Maier](http://www.dcs.gla.ac.uk/~pmaier/) (University of Glasgow)
 - [James Mitchell](http://www-groups.mcs.st-andrews.ac.uk/~jamesm/) (University of St Andrews)
-- [Yuvi Panda](http://yuvi.in/) (Wikimedia Foundation)
 - [Dmitrii Pasechnik](http://users.ox.ac.uk/~coml0531/) (University of Oxford)
 - Benoît Pilorget (Université Paris-Sud)
 - [Markus Pfeiffer](https://www.morphism.de/~markusp/) (University of St Andrews)
