@@ -102,8 +102,6 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Yuvi Panda: **Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways**
-
 * Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
 
 
@@ -154,6 +152,8 @@ Please get in touch if you're able to cover this in your talk/tutorial/sprint:
 [nbviewer](https://nbviewer.jupyter.org/), [mybinder](http://mybinder.org/)
 
 - **Using [nbgrader](http://nbgrader.readthedocs.io/en/stable/) to create and grade assigments**
+
+* **Deploying [JupyterHub](https://github.com/jupyterhub/jupyterhub) in various ways**
 
 As an option, we may just have sprints where we will try to make use of these
 tools, following their documentation, and report our experiences.
