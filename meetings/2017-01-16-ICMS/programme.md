@@ -135,8 +135,10 @@ we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov
 * **Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)**
 (lead: Alexander Konovalov): SCSCP is a remote procedure call protocol
 supported by several computer algebra systems and another software tools.
-I coudl demonstrated how to use it, and provide further guidelines for using
-it in your code
+I could demonstrate how to use it, and provide further guidelines for using
+it in your code. This could cover the new Python packages 
+[`scscp`](https://pypi.python.org/pypi/scscp/) and 
+[`openmath`](https://pypi.python.org/pypi/openmath).
 
 * **How to contribute to software projects represented at the workshop?**: quick guides
 provided by members of developers' teams of relevant systems
