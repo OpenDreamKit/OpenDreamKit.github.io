@@ -138,7 +138,9 @@ supported by several computer algebra systems and another software tools.
 I could demonstrate how to use it, and provide further guidelines for using
 it in your code. This could cover the new Python packages 
 [`scscp`](https://pypi.python.org/pypi/scscp/) and 
-[`openmath`](https://pypi.python.org/pypi/openmath).
+[`openmath`](https://pypi.python.org/pypi/openmath) (see their repositories
+at [`py-scscp`(https://github.com/OpenMath/py-scscp/) and
+[`py-openmath`](https://github.com/OpenMath/py-openmath)).
 
 * **How to contribute to software projects represented at the workshop?**: quick guides
 provided by members of developers' teams of relevant systems
