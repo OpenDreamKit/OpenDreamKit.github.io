@@ -18,7 +18,7 @@ This means that all deliverables due by this date will have to be finished for m
 
 (please suggest other topics of discussions)
 
-- Short sum up of what the Review of the 1st reporting period means for ODK
+- [Short sum up of what the Review of the 1st reporting period means for ODK](/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation.md)
 - Discussions to finish the work due for February
 - Amendment to add FAU Erlangen-Nürnberg + other small details
 - Key performance Indicators
