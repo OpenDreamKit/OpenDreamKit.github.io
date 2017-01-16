@@ -3,7 +3,7 @@ layout: slides
 title: "Edimburgh Steering Committee meeting"
 theme: white
 transition: none
-author: Benoît PILORGET
+author: BenoÃ®t PILORGET
 period: 1st Reporting period from Sept. 2015 to February 2017
 ---
 
@@ -30,7 +30,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 ## 2nd Amendment to the Grant
 
--Addition of FAU Erlangen-Nürnberg
+-Addition of FAU Erlangen-NÃ¼rnberg
     - VOTE
 
 --
@@ -53,7 +53,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 - Quality Review Board ( Hans Fangohr, Alexander Konovalov, Konrad Hinsen, Mike Croucher)
     - Private Repository set up
     - Will meet after every Reporting Period: 1st meeting in March/April before the Review
-   
+
 
 ---
 
