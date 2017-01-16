@@ -28,7 +28,7 @@ each day we will hear brief reports from group activities.
 
 * Mike Croucher : **Is your research software correct?**
 
-* Raniere Silva: **Software Sustainability on Computational Mathematics**
+* Raniere Silva: [Software Sustainability on Computational Mathematics](https://github.com/rgaiacs/2017-01-computational-mathematics-with-jupyter/releases/tag/2017-01-16)
 
 * Alexander Konovalov: **Reproducible computational experiments 
 using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
