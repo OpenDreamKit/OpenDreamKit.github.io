@@ -37,6 +37,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 - Deliverables to submit: how to finish the work
 From Month 12 or before
+
     - D1.3: Internal Progress Reports year 1 #19
     - D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components #62
     - D4.1: Python/Cython bindings for PARI and its integration in Sage #83
@@ -45,6 +46,7 @@ From Month 12 or before
      butterflies #120
 
 From Month 18
+
     - D1.4: Innovation Management Plan v1 #20
     - D2.4: A short course for lecturers on using OpenDreamKit for delivering mathematical education #44
     - D3.2: Understand and document SageMathCloud backend code #61
