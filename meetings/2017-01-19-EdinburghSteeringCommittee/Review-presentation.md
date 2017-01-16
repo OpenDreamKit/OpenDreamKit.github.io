@@ -18,7 +18,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 ## Tentative agenda 1/2
 - A three day event
-- Day 1: Quality Review Board meeting, rehearsals
+    - Day 1: Quality Review Board meeting, rehearsals
     - Day 2: Rehearsals, preparation for the Review
     - Day 3: Official Review
 
@@ -28,8 +28,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 ## Tentative agenda 2/2
 
-- Presence: WP leaders + Coordinator + project manager
-    At least: 1 participant per partner
+- Presence: WP leaders + Coordinator + project manager (At least: 1 participant per partner)
 
 - The meeting normally lasts one day with the following tentative agenda:
     - Welcome and tour de table
@@ -66,9 +65,9 @@ Presentations during the Review should contain:
 
 The Consortium can expect to be graded following this scale:
 
-- 4/4: Excellent progress (the project has fully achieved its objectives and technical goals for the period and has even exceeded expectations)
-- 3/4: Good progress (the project has achieved most of its objectives and technical goals for the period with relatively minor deviations)
-- 2/4: Acceptable progress (the project has achieved some of its objectives; however, corrective action will be required)
+- 4/4: Excellent progress (objectives and technical goals for the period fully achieved and even exceeded expectations)
+- 3/4: Good progress (most of objectives and technical goals achieved for the period with relatively minor deviations)
+- 2/4: Acceptable progress (some of its objectives achieveed; however, corrective action will be required)
 - 1/4: Unsatisfactory progress (the project has failed to achieve key objectives and/or is not at all on schedule) = project is cancelled
 
 ---
