@@ -164,6 +164,8 @@ provided by members of developers' teams of relevant systems
 
 * **Extending and integrating nbval and nbdime features** Developers of nbval and nbdime and others interested in contributing should meet to extend nbval and possibly nbdime.
 
+* **How to make a GAP package** (lead: Alexander Konovalov)
+
 ## Desirable tutorials
 
 Please get in touch if you're able to cover this in your talk/tutorial/sprint:
