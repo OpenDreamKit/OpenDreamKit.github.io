@@ -42,6 +42,10 @@ prior to the workshop, we will help you with this (for example, install
 [Jupyter](http://jupyter.org/) to follow the forthcoming Jupyter tutorial;
 install releases or development versions of GAP, SageMath, etc.)
 
+* **Integrate Semigroups++ into Sage**: we will attempt to
+  incorporate
+  [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
+  Sage. 
 
 ## Tuesday, 17th January
 
@@ -62,6 +66,11 @@ and we will help to convert them to Jupyter notebooks
 * **Further practicalities** of [Jupyter](http://jupyter.org/), 
 [nbdime](https://github.com/jupyter/nbdime),
 [JupyterHub](https://github.com/jupyterhub/jupyterhub) and other tools
+
+* **Integrate Semigroups++ into Sage**: we will attempt to
+  incorporate
+  [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
+  Sage. 
 
 
 ## Wednesday, 18th January
@@ -86,6 +95,11 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
 
 * **Improving documentation for [An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 (lead: Mike Croucher): follow-up activity for the morning talk
+
+* **Integrate Semigroups++ into Sage**: we will attempt to
+  incorporate
+  [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
+  Sage. 
 
 **Workshop dinner:** Wednesday, 18th January, 18.30-21.00, [Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) (19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
 
