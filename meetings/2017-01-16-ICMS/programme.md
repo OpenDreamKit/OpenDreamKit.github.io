@@ -18,6 +18,7 @@ each day we will hear brief reports from group activities.
 - **11.00** - coffee break
 - **13.00** - lunch
 - **15.30** - coffee break
+- **16.45** - reports from groups
 - **17.00** - ICMS is closed for visitors
 
 ## Monday, 16th January
@@ -46,6 +47,17 @@ install releases or development versions of GAP, SageMath, etc.)
   incorporate
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
+
+* **How to contribute to GAP and make a GAP package** (lead: Alexander Konovalov)
+
+* **Jupyter Interactions** Develop this skeletal repo into a community project. Aim is to have a range of peer reviewed interactive pieces of code for use in teaching and research. [https://github.com/mikecroucher/jupyter-interactions](https://github.com/mikecroucher/jupyter-interactions) (lead: Mike Croucher)
+
+* **Developing [Software Carpentry lesson on SageMath](http://alex-konovalov.github.io/sage-lesson/)**
+(leads: Alexander Konovalov, Raniere Silva): we would like to make progress with establishing
+the Software Carpentry lesson on SageMath, which is being at the early development stage in
+[this repository](https://github.com/alex-konovalov/sage-lesson). If there will be an interest,
+we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/)
+
 
 ## Tuesday, 17th January
 
@@ -138,14 +150,6 @@ We will schedule these sprints during our planning session on Monday,
 dependently on how many participants will be interested to join them.
 Some of these sprints may be recurring for several days.
 
-* **Developing [Software Carpentry lesson on SageMath](http://alex-konovalov.github.io/sage-lesson/)**
-(leads: Alexander Konovalov, Raniere Silva): we would like to make progress with establishing
-the Software Carpentry lesson on SageMath, which is being at the early development stage in
-[this repository](https://github.com/alex-konovalov/sage-lesson). If there will be an interest,
-we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/)
-
-* **Tools for computations in semigroups** (lead: James Mitchell)
-
 * **Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)**
 (lead: Alexander Konovalov): SCSCP is a remote procedure call protocol
 supported by several computer algebra systems and another software tools.
@@ -156,17 +160,10 @@ it in your code. This could cover the new Python packages
 at [`py-scscp`(https://github.com/OpenMath/py-scscp/) and
 [`py-openmath`](https://github.com/OpenMath/py-openmath)).
 
-* **How to contribute to software projects represented at the workshop?**: quick guides
-provided by members of developers' teams of relevant systems
-
 * **[NumericalSgps](https://www.gap-system.org/Packages/numericalsgps.html)**
 (lead: Pedro A. García Sánchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
 
 * **Extending and integrating nbval and nbdime features** Developers of nbval and nbdime and others interested in contributing should meet to extend nbval and possibly nbdime.
-
-* **How to make a GAP package** (lead: Alexander Konovalov)
-
-* **Jupyter Interactions** Develop this skeletal repo into a community project. Aim is to have a range of peer reviewed interactive pieces of code for use in teaching and research. [https://github.com/mikecroucher/jupyter-interactions](https://github.com/mikecroucher/jupyter-interactions) (lead: Mike Croucher)
 
 ## Desirable tutorials
 
