@@ -95,6 +95,7 @@ Officially 60 days after the 28/02/2017 to deliver periodic reports
 - Periodic financial report (prepared and written by UPSud finance department and other admins) 
 
 => PLANNING  WILL BE DONE WHEN DATE IS KNOW
+---
 
 
 </section>
