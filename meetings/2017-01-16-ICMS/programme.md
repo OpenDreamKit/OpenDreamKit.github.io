@@ -166,7 +166,7 @@ provided by members of developers' teams of relevant systems
 
 * **How to make a GAP package** (lead: Alexander Konovalov)
 
-* **Jupyter Interactions** Develop this skeletal repo into a community project. https://github.com/mikecroucher/jupyter-interactions (lead: Mike Croucher)
+* **Jupyter Interactions** Develop this skeletal repo into a community project. Aim is to have a range of peer reviewed interactive pieces of code for use in teaching and research. [https://github.com/mikecroucher/jupyter-interactions](https://github.com/mikecroucher/jupyter-interactions) (lead: Mike Croucher)
 
 ## Desirable tutorials
 
