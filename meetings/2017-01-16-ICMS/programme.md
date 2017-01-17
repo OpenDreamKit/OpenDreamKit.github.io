@@ -33,7 +33,7 @@ each day we will hear brief reports from group activities.
 
 * Alexander Konovalov: **Reproducible computational experiments
 using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
-[[pdf]](talks/2017-01-16-GAP-Docker-Konovalov.pdf)
+[[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-16-GAP-Docker-Konovalov.pdf)
 
 ### Sprints
 
@@ -66,10 +66,10 @@ we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov
 
 * Thomas Kluyver: **Introduction to [Jupyter](http://jupyter.org/)**
 
-* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)** [[pdf]](talks/nbdime.pdf)
+* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/nbdime.pdf)
 
 * Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
-[[pdf]](talks/2017-01-17-Jupyter-Workshop-NBVAL-Fangohr-etal.pdf)
+[[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-17-Jupyter-Workshop-NBVAL-Fangohr-etal.pdf)
 
 ### Sprints (afternoon)
 
