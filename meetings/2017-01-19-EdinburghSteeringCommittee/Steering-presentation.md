@@ -94,7 +94,7 @@ From Month 18
    - William Stein, CEO of SageMath, Inc. (SEM)
    - Paul Zimmermann, INRIA	        
    
- --
+--
  
 A Non-Disclosure Agreement agreement was sent to each. Signed documents to arrive soon.
 
