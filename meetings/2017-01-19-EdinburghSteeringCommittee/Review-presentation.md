@@ -3,7 +3,7 @@ layout: slides
 title: "Spring 2017 Review"
 theme: white
 transition: none
-author: Benoit PILORGET
+author: Benoît PILORGET
 period: 1st Reporting period from Sept. 2015 to February 2017
 ---
 
@@ -18,8 +18,8 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 ## Tentative agenda 1/2
 - A three day event
-    - Day 1: Quality Review Board meeting, rehearsals
-    - Day 2: Rehearsals, preparation for the Review
+    - Day 1: Mock presentations (just like for the review but without Reviewers)
+    - Day 2: Project meetings (Steering, Quality Review Board...)
     - Day 3: Official Review
 
 + Coding sprints may be added to that
@@ -33,7 +33,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 - The meeting normally lasts one day with the following tentative agenda:
     - Welcome and tour de table
     - General introduction by the Coordinator 
-    - Presentation on the WPs and their relation to the deliverables
+    - Presentation on WPs and related deliverables
     - Presentation on dissemination, management, and use of resources
     - Discussion among the monitors and presentation of a brief assessment presentation
 
@@ -89,6 +89,6 @@ Officially 60 days after the 28/02/2017 to deliver periodic reports
 - Periodic technical report (By coordinator and sites)
 - Periodic financial report (prepared and written by UPSud finance department and other admins) 
 
-=> PLANNING  WILL BE DONE WHEN DATE IS KNOWN
+=> PLANNING  WILL BE DONE WHEN REVIEW DATE IS KNOWN
 
 </section>
