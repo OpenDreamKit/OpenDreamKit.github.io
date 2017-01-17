@@ -68,11 +68,11 @@ From Month 18
 
 -Addition of FAU Erlangen-Nürnberg: Michael Kohlhase's new position in FAU
 
-    - Transfer of most Person-Months and finance from Jacobsuni to FAU
-    - Transfer of WP6, most taks and deliverables lead to FAU
-    - Keeping Jacobsuni as partner: Florian Rabe will lead
+   - Transfer of most Person-Months and finance from Jacobsuni to FAU
+   - Transfer of WP6, most taks and deliverables lead to FAU
+   - Keeping Jacobsuni as partner: Florian Rabe will lead
 
-- Other modifications: see #193
+- Other modifications: [see issue #193](https://github.com/OpenDreamKit/OpenDreamKit/issues/193)
 VOTE
 
 ---
@@ -86,15 +86,14 @@ VOTE
 ## Advisory and Quality Review Boards
 
 - Advisory Board set up: 7 members
-
-Name			Institute			Role
-Lorena Barba	  George Washington University	     (power)Users in scientific Python Community
-Jacques Carette	  McMaster University	Computer     Algebra systems and designs, proof systems
-Istvan Csabai	  Eötvös University Budapest	     Computing centers, users in other disciplines
-Françoise Genova  Observatoire de Strasbourg	     Community building (lead of Virtual Observatory)
-Konrad Hinsen	  Centre de Biophysique Moléculaire  Scientific Python developers, reproducibility
-William Stein	  CEO of SageMath, Inc. (SEM)	     SageMathcloud, business model
-Paul Zimmermann	  INRIA	                             Computer algebra developers
+     NAME                   INSTITUTE                                   ROLE
+   - Lorena Barba	  George Washington University	     (power)Users in scientific Python Community
+   - Jacques Carette	  McMaster University	Computer     Algebra systems and designs, proof systems
+   - Istvan Csabai	  Eötvös University Budapest	     Computing centers, users in other disciplines
+   - Françoise Genova  Observatoire de Strasbourg	     Community building (lead of Virtual Observatory)
+   - Konrad Hinsen	  Centre de Biophysique Moléculaire  Scientific Python developers, reproducibility
+   - William Stein	  CEO of SageMath, Inc. (SEM)	     SageMathcloud, business model
+   - Paul Zimmermann	  INRIA	                             Computer algebra developers
 
 A Non-Disclosure Agreement agreement was sent to each. Signed documents to arrive soon.
 
