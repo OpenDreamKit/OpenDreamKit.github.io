@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides
 title: "Edimburgh Steering Committee meeting"
 theme: white
@@ -64,25 +64,38 @@ From Month 18
 
 ## 2nd Amendment to the Grant
 
--Addition of FAU Erlangen-Nürnberg
-    - VOTE
+-Addition of FAU Erlangen-Nürnberg: Michael Kohlhase's new position in FAU
+    - Transfer of most Person-Months and finance from Jacobsuni to FAU
+    - Transfer of WP6, most taks and deliverables lead to FAU
+    - Keeping Jacobsuni as partner: Florian Rabe will lead
 
---
+- Other modifications: see #193
 
-- Other modifications
-
-
+-> VOTE
 
 ---
 
 ## Key Performance Indicators
 
+#179 Tentative list of realistic and meaningful indicators thought through (5 types of KPI)
 
 ---
 
 ## Advisory and Quality Review Boards
 
-- Advisory Board set up
+- Advisory Board set up: 7 members
+
+Name			Institute			Role
+Lorena Barba	  George Washington University	     (power)Users in scientific Python Community
+Jacques Carette	  McMaster University	Computer     Algebra systems and designs, proof systems
+Istvan Csabai	  Eötvös University Budapest	     Computing centers, users in other disciplines
+Françoise Genova  Observatoire de Strasbourg	     Community building (lead of Virtual Observatory)
+Konrad Hinsen	  Centre de Biophysique Moléculaire  Scientific Python developers, reproducibility
+William Stein	  CEO of SageMath, Inc. (SEM)	     SageMathcloud, business model
+Paul Zimmermann	  INRIA	                             Computer algebra developers
+
+A Non-Disclosure Agreement agreement was sent to each. Signed documents to arrive soon.
+
 
 - Quality Review Board ( Hans Fangohr, Alexander Konovalov, Konrad Hinsen, Mike Croucher)
     - Private Repository set up
