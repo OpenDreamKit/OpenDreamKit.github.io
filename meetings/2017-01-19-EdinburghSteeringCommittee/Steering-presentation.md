@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Edimburgh Steering Committee meeting"
+title: "Edinburgh Steering Committee meeting"
 theme: white
 transition: none
 author: Benoît PILORGET
