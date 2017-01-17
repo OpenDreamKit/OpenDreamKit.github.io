@@ -36,8 +36,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 --
 
-- Deliverables to submit: how to finish the work
-From Month 12 or before
+- Deliverables to submit from Month 12 or before:
 
     - D1.3: Internal Progress Reports year 1 [#19](https://github.com/OpenDreamKit/OpenDreamKit/issues/19)
     - D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components [#62](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
@@ -48,7 +47,7 @@ From Month 12 or before
 
 --
 
-- From Month 18
+- Twelve Deliverables to submit at Month 18:
 
     - D1.4: Innovation Management Plan v1 [#20](https://github.com/OpenDreamKit/OpenDreamKit/issues/20)
     - D2.4: A short course for lecturers on using OpenDreamKit for delivering mathematical education [#44](https://github.com/OpenDreamKit/OpenDreamKit/issues/44)
@@ -56,12 +55,16 @@ From Month 12 or before
     - D4.3: Distributed, Collaborative, Versioned Editing of Active Documents in MathHub.info [#92](https://github.com/OpenDreamKit/OpenDreamKit/issues/92)
     - D4.8: Facilities for running notebooks as verification tests [#98](https://github.com/OpenDreamKit/OpenDreamKit/issues/98)
     - D4.9: In-place computation in active documents (context/computation) [#97](https://github.com/OpenDreamKit/OpenDreamKit/issues/97)
-    - D5.2: Facility to compile Pythran compliant user kernels and Sage code and automatically take advantage of multi-cores and SIMD instruction units in Cython [#115](https://github.com/OpenDreamKit/OpenDreamKit/issues/115)
     
 --
+
+    - D5.2: Facility to compile Pythran compliant user kernels and Sage code and automatically take advantage of multi-cores and SIMD instruction units in Cython [#115](https://github.com/OpenDreamKit/OpenDreamKit/issues/115)
     - D5.4: Make Pythran typing better to improve error information [#117](https://github.com/OpenDreamKit/OpenDreamKit/issues/117)
     - D5.5: Write an assembly superoptimiser supporting AVX and upcoming Intel processor extensions for the MPIR library and optimise MPIR for modern processors [#118](https://github.com/OpenDreamKit/OpenDreamKit/issues/118)
     - D5.6: Parallelise the relation sieving component of the Quadratic Sieve and implement a parallel version of Block-Wiederman linear algebra over GF2 and implement large prime variants [#119](https://github.com/OpenDreamKit/OpenDreamKit/issues/119)
+
+--
+
     - D5.7: Take advantage of multiple cores in the matrix Fourier Algorithm component of the FFT for integer and polynomial arithmetic,and include assembly primitives for SIMD processor instructions (e.g. AVX, etc.), especially in the FFT [#120](https://github.com/OpenDreamKit/OpenDreamKit/issues/120)
     - D7.1: The flow of code and patches in open source projects [#148](https://github.com/OpenDreamKit/OpenDreamKit/issues/148)
     
