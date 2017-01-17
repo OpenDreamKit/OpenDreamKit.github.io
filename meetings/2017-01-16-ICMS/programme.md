@@ -65,7 +65,7 @@ we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov
 
 * Thomas Kluyver: **Introduction to [Jupyter](http://jupyter.org/)**
 
-* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)**
+* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)** - [PDF of presentation](presentations/nbdime.pdf)
 
 * Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
 
