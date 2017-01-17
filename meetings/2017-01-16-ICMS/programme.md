@@ -89,9 +89,6 @@ and we will help to convert them to Jupyter notebooks
 
 ### Presentations and tutorials (morning)
 
-* Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
-with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
-
 * Jeroen Demeyer: **IPywidgets and interact functions**
 
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
@@ -113,6 +110,11 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
 
+* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom): 
+Sage code for Tannakian symbols, a tool for computations in certain 
+algebraic structures called lambda-rings and Adams algebras, which 
+appear naturally in number theory and representation theory.
+
 **Workshop dinner:** Wednesday, 18th January, 18.30-21.00, [Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) (19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
 
 ## Thursday, 19th January
@@ -129,6 +131,9 @@ the afternoon.
 ### Presentations and tutorials (afternoon)
 
 * Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
+
+* Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
+with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 
 ## Friday, 20th January
