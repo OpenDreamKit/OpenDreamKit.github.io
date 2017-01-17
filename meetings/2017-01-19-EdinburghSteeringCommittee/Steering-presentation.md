@@ -26,6 +26,7 @@ period: 1st Reporting period from Sept. 2015 to February 2017
     - D2.3: Review on emerging technologies #43
     - D3.1: Virtual images and containers #58
     - D4.2: Active/Structured Documents Requirements and existing Solutions #91
+--
     - D4.6: Tools for collaborating on notebooks via version-control deliverable #96
     - D5.1: Turn the Python prototypes for tree exploration into production code, integrate to Sage #107
     - D5.3: Sun Grid Engine support for Project Jupyter Hub #116
@@ -44,7 +45,7 @@ From Month 12 or before
     - D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular #93
     - D4.5: Sage notebook / Jupyter notebook convergence #94
      butterflies #120
-
+--
 From Month 18
 
     - D1.4: Innovation Management Plan v1 #20
@@ -54,6 +55,7 @@ From Month 18
     - D4.8: Facilities for running notebooks as verification tests #98
     - D4.9: In-place computation in active documents (context/computation) #97
     - D5.2: Facility to compile Pythran compliant user kernels and Sage code and automatically take advantage of multi-cores and SIMD instruction units in Cython #115
+--
     - D5.4: Make Pythran typing better to improve error information #117
     - D5.5: Write an assembly superoptimiser supporting AVX and upcoming Intel processor extensions for the MPIR library and optimise MPIR for modern processors #118
     - D5.6: Parallelise the relation sieving component of the Quadratic Sieve and implement a parallel version of Block-Wiederman linear algebra over GF2 and implement large prime variants #119
@@ -65,19 +67,19 @@ From Month 18
 ## 2nd Amendment to the Grant
 
 -Addition of FAU Erlangen-Nürnberg: Michael Kohlhase's new position in FAU
+
     - Transfer of most Person-Months and finance from Jacobsuni to FAU
     - Transfer of WP6, most taks and deliverables lead to FAU
     - Keeping Jacobsuni as partner: Florian Rabe will lead
 
 - Other modifications: see #193
-
--> VOTE
+VOTE
 
 ---
 
 ## Key Performance Indicators
 
-#179 Tentative list of realistic and meaningful indicators thought through (5 types of KPI)
+[Tentative list of realistic and meaningful indicators thought through (5 types of KPI)](https://github.com/OpenDreamKit/OpenDreamKit/issues/179)
 
 ---
 
