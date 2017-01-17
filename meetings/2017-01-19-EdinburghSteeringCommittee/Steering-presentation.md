@@ -66,14 +66,13 @@ From Month 18
 
 ## 2nd Amendment to the Grant
 
--Addition of FAU Erlangen-Nürnberg: Michael Kohlhase's new position in FAU
+- Addition of FAU Erlangen-Nürnberg: Michael Kohlhase's new position in FAU
 
    - Transfer of most Person-Months and finance from Jacobsuni to FAU
    - Transfer of WP6, most taks and deliverables lead to FAU
    - Keeping Jacobsuni as partner: Florian Rabe will lead
 
-- Other modifications: [see issue #193](https://github.com/OpenDreamKit/OpenDreamKit/issues/193)
-VOTE
+- Other modifications: [see issue #193](https://github.com/OpenDreamKit/OpenDreamKit/issues/193) =>VOTE
 
 ---
 
@@ -85,18 +84,18 @@ VOTE
 
 ## Advisory and Quality Review Boards
 
-- Advisory Board set up: 7 members
-     NAME                   INSTITUTE                                   ROLE
-   - Lorena Barba	  George Washington University	     (power)Users in scientific Python Community
-   - Jacques Carette	  McMaster University	Computer     Algebra systems and designs, proof systems
-   - Istvan Csabai	  Eötvös University Budapest	     Computing centers, users in other disciplines
-   - Françoise Genova  Observatoire de Strasbourg	     Community building (lead of Virtual Observatory)
-   - Konrad Hinsen	  Centre de Biophysique Moléculaire  Scientific Python developers, reproducibility
-   - William Stein	  CEO of SageMath, Inc. (SEM)	     SageMathcloud, business model
-   - Paul Zimmermann	  INRIA	                             Computer algebra developers
-
+- Advisory Board set up: 7 members                        
+     
+   - Lorena Barba, George Washington University	     
+   - Jacques Carette, McMaster University	     
+   - Istvan Csabai, Eötvös University Budapest	   
+   - Françoise Genova, Observatoire de Strasbourg	     
+   - Konrad Hinsen, Centre de Biophysique Moléculaire 
+   - William Stein, CEO of SageMath, Inc. (SEM)
+   - Paul Zimmermann, INRIA	        
+   
+ --
 A Non-Disclosure Agreement agreement was sent to each. Signed documents to arrive soon.
-
 
 - Quality Review Board ( Hans Fangohr, Alexander Konovalov, Konrad Hinsen, Mike Croucher)
     - Private Repository set up
