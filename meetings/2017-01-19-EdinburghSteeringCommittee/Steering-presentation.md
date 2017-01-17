@@ -95,6 +95,7 @@ From Month 18
    - Paul Zimmermann, INRIA	        
    
  --
+ 
 A Non-Disclosure Agreement agreement was sent to each. Signed documents to arrive soon.
 
 - Quality Review Board ( Hans Fangohr, Alexander Konovalov, Konrad Hinsen, Mike Croucher)
