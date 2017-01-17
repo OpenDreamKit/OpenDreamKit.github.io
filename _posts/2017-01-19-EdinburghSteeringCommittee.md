@@ -14,7 +14,8 @@ This means that all deliverables due by this date will have to be finished for m
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
-## Tentative agenda
+## Tentative agenda [(++)](/meetings/2017-01-19-EdinburghSteeringCommittee/Steering-presentation)
+
 
 (please suggest other topics of discussions)
 
