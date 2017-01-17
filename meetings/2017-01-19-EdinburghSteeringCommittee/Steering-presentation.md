@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides
 title: "Edimburgh Steering Committee meeting"
 theme: white
