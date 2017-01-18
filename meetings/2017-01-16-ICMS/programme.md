@@ -27,12 +27,13 @@ each day we will hear brief reports from group activities.
 
 ### Presentations and tutorials (morning)
 
-* Mike Croucher : **Is your research software correct?**
+* Mike Croucher : [**Is your research software correct?**](http://mikecroucher.github.io/MLPM_talk/)
 
-* Raniere Silva: [Software Sustainability on Computational Mathematics](https://github.com/rgaiacs/2017-01-computational-mathematics-with-jupyter/releases/tag/2017-01-16)
+* Raniere Silva: [**Software Sustainability on Computational Mathematics**](https://github.com/rgaiacs/2017-01-computational-mathematics-with-jupyter/releases/tag/2017-01-16)
 
 * Alexander Konovalov: **Reproducible computational experiments
 using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
+[[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-16-GAP-Docker-Konovalov.pdf)
 
 ### Sprints
 
@@ -65,10 +66,10 @@ we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov
 
 * Thomas Kluyver: **Introduction to [Jupyter](http://jupyter.org/)**
 
-* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)**
+* Vidar T. Fauske: **Notebooks in Version Control - diffing and merging with [nbdime](https://github.com/jupyter/nbdime)** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/nbdime.pdf)
 
 * Hans Fangohr: **Introduction to [NBVAL](https://github.com/computationalmodelling/nbval)** (a `py.test` plugin to validate Jupyter Notebooks)
-
+[[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-17-Jupyter-Workshop-NBVAL-Fangohr-etal.pdf)
 
 ### Sprints (afternoon)
 
@@ -89,14 +90,11 @@ and we will help to convert them to Jupyter notebooks
 
 ### Presentations and tutorials (morning)
 
-* Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
-with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
-
 * Jeroen Demeyer: **IPywidgets and interact functions**
 
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
-* Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics**
+* Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-18-Numbas-Christian-Lawson-Perfect.pdf)
 
 ### Sprints (afternoon)
 
@@ -112,6 +110,11 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
   incorporate
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
+
+* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom): 
+Sage code for Tannakian symbols, a tool for computations in certain 
+algebraic structures called lambda-rings and Adams algebras, which 
+appear naturally in number theory and representation theory.
 
 **Workshop dinner:** Wednesday, 18th January, 18.30-21.00, [Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) (19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
 
@@ -129,6 +132,9 @@ the afternoon.
 ### Presentations and tutorials (afternoon)
 
 * Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
+
+* Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
+with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 
 ## Friday, 20th January

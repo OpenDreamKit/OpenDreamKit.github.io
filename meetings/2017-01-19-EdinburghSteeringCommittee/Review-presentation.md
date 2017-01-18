@@ -3,7 +3,7 @@ layout: slides
 title: "Spring 2017 Review"
 theme: white
 transition: none
-author: Benoit PILORGET
+author: Benoît PILORGET
 period: 1st Reporting period from Sept. 2015 to February 2017
 ---
 
@@ -23,10 +23,9 @@ See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization
 ---
 
 ## Tentative agenda
-- A three day event:
 
-    - Day 1: Quality Review Board meeting, rehearsals
-    - Day 2: Rehearsals, preparation for the Review
+    - Day 1: Mock presentations (just like for the review but without Reviewers)
+    - Day 2: Project meetings (Steering, Quality Review Board...)
     - Day 3: Official Review
 
 - Coding sprints may be added to that

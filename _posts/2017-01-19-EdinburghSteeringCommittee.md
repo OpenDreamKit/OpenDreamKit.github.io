@@ -9,12 +9,16 @@ This means that all deliverables due by this date will have to be finished for m
 
 - Date: 19/01/2017
 - Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
-- Starting hour and precise room location at the ICMS to be specified
+- 10am-12am (local time), lecture hall on the 4th room
 - [Participants](https://framadate.org/IsCZEQqctimhKiHU)
+- [Pad for discussions](https://mensuel.framapad.org/p/odk-sc)
+- [Gitter chat](https://gitter.im/OpenDreamKit)
+- [Appear.in chat room](https://appear.in/odk-sc) (backup in case videoconference would fail)
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
-## Tentative agenda
+## Tentative agenda [(++)](/meetings/2017-01-19-EdinburghSteeringCommittee/Steering-presentation)
+
 
 (please suggest other topics of discussions)
 
@@ -24,6 +28,8 @@ This means that all deliverables due by this date will have to be finished for m
 - Key performance Indicators
 - Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
 - Discuss WP7 topics in view of personnel changes
+- Call [EINFRA-12-2017(A)](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/einfra-12-2017.html)
+- Additional calls to watch? (Paul)
 
 ## [Readme](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/README.md) to know how to submit deliverables
 

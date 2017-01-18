@@ -28,10 +28,12 @@ period: Reporting period from Sept. 2015 to February 2017
 ---
 ## Hiring
 
-- failed to recruit an engineer on time: only two reasonable
-  candidates among the 20 interviews and they did not take the job
-  (September 2015). We are in the process of hiring an engineer for
-  September 2016.
+- **Vincent Klein** from march 1st 2017
+  - Former engineer at Bordeaux
+  - Will work on packaging, Sage architecture and combinatorics
+
+- **Sébastien Labbé** was recruited as a CNRS Chargé de Recherche
+  and will become part of the ODK team in Bordeaux
 
 ---
 ## Achievements
@@ -46,17 +48,23 @@ period: Reporting period from Sept. 2015 to February 2017
 
 - WP5 [50 Sage tickets](https://trac.sagemath.org/query?author=~Vincent+Delecroix&or&author=~Adrien+Boussicault&max=500&col=id&col=summary&col=status&col=milestone&col=component&desc=1&order=milestone) about algebra, arithmetic, combinatorics and core functionalities.
 
-- [PARI/GP port in javascript](http://pari.math.u-bordeaux.fr/gp.html)
+- [PARI/GP port in javascript](http://pari.math.u-bordeaux.fr/gp.html) including graphics!
 
-- [PARI/GP release (2.7.6)](http://pari.math.u-bordeaux.fr/download.html) (bugfix release)
+- Pari ateliers
+  - [2016 in Grenoble](http://pari.math.u-bordeaux.fr/Events/PARI2016/)
+  - [2017 in Lyon](http://pari.math.u-bordeaux.fr/Events/PARI2017/)
+
+- PARI/GP releases, see http://pari.math.u-bordeaux.fr/timeline.html. The last stable release 2.9.1 (Dec 1 2016) includes includes the achievment of [D5.10 generic parallelisation engine for PARI](https://github.com/OpenDreamKit/OpenDreamKit/issues/108)
+
+- Progress on [cypari2](https://github.com/defeo/cypari2): now installs as a Python library with both Python2 and Python3
 
 ---
 ## Main upcoming tasks and deliverables
 
 - [T5.6: HPC infrastructure for combinatorics](https://github.com/OpenDreamKit/OpenDreamKit/issues/104)
-  The engineer to be recruited will work intensively on this task. We
-  already have a prototype for the C library.
+  We already have a prototype for the C library. And two functions got already
+  included in PARI/GP (iteration over permutations and subsets).
 
-- [D5.10: Parallelization engine for pari](https://github.com/OpenDreamKit/OpenDreamKit/issues/108)
+- [workshop on polytopes](https://wiki.sagemath.org/days84)
 
 </section>
