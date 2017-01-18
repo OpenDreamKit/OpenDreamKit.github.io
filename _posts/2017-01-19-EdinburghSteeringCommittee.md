@@ -28,7 +28,8 @@ This means that all deliverables due by this date will have to be finished for m
 - Key performance Indicators
 - Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
 - Discuss WP7 topics in view of personnel changes
-- Call EINFRA-12-2017(A)
+- Call [EINFRA-12-2017(A)](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/einfra-12-2017.html)
+- Additional calls to watch? (Paul)
 
 ## [Readme](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/README.md) to know how to submit deliverables
 

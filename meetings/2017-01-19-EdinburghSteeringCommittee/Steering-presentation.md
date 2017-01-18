@@ -118,6 +118,7 @@ A Non-Disclosure Agreement agreement was sent to each. Signed documents to arriv
 
 ## Call EINFRA-12-2017(A)
 
-Current status
+"Data and Distributed Computing e-infrastructures for Open Science"
+[Link](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/einfra-12-2017.html)
 
 </section>
