@@ -43,15 +43,15 @@ See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization
 - Tentative agenda:
 
     - Welcome and tour de table
-    - General introduction by the Coordinator
+    - General introduction by the coordinator
     - Presentations of deliverables by workpackage
     - Presentation on dissemination, management, and use of resources
     - Discussion among the reviewers
-    - Brief assessment presentation
+    - Brief assessment by the reviewers
 
 ---
 
-## Advice for deliverables presentation
+## Advice for deliverable presentations
 
 Presentations during the review should contain:
 
@@ -61,17 +61,6 @@ Presentations during the review should contain:
 - Partners are involved, estimate of resources used (i.e. number of PMs if possible) and how much ODK helped to this result
 - Brief description of current activities, future outcomes and plans
 - Any reference to the Proposal is welcome
-
----
-
-## Grades
-
-The Consortium can expect to be graded following this scale:
-
-- 4/4: Excellent progress (objectives and technical goals for the period fully achieved and even exceeded expectations)
-- 3/4: Good progress (most of objectives and technical goals achieved for the period with relatively minor deviations)
-- 2/4: Acceptable progress (some of its objectives achieveed; however, corrective action will be required)
-- 1/4: Unsatisfactory progress (the project has failed to achieve key objectives and/or is not at all on schedule) = project is cancelled
 
 ---
 
@@ -86,10 +75,27 @@ The Consortium can expect to be graded following this scale:
 
 ---
 
+## Grades
+
+The Consortium can expect to be graded according to this scale:
+
+- 4/4: Excellent progress (objectives and technical goals for the period fully achieved and even exceeded expectations)
+- 3/4: Good progress (most of objectives and technical goals achieved for the period with relatively minor deviations)
+- 2/4: Acceptable progress (some of its objectives achieveed; however, corrective action will be required)
+- 1/4: Unsatisfactory progress (the project has failed to achieve key objectives and/or is not at all on schedule) = project is cancelled
+
+---
+
 ## Periodic Reports
 
-- Periodic technical report (By coordinator and sites)
-- Periodic financial report (prepared and written by UPSud finance department and other admins) 
+- Periodic technical report (coordination team)
+
+    - starting point: D1.3's report
+
+    - fleshed up to 2-3 pages per work package, typically by giving a
+      longer description of the deliverables
+
+- Periodic financial report (UPSud finance department and other admins)
 
 Deadline:
 
