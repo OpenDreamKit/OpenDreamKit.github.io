@@ -14,50 +14,53 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 {{ page.period }}
 
+- Location: Gent? Brussel?
+
+- Dates: end of April? maybe May (depends on reviewers' availabilities)
+
+See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization-of-official-meetings)
+
 ---
 
-## Tentative agenda 1/2
-- A three day event
+## Tentative agenda
+- A three day event:
+
     - Day 1: Quality Review Board meeting, rehearsals
     - Day 2: Rehearsals, preparation for the Review
     - Day 3: Official Review
 
-+ Coding sprints may be added to that
+- Coding sprints may be added to that
 
----
+--
 
-## Tentative agenda 2/2
+## Tentative agenda for the official review
 
-- Presence: WP leaders + Coordinator + project manager (At least: 1 participant per partner)
+- Presence:
 
-- The meeting normally lasts one day with the following tentative agenda:
+    - WP leaders + Coordinator + project manager
+    - At least 1 representative per site
+
+- Tentative agenda:
+
     - Welcome and tour de table
-    - General introduction by the Coordinator 
-    - Presentation on the WPs and their relation to the deliverables
+    - General introduction by the Coordinator
+    - Presentations of deliverables by workpackage
     - Presentation on dissemination, management, and use of resources
-    - Discussion among the monitors and presentation of a brief assessment presentation
-
----
-
-## When and where
-
-- Either in Gent or in Brussel
-
-- Most probably end of April, beginning of May: the date depends on the reviewers' availabilities
+    - Discussion among the reviewers
+    - Brief assessment presentation
 
 ---
 
 ## Advice for deliverables presentation
 
-Presentations during the Review should contain:
+Presentations during the review should contain:
 
-- Which partners are involved
-- How many/much project resources have been used (i.e. number of PMs if possible) and how much ODK helped to this result
-- What you are supposed to do in the project frame
-- Where you have started
-- What you have done in the deliverable
-- Shortly describe further outcomes, current activities, future plans
-- Any reference to the Proposal is welcome 
+- Short and striking story about the relevance and goal of the deliverable
+- State of the art at beginning of project
+- What was achieved, by ODK / by the community
+- Partners are involved, estimate of resources used (i.e. number of PMs if possible) and how much ODK helped to this result
+- Brief description of current activities, future outcomes and plans
+- Any reference to the Proposal is welcome
 
 ---
 
@@ -74,21 +77,25 @@ The Consortium can expect to be graded following this scale:
 
 ## General advice
 
-- Do NOT answer general questions
-    - Ex: for a question concerning the methodology of an institution, a lab can send the question to the relevant institution administration
- 
-- If you are not certain of the answer, do not hesitate to ask for some time to give clarification
+- You don't have to answer general/administrative questions
+
+  Ex: for a question concerning the methodology of an institution, a lab can send the question to the relevant institution administration
+
+- If you are not certain of the answer, do not hesitate to request
+  time to give clarification
 
 ---
 
 ## Periodic Reports
 
-Officially 60 days after the 28/02/2017 to deliver periodic reports		
-    -> BUT will have to be over for the Review
-
 - Periodic technical report (By coordinator and sites)
 - Periodic financial report (prepared and written by UPSud finance department and other admins) 
 
-=> PLANNING  WILL BE DONE WHEN DATE IS KNOWN
+Deadline:
+
+- officially 60 days after the 28/02/2017
+- BUT will have to be over for the Review
+
+=> PLANNING WILL BE DONE WHEN DATE IS KNOWN
 
 </section>
