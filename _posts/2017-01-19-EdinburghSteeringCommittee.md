@@ -12,6 +12,7 @@ This means that all deliverables due by this date will have to be finished for m
 - 10am-12am (local time), lecture hall on the 4th room
 - [Participants](https://framadate.org/IsCZEQqctimhKiHU)
 - [Pad for discussions](https://mensuel.framapad.org/p/odk-sc)
+- [Gitter chat](https://gitter.im/OpenDreamKit]
 - [Appear.in chat room](https://appear.in/odk-sc) (backup in case videoconference would fail)
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
