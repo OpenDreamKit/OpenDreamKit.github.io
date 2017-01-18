@@ -20,7 +20,7 @@ period: Reporting period from Sept. 2015 to February 2017
 ## Financial and administrative setup
 
 - Everything OK
-- Expenses: mainly salaries, a bit for workshop participations (Kick-off meeting, Sage days 77, Bremen)
+- Expenses: mainly salaries, a bit for workshop participations (Kick-off meeting, Sage days 77, Bremen, Edinburgh)
 
 ---
 
@@ -32,31 +32,36 @@ period: Reporting period from Sept. 2015 to February 2017
 - T5.7 Pythran type inference improvements - Aliasing analysis
   See http://serge-sans-paille.github.io/pythran-stories/identifier-binding-computation.html
 
+- T5.4 Make Pythran typing better to improve information error
+  See http://serge-sans-paille.github.io/pythran-stories/from-pythran-import-typing.html
+
 ---
 
 ## Achievements (2/2)
 
-- T4.8 3D mesh visualization components based on X3DOM
-  See http://yuanxiangfranck.github.io/x3dom-plugins-API/
+- T4.6 A first version of an active SAGE documentation using Jupyter
+  notebook via [Thebe.js](https://github.com/oreillymedia/thebe) was
+  integrated into SAGE 7.4
 
-- T3.3 Debian packaging of recent IPython and Jupyter
+- T4.8 SciviJS 3D mesh visualization components based on threejs with
+  basic jupyter integration See
+  https://www.logilab.org/blogentry/8541176
 
-  [ipython 4.1](https://packages.qa.debian.org/i/ipython.html),
-  [ipykernel 4.3](https://packages.qa.debian.org/i/ipykernel.html),
-  [jupyter-core 4.1](https://packages.qa.debian.org/j/jupyter-core.html),
-  [jupyter-client 4.2](https://packages.qa.debian.org/j/jupyter-client.html)
-
-- T4.6 Active SAGE documentation prototype using Jupyter notebook via [Thebe.js](https://github.com/oreillymedia/thebe)
-  See http://trac.sagemath.org/ticket/20690
+- T3.3 Debian packaging of SageMath should make it into upcoming stable release
+  See https://wiki.debian.org/DebianScience/Sage
 
 ---
 
 ## Main upcoming tasks and deliverables
 
-- T4.8 Make the current 3D mesh visualizer work in Jupyter notebooks, extend its toolset (e.g. vector data representation), apply to CFD/ electromagnetics
+- T4.6 Find the best future proof alternative to Thebe.js and use it
+  to improve SAGE active documentation;
+  https://github.com/jupyterlab/services might be the right candidate
 
-- T4.6 Have SAGE active Jupyter-based documentation improved and integrated into SAGE code base; contribute to Thebe.js
+- T4.8 Improved Jupyter integration of SciviJS, add plugins, see if
+  K3D or vispy can be used alongside SciviJS
 
-- T3.3 Package more and more SAGE components into Debian
+- T3.4 Deploy upgraded Simulagora images with SAGE installed using
+  Debian packages
 
 </section>
