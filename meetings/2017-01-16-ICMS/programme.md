@@ -94,7 +94,7 @@ and we will help to convert them to Jupyter notebooks
 
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
-* Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics**
+* Christian Lawson-Perfect: **[Numbas](http://www.numbas.org.uk/) - free web-based e-assessment system for mathematics** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-18-Numbas-Christian-Lawson-Perfect.pdf)
 
 ### Sprints (afternoon)
 
