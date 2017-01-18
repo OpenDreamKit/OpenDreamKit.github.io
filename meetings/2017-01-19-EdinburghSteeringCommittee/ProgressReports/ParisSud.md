@@ -15,7 +15,6 @@ period: Reporting period from Sept. 2015 to February 2017
 {{ page.period }}
 
 ---
-
 ## Financial and administrative setup
 
 - Everything on rails: money arrived, first expenses done
@@ -38,6 +37,7 @@ period: Reporting period from Sept. 2015 to February 2017
     - January 1st 2016-end of project
     - Works on portability, packaging, infrastructure, ...
 
+--
 -   **Jeroen Demeyer**, Research Engineer
     - Former Sage release manager
     - March 1st-July 1st 2016: employee of Paris Sud
@@ -63,11 +63,15 @@ period: Reporting period from Sept. 2015 to February 2017
 - [D2.2: Community building](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
 - [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43) : in reality lead by UVSQ
 
----
+--
 ## TODO before end February
 
+- Writing of 1st Reporting Period reports: Scientific report and Administrative report
+- [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
 - [D4.4: Basic Jupyter interface](https://github.com/OpenDreamKit/OpenDreamKit/issues/93): to be polished for February
+- [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
 - [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
+- [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
 - [D1.4: Innovation Management Plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/20)
 
 --
@@ -75,7 +79,6 @@ period: Reporting period from Sept. 2015 to February 2017
 
 - Participation to WP6 activities
 - [D3.9: Semantic-aware Sage interface to GAP](https://github.com/OpenDreamKit/OpenDreamKit/issues/68)
-- [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
 - [D4.13: Refactorisation of SageMath's Sphinx documentation system](https://github.com/OpenDreamKit/OpenDreamKit/issues/87)
 - Portability of Sage on Windows (cygwin)
 - Application of containers:
@@ -83,53 +86,58 @@ period: Reporting period from Sept. 2015 to February 2017
   - Continuous integration (sage-patchbot)
 - Participation to the maintenance of the Sage infrastructure
 
---
-## Workshops
+---
+## Workshops and dissemination activities
 
 - [Kickoff](http://127.0.0.1:4000/2015/09/02/KickoffMeeting/)
 
-- Cofunding of the joint [Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November
+- Cofunding of the joint [Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November 2015
     - Theme: SageMathCloud and Jupyter
 
-- Organization of [Sage Days 77](https://wiki.sagemath.org/days77), Cernay, April
+- Organization of [Sage Days 77](https://wiki.sagemath.org/days77), Cernay, April 2016
     - Themes: Packaging, documentation tools, portability
 
-- Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74), Meudon, May
+- Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74), Meudon, May 2016
     - Themes: Manifolds, 3D vizualization
 
 --
-## Workshops (cont'd)
-
-- Sage at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/) (Medellin, Colombia)
+- Sage at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/), Medellin (Colombia), June 2016
     - 2 x 2 hours of Sage tutorials (~50 participants)
     - using [Live USB Keys](http://www.sagemath.org/download-liveusb.html) bought by OpenDreamKit
     - Spanish translation of some introduction Sage tutorials
     - a great success!
 
-- Organization of [Sage Days 78](https://wiki.sagemath.org/days78), Vancouver, June 29--July 1st
+- Organization of [Sage Days 78](https://wiki.sagemath.org/days78), Vancouver, June 29--July 1st 2016
     - Theme: algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
     - 30 participants
 
-- Organization of [Sage Days 75](https://wiki.sagemath.org/days75), Cernay, August 22--26
+--
+- Co-Organization of [Sage Days 75](https://wiki.sagemath.org/days75), Cernay, August 22--26 2016
 
-- Organization of [Women in Sage](https://wiki.sagemath.org/days82), Ris-Orangis, January 9--13
+- Sage presentation at [CoDiMa training school](http://www.codima.ac.uk/school2016/), Edinburgh, October 17--21 2016
 
-- Organization of Jupyter day in December? (or funded by Bordeaux?)
-
----
-## Main upcoming tasks and deliverables
-
-- Writing of 1st Reporting Period reports: Scientific report and Administrative report
-
-- [D4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular](https://github.com/OpenDreamKit/OpenDreamKit/issues/93)
-- [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
-- [D3.3: Support for the SCSCP interface protocol in the distribution of all relevant components (Sage, GAP, etc.)](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
+- Participation to [Sage Days 79](https://wiki.sagemath.org/days79), Jerusalem, November 21--24 2016
+    - themes: geometric combinatorics and symbolic dynamics
 
 --
-## Upcoming events
+- Organization of [Jupyter day](http://reseau-loops.github.io/journee_2016_12_jupyter.html), Orsay, December 2016
+
+- Discussions with secondary school French institutions (académie de Versailles) about using Sage 
+
+- Organization of [Women in Sage](https://wiki.sagemath.org/days82), Ris-Orangis, January 9--13
+    - Themes: algebraic combinatorics, number theory, research coding, contributions
+    - 20 participants
+
+--
+## Upcoming workshops 
+
+- [Sage Days 85](https://wiki.sagemath.org/days85): (March? 2017) (to be confirmed) packaging, documentation tools
+
+- [Sage Days 86](https://wiki.sagemath.org/days86): (May 8-12, 2017, CRM, Montréal, Canada) Algebra and Words in Combinatorics
 
 - Calcul Mathématique Libre 2018
     - Rejected from CIRM first call for 2018
-    - Planning to reapply while looking for other hosting options
+    - Planning to reapply while looking for other hosting options 
+
 
 </section>
