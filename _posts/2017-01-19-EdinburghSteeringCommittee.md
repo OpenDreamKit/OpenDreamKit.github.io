@@ -9,8 +9,9 @@ This means that all deliverables due by this date will have to be finished for m
 
 - Date: 19/01/2017
 - Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
-- Starting hour and precise room location at the ICMS to be specified
+- 10am-12am (local time), lecture hall on the 4th room
 - [Participants](https://framadate.org/IsCZEQqctimhKiHU)
+- [Pad for discussions](https://mensuel.framapad.org/p/odk-sc)
 
 ## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
 
