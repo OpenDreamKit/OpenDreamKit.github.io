@@ -2,38 +2,33 @@
 layout: post
 title: Biannual ODK Steering Committee meeting in Edinburgh
 ---
-The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh in order to organise it along with the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop. Its main objective is to finalise all deliverables due for Month 18, aka February 2017, (end of the hard deadline known as the 1st Reporting Period). 
 
-This means that all deliverables due by this date will have to be finished for mid-February so that they can be looked over.
-
+The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh at the occasion of the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop.
 
 - Date: 19/01/2017
 - Location: [ICMS](http://www.icms.org.uk/), Edinburgh, United-Kingdom
 - 10am-12am (local time), lecture hall on the 4th room
 - [Participants](https://framadate.org/IsCZEQqctimhKiHU)
-- [Pad for discussions](https://mensuel.framapad.org/p/odk-sc)
+- [Pad](https://mensuel.framapad.org/p/odk-sc)
 - [Gitter chat](https://gitter.im/OpenDreamKit)
 - [Appear.in chat room](https://appear.in/odk-sc) (backup in case videoconference would fail)
 
-## [Timeline](https://github.com/OpenDreamKit/OpenDreamKit/milestones) to check deliverables due by February 2017
+## Brief agenda
 
-## Tentative agenda [(++)](/meetings/2017-01-19-EdinburghSteeringCommittee/Steering-presentation)
+- Preparation for the formal review
+- Progress reports per site
+- Advisory Board and Quality Review Board
+- Amendment to the grant agreement
+- Key Performance Indicators
+- Deliverables due Month 18
+- WP7 topics in view of personnel changes
+- Future funding
 
+## Detailed agenda and minutes
 
-(please suggest other topics of discussions)
+See the [Pad](https://mensuel.framapad.org/p/odk-sc)
 
-- [Short sum up of what the Review of the 1st reporting period means for ODK](/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation)
-- Discussions to finish the work due for February
-- Amendment to add FAU Erlangen-Nürnberg + other small details
-- Key performance Indicators
-- Set up of the Advisory Board + Organisation of 1st Quality review Board meeting
-- Discuss WP7 topics in view of personnel changes
-- Call [EINFRA-12-2017(A)](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/einfra-12-2017.html)
-- Additional calls to watch? (Paul)
-
-## [Readme](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/README.md) to know how to submit deliverables
-
-## Progress reports per site to update
+## Progress reports per site
 
 - [Université Paris Sud](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud)
 - [CNRS](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/CNRS)
@@ -51,4 +46,3 @@ This means that all deliverables due by this date will have to be finished for m
 - [Logilab](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Logilab)
 - [Simula Research Laboratory](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Simula)
 - [Universiteit Gent](/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UGent/ugent.pdf)
-
