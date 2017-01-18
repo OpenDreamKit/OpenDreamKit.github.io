@@ -14,7 +14,7 @@ period: Reporting period from Sept. 2015 to February 2017
 
 {{ page.period }}
 ---
-
+Completely behind on this, will not be ready before last minute.
 ## Financial and administrative setup
 
 - Employment rate past year:     0%
