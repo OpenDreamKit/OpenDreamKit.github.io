@@ -35,15 +35,15 @@ period: Reporting period from Sept. 2015 to February 2017
 
 -   **Erik Bray**, Research Engineer
     - Former Astropy core developer
-    - January 1st-end of project
+    - January 1st 2016-end of project
     - Works on portability, packaging, infrastructure, ...
 
 -   **Jeroen Demeyer**, Research Engineer
     - Former Sage release manager
-    - March 1st-July 1st: employee of Paris Sud
-    - July 1st-end of project: employee of Ghent
+    - March 1st-July 1st 2016: employee of Paris Sud
+    - July 1st 2016-end of project: employee of Ghent
     - Part time for now, full time starting in Fall 2017
-    - Works on interfaces, Sphinx documentation tools, packaging, ...
+    - Works on interfaces (Jupyter, Sage, Pari), Sphinx documentation tools, packaging, ...
 
 --
 - Opening a postdoc position instead of a PhD position for Fall 2017
@@ -63,7 +63,9 @@ period: Reporting period from Sept. 2015 to February 2017
 - [D2.2: Community building](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
 - [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43) : in reality lead by UVSQ
 
-TODO before end February
+---
+## TODO before end February
+
 - [D4.4: Basic Jupyter interface](https://github.com/OpenDreamKit/OpenDreamKit/issues/93): to be polished for February
 - [D3.2: Understand and document SageMathCloud backend code](https://github.com/OpenDreamKit/OpenDreamKit/issues/61)
 - [D1.4: Innovation Management Plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/20)
