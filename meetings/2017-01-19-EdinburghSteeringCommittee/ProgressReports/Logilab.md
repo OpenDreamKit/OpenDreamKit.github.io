@@ -26,10 +26,8 @@ period: Reporting period from September 2015 to February 2017
 
 ## Achievements (1/2)
 
-- T3.1 Pythran port to Windows and Conda integration
-
-  See http://pythonhosted.org/pythran/#windows and
-  http://pythonhosted.org/pythran/#using-conda
+- T3.1 Pythran [port to Windows](http://pythonhosted.org/pythran/#windows)
+  and [Conda integration](http://pythonhosted.org/pythran/#using-conda)
 
 - T5.7 Pythran type inference improvements - Aliasing analysis
 
