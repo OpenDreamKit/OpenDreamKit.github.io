@@ -47,6 +47,14 @@ Exclusively WP6 related:
 - T6.8->D6.8,D6.11 *LMFDB case study* (M12-M24@.25; M24-M48@.7)
 
 ---
+
+# End site report
+
+---
+
+# Begin WP6 discussion
+
+---
 ## WP6 goals: overall
 
 ![text](WP6_overall.jpg)
