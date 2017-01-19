@@ -37,7 +37,6 @@ period: Reporting period from Sept. 2015 to February 2017
     - January 1st 2016-end of project
     - Works on portability, packaging, infrastructure, ...
 
---
 -   **Jeroen Demeyer**, Research Engineer
     - Former Sage release manager
     - March 1st-July 1st 2016: employee of Paris Sud
@@ -61,12 +60,11 @@ period: Reporting period from Sept. 2015 to February 2017
 - [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
 - [D1.3: Internal Progress Reports year 1, including risk management and quality assurance plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/19)
 - [D2.2: Community building](https://github.com/OpenDreamKit/OpenDreamKit/issues/42)
-- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43) : in reality lead by UVSQ
+- [D2.3: Review on emerging technologies](https://github.com/OpenDreamKit/OpenDreamKit/issues/43) (lead UVSQ)
 
 --
-## TODO before end February
+## Before end February
 
-- Writing of 1st Reporting Period reports: Scientific report and Administrative report
 - [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
 - [D4.4: Basic Jupyter interface](https://github.com/OpenDreamKit/OpenDreamKit/issues/93): to be polished for February
 - [D4.5: Sage notebook / Jupyter notebook convergence](https://github.com/OpenDreamKit/OpenDreamKit/issues/94)
@@ -75,15 +73,24 @@ period: Reporting period from Sept. 2015 to February 2017
 - [D1.4: Innovation Management Plan](https://github.com/OpenDreamKit/OpenDreamKit/issues/20)
 
 --
+## February-May
+
+- Organization of the Formal Review
+
+- Writing of 1st Reporting Period reports
+    - Scientific report
+    - Administrative report
+
+--
 ## Work in progress (to update)
 
 - Participation to WP6 activities
 - [D3.9: Semantic-aware Sage interface to GAP](https://github.com/OpenDreamKit/OpenDreamKit/issues/68)
 - [D4.13: Refactorisation of SageMath's Sphinx documentation system](https://github.com/OpenDreamKit/OpenDreamKit/issues/87)
-- Portability of Sage on Windows (cygwin)
 - Application of containers:
   - [Windows installer](https://github.com/sagemath/docker-images/issues/1)
   - Continuous integration (sage-patchbot)
+- **Portability of Sage on Windows** (cygwin)!
 - Participation to the maintenance of the Sage infrastructure
 
 ---
@@ -91,14 +98,17 @@ period: Reporting period from Sept. 2015 to February 2017
 
 - [Kickoff](http://127.0.0.1:4000/2015/09/02/KickoffMeeting/)
 
-- Cofunding of the joint [Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November 2015
-    - Theme: SageMathCloud and Jupyter
+- Cofunding of the joint [Jupyter-Sage Days 70](https://wiki.sagemath.org/days70) in Berkeley, November 2015
+
+    SageMathCloud and Jupyter
 
 - Organization of [Sage Days 77](https://wiki.sagemath.org/days77), Cernay, April 2016
-    - Themes: Packaging, documentation tools, portability
+
+    Packaging, documentation tools, portability
 
 - Cofunding of [Sage Days 74](https://wiki.sagemath.org/days74), Meudon, May 2016
-    - Themes: Manifolds, 3D vizualization
+
+    Manifolds, 3D vizualization
 
 --
 - Sage at [Cimpa School ECCO 2016](http://ecco2016.combinatoria.co/), Medellin (Colombia), June 2016
@@ -107,37 +117,44 @@ period: Reporting period from Sept. 2015 to February 2017
     - Spanish translation of some introduction Sage tutorials
     - a great success!
 
-- Organization of [Sage Days 78](https://wiki.sagemath.org/days78), Vancouver, June 29--July 1st 2016
-    - Theme: algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
+- Organization of [Sage Days 78](https://wiki.sagemath.org/days78), Vancouver, June 2016
+    - Algebraic combinatorics (satellite of [FPSAC1'16](https://sites.google.com/site/fpsac2016/))
     - 30 participants
 
---
-- Co-Organization of [Sage Days 75](https://wiki.sagemath.org/days75), Cernay, August 22--26 2016
+- Coorganization of [Sage Days 75](https://wiki.sagemath.org/days75), Cernay, August 2016
 
 - Sage presentation at [CoDiMa training school](http://www.codima.ac.uk/school2016/), Edinburgh, October 17--21 2016
 
-- Participation to [Sage Days 79](https://wiki.sagemath.org/days79), Jerusalem, November 21--24 2016
-    - themes: geometric combinatorics and symbolic dynamics
-
 --
+
+- Participation to [Sage Days 79](https://wiki.sagemath.org/days79), Jerusalem, November 2016
+
+    Geometric combinatorics and symbolic dynamics
+
 - Organization of [Jupyter day](http://reseau-loops.github.io/journee_2016_12_jupyter.html), Orsay, December 2016
 
 - Discussions with secondary school French institutions (académie de Versailles) about using Sage 
 
-- Organization of [Women in Sage](https://wiki.sagemath.org/days82), Ris-Orangis, January 9--13
+- Organization of [Women in Sage](https://wiki.sagemath.org/days82), Ris-Orangis, January 2017
     - Themes: algebraic combinatorics, number theory, research coding, contributions
     - 20 participants
 
 --
 ## Upcoming workshops 
 
-- [Sage Days 85](https://wiki.sagemath.org/days85): (March? 2017) (to be confirmed) packaging, documentation tools
+-   [Sage Days 85](https://wiki.sagemath.org/days85): (March? 2017) (to be confirmed)
 
-- [Sage Days 86](https://wiki.sagemath.org/days86): (May 8-12, 2017, CRM, Montréal, Canada) Algebra and Words in Combinatorics
+    packaging, documentation tools
 
-- Calcul Mathématique Libre 2018
-    - Rejected from CIRM first call for 2018
-    - Planning to reapply while looking for other hosting options 
+-   [Sage Days 86](https://wiki.sagemath.org/days86): (May 8-12, 2017, CRM, Montréal, Canada) 
+
+    Algebra and Words in Combinatorics
+
+-   Calcul Mathématique Libre 2018
+
+    Rejected from CIRM first call for 2018
+
+    Planning to reapply while looking for other hosting options 
 
 
 </section>
