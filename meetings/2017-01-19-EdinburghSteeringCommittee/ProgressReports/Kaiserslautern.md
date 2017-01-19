@@ -106,12 +106,19 @@ period: Reporting period from Sept. 2015 to February 2017
   * No parallelisation work done yet, but all algorithms can be parallelised with pthreads, this is non-trivial
   
 [1] https://github.com/alexjbest/ajs/
+
 [2] https://github.com/wbhart/flint2/tree/fmpz_mpoly/fmpz_mpoly
+
 [3] https://github.com/wbhart/flint2/tree/trunk/qsieve
+
 [4] https://github.com/wbhart/Nemo.jl/tree/mpoly
+
 [5] https://github.com/akruppa/MPIR_functions
+
 [6] https://github.com/akruppa/mpir/tree/master/mpn/x86_64/haswell
+
 [7] https://github.com/akruppa/mpir/tree/master/mpn/x86_64/skylake
+
 [8] https://github.com/akruppa/mpir/tree/master/mpn/x86_64/bulldozer
 
 </section>
