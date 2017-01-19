@@ -30,12 +30,13 @@ Administration all going smoothly
 * other foundational work in GAP to support integration with other systems and UIs
 * training and related initiatives, community building in UK (with
 CoDiMa)
+* collaboration with JacobsU on exporting the GAP type system
 * organising this workshop
 
 --
 All these continue, plus some new activities:
+* A number of deliverable reports to write
 
-- collaboration with JacobsU on exporting the GAP type system
 
 
 </section>
