@@ -24,6 +24,8 @@ period: Reporting period from Sept. 2015 to February 2017
 ---
 ## Hiring
 
+TODO: Specify year
+
 * Anders Jensen, postdoc
   * 1 Oct -- 31 July ?? please check ??
   * Author of gfan library used by Singular
@@ -47,6 +49,7 @@ period: Reporting period from Sept. 2015 to February 2017
 ## Achievements
 
 * Attended kickoff meeting
+* TODO
 
 ---
 ## Main upcoming tasks and deliverables
