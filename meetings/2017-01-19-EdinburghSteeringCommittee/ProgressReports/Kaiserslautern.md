@@ -104,6 +104,10 @@ period: Reporting period from Sept. 2015 to February 2017
   * William has written high level implementation of pseudodivision algorithm inspired by unpublished, publicly available work of Monagan-Pearce, much faster than Singular
   * William has written high level implementation of multivariate subresultant GCD algorithm, already faster than Singular/Factory for large degree polynomials
   * No parallelisation work done yet, but all algorithms can be parallelised with pthreads, this is non-trivial
+--
+* [D4.4: Basic Jupyter interface for GAP, Pari/GP, Sage, Singular]
+  * Sebastian Gutsche has contributed to this
+  * Jupyter-Singular interface is now working
   
 [1] https://github.com/alexjbest/ajs/
 
