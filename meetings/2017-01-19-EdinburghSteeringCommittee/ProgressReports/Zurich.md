@@ -39,11 +39,11 @@ Exclusively WP6 related:
 ---
 ## Main upcoming tasks and deliverables
 
-- D6.4 Conversion of existing and new Databases (LMFDB, OEIS, FINDSTAT) to interoperable System (UZH, due: 24)
-- D6.5 PYTHON/SAGE Computational Foundation Module in OMDoc/MMT (Jacobs, due: 24)
-- D6.8 LMFDB Algorithm Verification with respect to a Triformal Theory (UZH, due: 36) See issue #201
-- D6.11 LMFDB Integration of Algorithms, Data and Presentation (Jacobs, due: 48)
-- T6.7->D6.4 FindStat case study (M18-M30@.5)
-- T6.8->D6.8,D6.11 LMFDB case study (M12-M24@.25; M24-M48@.7)
+- D6.4 *Conversion of existing and new Databases (LMFDB, OEIS, FINDSTAT) to interoperable System (UZH, due: 24)*
+- D6.5 *PYTHON/SAGE Computational Foundation Module in OMDoc/MMT (Jacobs, due: 24)*
+- D6.8 *LMFDB Algorithm Verification with respect to a Triformal Theory* (UZH, due: 36) See issue #201
+- D6.11 *LMFDB Integration of Algorithms, Data and Presentation* (Jacobs, due: 48)
+- T6.7->D6.4 *FindStat case study* (M18-M30@.5)
+- T6.8->D6.8,D6.11 *LMFDB case study* (M12-M24@.25; M24-M48@.7)
 
 </section>
