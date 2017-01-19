@@ -24,9 +24,9 @@ See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization
 
 ## Tentative agenda
 
-    - Day 1: Mock presentations (just like for the review but without Reviewers)
-    - Day 2: Project meetings (Steering, Quality Review Board...)
-    - Day 3: Official Review
+- Day 1: Mock presentations (just like for the review but without Reviewers)
+- Day 2: Project meetings (Steering, Quality Review Board...)
+- Day 3: Official Review
 
 - Coding sprints may be added to that
 
