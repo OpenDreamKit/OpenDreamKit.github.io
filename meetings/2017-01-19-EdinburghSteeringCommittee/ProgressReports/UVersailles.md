@@ -17,43 +17,36 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ## Financial and administrative setup
 
-- Money arrived, first expenses done.
+Move along, nothing to see here.
+
+Main expenses: travel, laptops.
 
 ---
 
 ## Achievements
 
-- [D3.1: Virtual images and containers](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
-  - MathHub (<https://hub.docker.com/r/kwarc/>),
-  - GAP (<https://hub.docker.com/u/gapsystem/>),
-  - OOMMF (<https://github.com/computationalmodelling/virtualmicromagnetics>),
-  - SageMath, PARI/GP, Singular, etc. (<https://hub.docker.com/u/sagemath/>),
-  - Also a lot of work on using Docker to distribute SageMath on Windows by E. Bray.
+- [D3.1](#58)
+- [you don't even need this](#43)
 
----
 
-## Main upcoming tasks and deliverables
+### TODO by M18
 
-- [D4.1: Python/Cython bindings for PARI and its integration in Sage](https://github.com/OpenDreamKit/OpenDreamKit/issues/83)
-  - Work started at PARI/GP workshop with J. Demeyer (Paris Sud).
-  - Intially due on M6. Technical difficulties have slowed down
-    development. Delayed to M12.
-  - Work split into four steps. 33% complete.
+- [D3.2](#61), workshop planned beginning of February.
+- [D3.3](#62), Python support done, waiting for instructions on report.
+- [D4.1](#83), will wrap up at the end of the week (finally!).
 
 --
 
-## Main upcoming tasks and deliverables
-
-- [D3.3: Support for the SCSCP interface protocol in all relevant components (SAGE, GAP, etc.) distribution](https://github.com/OpenDreamKit/OpenDreamKit/issues/62)
-
-- [D2.7 Community-curated indexing tool](https://github.com/OpenDreamKit/OpenDreamKit/issues/47)
-  - Discussions underway, also with GEANT OER, strategy not clear yet
-	(due M24)
+Just wrote a neat JS trick, look at the
+[source of these slides](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blame/master/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UVersailles.md#L28)!
 
 ---
-## Additional notes
 
-- Nicolas Gama is on leave until september 2017 (this will not affect
-  the project).
+## Workshops
+
+- Participation to various ODK events.
+- Just [presented ODK](http://defeo.lu/) at
+  [Journées Nationales du Calcul Formel](https://jncf2017.lip6.fr/).
+
 
 </section>
