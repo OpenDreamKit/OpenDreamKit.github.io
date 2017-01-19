@@ -27,6 +27,7 @@ The following participants registered so far for the
 - [Chris Graham](http://www.ncl.ac.uk/maths/staff/profile/christophergraham.html#teaching) (Newcastle University)
 - [Sebastian Gutsche](http://wwwb.math.rwth-aachen.de/~gutsche/) (Universität Siegen)
 - [Andreas Holmstrom](http://andreasholmstrom.org) (Fagerlia VGS)
+- [Jim Howie](http://www.macs.hw.ac.uk/~jim/) (Heriot-Watt University)
 - Dimitris Kamilis (University of Edinburgh)
 - [Alexander Kasprzyk](http://magma.maths.usyd.edu.au/~kasprzyk/) (University of Nottingham)
 - [Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/) (University of Southampton)
