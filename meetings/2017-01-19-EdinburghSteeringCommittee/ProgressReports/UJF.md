@@ -18,14 +18,15 @@ period: Reporting period from Sept. 2015 to February 2017
 
 ## Financial and administrative setup
 
-- Everything on rails: money arrived, first expenses done.
+- Everything on rails.
+- Amendment UJF -> UGA (university name changed)
 
 ---
 ## Hiring
 
 - Pierrick Brunet (engineer planned to be recruited à T0) found another job. UJF decided to delay this recrutement until sept 16.
 
-- Hiring of an engineer in february 2017
+- Hiring of an engineer in february 2017 (interview and selection run and finished)
 
 
 ---
