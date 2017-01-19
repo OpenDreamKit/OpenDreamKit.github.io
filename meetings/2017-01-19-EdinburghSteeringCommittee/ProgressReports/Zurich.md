@@ -111,14 +111,17 @@ What: Simultaneously too much and too little.
 Where: Not taking enough into account of math and social complexity. 
 
 ---
+## D6.4
+Will "solve" the problem of data for LMFDB, OEIS, FindStat
+
 ## Could do more
 
  - OEIS, FindStat and LMFDB should benefit from WP4, especially on top of D6.4 (but mysterious D4.16!!!)
 
----
 ## Should shift focus
 
  - no computational foundation (D6.5, D6.7): Python/Sage ---> GAP/SAGE
  - no verification (D6.8): LMFDB Algorithm Verification ---> Curated MitM Ontology covering parts of LMFDB, OEIS, FINDSTAT, GAP, SAGE knowledge bases
+ - or maybe verification (D6.8) on OEIS?
 
 </section>
