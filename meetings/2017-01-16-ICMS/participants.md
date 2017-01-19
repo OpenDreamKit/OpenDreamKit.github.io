@@ -13,7 +13,7 @@ The following participants registered so far for the
 - [Alexandre Borovik](http://www.borovik.net) (University of Manchester)
 - Florent Cayré ([Logilab](https://www.logilab.fr/))
 - Olivier	Cayrol ([Logilab](https://www.logilab.fr/))
-- [Sylvain Corlay](https://github.com/SylvainCorlay)
+- [Sylvain Corlay](https://github.com/SylvainCorlay) ([QuantStack](http://quantstack.net/))
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/) (University of Warwick)
 - [Michael Croucher](http://www.walkingrandomly.com/?page_id=2) (University of Sheffield)
 - [Pierre-Philippe Dechant](https://www.york.ac.uk/maths/staff/pierre-philippe-dechant/) (University of York)
