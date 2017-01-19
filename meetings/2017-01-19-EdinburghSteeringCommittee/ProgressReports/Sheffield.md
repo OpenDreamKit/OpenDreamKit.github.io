@@ -54,6 +54,7 @@ period: Reporting period from Sept. 2015 to February 2017
 ---
 ## Work on Deliverables
 
+-   Deliverables
     - D2.5 Course material on using ODK in science and eduction (M24, September 1st 2017)
         - On track with several departments: Biomedical Sciences, Physics, Computer Science.
     - D2.12 Repository of Interactive Notebooks (M42, March 1st 2018)
