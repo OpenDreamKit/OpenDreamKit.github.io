@@ -73,6 +73,7 @@ period: Reporting period from Sept. 2015 to February 2017
   * Brian Gladman (MPIR contributor) has been updating assembly code for Windows ABI
   * Extensive use of new mulx instruction provided by Intel explicitly for bignum arithmetic
   * Expect to deliver nominal deliverables on schedule
+  
 --
 * [D5.6: Parallelise the relation sieving component of the Quadratic Sieve and implement a parallel version of Block-Wiederman linear algebra over GF2 and large prime variants](https://github.com/OpenDreamKit/OpenDreamKit/issues/119)
   * Due month 18
@@ -86,11 +87,13 @@ period: Reporting period from Sept. 2015 to February 2017
   * new sieve code is already merged into Flint trunk and is usable today (yay!!)
   * future work will be to use the Pari/GP strategy for polynomial generation for small factorisations
   * auxilliary factoring algorithms for double large prime variant done prior to ODK, graph theoretical component not done
+  
 --
 * [D5.7: Take advantage of multiple cores in the matrix Fourier Algorithm component of the FFT for integer and polynomial arithmetic, and include assembly primitives for SIMD processor instructions (e.g. AVX), especially in the FFT butterflies]
   * We had overlooked this deliverable at the last review
   * Alex is making the SIMD support for FFT butterflies a priority right now!!
   * Parallelising the MFA is not done, though the code was originally written with this in mind
+  
 --
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
   * Due month 48
@@ -104,6 +107,7 @@ period: Reporting period from Sept. 2015 to February 2017
   * William has written high level implementation of pseudodivision algorithm inspired by unpublished, publicly available work of Monagan-Pearce, much faster than Singular
   * William has written high level implementation of multivariate subresultant GCD algorithm, already faster than Singular/Factory for large degree polynomials
   * No parallelisation work done yet, but all algorithms can be parallelised with pthreads, this is non-trivial
+  
 --
 * [D4.4: Basic Jupyter interface for GAP, Pari/GP, Sage, Singular]
   * Sebastian Gutsche has contributed to this
