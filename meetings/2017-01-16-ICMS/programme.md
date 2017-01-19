@@ -131,7 +131,7 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
+* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**, see [GitHub repo](https://github.com/SylvainCorlay/CoDimaJan2017)
 
 * Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
 with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
