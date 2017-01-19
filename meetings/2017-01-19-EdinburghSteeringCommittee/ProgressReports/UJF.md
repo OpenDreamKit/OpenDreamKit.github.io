@@ -25,19 +25,20 @@ period: Reporting period from Sept. 2015 to February 2017
 
 - Pierrick Brunet (engineer planned to be recruited à T0) found another job. UJF decided to delay this recrutement until sept 16.
 
-- Another hiring of engineer will take fall 2016.
+- Hiring of an engineer in february 2017
 
 
 ---
 ## Achievements
 
-- Research work in progress on T5.3 (main effort scheduled to start in sept 16)
+- Research work in progress on T5.3 (LinBox) mainly started in Sept 16)
+- Research work done on T5.2 (Cython-Pythran integration). PR still not merged in Cython.
 ---
 ## Main upcoming tasks and deliverables
 
-- D5.2 Pythran/Cython integration: work already started and will be delivered for the T+18 milestone
+- D5.2 Pythran/Cython integration: working on writing up the deliverable for T+18
 
-- Sage days HPC in Grenoble (spring 17)
+- Sage days HPC in Grenoble (summer or fall 17) 
 
 
 </section>
