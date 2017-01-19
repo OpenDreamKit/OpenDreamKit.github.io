@@ -91,8 +91,7 @@ period: Reporting period from Sept. 2015 to February 2017
 We changed our priority in WP6 from algorithm verification to system interoperability and
 distributed computing in the ``Math-in-the-Middle'' Paradigm
 
-* D6.5 (Due: 24) *Generating GAP/ SAGE Interface Theories in OMDoc/MMT for System*
-  Interoperation* (Was: *PYTHON/ SAGE Computational Foundation Module in OMDoc/MMT*)
+* D6.5 (Due: 24) *Generating GAP/ SAGE Interface Theories in OMDoc/MMT for System Interoperation* (Was: *PYTHON/ SAGE Computational Foundation Module in OMDoc/MMT*)
 * D6.7 (Due: 36) *GAP/ SAGE Interface Views OMDoc/MMT* (Was *PYTHON/ SAGE Declarative Semantics in OMDoc/MMT*)
 * D6.8 (Due: 36) *Curated Math-in-the-Middle Ontology covering exemplary parts of LMFDB,
   OEIS, FINDSTAT, GAP, SAGE knowledge bases.* (Was *LMFDB Algorithm Verification with respect to a Triformal
