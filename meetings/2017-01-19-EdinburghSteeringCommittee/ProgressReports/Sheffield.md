@@ -51,7 +51,7 @@ period: Reporting period from Sept. 2015 to February 2017
         - Modules delivered in Biomedical sciences, physics and computer science.
         - Developed a course for lecturers on how to teach with SMC. https://github.com/mikecroucher/SMC_tutorial. Part of the SMC documentation now.
         - The course has been delivered to lecturers in Biomedical Sciences and Physics at Sheffield.
-
+---
 ## Work on Deliverables
 
     - D2.5 Course material on using ODK in science and eduction (M24, September 1st 2017)
