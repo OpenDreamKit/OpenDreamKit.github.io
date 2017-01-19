@@ -58,7 +58,8 @@ period: Reporting period from Sept. 2015 to February 2017
 * Working on MathHub.info portal and the underlying MMT-based build system.
 * ODK/MitM paper  at [CICM](http://cicm-conference.org/2016) 
 
---
+---
+
 * parsed the OEIS data set, converted it to OMDoc/MMT, established an
   [OEIS Search Enging](oeissearch.mathweb.org), and found ~3*10^5 connections between
   sequences based on parsed generating function formulae. 
