@@ -8,7 +8,7 @@ Element.prototype.$$ = Element.prototype.querySelectorAll;
 NodeList.prototype.forEach = Array.prototype.forEach;
 NodeList.prototype.map = Array.prototype.map;
 
-(Reveal ? Reveal : document).addEventListener('ready', function() {
+(window.Reveal ? window.Reveal : document).addEventListener('ready', function() {
     /* Transform #?? links into GitHub issues links */
     $$('a[href^="#"]').forEach(function (a) {
 	var match = /#(\d+)/.exec(a.href);
