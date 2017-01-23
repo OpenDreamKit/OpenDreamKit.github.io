@@ -24,9 +24,7 @@ The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburg
 - WP7 topics in view of personnel changes
 - Future funding
 
-## Detailed agenda and minutes
-
-See the [Pad](meetings/2017-01-19-EdinburghSteeringCommittee/steering-minutes)
+## Detailed [agenda and minutes](meetings/2017-01-19-EdinburghSteeringCommittee/steering-minutes)
 
 ## Progress reports per site
 
