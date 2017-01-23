@@ -3,7 +3,7 @@ layout: page
 title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 ---
 
-# Participants
+## Participants
 
 - Florent Cayré- lead Logilab (on site)
 - Olivier Cayrol- Logilab (on site)
@@ -28,9 +28,9 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Nicolas M. Thiéry - coordinator, UPSud (on site)
 
 
-# Site reports
+## Site reports
 
-## Headline achievements
+### Headline achievements
 
 - SageMath in the next Debian release!
 - SageMath ported to Windows (Cygwin)!
@@ -41,7 +41,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Python interface for OOMMF released
 - 14 events organized or co-organized by OpenDreamKit in year 1 + many interventions and dissemination activites
 
-## Reports
+### Reports
 
 - [Université Paris Sud](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud )
 - [CNRS](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/CNRS )
@@ -65,7 +65,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 
 [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation)
 
-## Discussion about presentation of the formal review
+### Discussion about presentation of the formal review
 
 * Who needs to present WP? -> WP leaders
 * Who presents deliverables? -> it is the choice of the WP leader
