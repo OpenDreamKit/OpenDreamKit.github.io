@@ -82,11 +82,11 @@ Presentations during the review should contain:
 
 ## Grades
 
-The Consortium can expect to be graded according to this scale:
+The Consortium will be graded according to this scale:
 
 - 4/4: Excellent progress (objectives and technical goals for the period fully achieved and even exceeded expectations)
 - 3/4: Good progress (most of objectives and technical goals achieved for the period with relatively minor deviations)
-- 2/4: Acceptable progress (some of its objectives achieveed; however, corrective action will be required)
+- 2/4: Acceptable progress (some of its objectives achieved; however, corrective action will be required)
 - 1/4: Unsatisfactory progress (the project has failed to achieve key objectives and/or is not at all on schedule) = project is cancelled
 
 ---
