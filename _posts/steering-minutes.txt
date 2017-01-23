@@ -1,4 +1,8 @@
-# Minutes for the biannual ODK Steering Committee meeting in Edinburgh
+---
+layout: post
+title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
+---
+
 
 
 ## Participants
