@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 ---
 
