@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides
 title: "Spring 2017 Review"
 theme: white
