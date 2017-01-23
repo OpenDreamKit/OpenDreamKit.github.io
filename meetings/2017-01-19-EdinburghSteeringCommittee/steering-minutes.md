@@ -11,7 +11,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Mike Croucher- lead Sheffield (on site)
 - Wolfram Decker- lead Kaiserslautern (by phone)
 - Luca De Feo - lead UVersailles (by sipphone)
-- Paul-Olivier Dehaye- lead Zurich 
+- Paul-Olivier Dehaye- lead Zurich (by video)
 - Vincent Delecroix- lead Bordeaux/CNRS (on site)
 - Jeroen Demeyer - lead Gent (on site)
 - Hans Fangohr- lead Southampton (on site)
@@ -22,10 +22,10 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Steve Linton - lead St Andrews (on site)
 - Dmitrii Pasechnik- lead Oxford (on site)
 - Clement Pernet - lead UJF (on site)
-- Benoît Pilorget - administrator, Orsay (on site)
-- Viviane Pons - lead Orsay (on site)
+- Benoît Pilorget - manager, UPSud (on site)
+- Viviane Pons - lead UPSud (on site)
 - Martin Sandve Alnæs - lead Simula (on site)
-- Nicolas M. Thiéry - coordinator, Orsay (on site)
+- Nicolas M. Thiéry - coordinator, UPSud (on site)
 
 
 # Site reports
@@ -63,7 +63,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 
 ## Preparation of the formal review
 
-Slides: http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation
+[Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation)
 
 ## Discussion about presentation of the formal review
 
@@ -102,7 +102,7 @@ Rationale for having an NDA: Mostly a legal thing. For us, the only use case is 
 
 ## Amendment to the grant agreement
 
-See https://github.com/OpenDreamKit/OpenDreamKit/issues/193
+[Link to related issue](https://github.com/OpenDreamKit/OpenDreamKit/issues/193)
 
 Vote: all sites agree to changes on the issue 193 except for WP7 
 If any change to the grant agreement about WP7 is deemed urgent, a proposal will be sent for discussion and vote teh week after the Edinburgh steering committee after the brainstorm on WP7.
@@ -119,7 +119,8 @@ Can somebody (Luca?) provide some scripts to extract numbers that could feature 
 
 ## News on Oscar's DFG grant
 
-This is the TRR 199 (there only seems to be only an announcement (in German) at https://www.uni-kl.de/aktuelles/news/news/detail/News/grosser-erfolg-fuer-die-tu-kaiserslautern-neuer-dfg-sonderforschungsbereich-in-der-mathematik/ But googling for TRR 199 should give everybody information soon. 
+This is the TRR 199 (there only seems to be only an [announcement](https://www.uni-kl.de/aktuelles/news/news/detail/News/grosser-erfolg-fuer-die-tu-kaiserslautern-neuer-dfg-sonderforschungsbereich-in-der-mathematik/) in German).
+But googling for TRR 199 should give everybody information soon. 
 
 ## Situation on Deliverables
 
@@ -136,12 +137,13 @@ After a round table, it seems all unfinished deliverables are being taken care o
 
 ## Publications
 
-Hans: like other EU projects, ODK's success is likely to be measured by publications, in particular joint publications with co-authors from multiple sites. As an e-infrastructure project, this may be less relevant for us as our primary output is software. Still we should foster joint publications. An opportunity would be to use emerging journals to publish papers associated with Software such as
-- Journal of Open Research Software (JORS): http://openresearchsoftware.metajnl.com
-- Transactions on Mathematical Software (TOMS): http://toms.acm.org/
-- Journal of Software for Algebra and Geometry (JSAG): http://msp.org/jsag/
-- Journal of Open Source Software (JOSS): http://joss.theoj.org/
-- there is also  CICM 2017 (see http://www.cicm-conference.org/2017, deadline March) for the WP6 people. Is there something we can do together?
+Hans: like other EU projects, ODK's success is likely to be measured by publications, in particular joint publications with co-authors from multiple sites. As an e-infrastructure project, this may be less relevant for us as our primary output is software. Still we should foster joint publications. An opportunity would be to use emerging journals to publish papers associated with Software such as:
+
+- [Journal of Open Research Software (JORS)](http://openresearchsoftware.metajnl.com)
+- [Transactions on Mathematical Software (TOMS)](http://toms.acm.org/)
+- [Journal of Software for Algebra and Geometry (JSAG)](http://msp.org/jsag/)
+- [Journal of Open Source Software (JOSS)](http://joss.theoj.org/)
+- There is also  CICM 2017 (see http://www.cicm-conference.org/2017, deadline March) for the WP6 people. Is there something we can do together?
 
 ## WP7 topics in view of personnel changes
 
