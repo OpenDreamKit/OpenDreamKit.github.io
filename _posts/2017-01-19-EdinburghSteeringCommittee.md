@@ -26,7 +26,7 @@ The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburg
 
 ## Detailed agenda and minutes
 
-See the [Pad](https://mensuel.framapad.org/p/odk-sc)
+See the [Pad](meetings/2017-01-19-EdinburghSteeringCommittee/steering-minutes)
 
 ## Progress reports per site
 
