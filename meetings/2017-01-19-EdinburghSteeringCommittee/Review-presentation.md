@@ -52,7 +52,9 @@ See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization
     - Presentations of deliverables by workpackage:
 
        - WP leader presenting + if necessary deliverable leaders
-       - Duration per WP: depending of the amount of contetn to present
+       - Duration per WP: depending of the amount of content to present
+
+--
 
     - Presentation on dissemination, management, and use of resources
     - Discussion among the reviewers
@@ -116,10 +118,10 @@ The Consortium can expect to be graded according to this scale:
 
 -- 
 
-Deadline:
+- Deadline:
 
-- officially 60 days after the 28/02/2017
-- BUT will have to be over for the Review
+    - Officially 60 days after the 28/02/2017
+    - BUT will have to be over for the Review
 
 => PLANNING WILL BE DONE WHEN DATE IS KNOWN
 
