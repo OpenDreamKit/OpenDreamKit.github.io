@@ -28,9 +28,9 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Nicolas M. Thiéry - coordinator, Orsay (on site)
 
 
-## Site reports
+# Site reports
 
-### Headline achievements
+## Headline achievements
 
 - SageMath in the next Debian release!
 - SageMath ported to Windows (Cygwin)!
@@ -41,7 +41,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Python interface for OOMMF released
 - 14 events organized or co-organized by OpenDreamKit in year 1 + many interventions and dissemination activites
 
-
+## Reports
 
 - [Université Paris Sud](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud )
 - [CNRS](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/CNRS )
@@ -60,6 +60,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - [Simula Research Laboratory](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Simula )
 - [Universiteit Gent](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UGent/ugent.pdf )
 
+
 ## Preparation of the formal review
 
 Slides: http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation
@@ -67,8 +68,8 @@ Slides: http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/R
 ## Discussion about presentation of the formal review
 
 * Who needs to present WP? -> WP leaders
-* Who presents deliverables? -> choice of the WP leader
-* Need to agree on timings: 
+* Who presents deliverables? -> it is the choice of the WP leader
+* Need to agree on timings: it will depend on the amount of content to present per WP
 * Presentations are different from normal conference contributions: we need to provide context and motivation for the tasks for non-experts, then say what we have done, touching on world leading stuff very briefly, then ideally speak about impact, maybe next steps
 * Coherence among different deliverable presentation, especially inside the same WP (including slides template)
 * Does it have to be slides for the presentation of deliverables? -> No, suggestion: posters + demos/screencasts on flat screens? Maybe we can do a formal presentation for each WP and D and then have some extra transversal demos.
@@ -97,20 +98,20 @@ Rationale for having an NDA: Mostly a legal thing. For us, the only use case is 
 
 - Private repository set up
 - Will meet after every Reporting Period: 1st meeting in March/April before the Review (should the technical reports be delivered for review by the Quality Review Board?-> no the Quality Review Board is not supposed to control the quality of the Technical Report. Though there is nothing against it.)
-- QRB will pick up some deliverables to check their quality. The objective is to come up with best practice for further deliverables (positive)
+- QRB will pick up some deliverables to check their quality. The objective is to come up with best practice for further deliverables, not to denounce the weakest deliverables
 
 ## Amendment to the grant agreement
 
 See https://github.com/OpenDreamKit/OpenDreamKit/issues/193
 
-Vote: all sites agree to changes except for WP7 
+Vote: all sites agree to changes on the issue 193 except for WP7 
 If any change to the grant agreement about WP7 is deemed urgent, a proposal will be sent for discussion and vote teh week after the Edinburgh steering committee after the brainstorm on WP7.
 
 ## Key performance Indicators
 
 [Proposition of metrics for our five KPI](https://github.com/OpenDreamKit/OpenDreamKit/issues/179 )
 
-Note: this is only a proposal of metrics; we are not committing to use exactly them. 
+Note: this is only a proposal of metrics; we are not committed to use exactly them. 
 
 TODO (everyone): go through the various metrics proposed and suggest changes/improvements/...
 
@@ -118,9 +119,9 @@ Can somebody (Luca?) provide some scripts to extract numbers that could feature 
 
 ## News on Oscar's DFG grant
 
-This is the TRR 199 (there only seems to be only an announcement (in German) at https://www.uni-kl.de/aktuelles/news/news/detail/News/grosser-erfolg-fuer-die-tu-kaiserslautern-neuer-dfg-sonderforschungsbereich-in-der-mathematik/ But googling for TRR 199 should give you information soon. 
+This is the TRR 199 (there only seems to be only an announcement (in German) at https://www.uni-kl.de/aktuelles/news/news/detail/News/grosser-erfolg-fuer-die-tu-kaiserslautern-neuer-dfg-sonderforschungsbereich-in-der-mathematik/ But googling for TRR 199 should give everybody information soon. 
 
-## ======> Deliverables
+## Situation on Deliverables
 
 - [Delivered](https://github.com/OpenDreamKit/OpenDreamKit/issues?q=is:issue%20label:deliverable )
 - [Remaining deliverables Month 6](https://github.com/OpenDreamKit/OpenDreamKit/milestone/2 )
@@ -130,6 +131,8 @@ This is the TRR 199 (there only seems to be only an announcement (in German) at 
 
 Reminder: Month 18 is the end of the first Reporting Period, and thus a hard deadline. All deliverables due by this date
 must be finished for mid-February so that they can be looked over.
+
+After a round table, it seems all unfinished deliverables are being taken care of and will be finished in due time.
 
 ## Publications
 
@@ -148,7 +151,7 @@ To be brainstormed in.
 
 - [Call EINFRA-12-2017(A) "Data and Distributed Computing e-infrastructures for Open Science"](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/einfra-12-2017.html )
 
-Deadline is 29th March 2017.  The EGI's proposal will probably speed up after the meeting in Amsterdam so we will ping them again until we get a final answer
+Deadline is 29th March 2017.  The EGI's proposal will probably speed up after the meeting for potential participants in Amsterdam so Benoît will ping them again until we get a final answer.
 
 - Additional suggestions where to look (Paul)
 
