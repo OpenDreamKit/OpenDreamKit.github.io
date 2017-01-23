@@ -3,11 +3,9 @@ layout: post
 title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 ---
 
-
-
 ## Participants
 
-- Florent Cayré- lead Logilab (on site)
+- Florent CayrÃ©- lead Logilab (on site)
 - Olivier Cayrol- Logilab (on site)
 - John Cremona- lead Warwick (on site)
 - Mike Croucher- lead Sheffield (on site)
@@ -24,10 +22,10 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Steve Linton - lead St Andrews (on site)
 - Dmitrii Pasechnik- lead Oxford (on site)
 - Clement Pernet - lead UJF (on site)
-- Benoît Pilorget - administrator, Orsay (on site)
+- BenoÃ®t Pilorget - administrator, Orsay (on site)
 - Viviane Pons - lead Orsay (on site)
-- Martin Sandve Alnæs - lead Simula (on site)
-- Nicolas M. Thiéry - coordinator, Orsay (on site)
+- Martin Sandve AlnÃ¦s - lead Simula (on site)
+- Nicolas M. ThiÃ©ry - coordinator, Orsay (on site)
 
 
 ## Site reports
@@ -45,19 +43,19 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 
 
 
-- [Université Paris Sud](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud )
+- [UniversitÃ© Paris Sud](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/ParisSud )
 - [CNRS](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/CNRS )
 - [Jacobs University Bremen](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/JacU )
-- [Université Joseph Fourier](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UJF )
+- [UniversitÃ© Joseph Fourier](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UJF )
 - [University of Kaiserslautern](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Kaiserslautern )
 - [University of Oxford](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Oxford )
 - [University of Silesia](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Silesia )
 - [University of Sheffield](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Sheffield )
 - [University of Southampton](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/southampton.pdf )
 - [University of St Andrews](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/StAndrews )
-- [Université Versailles Saint-Quentin](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UVersailles )
+- [UniversitÃ© Versailles Saint-Quentin](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UVersailles )
 - [University of Warwick](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Warwick )
-- [Universität Zürich](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Zurich )
+- [UniversitÃ¤t ZÃ¼rich](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Zurich )
 - [Logilab](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Logilab )
 - [Simula Research Laboratory](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/Simula )
 - [Universiteit Gent](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/ProgressReports/UGent/ugent.pdf )
@@ -81,9 +79,9 @@ Slides: http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/R
 
 - Lorena Barba, George Washington University
 - Jacques Carette, McMaster University
-- Istvan Csabai, Eötvös University Budapest
-- Françoise Genova, Observatoire de Strasbourg
-- Konrad Hinsen, Centre de Biophysique Moléculaire
+- Istvan Csabai, EÃ¶tvÃ¶s University Budapest
+- FranÃ§oise Genova, Observatoire de Strasbourg
+- Konrad Hinsen, Centre de Biophysique MolÃ©culaire
 - William Stein, CEO of SageMath, Inc.
 - Paul Zimmermann, INRIA
 
