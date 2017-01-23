@@ -131,7 +131,9 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
+* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**, see [GitHub repo](https://github.com/SylvainCorlay/CoDimaJan2017)
+
+* Martin Renou: **SciviJS - The extensible scientific 3D mesh visualization library** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-19-SciviJs.pdf)
 
 * Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
 with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**

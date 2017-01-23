@@ -89,7 +89,7 @@ period: Reporting period from Sept. 2015 to February 2017
   * auxilliary factoring algorithms for double large prime variant done prior to ODK, graph theoretical component not done
   
 --
-* [D5.7: Take advantage of multiple cores in the matrix Fourier Algorithm component of the FFT for integer and polynomial arithmetic, and include assembly primitives for SIMD processor instructions (e.g. AVX), especially in the FFT butterflies]
+* [D5.7: Take advantage of multiple cores in the matrix Fourier Algorithm component of the FFT for integer and polynomial arithmetic, and include assembly primitives for SIMD processor instructions (e.g. AVX), especially in the FFT butterflies](https://github.com/OpenDreamKit/OpenDreamKit/issues/120)
   * We had overlooked this deliverable at the last review
   * Alex is making the SIMD support for FFT butterflies a priority right now!!
   * Parallelising the MFA is not done, though the code was originally written with this in mind
