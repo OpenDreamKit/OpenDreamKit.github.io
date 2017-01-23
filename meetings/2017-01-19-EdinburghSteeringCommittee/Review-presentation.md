@@ -116,7 +116,7 @@ The Consortium can expect to be graded according to this scale:
 
 - Periodic financial report (UPSud finance department and other admins)
 
--- 
+--
 
 - Deadline:
 
