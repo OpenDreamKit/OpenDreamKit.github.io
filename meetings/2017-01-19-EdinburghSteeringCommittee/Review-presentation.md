@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides
 title: "Spring 2017 Review"
 theme: white
@@ -49,23 +49,33 @@ See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization
 
     - Welcome and tour de table
     - General introduction by the coordinator
-    - Presentations of deliverables by workpackage
+    - Presentations of deliverables by workpackage:
+
+       - WP leader presenting + if necessary deliverable leaders
+       - Duration per WP: depending of the amount of contetn to present
+
     - Presentation on dissemination, management, and use of resources
     - Discussion among the reviewers
     - Brief assessment by the reviewers
 
 ---
 
-## Advice for deliverable presentations
+## Advice for WP & Deliv. presentations
 
 Presentations during the review should contain:
 
-- Short and striking story about the relevance and goal of the deliverable
-- State of the art at beginning of project
-- What was achieved, by ODK / by the community
-- Partners are involved, estimate of resources used (i.e. number of PMs if possible) and how much ODK helped to this result
-- Brief description of current activities, future outcomes and plans
-- Any reference to the Proposal is welcome
+- In a slide presentation
+
+    - State of the art at beginning of project for the Work Package
+    - Short and striking story about the relevance and goal of the deliverable
+    - Give involved partners, estimate resources used (i.e. number of PMs if possible) and how much ODK helped to this result
+
+- In the most appropriate format
+
+    - What was achieved, by ODK / by the community
+    - Brief description of current activities, future outcomes and plans
+
+- Any reference to the Proposal is welcome (graphs, WP or deliverable descriptions etc.)
 
 ---
 
@@ -96,9 +106,9 @@ The Consortium can expect to be graded according to this scale:
 - Periodic technical report (coordination team)
 
     - starting point: D1.3's report
-
     - fleshed up to 2-3 pages per work package, typically by giving a
       longer description of the deliverables
+    - Goal: give an exhaustive and concise  sum up of the 1st Reporting Period results
 
 - Periodic financial report (UPSud finance department and other admins)
 
