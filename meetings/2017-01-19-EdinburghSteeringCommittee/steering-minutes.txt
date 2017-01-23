@@ -2,7 +2,8 @@
 layout: page
 title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 ---
-## Participants
+
+# Participants
 
 - Florent Cayré- lead Logilab (on site)
 - Olivier Cayrol- Logilab (on site)
