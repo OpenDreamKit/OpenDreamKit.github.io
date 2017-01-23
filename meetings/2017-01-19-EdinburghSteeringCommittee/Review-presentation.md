@@ -70,6 +70,8 @@ Presentations during the review should contain:
     - Short and striking story about the relevance and goal of the deliverable
     - Give involved partners, estimate resources used (i.e. number of PMs if possible) and how much ODK helped to this result
 
+--
+
 - In the most appropriate format
 
     - What was achieved, by ODK / by the community
@@ -111,6 +113,8 @@ The Consortium can expect to be graded according to this scale:
     - Goal: give an exhaustive and concise  sum up of the 1st Reporting Period results
 
 - Periodic financial report (UPSud finance department and other admins)
+
+-- 
 
 Deadline:
 
