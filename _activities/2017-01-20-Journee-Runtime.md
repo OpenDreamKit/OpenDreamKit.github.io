@@ -7,6 +7,7 @@ location: "Inria Research Center, Paris, France"
 date: 2017/01/20
 ---
 
-Clément Pernet gave a talk at the Journée Runtime, on the work of the UGA partner (formerly UJF) on the parallelization of exact linear algebra using recursive tasks.
+Clément Pernet gave a talk at the [Journée Runtime](http://calcul.math.cnrs.fr/spip.php?article275), on the work of the [UGA partner](http://opendreamkit.org/partners/) (formerly UJF) on the parallelization of exact linear algebra using recursive tasks.
+
 
 [Pdf slides of Talk](http://calcul.math.cnrs.fr/Documents/Journees/janv2017/runtime_pernet.pdf)
