@@ -90,7 +90,7 @@ and we will help to convert them to Jupyter notebooks
 
 ### Presentations and tutorials (morning)
 
-* Jeroen Demeyer: **[IPywidgets: unraveling the magic behind @interact](IPywidgets Demeyer.ipynb)**
+* Jeroen Demeyer: **[IPywidgets: unraveling the magic behind @interact](http://opendreamkit.github.io/meetings/2017-01-16-ICMS/talks/IPywidgets%20Demeyer.ipynb)**
 
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
