@@ -17,4 +17,8 @@ update for the Jupyter-OOMMF project was presented as well.
 
 [Pdf slides of Talk](http://joommf.github.io/assets/2017-01-20-Edinburgh-Jupyter-workshop-joommf.pdf)
 
+[Notebook of micromagnetic simulation (standard problem 3)](https://github.com/joommf/joommf.github.io/blob/master/assets/2017-01-20-Edinburgh-Jupyter-workshop-standard_problem3.ipynb)
+
+[Notebook of micromagnetic model](https://github.com/joommf/joommf.github.io/blob/master/assets/2017-01-20-Edinburgh-Jupyter-workshop-micromagneticmodel.ipynb)
+
 [Blog entry mentioning the presentation](https://www.software.ac.uk/blog/2017-02-02-computational-mathematics-jupyter)
