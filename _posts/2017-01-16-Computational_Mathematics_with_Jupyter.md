@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Computational Mathematics with Jupyter, ICMS, Edinburgh, January 10th-16th of 2017"
+title: "Workshop: Computational Mathematics with Jupyter, ICMS, Edinburgh, 16-20 January 2017"
 ---
 
 Jointly with the Collaborative Computational Project ["CoDiMa - CCP 

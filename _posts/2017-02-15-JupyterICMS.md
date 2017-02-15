@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Computational Mathematics with Jupyter"
+title: Reports from "Computational Mathematics with Jupyter" workshop
 ---
 
 Jointly with the Collaborative Computational Project ["CoDiMa - CCP 
