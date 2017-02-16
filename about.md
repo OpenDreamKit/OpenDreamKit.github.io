@@ -136,3 +136,17 @@ related to them are implemented and/or published.
 
 {% for objective in site.data.objectives %}
 - {{ objective.title }}: {% for wp in objective.WP %}[WP{{wp}}](https://github.com/OpenDreamKit/OpenDreamKit/labels/WP{{wp}}){% if forloop.last == false %},{% endif %} {% endfor %}{% endfor %}
+
+#### Advisory Board
+
+The consortium is backed by an Advisory Board which helps the project coordinate with the related research activities within and outside of Europe and to promote our toolkit internationally.The board will also give feedback on the VRE in development from an end-user perspective.
+
+| Name             | Institute                         |
+| ---------------- | --------------------------------- |
+| -                | -                                 |
+| Jacques Carette  | McMaster University               |
+| Istvan Csabai    | Eötvös University Budapest        |
+| Françoise Genova | Observatoire de Strasbourg        |
+| Konrad Hinsen    | Centre de Biophysique Moléculaire |
+| William Stein    | CEO of SageMath, Inc. (SEM)       |
+| Paul Zimmermann  | INRIA                             |
