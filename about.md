@@ -139,7 +139,7 @@ related to them are implemented and/or published.
 
 #### Advisory Board
 
-The consortium is backed by an Advisory Board which helps the project coordinate with the related research activities within and outside of Europe and to promote our toolkit internationally.The board will also give feedback on the VRE in development from an end-user perspective.
+The consortium is backed by an Advisory Board which helps the project coordinate with the related research activities within and outside of Europe and to promote our toolkit internationally. The board will also give feedback on the VRE in development from an end-user perspective.
 
 | Name             | Institute                         |
 | ---------------- | --------------------------------- |
