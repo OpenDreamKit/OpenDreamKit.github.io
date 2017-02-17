@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Full-time mathematical researcher and developer position at TU Kaiserslautern for up to two and a half years beginning as soon as possible.
+title: Full-time mathematical software developer position at TU Kaiserslautern for up to two and a half years beginning as soon as possible.
 ---
 
-We are seeking a full-time mathematical software researcher and developer at TU Kaiserslautern to work with Prof. Wolfram Decker on the Singular contribution to the OpenDreamKit project.
+We are seeking a full-time mathematical software developer at TU Kaiserslautern to work with Prof. Wolfram Decker on the Singular contribution to the OpenDreamKit project.
 
 # Deadline
 
@@ -15,11 +15,11 @@ The developer will work at TU Kaiserslautern in the city of Kaiserslautern Germa
 
 # Mission
 
-To work as part of the OpenDreamKit collaboration, to do research on and implement improvements via parallelisation of components of Singular.
+To work as part of the OpenDreamKit collaboration, to implement improvements via parallelisation of components of Singular.
 
 # Activities
 
-To research and implement parallel algorithms in Singular in C/C++.
+To implement parallel algorithms in Singular in C/C++.
 
 Particular deliverables include:
 
@@ -33,11 +33,15 @@ Depending on the skills of the applicant, the developer may also wish to contrib
 
 - C/C++ programming experience
 
-- Experience in computer algebra
+- Interest in either:
+
+   * algebra/number theory/algebraic geometry
+   * fast arithmetic
+   * the design and development of computer algebra systems
 
 - Fluency in English
 
-- Must have an Masters degree in Mathematics
+- Must have an Masters degree in Mathematics fully certificated
 
 - Experience in Open Source development and tooling (GitHub)
 
@@ -69,7 +73,7 @@ for mathematics. Lead by Université Paris-Sud, this project involves
 about 50 people spread over 15 sites in Europe, with a total budget of
 about 7.6 million euros.
 
-# Expressions of interest
+# Applications
 
-Interested candidates should send an email to decker {at} mathematik dot uni-kl dot de and goodwillhart {at} googlemail dot come for further information about the position,
-as soon as possible.
+Interested candidates should send an email to both decker {at} mathematik dot uni-kl dot de and goodwillhart {at} googlemail dot com with a CV and short letter of application, as soon as possible.
+
