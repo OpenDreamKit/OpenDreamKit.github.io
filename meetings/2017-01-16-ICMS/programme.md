@@ -111,9 +111,9 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
 
-* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom): 
-Sage code for Tannakian symbols, a tool for computations in certain 
-algebraic structures called lambda-rings and Adams algebras, which 
+* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom):
+Sage code for Tannakian symbols, a tool for computations in certain
+algebraic structures called lambda-rings and Adams algebras, which
 appear naturally in number theory and representation theory.
 
 **Workshop dinner:** Wednesday, 18th January, 18.30-21.00, [Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) (19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
@@ -145,7 +145,7 @@ with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 * Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)**
 
-* Mark Quinn: **Using SageMathCloud for teaching undergraduate physics**
+* Mark Quinn: **[Using SageMathCloud for teaching undergraduate physics](http://opendreamkit.github.io/meetings/2017-01-16-ICMS/talks/SMC_Sheffield.pdf)**
 
 ### Sprints (afternoon)
 
