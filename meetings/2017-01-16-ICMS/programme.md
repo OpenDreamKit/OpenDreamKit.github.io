@@ -143,7 +143,7 @@ with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 ### Presentations and tutorials (morning)
 
-* Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)**
+* Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)** [[slides and notebooks]](http://opendreamkit.org/activities/2017-01-20-JOOMMF-intro/)
 
 * Mark Quinn: **[Using SageMathCloud for teaching undergraduate physics](http://opendreamkit.github.io/meetings/2017-01-16-ICMS/talks/SMC_Sheffield.pdf)**
 
