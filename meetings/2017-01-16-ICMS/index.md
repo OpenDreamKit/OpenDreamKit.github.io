@@ -30,7 +30,7 @@ software systems, and their applications in research, training and teaching.
 [PAD for reports and discussions](https://mensuel.framapad.org/p/jupyter-codima)
 
 
-The programme of the workshop could be found [here](programme). 
+The programme of the workshop and link to slides and supplementary materials could be found [here](programme). 
 
 We will hold presentations and tutorials during morning sessions, and concurrent 
 coding and documentation sprints during afternoon sessions (except swapping 
