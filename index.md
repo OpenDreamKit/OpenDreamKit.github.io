@@ -3,11 +3,20 @@ layout: default
 title: Home
 ---
 
-# OpenDreamKit: Open Digital Research Environment Toolkit for the Advancement of Mathematics
 
 {% include intro.md %}
 
+[Read more...](project/about)
 
+## News
+
+{% for post in site.posts %}
+    {% if forloop.index < 5 %}
+	{% include post_link.html %}
+    {% endif %}
+{% endfor %}
+
+[See all news](/news/)
 
 
 *The project was labelled by the [Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).*

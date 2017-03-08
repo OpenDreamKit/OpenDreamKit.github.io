@@ -1,0 +1,277 @@
+sites:
+  - name: Université Paris-Sud
+    logo: Paris-Sud-Saclay.jpg
+    homepage: 'http://www.u-psud.fr'
+    members:
+      - name: Nicolas M. Thiéry
+        homepage: 'http://Nicolas.Thiery.name'
+        roles:
+          - project-coordinator
+          - wp1-leader
+        github: nthiery
+      - name: Benoît Pilorget
+        homepage: 'https://fr.linkedin.com/pub/beno%C3%AEt-pilorget/84/5b3/430'
+        roles:
+          - project-manager
+        github: bpilorget
+      - name: Viviane Pons
+        homepage: 'https://www.lri.fr/~pons/'
+        github: VivianePons
+        twitter: pyviv
+        roles:
+          - site-leader
+          - wp2-leader
+      - name: Florent Hivert
+        homepage: 'https://www.lri.fr/~hivert/'
+        github: hivert
+      - name: Samuel Lelièvre
+        homepage: 'http://www.math.u-psud.fr/~lelievre/index-en.html'
+        github: slel
+      - name: Erik Bray
+        homepage: 'http://iguananaut.net/'
+        github: embray
+      - name: Loïc Gouarin
+        homepage: 'http://www.math.u-psud.fr/~gouarin/'
+        github: gouarin
+        
+  - name: Université de Bordeaux
+    logo: Universite-de-Bordeaux_static.svg
+    homepage: 'https://www.u-bordeaux.fr/'
+    members:
+      - name: Vincent Delecroix
+        homepage: 'http://www.labri.fr/perso/vdelecro/'
+        roles:
+          - site-leader
+        github: videlec
+      - name: Karim Belabas
+        homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
+        github: KBelabas
+      - name: Bill Allombert
+        homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
+      - name: Adrien Boussicault
+        homepage: 'http://www.labri.fr/perso/boussica/'
+  - name: Université Grenoble Alpes
+    logo: Logo-UJF.svg
+    homepage: 'https://www.ujf-grenoble.fr'
+    members:
+      - name: Clément Pernet
+        homepage: 'http://membres-liglab.imag.fr/pernet'
+        roles:
+          - site-leader
+          - wp5-leader
+        github: ClementPernet
+      - name: Jean-Guillaume Dumas
+        homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
+        github: jgdumas
+  - name: University of Kaiserslautern
+    logo: Kaiserslautern logo.png
+    homepage: 'http://www.uni-kl.de/startseite/'
+    members:
+      - name: Prof. Dr. Wolfram Decker
+        homepage: 'http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/prof-dr-wolfram-decker/'
+        github: wdecker
+        roles:
+         - site-leader
+      - name: Dr Anders Jensen
+        homepage: 'http://home.math.au.dk/jensen/'
+      - name: Alex Best
+        homepage: 'https://alexjbest.github.io/'
+        github: alexjbest
+      - name: Dr Alexander Kruppa
+  - name: University of Oxford
+    logo: ox_brand.png
+    homepage: 'http://www.ox.ac.uk'
+    members:
+      - name: Dmitrii Pasechnik
+        homepage: 'https://www.cs.ox.ac.uk/people/dmitrii.pasechnik/'
+        roles:
+          - site-leader
+          - wp7-leader
+        github: dimpase 
+      - name: Edith Elkind
+        homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
+  - name: University of Sheffield
+    logo: sheffield_logo.gif
+    homepage: 'http://www.sheffield.ac.uk/'
+    members:
+      - name: Neil Lawrence
+        homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
+        roles:
+          - site-leader
+        github: lawrennd
+      - name: Michael Croucher
+        homepage: 'http://www.walkingrandomly.com/?page_id=2'
+        github: mikecroucher
+      - name: Guy Brown
+        homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
+        github: guyjbrown
+      - name: Tania R. Allard
+        github:
+      - name: William Furnass
+        homepage: 'https://www.sheffield.ac.uk/civil/staff/research/furnassw'
+        github: willfurnass
+  - name: University of Silesia
+    logo: US.png
+    homepage: 'http://english.us.edu.pl/'
+    members:
+      - name: Marcin Kostur
+        homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/25-dr-hab-prof-us-marcin-kostur'
+        roles:
+          - site-leader
+        github: marcinofulus
+      - name: Jerzy Łuczka
+        homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/5-prof-dr-hab-jerzy-luczka-head'
+      - name: Jan Aksamit
+        homepage: 'http://www.researchgate.net/profile/Jan_Aksamit'
+  - name: University of Southampton
+    logo: University-of-Southampton.png
+    homepage: 'http://www.southampton.ac.uk'
+    members:
+      - name: Hans Fangohr
+        homepage: 'http://www.southampton.ac.uk/~fangohr'
+        twitter: ProfCompMod
+        roles:
+          - site-leader
+          - qr-board-leader
+        github: fangohr
+      - name: Ian Hawke
+        homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
+        github: IanHawke
+      - name: Marijan Beg 
+        homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
+        github: mb1a15
+  - name: University of St Andrews
+    logo: USTAN_logo.png
+    homepage: 'https://www.st-andrews.ac.uk/'
+    members:
+      - name: Steve Linton
+        homepage: 'https://www.cs.st-andrews.ac.uk/directory/person?id=sal'
+        roles:
+          - project-deputy
+          - site-leader
+        github: stevelinton
+      - name: Alexander Konovalov
+        homepage: 'http://blogs.cs.st-andrews.ac.uk/alexk/'
+        github: alex-konovalov
+      - name: Markus Pfeiffer
+        homepage: 'http://www.morphism.de/~markusp/'
+        github: markuspf
+  - name: Jacobs University Bremen
+    logo: jacobs-logo.png
+    homepage: 'http://www.jacobs-university.de/'
+    members:
+      - name: Michael Kohlhase
+        homepage: 'https://kwarc.info/people/mkohlhase'
+        roles:
+          - site-leader
+          - wp6-leader
+        github: kohlhase
+      - name: Florian Rabe
+        homepage: 'https://kwarc.info/people/frabe/'
+        github: florian-rabe
+      - name: Christian Maeder
+        homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
+        github: cmaeder
+      - name: Dennis Müller
+        homepage: 'https://kwarc.info/people/dmueller'
+        github: Jazzpirate
+      - name: Mihnea Iancu
+        homepage: 'http://www.jacobs-university.de/directory/miancu'
+        github: m-iancu
+      - name: Tom Wiesing
+        homepage: 'https://kwarc.info/people/twiesing'
+        github: tkw1536
+  - name: Université de Versailles – Saint-Quentin-en-Yvelines
+    logo: uvsq.jpg
+    homepage: 'http://www.uvsq.fr'
+    members:
+      - name: Luca De Feo
+        homepage: 'http://defeo.lu/'
+        roles:
+          - site-leader
+          - wp3-leader
+        github: defeo
+        twitter: luca_defeo
+        orcid:  0000-0002-9321-0773
+      - name: Nicolas Gama
+        homepage: 'http://gama.nicolas.free.fr/'
+        github: ngama75
+  - name: University of Warwick
+    logo: UofW.png
+    homepage: 'http://www2.warwick.ac.uk/'
+    members:
+      - name: John E. Cremona
+        homepage: 'http://homepages.warwick.ac.uk/staff/J.E.Cremona/'
+        roles:
+          - site-leader
+        github: JohnCremona
+  - name: Universität Zurich
+    logo: University_of_Zurich_Logo.svg
+    homepage: 'http://www.uzh.ch'
+    members:
+      - name: Paul-Olivier Dehaye
+        homepage: 'http://user.math.uzh.ch/dehaye/'
+        roles:
+          - site-leader
+        twitter: 'podehaye'
+        github: pdehaye
+  - name: Logilab
+    logo: logilab.png
+    homepage: 'https://www.logilab.fr'
+    twitter: 'logilab'
+    members:
+      - name: Florent Cayré
+        homepage: 'https://www.logilab.fr/card/florent.cayre'
+        roles:
+          - site-leader
+        github: fcayre
+      - name: Olivier Cayrol
+        homepage: 'https://www.logilab.fr/card/olivier.cayrol'
+      - name: David Douard
+        homepage: 'https://www.logilab.fr/id/david.douard'
+      - name: Julien Cristau
+        homepage: 'https://www.logilab.org/blogentry/854624'
+      - name: Serge Guelton
+        homepage: 'http://serge.liyun.free.fr/serge/index.html'
+        github: serge-sans-paille
+  - name: Simula Research Laboratory
+    logo: simula.png
+    homepage: 'https://www.simula.no'
+    members:
+      - name: Hans Petter Langtangen
+        homepage: 'http://www.simula.no/people/hpl'
+        roles:
+          - site-leader
+          - wp4-leader
+        github: hplgit
+      - name: Min Ragan-Kelley
+        twitter: 'minrk'
+        github: minrk
+      - name: Martin Sandve Alnæs
+        homepage: 'https://www.simula.no/people/martinal'
+        github: martinal
+      - name: Vidar Tonaas Fauske
+  - name: Universiteit Gent
+    logo: universiteit_gent.gif
+    homepage: 'http://www.ugent.be/en'
+    members:
+      - name: Jeroen Demeyer
+        homepage: 'http://cage.ugent.be/~jdemeyer/'
+        github: jdemeyer
+
+partners:
+  - name: CNRS
+    logo: CNRS.svg
+    homepage: 'http://www.cnrs.fr'
+
+roles:
+  site-leader:
+    desc: Site leader
+  project-coordinator:
+    desc: Project coordinator
+  project-manager:
+    desc: Project manager
+  qr-board-leader:
+    desc: Quality review board leader
+  project-deputy:
+    desc: Project deputy coordinator

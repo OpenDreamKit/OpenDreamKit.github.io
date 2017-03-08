@@ -12,7 +12,7 @@
     </title>
 
     <!-- Bootstrap -->
-    <link href="{{ site.baseurl }}/public/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/public/{{ site.bootstrap }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="{{ site.baseurl }}/public/css/main.css" rel="stylesheet">
@@ -34,5 +34,12 @@
 
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/atom.xml">
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins and calendar) -->
+    <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
+
+    {% if page.id == "Calendar" %}
+        {% include calendar.html %}
+    {% endif %}
 
 </head>

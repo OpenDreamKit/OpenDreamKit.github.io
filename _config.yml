@@ -7,13 +7,14 @@ tagline:             'Open Digital Research Environment Toolkit for the Advancem
 description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> - <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
 url:                 http://opendreamkit.org
 baseurl:             ''
-paginate:            5
+paginate:            10
 paginate_path:       "/news/page:num/"
 future:              True
 gems:
   - jemoji
   - jekyll-paginate
   - jekyll-github-metadata
+  - jekyll-redirect-from
 
 exclude: ['public/*.md', 'public/*.html']
 
@@ -31,3 +32,11 @@ repository:          OpenDreamKit/OpenDreamKit.github.io
 # Custom vars
 version:             1.0.0
 repository:          OpenDreamKit/OpenDreamKit.github.io
+bootstrap:           bootstrap-3.3.7-dist
+menu:
+    - title: 'The Project'
+      folder: 'project'
+    - title: 'The People'
+      folder: 'people'
+    - title: 'Activities'
+      folder: 'events_activities'

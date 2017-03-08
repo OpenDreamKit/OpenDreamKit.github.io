@@ -11,25 +11,36 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}">OpenDreamKit</a>
+            <a class="navbar-brand" href="{{ site.baseurl }}/">OpenDreamKit</a>
         </div>
+
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign base_url = url_parts | last %}
+{% assign sorted_pages = site.pages | sort:"menu_order" %}
+
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-left">
-                <li class="dropdown" >
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu 1<span class="caret"></span></a>
-                                <ul class="dropdown-menu" >
-                                    <li ><a href="#">Menu 1</a></li>
-                                    <li role="separator" class="divider" ></li>
-                                        <li><a href="#">Submenu 1</a></li>
-                                        <li><a href="#">Submenu 2</a></li>
-                                        <li><a href="#">Submenu 3</a></li>
-                                </ul>
-                </li>
-                <li><a href="#" >Menu 2</a></li>
-                <li class="active" ><a href="#" >Menu 3</a></li>
+                {% for node in site.menu %}
+                    <li class="dropdown" >
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ node.title }}<span class="caret"></span></a>
+                        <ul class="dropdown-menu" >
+                            {% for sub in sorted_pages %}
+
+                                {% assign sub_parts = sub.url | split: '/' %}
+                                {% assign sub_url = sub_parts | last %}
+                                {% assign sub_folder = sub_parts[1] %}
+                                {% if sub_folder == node.folder %}
+                                    <li {% if sub_url == base_url %} class="active" {% endif %}><a href="{{ sub.url }}">{% if sub.menu_title %}{{ sub.menu_title }}{% else %}{{ sub.title }}{% endif %}</a></li>
+                                {% endif %}
+                            {% endfor %}
+                        </ul>
+                    </li>
+                {% endfor %}
             </ul>
+
 
             <ul class="nav navbar-nav navbar-right" >
                     <li><a href="#">Contact</a></li>
@@ -56,3 +67,5 @@
 
     </div>
 </nav>
+
+

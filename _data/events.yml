@@ -1,0 +1,121 @@
+InternalEvents:
+    - title: Kickoff Meeting (Orsay)
+      start: 2015-09-02
+      end: 2015-09-06
+      url: http://opendreamkit.org/2015/09/02/KickoffMeeting/
+    - title: Women in Sage (SagemathFemmes)
+      start: 2017-01-09
+      end: 2017-01-14
+      url: https://wiki.sagemath.org/days82
+    - title: Atelier PARI/GP 2016
+      start: 2016-01-11
+      end: 2016-01-16
+      url: http://pari.math.u-bordeaux.fr/Events/PARI2016/
+    - title: ODK event-1st RP (Rehearsals-Review-Workshop)
+      start: 2017-04-24
+      end: 2017-04-29
+    - title: Workshop on knowledge representation in mathematical software and databases
+      start: 2016-01-25
+      end: 2016-01-28
+      url: http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/
+    - title: Sage Days 73
+      start: 2016-05-04
+      end: 2016-05-08
+      url: http://wiki.sagemath.org/days73
+    - title: Steering Committee
+      start: 2016-01-26
+      end: 2016-01-27
+      url: http://opendreamkit.org/meetings/2016-01-25-DKS/SteeringCommittee/agenda/
+    - title: Steering Committee
+      start: 2017-01-19
+      end: 2017-01-19
+      url: http://opendreamkit.org/2017/01/19/EdinburghSteeringCommittee/
+    - title: "Sage Days 77 (Cernay): packaging, portability, documentation tools"
+      start: 2016-04-04
+      end: 2016-04-08
+      url: https://wiki.sagemath.org/days77
+    - title: Annual meeting
+      start: 2016-06-27
+      end: 2016-06-27
+    - title: Review
+      start: 2016-06-28
+      end: 2016-06-28
+    - title: Workshops on WP4, WP6
+      start: 2016-06-29
+      end: 2016-07-02
+    - title: Sage Days 79
+      start: 2016-11-21
+      end: 2016-11-24
+      url: https://wiki.sagemath.org/days79
+    - title: Atelier PARI/GP 2017
+      start: 2017-01-09
+      end: 2017-01-13
+      url: http://pari.math.u-bordeaux.fr/Events/PARI2017/
+    - title: French JupyterDay
+      start: 2016-12-06
+      end: 2016-12-06
+      url: http://opendreamkit.org/2016/11/04/jupyterday-orsay/
+    - title: Computational Mathematics with Jupyter
+      start: 2017-01-16
+      end : 2017-01-21
+      url : http://opendreamkit.org/meetings/2017-01-16-ICMS/
+    - title: Polytopes in/with Sage
+      start: 2017-02-27
+      end: 2017-03-12
+      url: https://wiki.sagemath.org/days84
+ExternalEvents:
+    - title: AnacondaCON
+      start: 2017-02-07
+      end: 2017-02-09
+      url: https://anacondacon17.io/
+    - title: Sage Days 75 (Coding theory, performance)
+      start: 2016-08-22
+      end: 2016-08-26
+      url : https://wiki.sagemath.org/days75
+    - title: Sage Days 78 (Combinatorics)
+      start: 2016-06-29
+      end: 2016-07-02
+      url : https://wiki.sagemath.org/days78
+    - title: MPFR/MPC meeting
+      start: 2016-05-23
+      end: 2016-05-25
+    - title: Sage days 74 (Differential geometry)
+      start: 2016-05-30
+      end: 2016-06-03
+      url: http://wiki.sagemath.org/days74
+    - title: 3rd GAP Days
+      start: 2015-09-13
+      end: 2015-09-24
+      url: http://gapdays.coxeter.de/gapdays2015-fall/
+    - title: PyConFr (Pau)
+      start: 2015-10-17
+      end: 2015-10-21
+      url: http://www.pycon.fr/2015/
+    - title: Sage Days 70 (Berkeley) 
+      start: 2015-11-09
+      end: 2015-11-14
+      url: http://wiki.sagemath.org/days70
+    - title: 11th e-concertation meeting for European e-infrastructure projects 
+      start: 2015-11-09
+      end: 2015-11-09
+      url: http://ec.europa.eu/digital-agenda/en/news/11th-e-concertation-meeting-european-e-infrastructure-projects
+    - title: 1st CoDiMa Training School in Computational Discrete Mathematics 
+      start: 2015-11-16
+      end: 2015-11-21
+      url: http://www.codima.ac.uk/school2015/
+    - title: 1st Joint GAP-SageMath days (preceded by the GAP Coding Sprint)
+      start: 2016-01-13
+      end: 2016-01-23
+      url: http://gapdays.de/gap-sage-days2016/
+    - title: Paris-Saclay Center for Data Science - Open Software Initiative (OSI) day
+      start: 2015-10-26
+      end: 2015-10-26
+      url: https://indico.lal.in2p3.fr/event/2987/
+    - title: Colloque au sujet de la recherche reproductible en calcul scientifique
+      start: 2015-12-03
+      end: 2015-12-04
+      url: http://www.lestudium-ias.com/event/retour-experiences-recherche-reproductible-r4
+    - title: 2nd CoDiMa Training School in Computational Discrete Mathematics 
+      start: 2016-10-17
+      end: 2016-10-22
+      url: http://www.codima.ac.uk/school2016/

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="post">
+    <p class="post-meta" >
+        <span class="post-type">{{page.type}} by {{page.author}}</span> -
+        {% if page.location %}<span class="post-location">{{page.location}}</span> - {% endif %}
+        <span class="post-date">{{ page.date | date_to_string }}</span>
+    </p>
+
+
+  {{ content }}
+</div>

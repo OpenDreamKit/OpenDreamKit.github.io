@@ -1,0 +1,18 @@
+---
+layout: default
+title: News
+source: _posts/
+---
+
+{% comment %}
+  To add a new blog/news post, please create a file in the _posts/
+  directory, taking the existing files as examples.
+{% endcomment %}
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% include post_link.html %}
+  {% endfor %}
+</div>
+
+{% include pagination.html %}
