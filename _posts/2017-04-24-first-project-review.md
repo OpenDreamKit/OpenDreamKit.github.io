@@ -1,0 +1,37 @@
+﻿---
+layout: post
+title: Official 1st Project Review (Sept. 2015 to Feb. 2017)
+---
+
+The Review for the first Reporting Period of OpenDreamKit is taking place on the 26th of April in Brussels at the [CLORA](http://www.clora.eu/en/accueil) (Club of associated research organisations) headquarters.
+This Review will be preceded by 2 full days of Project meetings and rehearsals at the same location.
+
+## Address
+
+
+## Hotels in the area
+
+The premises are located at the heart of the European neighbourhood of the Brussels region.OpendreamKit's coordinator advises redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
+Is particularly advised the Best Western hotel (pages 8 and 9). Please each participant book separately their hotel rooms
+
+
+## Tentative agenda
+
+- Monday 24/04: Steering Committee meeting in the morning? Rehearsals in the afternoon?
+  - Morning: small (10 people)meeting room with beamer
+  - Afternoon: medium (20 people) meeting room + small (10 people) meeting room
+Closing of rooms: 8:30 pm
+
+
+- Tuesday 25/04: Rehearsals all day?
+
+All day medium (20 people) meeting room + small (10 people) meeting room
+Closing of rooms: 8:30 pm
+
+- Wednesday 26/04: REVIEW
+
+All day big (40 sitting people, max 60) meeting room
+  - Evening: dinner to be organised
+
+
+NB: from the looks of photos, the maximum amount of persons per room is most probably underestimated
