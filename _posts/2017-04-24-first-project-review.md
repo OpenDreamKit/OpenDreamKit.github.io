@@ -9,12 +9,15 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 ## Address
 
 [Avenue des Arts, 8](https://www.google.be/maps/place/Kunstlaan+8,+1210+Sint-Joost-ten-Node/@50.8493378,4.3424626,14.25z/data=!4m5!3m4!1s0x47c3c37d43cc0845:0x5bb9d80283d77220!8m2!3d50.8481962!4d4.3698149)
+
 1210 Saint-Josse-ten-Noode
+
 Bruxelles
 
 ## Hotels in the area
 
-The premises are located at the heart of the European neighbourhood of the Brussels region.OpendreamKit's coordinator advises redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
+The premises are located at the heart of the European neighbourhood of the Brussels region. OpendreamKit's coordinator redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
+
 Is particularly advised the Best Western hotel (pages 8 and 9). Please each participant book separately their hotel rooms
 
 
@@ -34,6 +37,7 @@ Closing of rooms: 8:30 pm
 - Wednesday 26/04: REVIEW
 
 All day big (40 sitting people, max 60) meeting room
+  
   - Evening: dinner to be organised
 
 
