@@ -14,9 +14,9 @@ period: 1st Reporting period from Sept. 2015 to February 2017
 
 {{ page.period }}
 
-- Location: Gent? Brussel?
+- Location: Brussels
 
-- Dates: end of April? maybe May (depends on reviewers' availabilities)
+- Dates: 26th April 2017 (preceded by two days of rehearsals and meetings)
 
 See also the [README](https://github.com/OpenDreamKit/OpenDreamKit/#organization-of-official-meetings)
 
@@ -123,6 +123,6 @@ The Consortium will be graded according to this scale:
     - Officially 60 days after the 28/02/2017
     - BUT will have to be over for the Review
 
-=> PLANNING WILL BE DONE WHEN DATE IS KNOWN
+
 
 </section>
