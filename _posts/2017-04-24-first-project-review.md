@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Official 1st Project Review (Sept. 2015 to Feb. 2017)
 ---
