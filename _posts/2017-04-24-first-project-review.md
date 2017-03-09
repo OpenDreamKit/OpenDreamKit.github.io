@@ -23,6 +23,7 @@ Is particularly advised the Best Western hotel (pages 8 and 9). Please each part
 ## Content of the Review
 
 - [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation/) presenting what is expected.
+
 REMINDER: HAVE TO BE PRESENT: 
 
   - All WP leaders + Coordinator + project manager
