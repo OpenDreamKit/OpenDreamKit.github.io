@@ -20,6 +20,24 @@ The premises are located at the heart of the European neighbourhood of the Bruss
 
 Is particularly advised the Best Western hotel (pages 8 and 9). Please each participant book separately their hotel rooms
 
+## Content of the Review
+
+- [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation/) presenting what is expected.
+REMINDER: HAVE TO BE PRESENT: 
+
+  - All WP leaders + Coordinator + project manager
+  - At least one representative per site
+
+- Will be examined by the Project Officer and the three Reviewers:
+   - the degree to which the work plan has been carried out and whether all deliverables were completed
+   - whether the objectives are still relevant and provide scientific or industrial breakthrough potential
+   - how resources were planned and used in relation to the achieved progress, and if their use respects the principles of economy, efficiency and effectiveness
+   - the management procedures and methods of the project
+   - the beneficiaries’ contributions and their integration within the project
+   - the expected potential scientific, technological, economic, competitive and social impact, and plans for using and disseminating results
+   - eligibility of the costs claimed
+   - compliance with other grant agreement obligations
+
 
 ## Tentative agenda
 
@@ -38,7 +56,7 @@ Closing of rooms: 8:30 pm
 
 All day big (40 sitting people, max 60) meeting room
   
-  - Evening: dinner to be organised
+   - Evening: dinner to be organised
 
 
 NB: from the looks of photos, the maximum amount of persons per room is most probably underestimated
