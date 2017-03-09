@@ -12,7 +12,7 @@ they get formalized.
 
 - [A full-time research software engineer
   position](http://opendreamkit.org/2016/12/22/RSE-position-warwick/)
-  starting early in 2017, open-ended.
+  starting early in 2017, open-ended. (filled)
 
 # Université Grenoble Alpes, France
 
