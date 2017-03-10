@@ -11,7 +11,7 @@ location: -- [EGI](https://www.egi.eu/) workshop [Design your e-infrastructure](
 redirect_from: "/activities/2016-09-27-egi-workshop-krakow/"
 tags:
     - talk
-    - Cloud
+    - cloud
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
@@ -43,7 +43,7 @@ tags:
   Belgium, France, Germany,  Norway, Poland, UK (mostly university and government labs)
 
 --
-## OpenDreamKit - background 
+## OpenDreamKit - background
 
 - Objective: build a VRE for pure and applied mathematics from an ecosystem of **open source** mathematical software systems (cf. Matlab/Mathematica/Maple...)
 
@@ -54,8 +54,8 @@ tags:
   - mostly based around [SageMath](http://sagemath.org), a Python library and computer algebra system, several hundred active devs, 500Mb codebase - Python, Cython, C/C++, Fortran, Lisp,...
 
 --
-## OpenDreamKit - background 
- 
+## OpenDreamKit - background
+
 - timeline: development started in 2006, ongoing
 
 - continuous testing using a network of patch/build-bots (in-house design)
@@ -67,16 +67,16 @@ tags:
 
 - interactive maths/CS books (about 10 published), online courses, maths databases
 
-- used in research (pure and applied maths, CS), tens of thousands active users, running local installs, part small (10-100) mult-user systems, SMC (20000+ users), SageCell 
+- used in research (pure and applied maths, CS), tens of thousands active users, running local installs, part small (10-100) mult-user systems, SMC (20000+ users), SageCell
 
 - most current users are undergraduate students taking courses
 
 - research users - line between users and devs is blurred (and this is good!)
 
 ---
-##  OpenDreamKit - current status 
+##  OpenDreamKit - current status
 
-- existing components: 
+- existing components:
 
   - web(browser)-based frontends (Jupyter notebooks (and kernels), SageMath
 notebooks, SMC notebooks, )
@@ -94,7 +94,7 @@ notebooks, SMC notebooks, )
 
 - under development
 
-  - Docker (and other?) containers for backends
+  - docker (and other?) containers for backends
 
   - SMC installs made user-friendly
 

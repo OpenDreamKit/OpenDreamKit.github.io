@@ -8,7 +8,7 @@ date: 2017/01/20
 redirect_from: "/activities/2017-01-20-JOOMMF-intro/"
 tags:
     - OOMMF
-    - Jupyter
+    - jupyter
     - talk
 ---
 

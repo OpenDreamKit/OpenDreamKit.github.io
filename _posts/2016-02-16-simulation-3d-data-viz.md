@@ -7,7 +7,7 @@ date: 2016/02/16
 redirect_from: "/activities/2016-02-16-simulation-3d-data-viz"
 tags:
     - release
-    - User interface
+    - user-interface
 ---
 
 Logilab released a x3dom based software to visualize 3D simulation

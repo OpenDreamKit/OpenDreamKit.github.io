@@ -7,9 +7,9 @@ date: 2016/08/03
 redirect_from: "/activities/2016-08-03-gap-docker-jupyter/"
 tags:
     - release
-    - Jupyter
+    - jupyter
     - GAP
-    - Docker
+    - docker
 ---
 
 Yesterday Alexander Konovalov and Markus Pfeiffer created a [Docker](https://docker.com) image containing

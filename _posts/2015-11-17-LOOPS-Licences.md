@@ -113,19 +113,19 @@ http://combinat.sagemath.org
 --
 ## Quelques éléments de stratégie
 
-- Développé par des chercheurs pour des chercheurs 
+- Développé par des chercheurs pour des chercheurs
 
   *Avec un usage plus large en vue*
 
-- Développement décentralisé et international 
+- Développement décentralisé et international
 
   *Garantie d'indépendance vis-à-vis des tutelles*
 
-- Chaque ligne de code justifiée par un projet de recherche 
+- Chaque ligne de code justifiée par un projet de recherche
 
   Avec une vision à long terme (développement agile)
 
-- Coeur du développement par des permanents 
+- Coeur du développement par des permanents
 
   *Les doctorants se concentrent sur leurs propres besoins*
 
@@ -147,7 +147,7 @@ http://combinat.sagemath.org
 ---
 # Licences dans SageMath
 
-- SageMath: GPL
+- sagemath: GPL
 
 - Paquets standards: GPL-Compatible
 
@@ -165,7 +165,7 @@ http://combinat.sagemath.org
   - GAP3: moralement libre, mais développeurs dispersés voire décédés
   - Nauty: interdit pour les militaires; donc non libre
 
-- SageMathCloud: libérer ou pas le code?
+- sagemathCloud: libérer ou pas le code?
 
 --
 # Évolution récente
@@ -173,7 +173,7 @@ http://combinat.sagemath.org
 - Reconnaissance des valeurs éthiques et pragmatiques du libre, par
   les tutelles et les financeurs
 
-- Projets Européens H2020 e-Infrastructure: 
+- Projets Européens H2020 e-Infrastructure:
 
   quasi-obligation de données, code, et publications libres
 
@@ -184,7 +184,7 @@ http://combinat.sagemath.org
 
 ## Spécificités du contexte
 
-- Objectif principal: 
+- Objectif principal:
 
   mutualisation d'efforts de développements
 

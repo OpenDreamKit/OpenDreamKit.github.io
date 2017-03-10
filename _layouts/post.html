@@ -9,6 +9,11 @@ layout: default
         <span class="post-date">{{ page.date | date_to_string }}</span>
     </p>
 
+    {% assign with_post_numbers = false %}
+    {% include tags_module.html %}
 
   {{ content }}
+
+
+
 </div>

@@ -8,7 +8,7 @@ title: Home
 
 [Read more...](project/about)
 
-## News
+## Recent activities
 
 {% for post in site.posts %}
     {% if forloop.index < 5 %}
@@ -16,7 +16,7 @@ title: Home
     {% endif %}
 {% endfor %}
 
-[See all news](/news/)
+[See all activites](/news/)
 
 
 *The project was labelled by the [Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).*
@@ -27,6 +27,7 @@ title: Home
 
 
 <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+
 
 
 

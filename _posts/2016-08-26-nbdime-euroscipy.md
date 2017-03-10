@@ -8,8 +8,8 @@ date: 2016/08/26
 redirect_from: "/activities/2016-08-26-nbdime-euroscipy/"
 tags:
     - talk
-    - nbtime
-    - Jupyter
+    - nbdime
+    - jupyter
 ---
 
 Talk to be presented at EuroSciPy, August 2016.

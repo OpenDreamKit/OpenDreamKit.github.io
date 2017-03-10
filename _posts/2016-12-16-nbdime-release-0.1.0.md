@@ -7,7 +7,7 @@ date: 2016/12/16
 redirect_from: "/activities/2016-12-16-nbdime-release-0.1.0/"
 tags:
     - release
-    - nbtime
+    - nbdime
 ---
 
 nbdime 0.1.0 has been released, implementing tools for diffing and merging Jupyter notebooks

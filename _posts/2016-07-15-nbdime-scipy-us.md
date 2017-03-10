@@ -6,10 +6,10 @@ type: talk
 location: "SciPy 2016, Austin, Texax (US)"
 date: 2016/07/15
 redirect_from: "/activities/2016-07-15-nbdime-scipy-us/"
-tags: 
+tags:
     - talk
-    - Jupyter
-    - nbtime
+    - jupyter
+    - nbdime
 ---
 
 Talk to be presented at SciPy US, July 2016. Presentation to be linked when available.

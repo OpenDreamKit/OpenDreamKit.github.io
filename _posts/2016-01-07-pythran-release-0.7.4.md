@@ -7,7 +7,7 @@ date: 2016/01/07
 redirect_from: "/activities/2016-01-07-pythran-release-0.7.4/"
 tags:
     - release
-    - Pythran
+    - pythran
 ---
 
 Pythran 0.7.4 has been released. It implements several prerequisites for Sage/Cython integration:

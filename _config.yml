@@ -9,6 +9,7 @@ url:                 http://opendreamkit.org
 baseurl:             ''
 paginate:            10
 paginate_path:       "/news/page:num/"
+blog_path:           "/news/"
 future:              True
 gems:
   - jemoji
@@ -33,10 +34,11 @@ repository:          OpenDreamKit/OpenDreamKit.github.io
 version:             1.0.0
 repository:          OpenDreamKit/OpenDreamKit.github.io
 bootstrap:           bootstrap-3.3.7-dist
+tagfolder:           tag
 menu:
     - title: 'The Project'
       folder: 'project'
     - title: 'The People'
       folder: 'people'
-    - title: 'Activities'
+    - title: 'Events and Activities'
       folder: 'events_activities'

@@ -8,7 +8,7 @@ location: "CICM 2016, Białystok, Poland"
 redirect_from: "/activities/2016-07-28-CICM-invited-talk/"
 tags:
     - talk
-    - SageMath
+    - sagemath
     - CICM
 ---
 
