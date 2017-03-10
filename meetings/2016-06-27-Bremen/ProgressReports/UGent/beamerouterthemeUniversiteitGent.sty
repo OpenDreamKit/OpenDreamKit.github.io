@@ -1,0 +1,91 @@
+% Copyright 2012 Pieter Belmans
+% https://github.com/pbelmans/ugent-beamer
+%
+% Based on Nico Schlömer's ua-beamer (https://github.com/nschloe/ua-beamer)
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+% UGent page geometry
+% \geometry{paperheight=7.5in,paperwidth=10.0in}
+% ... Hang on! As suggested in the manual, don't mess around with beamer's
+% assumed page dimensions (128mm x 96mm). Fonts, for example, do no get 
+% automatically scaled and will look tiny if the above is executed.
+% Instead, define a multiplier 12.8/(10.0*2.54) = 64/127 and adjust all
+% respective lengths.
+
+\RequirePackage{ifthen}
+
+\mode<presentation>
+
+% lengths
+\newlength\margin
+\setlength\margin{0.43cm}% 0.85cm * 64/127
+
+\newlength\bannerwidth
+\setlength\bannerwidth{11.94cm}% (10in - 2*0.85cm) * 64/127
+
+\newlength\bannertopmargin%
+\setlength\bannertopmargin{0.43cm}%  0.85cm * 64/127
+
+
+% images
+\pgfdeclareimage[width=3cm]{logo}{logo}
+
+\ifbeamer@faculty
+  \pgfdeclareimage[width=\bannerwidth]{banner}{\beamer@facultyvalue-\beamer@languagevalue}
+\else
+  \pgfdeclareimage[width=\bannerwidth]{banner}{banner}
+\fi
+
+
+% headline
+\defbeamertemplate*{headline}{ugent theme}%
+{%
+  \vskip\bannertopmargin%
+  \hskip\margin%
+  \pgfuseimage{banner}%
+}
+
+% frametitle
+\defbeamertemplate*{frametitle}{ugent theme}
+{%
+  \vskip.2cm
+  \begin{beamercolorbox}[right]{frame title}%
+    \insertframetitle%
+  \end{beamercolorbox}%
+}
+
+% footline
+\defbeamertemplate*{footline}{ugent theme}
+{%
+  \ifbeamer@footline
+    \pgftext[bottom, left, at = \pgfpoint{0.02\paperwidth}{0.02\paperwidth}]{\insertinstitute}%
+    \pgftext[bottom, at = \pgfpoint{0.5\paperwidth}{0.02\paperwidth}]{\insertauthor}%
+  \fi
+  \ifbeamer@framenumber%
+    \ifnum\c@framenumber=1\else
+      \pgftext[bottom, right, at = \pgfpoint{0.96\paperwidth}{0.02\paperwidth}]{%
+        \usebeamerfont{frame number in foot}%
+        \usebeamercolor[fg]{frame number in foot}\insertframenumber{}%
+        \ifbeamer@totalframenumber%
+          /\inserttotalframenumber%
+        \fi
+      }%
+    \fi
+  \fi%
+}%
+
+% margins
+\setbeamersize{text margin left=2\margin,%
+               text margin right=2\margin}
+
+% background
+\defbeamertemplate*{background canvas}{ugent theme}
+{%
+}
+
+\mode
+<all>

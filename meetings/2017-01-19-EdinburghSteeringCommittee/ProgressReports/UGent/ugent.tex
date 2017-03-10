@@ -1,0 +1,189 @@
+\documentclass{beamer}
+
+\usetheme[faculty=we,language=english,framenumber,totalframenumber]{UniversiteitGent}
+
+\title{Ghent University in OpenDreamKit}
+\author{Jeroen Demeyer}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle{UGent added to OpenDreamKit}
+
+\begin{itemize}
+\item Jeroen Demeyer applied for a ``ing\'enieur de recherche'' position
+at Paris-Sud to work for OpenDreamKit.
+\item Jeroen was recruted 1 March 2016,
+but there were a lot of administrative difficulties because he did not want to move to France.
+\item To solve this, it was decided to add UGent as partner of OpenDreamKit,
+starting at 1 July 2016.
+\item UGent has a single participant, Jeroen Demeyer,
+who will work $28.4\,\text{PM}$ at UGent for OpenDreamKit
+(after having worked $2\,\text{PM}$ at Paris-Sud).
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Who is Jeroen Demeyer?}
+
+\begin{itemize}
+\item SageMath developer since July 2010 (Sage Days 23 in Leiden).
+Main contributions:
+\begin{itemize}
+\item Build system.
+\item PARI interface.
+\item Coercion model, core arithmetic and comparison infrastructure.
+\item Lines of code written for Sage according to GitHub: $-125\,115$.
+\end{itemize}
+\item SageMath release manager from January 2011 (Sage~4.6.1) to December 2013 (Sage~5.13).
+\item Main developer of cysignals:
+a Cython package for interrupt, signal, error and memory handling.
+\item Main developer of pari\_jupyter:
+a kernel for the Jupyter Notebook running PARI/GP.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,3.2: Understand and document SageMathCloud backend code}
+
+Some initial attempts to run SageMathCloud on a personal laptop.
+
+\begin{itemize}
+\item There is documentation from upstream on how to do this.
+
+\item Managed to run the SMC server, but starting projects did not work.
+
+\item Various issues reported upstream: upstream updated some documentation.
+TODO: try again now!
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,3.10: Packaging for major Linux distributions}
+There is a big effort going on to package Sage in Debian.
+So far, things are looking well: the next Debian release should have a Sage package.
+
+UGent mainly helped to make Sage easier to package.
+In particular:
+
+\begin{itemize}
+\item Change the build system of the Sage Python library to use a more standard
+\texttt{setup.py} file.
+\item Stop hardcoding the installation directory of Sage:
+allow \texttt{SAGE\_LOCAL} and other directories to be customized.
+\item Many more small fixes\ldots
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.1: Python/Cython bindings for PARI and its integration in Sage}
+
+This deliverable is about splitting off the PARI interface of Sage
+to a separate package \texttt{cypari2}.
+
+\begin{itemize}
+\item This turned out to be much harder than originally anticipated:
+the PARI bindings were quite closely tied to Sage.
+
+\item Two most important problems:
+\begin{itemize}
+\item Interrupt (CTRL-C) and error handling using the \texttt{sig\_on()} mechanism.
+
+\item The coercion model which is needed to do arithmetic between PARI elements
+and other Sage elements.
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.1: Python/Cython bindings for PARI and its integration in Sage}
+This deliverable has been split in 4 sub-tasks:
+\begin{enumerate}
+\item Split off interrupt/signal/error handling to a separate package \texttt{cysignals}:
+DONE.
+
+\item Refactor the Sage coercion model. Add better support for non-Sage types,
+such that the PARI bindings no longer need the coercion model.
+DONE.
+
+\item Split off the remaining Sage-specific parts of the PARI interface
+(for example, conversion from/to Sage types).
+DONE but not yet merged in Sage.
+
+\item Finally, actually split off the PARI bindings from Sage as a new package.
+Easy, almost done.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.1: Python/Cython bindings for PARI and its integration in Sage}
+This deliverable has been split in 4 sub-tasks:
+\begin{enumerate}
+\item Split off interrupt/signal/error handling to a separate package \texttt{cysignals}:
+DONE.
+
+\item Refactor the Sage coercion model. Add better support for non-Sage types,
+such that the PARI bindings no longer need the coercion model.
+DONE.
+
+\item Split off the remaining Sage-specific parts of the PARI interface
+(for example, conversion from/to Sage types).
+DONE but not yet merged in Sage.
+
+\item Finally, actually split off the PARI bindings from Sage as a new package.
+Easy, almost done.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.4: Basic Jupyter interface for GAP, PARI/GP, SageMath, Singular}
+
+Done for PARI/GP: Python package \texttt{pari\_jupyter} on PyPI.
+
+\begin{itemize}
+\item Supports all GP functions.
+
+\item Supports history and TAB-completion as in GP.
+
+\item TODO: discuss with Jupyter upstream about the proper way to
+install kernels (in particular kernel specs)
+such that all kernels can use the same way.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.7: Full featured Jupyter interface for GAP, PARI/GP, Singular}
+
+Partially done for PARI/GP: Python package \texttt{pari\_jupyter} on PyPI.
+
+\begin{itemize}
+\item Plotting is supported using SVG images. This required adding SVG plotting
+functionality, which is proposed to upstream PARI but not yet merged.
+
+\item TODO: syntax highlighting, long help, break loop.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{D\,4.13: Refactorisation of SageMath's Sphinx documentation system}
+
+Big task, but many things have been done:
+
+\begin{itemize}
+\item Sphinx in Sage has been upgraded to version 1.4.1 (latest upstream is version 1.5.1).
+
+\item A lot of cleaning up and minor refactoring has been done.
+
+\item Reduce the amount of Sage-specific stuff in docbuilder: a lot of progress
+but a lot remains to do.
+This is mostly about Cython, so coordination with Python/Cython upstream might be needed.
+
+\item Some work has been done with upstream to reduce the memory footprint of Sphinx.
+\end{itemize}
+\end{frame}
+
+\end{document}

@@ -1,0 +1,361 @@
+This is the log file for the demonstration of the SCSCP protocol. 
+Please see the SCIEnce project website (symbolic-computing.org) 
+for further details.
+
+$ gap rundemo.g 
+ ┌───────┐   GAP, Version 4.7.8 of 09-Jun-2015 (free software, GPL)
+ │  GAP  │   http://www.gap-system.org
+ └───────┘   Architecture: x86_64-apple-darwin14.5.0-gcc-5-default64
+ Libs used:  gmp, readline
+ Loading the library and packages ...
+─────────────────────────────────────────────────────────────────────────────
+Loading  OpenMath 11.2.0 (OpenMath functionality in GAP)
+by Marco Costantini,
+   Alexander Konovalov (http://www.cs.st-andrews.ac.uk/~alexk/),
+   Max Nicosia (ln73@st-andrews.ac.uk), and
+   Andrew Solomon (http://www.illywhacker.net/).
+Homepage: http://www.cs.st-andrews.ac.uk/~alexk/openmath/
+─────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────
+Loading  SCSCP 2.1.4 (Symbolic Computation Software Composability Protocol)
+by Alexander Konovalov (http://www.cs.st-andrews.ac.uk/~alexk/) and
+   Steve Linton (http://www.cs.st-and.ac.uk/~sal/).
+Homepage: http://www.cs.st-andrews.ac.uk/~alexk/scscp/
+─────────────────────────────────────────────────────────────────────────────
+ Components: trans 1.0, prim 2.1, small* 1.0, id* 1.0
+ Packages:   AClib 1.2, Alnuth 3.0.0, AtlasRep 1.5.0, AutPGrp 1.6, 
+             Browse 1.8.6, CRISP 1.3.8, Cryst 4.1.12, CrystCat 1.1.6, 
+             CTblLib 1.2.2, FactInt 1.5.3, FGA 1.2.0, GAPDoc 1.5.1, 
+             GUAVA 3.12, IO 4.4.4, IRREDSOL 1.2.4, LAGUNA 3.7.0, 
+             OpenMath 11.2.0, Polenta 1.3.2, Polycyclic 2.11, RadiRoot 2.7, 
+             ResClasses 3.4.0, SCSCP 2.1.4, SONATA 2.6, Sophus 1.23, 
+             SpinSym 1.5, TomLib 1.2.5, Wedderga 4.7.2
+ Try '?help' for help. See also  '?copyright' and  '?authors'
+
+Start of demonstration.
+
+demo> LoadPackage("scscp");
+true
+demo> server := "localhost"; 
+"localhost"
+demo> port := 26133;
+26133
+demo> SetInfoLevel( InfoSCSCP, 0 );
+demo> G := Group( (1,2,3), (2,3) );
+Group([ (1,2,3), (2,3) ])
+demo> IdGroup( G );
+[ 6, 1 ]
+demo> EvaluateBySCSCP( "WS_IdGroup", [ G ], server, port ).object;
+[ 6, 1 ]
+demo> EvaluateBySCSCP( "GroupIdentificationService", [ [ (1,2,3), (2,3) ] ], 
+                 server, port ).object;
+[ 6, 1 ]
+demo> SetInfoLevel( InfoSCSCP, 3 );
+demo> EvaluateBySCSCP( "GroupIdentificationService", [ [ (1,2,3), (2,3) ] ], 
+                 server, port ).object;
+#I  Creating a socket ...
+#I  Connecting to a remote socket via TCP/IP ...
+#I  Got connection initiation message
+#I  <?scscp service_name="GAP" service_version="4.7.8" service_id="localhost:26133:6020" scscp_versions="1.0 1.1 1.2 1.3" ?>
+#I  Requesting version 1.3 from the server ...
+#I  Server confirmed version 1.3 to the client ...
+#I  Composing procedure_call message: 
+<?scscp start ?>
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:kZEL6GsA</OMSTR>
+			<OMS cd="scscp1" name="option_return_object"/>
+			<OMSTR></OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_call"/>
+			<OMA>
+				<OMS cd="scscp_transient_1" name="GroupIdentificationService"/>
+				<OMA>
+					<OMS cd="list1" name="list"/>
+					<OMA>
+						<OMS cd="permut1" name="permutation"/>
+						<OMI>2</OMI>
+						<OMI>3</OMI>
+						<OMI>1</OMI>
+					</OMA>
+					<OMA>
+						<OMS cd="permut1" name="permutation"/>
+						<OMI>1</OMI>
+						<OMI>3</OMI>
+						<OMI>2</OMI>
+					</OMA>
+				</OMA>
+			</OMA>
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+<?scscp end ?>
+#I  Total length 699 characters 
+#I  Request sent ...
+#I  Waiting for reply ...
+#I  <?scscp start ?>
+#I Received message: 
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:kZEL6GsA</OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_completed"/>
+			<OMA>
+				<OMS cd="list1" name="list"/>
+				<OMI>6</OMI>
+				<OMI>1</OMI>
+			</OMA>
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+#I  <?scscp end ?>
+#I  Got back: object [ 6, 1 ] with attributes [ [ "call_id", "localhost:26133:6020:kZEL6GsA" ] ]
+[ 6, 1 ]
+demo> ReadPackage("scscp/example/id512.g");
+true
+demo> G := DihedralGroup( IsPermGroup, 512 );
+<permutation group with 2 generators>
+demo> IdGroup512( G );
+#I  Creating a socket ...
+#I  Connecting to a remote socket via TCP/IP ...
+#I  Got connection initiation message
+#I  <?scscp service_name="GAP" service_version="4.7.8" service_id="localhost:26133:6020" scscp_versions="1.0 1.1 1.2 1.3" ?>
+#I  Requesting version 1.3 from the server ...
+#I  Server confirmed version 1.3 to the client ...
+#I  Composing procedure_call message: 
+<?scscp start ?>
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:di9g6FTq</OMSTR>
+			<OMS cd="scscp1" name="option_return_object"/>
+			<OMSTR></OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_call"/>
+			<OMA>
+				<OMS cd="scscp_transient_1" name="IdGroup512ByCode"/>
+				<OMI>2940208627577393070560341803949986912431725641726</OMI>
+			</OMA>
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+<?scscp end ?>
+#I  Total length 448 characters 
+#I  Request sent ...
+#I  Waiting for reply ...
+#I  <?scscp start ?>
+#I Received message: 
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:di9g6FTq</OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_completed"/>
+			<OMA>
+				<OMS cd="list1" name="list"/>
+				<OMI>512</OMI>
+				<OMI>2042</OMI>
+			</OMA>
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+#I  <?scscp end ?>
+#I  Got back: object [ 512, 2042 ] with attributes [ [ "call_id", "localhost:26133:6020:di9g6FTq" ] ]
+[ 512, 2042 ]
+demo> SetInfoLevel( InfoSCSCP, 0 );
+demo> IdGroup512( G );
+[ 512, 2042 ]
+demo> ReadPackage("scscp/example/overload.g");
+true
+demo> a := StoreAsRemoteObject( 6, server, port );
+< remote object scscp://localhost:26133/TEMPVarSCSCPZLZDZOx5 >
+demo> b := StoreAsRemoteObject( 7, server, port );
+< remote object scscp://localhost:26133/TEMPVarSCSCPVUHMdfVj >
+demo> c := a*b;
+< remote object scscp://localhost:26133/TEMPVarSCSCPUjl0cwuE >
+demo> RetrieveRemoteObject( c );
+42
+demo> M24 := EvaluateBySCSCP( "MathieuGroup", [ 24 ], 
+                 server, port : output:="cookie" ).object;
+< remote object scscp://localhost:26133/TEMPVarSCSCPJu8BMijY >
+demo> EvaluateBySCSCP( "NrConjugacyClasses", [ M24 ], server, port );  
+rec( attributes := [ [ "call_id", "localhost:26133:6020:LvJ2Gd0p" ] ], 
+  object := 26 )
+demo> SetInfoLevel( InfoSCSCP, 3 );    
+demo> P2 := EvaluateBySCSCP( "SylowSubgroup", [ M24, 2 ], 
+                 server, port : output:="cookie" ).object; 
+#I  Creating a socket ...
+#I  Connecting to a remote socket via TCP/IP ...
+#I  Got connection initiation message
+#I  <?scscp service_name="GAP" service_version="4.7.8" service_id="localhost:26133:6020" scscp_versions="1.0 1.1 1.2 1.3" ?>
+#I  Requesting version 1.3 from the server ...
+#I  Server confirmed version 1.3 to the client ...
+#I  Composing procedure_call message: 
+<?scscp start ?>
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:JNDhiwmO</OMSTR>
+			<OMS cd="scscp1" name="option_return_cookie"/>
+			<OMSTR></OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_call"/>
+			<OMA>
+				<OMS cd="scscp_transient_1" name="SylowSubgroup"/>
+				<OMR href="scscp://localhost:26133/TEMPVarSCSCPJu8BMijY" />
+				<OMI>2</OMI>
+			</OMA>
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+<?scscp end ?>
+#I  Total length 461 characters 
+#I  Request sent ...
+#I  Waiting for reply ...
+#I  <?scscp start ?>
+#I Received message: 
+<OMOBJ>
+	<OMATTR>
+		<OMATP>
+			<OMS cd="scscp1" name="call_id"/>
+			<OMSTR>localhost:26133:6020:JNDhiwmO</OMSTR>
+		</OMATP>
+		<OMA>
+			<OMS cd="scscp1" name="procedure_completed"/>
+			<OMR href="scscp://localhost:26133/TEMPVarSCSCPOq8Tczxi" />
+		</OMA>
+	</OMATTR>
+</OMOBJ>
+#I  <?scscp end ?>
+#I  Got back: object RemoteObject("TEMPVarSCSCPOq8Tczxi","localhost",26133) with attributes [ [ "call_id", "localhost:26133:6020:JNDhiwmO" ] ]
+< remote object scscp://localhost:26133/TEMPVarSCSCPOq8Tczxi >
+demo> SetInfoLevel( InfoSCSCP, 0 );       
+demo> RetrieveRemoteObject( P2 );
+<permutation group with 10 generators>
+demo> UnbindRemoteObject( M24 );
+true
+demo> x:=SL(2,2);
+SL(2,2)
+demo> l:=OMString(x);
+"<OMOBJ> <OMA> <OMS cd=\"group1\" name=\"group_by_generators\"/> <OMA> <OM\
+S cd=\"linalg2\" name=\"matrix\"/> <OMA> <OMS cd=\"linalg2\" name=\"matrixrow\
+\"/> <OMA> <OMS cd=\"arith1\" name=\"power\"/> <OMA> <OMS cd=\"finfield1\" nam\
+e=\"primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </OMA> <OMA> <OMS c\
+d=\"arith1\" name=\"power\"/> <OMA> <OMS cd=\"finfield1\" name=\"primitive_ele\
+ment\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </OMA> </OMA> <OMA> <OMS cd=\"linalg\
+2\" name=\"matrixrow\"/> <OMA> <OMS cd=\"arith1\" name=\"times\"/> <OMA> <OMS \
+cd=\"finfield1\" name=\"primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI>\
+ </OMA> <OMA> <OMS cd=\"arith1\" name=\"power\"/> <OMA> <OMS cd=\"finfield1\" \
+name=\"primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </OMA> </OMA> </\
+OMA> <OMA> <OMS cd=\"linalg2\" name=\"matrix\"/> <OMA> <OMS cd=\"linalg2\" nam\
+e=\"matrixrow\"/> <OMA> <OMS cd=\"arith1\" name=\"times\"/> <OMA> <OMS cd=\"fi\
+nfield1\" name=\"primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </OMA>\
+ <OMA> <OMS cd=\"arith1\" name=\"power\"/> <OMA> <OMS cd=\"finfield1\" name=\"\
+primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </OMA> </OMA> <OMA> <OM\
+S cd=\"linalg2\" name=\"matrixrow\"/> <OMA> <OMS cd=\"arith1\" name=\"power\"/\
+> <OMA> <OMS cd=\"finfield1\" name=\"primitive_element\"/> <OMI>2</OMI> </OMA>\
+ <OMI>0</OMI> </OMA> <OMA> <OMS cd=\"arith1\" name=\"times\"/> <OMA> <OMS cd=\
+\"finfield1\" name=\"primitive_element\"/> <OMI>2</OMI> </OMA> <OMI>0</OMI> </\
+OMA> </OMA> </OMA> </OMA> </OMOBJ>"
+demo> Length(l);
+1417
+demo> SetInfoLevel( InfoSCSCP, 4 ); 
+demo> IN_SCSCP_BINARY_MODE:=true;
+true
+demo> x = EvaluateBySCSCP("Identity",[x],"localhost",port).object;
+#I  Creating a socket ...
+#I  Connecting to a remote socket via TCP/IP ...
+#I  Got connection initiation message
+#I  <?scscp service_name="GAP" service_version="4.7.8" service_id="localhost:26133:6020" scscp_versions="1.0 1.1 1.2 1.3" ?>
+#I  Requesting version 1.3 from the server ...
+#I  Server confirmed version 1.3 to the client ...
+#I  Composing procedure_call message: 
+3C3F7363736370207374617274203F3E0A18121408060773637363703163616C6C5F6964061D6C\
+6F63616C686F73743A32363133333A363032303A544776345A4E31710806147363736370316F70\
+74696F6E5F72657475726E5F6F626A6563740600151008060E73637363703170726F6365647572\
+655F63616C6C1008110873637363705F7472616E7369656E745F314964656E7469747910080613\
+67726F75703167726F75705F62795F67656E657261746F7273100807066C696E616C67326D6174\
+726978100807096C696E616C67326D6174726978726F7710080605617269746831706F77657210\
+08091166696E6669656C64317072696D69746976655F656C656D656E7401021101001110080605\
+617269746831706F7765721008091166696E6669656C64317072696D69746976655F656C656D65\
+6E7401021101001111100807096C696E616C67326D6174726978726F7710080605617269746831\
+74696D65731008091166696E6669656C64317072696D69746976655F656C656D656E7401021101\
+001110080605617269746831706F7765721008091166696E6669656C64317072696D6974697665\
+5F656C656D656E740102110100111111100807066C696E616C67326D6174726978100807096C69\
+6E616C67326D6174726978726F771008060561726974683174696D65731008091166696E666965\
+6C64317072696D69746976655F656C656D656E7401021101001110080605617269746831706F77\
+65721008091166696E6669656C64317072696D69746976655F656C656D656E7401021101001111\
+100807096C696E616C67326D6174726978726F7710080605617269746831706F77657210080911\
+66696E6669656C64317072696D69746976655F656C656D656E7401021101001110080605617269\
+74683174696D65731008091166696E6669656C64317072696D69746976655F656C656D656E7401\
+0211010011111111111113193C3F736373637020656E64203F3E0A
+#I  Total length 729 bytes 
+#I  Request sent ...
+#I  Waiting for reply ...
+#I  <?scscp start ?>
+#I  Got back: object Group([ [ [ Z(2)^0, Z(2)^0 ], [ 0*Z(2), Z(2)^0 ] ], 
+  [ [ 0*Z(2), Z(2)^0 ], [ Z(2)^0, 0*Z(2) ] ] ]) with attributes [ [ "call_id", "localhost:26133:6020:TGv4ZN1q" ] ]
+true
+demo> IN_SCSCP_BINARY_MODE:=false;
+false
+demo> SetInfoLevel( InfoSCSCP, 0 ); 
+demo> s:=IO_PickleToString(x);
+"MATGILIS\>2IF2M\>2IF2V\>2FFEL\>6Z(2)^0FFEL\>6Z(2)^0MF2V\>2FFEL\>60*Z(2)FF\
+EL\>6Z(2)^0IF2M\>2IF2V\>2FFEL\>60*Z(2)FFEL\>6Z(2)^0IF2V\>2FFEL\>6Z(2)^0FFEL\>6\
+0*Z(2)TRUEISTR\>7SL(2,2)TRUEINTG\>16TRUEINTG\>12TRUEFFIEINTG\>12INTG\>11FAILFA\
+IL"
+demo> x = IO_UnpickleFromString( EvaluateBySCSCP( 
+  "IO_UnpickleStringAndPickleItBack", [ s ], server, port ).object );
+true
+demo> x := [ Z(3)^0, Z(3), 0*Z(3) ];
+[ Z(3)^0, Z(3), 0*Z(3) ]
+demo> OMString(x);
+"<OMOBJ> <OMA> <OMS cd=\"list1\" name=\"list\"/> <OMA> <OMS cd=\"arith1\" \
+name=\"power\"/> <OMA> <OMS cd=\"finfield1\" name=\"primitive_element\"/> <OMI\
+>3</OMI> </OMA> <OMI>0</OMI> </OMA> <OMA> <OMS cd=\"arith1\" name=\"power\"/> \
+<OMA> <OMS cd=\"finfield1\" name=\"primitive_element\"/> <OMI>3</OMI> </OMA> <\
+OMI>1</OMI> </OMA> <OMA> <OMS cd=\"arith1\" name=\"times\"/> <OMA> <OMS cd=\"f\
+infield1\" name=\"primitive_element\"/> <OMI>3</OMI> </OMA> <OMI>0</OMI> </OMA\
+> </OMA> </OMOBJ>"
+demo> for i in [ 4 .. 5000 ] do x[i] := i*Z(3)^0; od;  
+demo> Length(x);
+5000
+demo> 
+IN_SCSCP_BINARY_MODE:=false;
+false
+demo> x = EvaluateBySCSCP("Identity",[x],"localhost",port).object;
+true
+demo> time;
+2297
+demo> IN_SCSCP_BINARY_MODE:=true;
+true
+demo> x = EvaluateBySCSCP("Identity",[x],"localhost",port).object;
+true
+demo> time;
+872
+demo> IN_SCSCP_BINARY_MODE:=false;
+false
+demo> x = IO_UnpickleFromString( EvaluateBySCSCP( "IO_UnpickleStringAndPickleItBack",
+    [ IO_PickleToString(x) ], "localhost", port ).object );
+true
+demo> time;
+189
+demo> IN_SCSCP_BINARY_MODE:=true;
+true
+demo> x = IO_UnpickleFromString( EvaluateBySCSCP( "IO_UnpickleStringAndPickleItBack", 
+    [ IO_PickleToString(x) ], "localhost", port ).object );
+true
+demo> time;    
+177

@@ -17,7 +17,7 @@ gems:
   - jekyll-github-metadata
   - jekyll-redirect-from
 
-exclude: ['public/*.md', 'public/*.html']
+exclude: ['public/*.md', 'public/*.html', 'tag/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
 
 # About/contact
@@ -31,7 +31,7 @@ repository:          OpenDreamKit/OpenDreamKit.github.io
 
 
 # Custom vars
-version:             1.0.0
+version:             0.3.0
 repository:          OpenDreamKit/OpenDreamKit.github.io
 bootstrap:           bootstrap-3.3.7-dist
 tagfolder:           tag
@@ -42,3 +42,4 @@ menu:
       folder: 'people'
     - title: 'Events and Activities'
       folder: 'events_activities'
+

@@ -1,0 +1,52 @@
+% Copyright 2012 Pieter Belmans
+% https://github.com/pbelmans/ugent-beamer
+%
+% Based on Nico Schlömer's ua-beamer (https://github.com/nschloe/ua-beamer)
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+\RequirePackage{ifthen}
+
+\mode<presentation>
+
+\input{colors}
+
+\ifbeamer@faculty\colorlet{ugent-faculty}{ugent-\beamer@facultyvalue}\fi
+
+% switch between the generic yellow use of highlights or faculty specific colors
+\ifthenelse{ \boolean{beamer@faculty} \AND \boolean{beamer@usefacultycolors} }
+{
+  \colorlet{ugentalert}  {ugent-faculty}
+  \colorlet{ugentexample}{ugentblue}
+}
+{
+  \colorlet{ugentalert}  {ugentyellow}
+  \colorlet{ugentexample}{ugentblue}
+}
+
+
+% general colors
+\setbeamercolor{structure}           {fg = ugentblue}%
+\setbeamercolor{normal text}         {fg = ugentblue}%
+\setbeamercolor{frametitle}          {fg = ugentblue}%
+\setbeamercolor{frame number in foot}{fg = ugentblue}%
+\setbeamercolor{subtitle}            {fg = ugentyellow}%
+\setbeamercolor{author}              {fg = ugentblue}%
+
+% alert color
+\setbeamercolor{alerted text}{fg=ugentalert}
+
+% blocks
+\setbeamercolor{block title}{use=structure,fg=white,bg=ugentblue}
+\setbeamercolor{block title alerted}{use=alerted text,fg=white,bg=ugentalert}
+\setbeamercolor{block title example}{use=example text,fg=white,bg=ugentexample}
+
+\setbeamercolor{block body}        {fg=ugentblue,use=block title,bg=ugentblue!10!white}
+\setbeamercolor{block body alerted}{fg=ugentblue,use=block title alerted,bg=ugentalert!10!white}
+\setbeamercolor{block body example}{fg=ugentblue,use=block title example,bg=ugentexample!10!white}
+
+\mode
+<all>

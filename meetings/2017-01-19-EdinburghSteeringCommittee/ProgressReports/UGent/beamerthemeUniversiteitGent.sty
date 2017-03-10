@@ -1,0 +1,47 @@
+% Copyright 2012 Pieter Belmans
+% https://github.com/pbelmans/ugent-beamer
+%
+% Based on Nico Schlömer's ua-beamer (https://github.com/nschloe/ua-beamer)
+%
+% This file may be distributed and/or modified
+%
+% 1. under the LaTeX Project Public License and/or
+% 2. under the GNU Public License.
+
+
+% introduce options
+\newif\ifbeamer@faculty
+\beamer@facultyfalse
+\newcommand\beamer@facultyvalue{}
+\DeclareOptionBeamer{faculty}{\beamer@facultytrue\renewcommand\beamer@facultyvalue{#1}}
+
+\newif\ifbeamer@usefacultycolors\beamer@usefacultycolorsfalse
+\DeclareOptionBeamer{usecolors}{\beamer@usefacultycolorstrue}
+
+\newif\ifbeamer@footline\beamer@footlinefalse
+\DeclareOptionBeamer{footline}{\beamer@footlinetrue}
+
+\newcommand\beamer@languagevalue{dutch}
+\DeclareOptionBeamer{language}{\renewcommand\beamer@languagevalue{#1}}
+
+\newif\ifbeamer@framenumber\beamer@framenumberfalse
+\DeclareOptionBeamer{framenumber}{\beamer@framenumbertrue}
+
+\newif\ifbeamer@totalframenumber\beamer@totalframenumberfalse
+\DeclareOptionBeamer{totalframenumber}{\beamer@totalframenumbertrue}
+
+\ProcessOptionsBeamer
+
+% actual configuration
+\mode<presentation>
+
+\useinnertheme{UniversiteitGent}
+\usefonttheme {UniversiteitGent}
+\usecolortheme{UniversiteitGent}
+\useoutertheme{UniversiteitGent}
+
+% I don't like navigational symbols, neither should you
+\beamertemplatenavigationsymbolsempty
+
+\mode
+<all>
