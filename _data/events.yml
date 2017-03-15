@@ -63,6 +63,10 @@ InternalEvents:
       start: 2017-02-27
       end: 2017-03-12
       url: https://wiki.sagemath.org/days84
+    - title: Sage Days 85
+      start: 2017-03-13
+      end: 2017-03-18
+      url: https://wiki.sagemath.org/days85
 ExternalEvents:
     - title: AnacondaCON
       start: 2017-02-07
