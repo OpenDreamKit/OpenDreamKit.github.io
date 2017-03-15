@@ -8,6 +8,7 @@ tags:
     - project-meeting
 ---
 
+
 The Review for the first Reporting Period of OpenDreamKit is taking place on the 26th of April in Brussels at the [CLORA](http://www.clora.eu/en/accueil) (Club of associated research organisations) headquarters.
 This Review will be preceded by 2 full days of Project meetings and rehearsals at the same location.
 
@@ -29,7 +30,7 @@ Is particularly advised the Best Western hotel (pages 8 and 9). Please each part
 
 - [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation/) presenting what is expected.
 
-REMINDER: HAVE TO BE PRESENT:
+REMINDER: HAVE TO BE PRESENT: 
 
   - All WP leaders + Coordinator + project manager
   - At least one representative per site
@@ -44,6 +45,9 @@ REMINDER: HAVE TO BE PRESENT:
    - eligibility of the costs claimed
    - compliance with other grant agreement obligations
 
+## Participants
+
+A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 ## Tentative agenda
 
@@ -61,7 +65,7 @@ Closing of rooms: 8:30 pm
 - Wednesday 26/04: REVIEW
 
 All day big (40 sitting people, max 60) meeting room
-
+  
    - Evening: dinner to be organised
 
 
