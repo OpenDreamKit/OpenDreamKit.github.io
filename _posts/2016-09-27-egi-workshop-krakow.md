@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: "OpenDreamKit: Cloud needs and uses"
-type: talk
+
 theme: white
 transition: none
 author: Dima Pasechnik

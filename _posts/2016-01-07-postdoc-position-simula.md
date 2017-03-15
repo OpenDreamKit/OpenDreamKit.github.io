@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: Simula
 location: Simula Research Laboratory in Norway beginning early 2016
 title: Full-time two year Postdoctoral Fellow position

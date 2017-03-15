@@ -1,6 +1,6 @@
 ---
 layout: post
-type: workshop
+
 author: the ODK team
 location: ICMS, Edinburgh, 16-20 January 2017
 title: "Workshop: Computational Mathematics with Jupyter"

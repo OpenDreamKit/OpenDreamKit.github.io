@@ -17,7 +17,7 @@ gems:
   - jekyll-github-metadata
   - jekyll-redirect-from
 
-exclude: ['public/*.md', 'public/*.html', 'tag/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+exclude: ['public/*.md', 'public/*.html', '_tagpages/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
 
 # About/contact
@@ -29,6 +29,10 @@ author:
 
 repository:          OpenDreamKit/OpenDreamKit.github.io
 
+collections:
+    tagpages:
+        output: true
+        permalink: /tag/:path
 
 # Custom vars
 version:             0.3.0

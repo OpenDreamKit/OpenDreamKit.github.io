@@ -1,6 +1,6 @@
 ---
 layout: post
-type: workshop
+
 author: Paris-Sud
 title: Kickoff meeting
 location: Orsay, Université Paris Sud, September 2nd-5th of 2015

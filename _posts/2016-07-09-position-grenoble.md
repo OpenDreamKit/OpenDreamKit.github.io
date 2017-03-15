@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opning
+
 author: Université Grenoble-Alpes
 location: Grenoble (ex UJF)
 title: Full-time developer position opening for 2017

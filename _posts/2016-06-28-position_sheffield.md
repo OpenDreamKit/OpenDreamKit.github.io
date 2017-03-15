@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: University of Sheffield
 location: United Kingdom
 title: Full time position

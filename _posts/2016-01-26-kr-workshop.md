@@ -1,9 +1,10 @@
 ---
 layout: post
-type: news
+
 author: the WP6 team
 title: St. Andrews Workshop explored "Math-in-the-Middle" Paradigm for Integration
 tags:
+    - blogpost
     - math-in-the-middle
 ---
 The OpenDreamKit Team held a workshop on knowledge representation to synchronize views and

@@ -2,7 +2,7 @@
 layout: post
 title: "Sage days 73"
 author: Vincent Delecroix
-type: conference
+
 date: 2016/05/07
 redirect_from: "/activities/2016-05-07-sage-days-oaxaca/"
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: Université de Bordeaux
 location: Bordeaux
 title: Full-time developer position opening for Fall 2016 or Fall 2017

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: TU Kaiserslautern
 title: Full-time developer position at TU Kaiserslautern for six months beginning August 2016
 tags:

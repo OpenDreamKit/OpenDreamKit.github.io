@@ -1,6 +1,7 @@
 
-### Contact and public mailing list
+### Contact
 
 * [Contact us](mailto:contact@opendreamkit.org)
-* Opendreamkit news: [news@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-news)
-* Community discussions: [community@opendreamkit.org](https://listes.services.cnrs.fr/wws/info/opendreamkit-community)
+* Live chat with us on
+  [Gitter](https://gitter.im/OpenDreamKit/discuss) (we also have a
+  [private room](https://gitter.im/OpenDreamKit)).

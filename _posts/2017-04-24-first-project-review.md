@@ -1,9 +1,9 @@
 ---
 layout: post
-type: Project review
+
 author: the ODK team
 title: Official Project Review for the 1st reporting period (Sept. 2015 to Feb. 2017)
-tags: 
+tags:
     - project-review
     - project-meeting
 ---
@@ -29,7 +29,7 @@ Is particularly advised the Best Western hotel (pages 8 and 9). Please each part
 
 - [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation/) presenting what is expected.
 
-REMINDER: HAVE TO BE PRESENT: 
+REMINDER: HAVE TO BE PRESENT:
 
   - All WP leaders + Coordinator + project manager
   - At least one representative per site
@@ -61,7 +61,7 @@ Closing of rooms: 8:30 pm
 - Wednesday 26/04: REVIEW
 
 All day big (40 sitting people, max 60) meeting room
-  
+
    - Evening: dinner to be organised
 
 

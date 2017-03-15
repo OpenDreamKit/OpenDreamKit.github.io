@@ -1,9 +1,10 @@
 ---
 layout: post
-type: blogpost
+
 author: Nicolas M. Thiéry
 title: "Emerging technologies: Running Docker Natively on Windows and Mac"
 tags:
+    - blogpost
     - emerging-technologies
     - docker
     - windows

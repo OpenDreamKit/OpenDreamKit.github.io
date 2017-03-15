@@ -18,4 +18,7 @@ The consortium is backed by an Advisory Board which helps the project coordinate
 | Konrad Hinsen    | Centre de Biophysique Moléculaire |
 | William Stein    | CEO of SageMath, Inc. (SEM)       |
 | Paul Zimmermann  | INRIA                             |
-| Name to follow   |                                   |
+
+{% comment %}
+Lorena Barba ?
+{% endcomment %}

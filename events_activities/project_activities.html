@@ -7,16 +7,22 @@ menu_order: 1
 
 <h2>By tag</h2>
 
-<a class="btn btn-default" href="{{ site.blog_path}}">All activites <span class="badge">{{ site.posts.size }}</span></a>
+
 
 {% assign with_post_numbers = true %}
 {% include tags_module.html %}
+
+<div class="tagcloud" >
+    <span class="tag" ><a class="btn btn-default" href="{{ site.blog_path}}">All activites <span class="badge">{{ site.posts.size }}</span></a></span>
+{{ tagscontent }}
+</div>
+
 
 <h2>Most recent activites</h2>
 
 {% for post in site.posts %}
     {% if forloop.index < 5 %}
-	{% include post_link.html %}
+    {% include post_link.html %}
     {% endif %}
 {% endfor %}
 

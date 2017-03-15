@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: "Retour d'expérience: licences pour les logiciels de maths pures"
-type: talk
+
 theme: white
 transition: none
 author: Nicolas M. Thiéry

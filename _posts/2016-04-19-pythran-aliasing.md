@@ -2,10 +2,11 @@
 layout: post
 title: "Pythran aliasing"
 author: Serge Guelton
-type: post
+
 date: 2016/04/17
 redirect_from: "/activities/2016-04-19-pythran-aliasing/"
 tags:
+    - blogpost
     - pythran
 ---
 

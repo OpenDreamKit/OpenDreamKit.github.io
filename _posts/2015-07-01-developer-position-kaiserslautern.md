@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: TU Kaiserslautern
 title: Full-time mathematical researcher and developer position at TU Kaiserslautern for up to four years beginning November 2015
 tags:

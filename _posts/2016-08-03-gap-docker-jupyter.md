@@ -2,7 +2,7 @@
 layout: post
 title: "Jupyter-GAP now available as Docker image"
 author: Markus Pfeiffer
-type: release
+
 date: 2016/08/03
 redirect_from: "/activities/2016-08-03-gap-docker-jupyter/"
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: "OpenDreamKit: bref retour d'expérience sur la soumission d'un projet H2020"
-type: talk
+
 theme: white
 transition: none
 author: Nicolas M. Thiéry

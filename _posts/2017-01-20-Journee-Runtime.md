@@ -2,7 +2,7 @@
 layout: post
 title: "Task based parallelization of recursive linear algebra routines using Kaapi"
 author: Clément Pernet
-type: talk
+
 location: "Inria Research Center, Paris, France"
 date: 2017/01/20
 redirect_from: "/activities/2017-01-20-Journee-Runtime/"

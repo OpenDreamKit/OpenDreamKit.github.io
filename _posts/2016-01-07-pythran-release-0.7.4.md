@@ -2,7 +2,7 @@
 layout: post
 title: "pythran 0.7.4"
 author: Serge Guelton
-type: release
+
 date: 2016/01/07
 redirect_from: "/activities/2016-01-07-pythran-release-0.7.4/"
 tags:

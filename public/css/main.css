@@ -42,6 +42,10 @@ body {
     background-color: #eee !important;
 }
 
+.navbar-toggle {
+    background: #fff;
+}
+
 body {
     background: no-repeat top right;
     background-color: #fff;
@@ -83,10 +87,20 @@ header.intro-header h1 {
 
     header.intro-header h1 {
         padding-right: 0px;
+        margin-top: 10px;
+        font-size: 2em;
+        text-align: center;
+    }
+
+    header.intro-header h2 {
+        font-size: 2em;
+        text-align: center;
     }
 
     .odk-logo {
         float: none;
+        margin: auto;
+        width: 150px;
     }
 
 }
@@ -112,9 +126,27 @@ header.intro-header h1 {
     border-right: solid 1px #fff;
 }
 
+
 .europe-text {
     margin-top: 15px;
 }
+
+@media (max-width: 980px) {
+    .europe-banner {
+        text-align: center;
+    }
+
+    .europe-logo {
+        float: none;
+        text-align: center;
+    }
+
+    .europe-logo img {
+        border: 0px;
+        margin: auto;
+    }
+}
+
 
 footer {
     margin-top: 10px;
@@ -156,9 +188,28 @@ svg.icon, img.icon {
     flex-flow: row wrap;
 }
 
+#softwares {
+    display: flex;
+    flex-flow: row wrap;
+}
+
 #sites .site {
     min-width: 35ex;
     flex: 1 1 33%;
+}
+
+#softwares .software {
+    padding: 10px;
+    flex: 1 1 50%;
+}
+
+#softwares .software-logo img {
+    height: 70px;
+}
+
+#softwares h2 {
+    text-align: center;
+    min-height: 70px;
 }
 
 #logos {
@@ -193,3 +244,65 @@ svg.icon, img.icon {
     font-style: italic;
     font-weight: bold;
 }
+
+.btn-keyword {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+.btn-keyword:hover {
+    color: #fff;
+    background-color: #449d44;
+    border-color: #398439;
+}
+
+.btn-keyword .badge {
+    color: #fff;
+    background-color: #398439;
+}
+
+.btn-event {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #5bc0de;
+}
+
+.btn-event:hover {
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #2aabd2;
+}
+
+.btn-event .badge {
+    color: #fff;
+    background-color: #31b0d5;
+}
+
+.btn-software {
+    color: #fff;
+    background-color: #fbca04;
+    border-color: #f0ad4e;
+}
+
+.btn-software:hover {
+    color: #fff;
+    background-color: #ec971f;
+    border-color: #eb9316;
+}
+
+.btn-software .badge {
+    color: #fff;
+    background-color: #eb9316;
+}
+
+
+.tagcloud {
+    line-height: 2.3em;
+}
+
+.error {
+    font-weight: bold;
+    color: #f00;
+}
+

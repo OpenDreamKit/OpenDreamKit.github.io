@@ -2,7 +2,7 @@
 layout: post
 title: "OOMMF Python interface presentation"
 author: Hans Fangohr
-type: talk
+
 location: "MMM 2016, New Orleans, Louisiana (US)"
 date: 2016/11/02
 redirect_from: "/activities/2016-11-02-oommf-python-mmm2016/"

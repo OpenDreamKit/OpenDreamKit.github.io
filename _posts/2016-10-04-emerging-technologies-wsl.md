@@ -2,9 +2,10 @@
 layout: post
 title: "Emerging Technologies: Windows Subsystem for Linux"
 author: Erik M. Bray
-type: blogpost
+
 date: 2016/10/04
 tags:
+    - blogpost
     - emerging-technologies
     - windows
 ---

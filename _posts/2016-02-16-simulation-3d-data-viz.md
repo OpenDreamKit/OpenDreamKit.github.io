@@ -2,7 +2,7 @@
 layout: post
 title: "3D Visualization of simulation data with x3dom"
 author: Florent Cayré
-type: release
+
 date: 2016/02/16
 redirect_from: "/activities/2016-02-16-simulation-3d-data-viz"
 tags:

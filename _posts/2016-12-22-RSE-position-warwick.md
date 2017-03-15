@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: University of Warwick
 title: Full-time open-ended research software engineer position
 tags:

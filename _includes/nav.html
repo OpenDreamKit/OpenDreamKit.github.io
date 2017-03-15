@@ -39,6 +39,7 @@
                         </ul>
                     </li>
                 {% endfor %}
+                <li><a href="{{ site.baseurl }}/tag/blogpost">Blog</a></li>
             </ul>
 
 
@@ -50,9 +51,11 @@
                                         <li><a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Atask+sort%3Acreated-asc">Tasks on GitHub</a></li>
                                         <li><a href="https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3Adeliverable+sort%3Acreated-asc">Deliverables on GitHub</a></li>
                                         <li><a href="https://github.com/OpenDreamKit/OpenDreamKit/milestones">Timeline</a></li>
+                                        <li><a href="https://github.com/OpenDreamKit/OpenDreamKit/blob/master/README.md#instructions-for-participants" >Instructions for participants</a></li>
+                                        <li><a href="{{ site.baseurl }}/tag/project-meeting">Project meetings</a></li>
                                         <li><a href="{{ site.github.zip_url | replace: 'zipball','edit' }}/{% if page.source %}{{ page.source }}{% else %}{{ page.path }}{% endif %}" >Edit this page</a></li>
-                                        <li><a href="https://github.com/OpenDreamKit/OpenDreamKit.github.io/#repository-holding-the-sources-of-the-opendreamkitorg-website-aka-opendreamkitgithubio">How to</a></li>
-                                        <li><a href="{{ site.baseurl }}/acknowledge">Aknowledge</a></li>
+                                        <li><a href="https://github.com/OpenDreamKit/OpenDreamKit.github.io/#repository-holding-the-sources-of-the-opendreamkitorg-website-aka-opendreamkitgithubio">How to edit</a></li>
+                                        <li><a href="{{ site.baseurl }}/acknowledge">Acknowledge</a></li>
                                 </ul>
                     </li>
             </ul>

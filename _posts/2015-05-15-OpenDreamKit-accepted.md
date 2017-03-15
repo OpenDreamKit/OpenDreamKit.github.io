@@ -1,9 +1,10 @@
 ---
 layout: post
-type: news
+
 author: the ODK team
 title: Proposal accepted
 tags:
+    - blogpost
     - H2020
 ---
 

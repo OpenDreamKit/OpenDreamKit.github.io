@@ -3,14 +3,21 @@ layout: default
 ---
 
 <div class="post">
+    {% assign with_post_numbers = false %}
+    {% include tags_module.html %}
     <p class="post-meta" >
-        <span class="post-type">{{page.type}} by {{page.author}}</span> -
+        <span class="post-type">{{ firsttag_title }} by {{page.author}}</span> -
         {% if page.location %}<span class="post-location">{{page.location}}</span> - {% endif %}
         <span class="post-date">{{ page.date | date_to_string }}</span>
     </p>
 
-    {% assign with_post_numbers = false %}
-    {% include tags_module.html %}
+    {{ tagscontent }}
+    {% for tag in page.tags %}
+        {% if taglist contains tag %}{% else %}
+        <p class="error" >Tag without page: {{ tag }}</p>
+        {% endif %}
+    {% endfor %}
+
 
   {{ content }}
 

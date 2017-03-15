@@ -1,6 +1,6 @@
 ---
 layout: post
-type: workshop
+
 author: University of St Andrews
 location: St Andrews, 25th-27th January, 2016
 title: Knowledge representation in mathematical software and databases & Steering Committee

@@ -1,0 +1,27 @@
+---
+layout: page
+title: Software
+menu_order: 3
+source: _data/software.yml
+---
+
+<div id="softwares" >
+    {% assign softwares = site.data.software | sort:"name" %}
+    {% for soft in softwares %}
+        <div class="software" >
+            <div class="software-logo" >
+                <h2>
+                    <a href="{{ soft.link }}">
+                        {% if soft.logo %}
+                            <img src="{{ site.baseurl }}/public/logos/{{ soft.logo }}" alt="{ soft.name }}" />
+                        {% else %}
+                            {{ soft.name }}
+                        {% endif %}
+                    </a>
+                </h2>
+            </div>
+            <p>{% if soft.download %}<a href="{{ soft.download }}" >Download</a> -- {% endif %}<a href="{{ site.baseurl }}/tag/{{ soft.tag }}" >OpenDreamKit activites</a></p>
+            <p>{{ soft.description }}</p>
+        </div>
+    {% endfor %}
+</div>

@@ -3,11 +3,11 @@ layout: post
 title: "Jupyter Day in Orsay:"
 subtitle: "discover the tools available in the Jupyter environment"
 author: Benoît PILORGET
-type: blogpost
+
 date: 2016/11/04
 tags:
-    - jupyter
     - workshop
+    - jupyter
 ---
 # !!! SUBSCRIPTIONS ARE CLOSED
 

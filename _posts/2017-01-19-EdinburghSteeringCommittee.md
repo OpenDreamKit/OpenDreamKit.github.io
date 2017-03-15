@@ -1,6 +1,6 @@
 ---
 layout: post
-type: project meeting
+
 title: Biannual ODK Steering Committee meeting
 author: Benoit Pilorget
 location: Edinburgh

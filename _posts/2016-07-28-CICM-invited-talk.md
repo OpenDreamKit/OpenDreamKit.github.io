@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure for generic code in SageMath:"
 subtitle: "categories, axioms, constructions"
 author: Nicolas M. Thiéry
-type: talk
+
 location: "CICM 2016, Białystok, Poland"
 redirect_from: "/activities/2016-07-28-CICM-invited-talk/"
 tags:

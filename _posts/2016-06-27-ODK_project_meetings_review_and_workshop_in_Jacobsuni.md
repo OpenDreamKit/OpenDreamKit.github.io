@@ -1,6 +1,6 @@
 ---
 layout: post
-type: workshop
+
 author: the WP6 team
 location: Jacobsuni (Bremen)
 title: Project meetings, review and workshop

@@ -2,14 +2,14 @@
 layout: post
 title: "A case study of computational science in Jupyter notebooks: JOOMMF"
 author: Hans Fangohr and Marijan Beg
-type: talk
+
 location: "International Centre for Mathematical Sciences, Edinburgh, UK"
 date: 2017/01/20
 redirect_from: "/activities/2017-01-20-JOOMMF-intro/"
 tags:
+    - talk
     - OOMMF
     - jupyter
-    - talk
 ---
 
 Hans Fangohr gave an introduction to computational micromagnetics and

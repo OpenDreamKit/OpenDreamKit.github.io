@@ -2,7 +2,7 @@
 layout: post
 title: "nbdime 0.1.0"
 author: Min Ragan-Kelley
-type: release
+
 date: 2016/12/16
 redirect_from: "/activities/2016-12-16-nbdime-release-0.1.0/"
 tags:

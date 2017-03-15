@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: TU Kaiserslautern
 title: Full-time mathematical software developer position at TU Kaiserslautern
 subtitle: for up to two and a half years beginning as soon as possible.

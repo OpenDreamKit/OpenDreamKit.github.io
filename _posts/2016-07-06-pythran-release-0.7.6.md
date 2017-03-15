@@ -2,12 +2,12 @@
 layout: post
 title: "pythran 0.7.6"
 author: Serge Guelton
-type: release
+
 date: 2016/07/06
 redirect_from: "/activities/2016-07-06-pythran-release-0.7.6/"
 tags:
-    - pythran
     - release
+    - pythran
 ---
 
 Pythran 0.7.6 has been released. It's a big step forward better handling of complex scientific code:

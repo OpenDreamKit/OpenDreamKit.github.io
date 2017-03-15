@@ -6,6 +6,9 @@ menu_order: 1
 redirect_from: "/about"
 ---
 
+ * [See our presentation for mathematicians](/about-mathematicians/)
+ * [See our presentation for developers](/about-developers/)
+
 {% include intro.md %}
 
 

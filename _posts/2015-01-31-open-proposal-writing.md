@@ -1,9 +1,10 @@
 ---
 layout: post
-type: blogpost
+
 author: Nicolas M. Thiéry
 title: On open collaborative proposal writing
 tags:
+    - blogpost
     - H2020
 ---
 

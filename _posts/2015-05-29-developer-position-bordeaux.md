@@ -1,6 +1,6 @@
 ---
 layout: post
-type: job opening
+
 author: Université de Bordeaux
 title: Full-time developer position opening at Université de Bordeaux for Fall 2015
 tags:
