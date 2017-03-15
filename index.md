@@ -16,7 +16,7 @@ title: Home
     {% endif %}
 {% endfor %}
 
-[See all activites](/news/)
+[See all activites](/events_activities/project_activities/)
 
 
 *The project was labelled by the [Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).*
