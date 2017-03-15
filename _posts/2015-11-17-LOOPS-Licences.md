@@ -8,7 +8,7 @@ author: Nicolas M. Thiéry
 date: 2015/11/17
 fulldate: 17 novembre 2015
 location: "Journée LOOPS: «Je code, je diffuse, oui mais comment ?»"
-redirect_from: "/activities/2015-11-17-LOOPS-Licences"
+redirect_from: "/activities/2015-11-17-LOOPS-Licences/"
 tags:
     - talk
 ---

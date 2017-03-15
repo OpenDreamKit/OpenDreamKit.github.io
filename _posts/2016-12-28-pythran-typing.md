@@ -4,7 +4,7 @@ title: "From pythran import typing"
 author: Serge Guelton
 
 date: 2016/12/28
-redirect_from: "/activities/2016-12-28-pythran-typing"
+redirect_from: "/activities/2016-12-28-pythran-typing/"
 tags:
     - blogpost
     - pythran

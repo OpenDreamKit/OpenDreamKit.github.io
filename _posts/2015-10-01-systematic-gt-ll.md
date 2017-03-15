@@ -8,7 +8,7 @@ author: Nicolas M. Thiéry
 date: 2015/10/01
 fulldate: 1er octobre 2015
 location: Groupe de travail [Logiciel Libre](http://www.systematic-paris-region.org/fr/logiciel-libre), pôle de compétitivité [Systématic](http://www.systematic-paris-region.org/)
-redirect_from: "activities/2015-10-01-systematic-gt-ll"
+redirect_from: "activities/2015-10-01-systematic-gt-ll/"
 tags:
     - talk
 ---

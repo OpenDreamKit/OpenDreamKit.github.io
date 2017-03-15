@@ -4,7 +4,7 @@ title: Events calendar
 menu_order: 2
 id: Calendar
 source: _data/events.yml
-redirect_from: "/calendar"
+redirect_from: "/calendar/"
 ---
 
 Please find here some past and upcoming events. Events organized by the

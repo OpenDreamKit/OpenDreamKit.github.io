@@ -2,7 +2,7 @@
 title: Job openings
 menu_order: 3
 layout: page
-redirect_from: "/joinus"
+redirect_from: "/joinus/"
 ---
 
 Due to the highly technical aspects of this project, a large focus is
