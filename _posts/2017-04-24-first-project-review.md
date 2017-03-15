@@ -39,6 +39,9 @@ REMINDER: HAVE TO BE PRESENT:
    - eligibility of the costs claimed
    - compliance with other grant agreement obligations
 
+## Participants
+
+A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 ## Tentative agenda
 
