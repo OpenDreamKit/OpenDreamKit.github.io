@@ -3,7 +3,7 @@ layout: page
 title: What is OpenDreamKit
 menu_title: About
 menu_order: 1
-redirect_from: "/about"
+redirect_from: "/about/"
 ---
 
  * [See our presentation for mathematicians](/about-mathematicians/)
