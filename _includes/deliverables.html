@@ -8,7 +8,7 @@
     {% assign wp = wp_dict[1] %}
     {% for deliv_dict in wp %}
     {% assign deliv = deliv_dict[1] %}
-    {% if deliv.status == "submitted" %}
+    {% if deliv.status" %}
         |<li data-sort="{{ deliv.label }}" ><a href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP{{ wpnum}}/{{ deliv.label }}/report-final.pdf" >Report</a> for <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues/{{ deliv.issue}}">{{ deliv.label }}</a> due M{{ deliv.due }}: {{ deliv.short }}. {% if deliv.blog %} <a href="{{ deliv.blog }}" >Read more...</a>{% endif %}</li>
     {% endif %}
     {% endfor %}
