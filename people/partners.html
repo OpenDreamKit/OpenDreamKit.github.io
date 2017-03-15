@@ -60,13 +60,13 @@ redirect_from: "/partners/"
       {{ m.name }}
       {% if m.homepage %}</a>{% endif %}
     {% if m.orcid %}
-    <a href="https://orcid.org/{{ m.orcid }}" target="_blank"><img class="icon" src="../public/orcid.png" alt="orcid:{{ m.orcid }}"></a>
+    <a href="https://orcid.org/{{ m.orcid }}" target="_blank"><img class="icon" src="{{ site.baseurl }}/public/orcid.png" alt="orcid:{{ m.orcid }}"></a>
     {% endif %}
     {% if m.github %}
-    <a href="https://github.com/{{ m.github }}" target="_blank"><img class="icon" src="../public/github.png" alt="@{{ m.github }}"></a>
+    <a href="https://github.com/{{ m.github }}" target="_blank"><img class="icon" src="{{ site.baseurl }}/public/github.png" alt="@{{ m.github }}"></a>
     {% endif %}
     {% if m.twitter %}
-    <a href="https://twitter.com/@{{ m.twitter }}" target="_blank"><img class="icon" src="../public/twitter.png" alt="@{{ m.twitter }}"></a>
+    <a href="https://twitter.com/@{{ m.twitter }}" target="_blank"><img class="icon" src="{{ site.baseurl }}/public/twitter.png" alt="@{{ m.twitter }}"></a>
     {% endif %}
     {% for r in m.roles %}
     <a href="#legend"><svg class="icon" xmlns="http://www.w3.org/2000/svg"
