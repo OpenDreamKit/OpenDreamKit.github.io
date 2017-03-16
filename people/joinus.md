@@ -1,4 +1,4 @@
-﻿---
+---
 title: Job openings
 menu_order: 3
 layout: page
