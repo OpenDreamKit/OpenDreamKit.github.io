@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Advisory Board
 menu_order: 2
