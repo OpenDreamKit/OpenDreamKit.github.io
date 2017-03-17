@@ -68,6 +68,10 @@ InternalEvents:
       end: 2017-03-18
       url: https://wiki.sagemath.org/days85
 ExternalEvents:
+    - title: Conference on Intelligent Computer Mathematics (CICM 2017)
+      start: 2017-07-17
+      end: 2017-07-21
+      url: http://www.cicm-conference.org/2017/
     - title: AnacondaCON
       start: 2017-02-07
       end: 2017-02-09
