@@ -16,7 +16,7 @@ The consortium is backed by an Advisory Board which helps the project coordinate
 | Istvan Csabai    | Eötvös University Budapest        |
 | Françoise Genova | Observatoire de Strasbourg        |
 | Konrad Hinsen    | Centre de Biophysique Moléculaire |
-| William Stein    | CEO of SageMath, Inc. (SEM)       |
+| William Stein    | CEO of SageMath, Inc. (SME)       |
 | Paul Zimmermann  | INRIA                             |
 
 {% comment %}
