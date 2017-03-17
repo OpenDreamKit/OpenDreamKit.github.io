@@ -51,7 +51,7 @@ sites:
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
   - name: Université Grenoble Alpes
-    logo: Logo-UJF.svg
+    logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
