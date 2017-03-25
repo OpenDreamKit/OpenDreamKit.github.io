@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: the ODK team
 title: Proposal accepted
+tags:
+    - blogpost
+    - H2020
 ---
 
 We are delighted to announce that the Horizon 2020 research proposal

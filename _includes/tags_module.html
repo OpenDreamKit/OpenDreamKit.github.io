@@ -1,0 +1,30 @@
+
+{% capture taglinks %}
+{% if page.tags %}
+    {% assign firsttag = page.tags | first %}
+{% endif %}
+{% for node in site.tagpages %}
+    {% assign tag_size = site.tags[node.tag] | size %}
+    {% if firsttag == node.tag %}
+        {% assign firsttag_title = node.title %}
+    {% endif %}
+    {% if page.alltags or page.tags contains node.tag %}
+        ||{{ tag_size | prepend: '0000' | slice: -4, 4 }}|<span class="tag" ><a class="btn btn-default {% if node.class %}btn-{{ node.class }}{% endif %}" href="{{ node.url }}">{{ node.title }} {% if with_post_numbers %}<span class="badge">{{ tag_size }}</span>{% endif %}</a></span>
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+{% capture tags %}{% for node in site.tagpages %}|{{ node.tag }}{% endfor %}{% endcapture %}
+
+{% assign split_list = taglinks | split:'||' | sort | reverse %}
+{% assign taglist = tags | split:'|' %}
+
+{% capture tagscontent %}
+{% for tag_string in split_list %}
+    {% assign tag_string_parts = tag_string | split:'|' %}
+    {% assign nb_parts = tag_string_parts | size %}
+    {% if nb_parts > 1 %}
+      {{ tag_string_parts[1] }}
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+

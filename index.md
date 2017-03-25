@@ -3,19 +3,20 @@ layout: default
 title: Home
 ---
 
-# OpenDreamKit: Open <br>Digital Research Environment Toolkit<br>for the Advancement of Mathematics
 
 {% include intro.md %}
 
-[Read more...](about)
+[Read more...](project/about)
 
-
-## News
+## Recent activities
 
 {% for post in site.posts %}
-{{ post.date | date_to_string }}
-: [{{ post.title }}]({{ site.baseurl}}{{ post.url }})
+    {% if forloop.index < 5 %}
+	{% include post_link.html %}
+    {% endif %}
 {% endfor %}
+
+[See all activites](/events_activities/project_activities/)
 
 
 *The project was labelled by the [Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).*
@@ -26,6 +27,7 @@ title: Home
 
 
 <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+
 
 
 

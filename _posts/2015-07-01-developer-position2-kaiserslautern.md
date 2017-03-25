@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: TU Kaiserslautern
 title: Full-time developer position at TU Kaiserslautern for 1 year beginning March 2016
+tags:
+    - job-opening
+    - MPIR
 ---
 
 We are seeking a full-time developer at TU Kaiserslautern to work with Dr. William Hart on the MPIR [http://mpir.org/](http://mpir.org/) bignum library.

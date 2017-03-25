@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Biannual ODK Steering Committee meeting in Edinburgh
+
+title: Biannual ODK Steering Committee meeting
+author: Benoit Pilorget
+location: Edinburgh
+tags:
+    - project-meeting
 ---
 
 The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburgh at the occasion of the [Computational Mathematics with Jupyter](http://opendreamkit.org/meetings/2017-01-16-ICMS/) workshop.
@@ -24,9 +29,7 @@ The biannual OpenDreamKit Steering Committee meeting is taking place in Edinburg
 - WP7 topics in view of personnel changes
 - Future funding
 
-## Detailed agenda and minutes
-
-See the [Pad](https://mensuel.framapad.org/p/odk-sc)
+## Detailed [agenda and minutes](/meetings/2017-01-19-EdinburghSteeringCommittee/steering-minutes/)
 
 ## Progress reports per site
 

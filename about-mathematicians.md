@@ -8,7 +8,7 @@ title: "OpenDreamKit: the mathematician's perspective"
 
 ## The mathematician's perspective
 
-![](/public/logos/odk-elected-logo.svg)
+![](/public/logos/odk_logo_small.png)
 
 
 ---

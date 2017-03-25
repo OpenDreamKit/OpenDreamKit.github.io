@@ -3,23 +3,24 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
-</div>
+    {% assign with_post_numbers = false %}
+    {% include tags_module.html %}
+    <p class="post-meta" >
+        <span class="post-type">{{ firsttag_title }} by {{page.author}}</span> -
+        {% if page.location %}<span class="post-location">{{page.location}}</span> - {% endif %}
+        <span class="post-date">{{ page.date | date_to_string }}</span>
+    </p>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
+    {{ tagscontent }}
+    {% for tag in page.tags %}
+        {% if taglist contains tag %}{% else %}
+        <p class="error" >Tag without page: {{ tag }}</p>
+        {% endif %}
     {% endfor %}
-  </ul>
+
+
+  {{ content }}
+
+
+
 </div>

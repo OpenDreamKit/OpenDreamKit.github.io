@@ -1,6 +1,13 @@
 ---
 layout: post
-title: Full-time developer position opening at Université de Bordeaux for Fall 2016 or Fall 2017
+
+author: Université de Bordeaux
+location: Bordeaux
+title: Full-time developer position opening for Fall 2016 or Fall 2017
+tags:
+    - job-opening
+    - sagemath
+    - pari-gp
 ---
 
 This is an announcement for several full-time developer ([Ingénieur de

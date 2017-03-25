@@ -1,6 +1,14 @@
 ---
 layout: post
-title: Project meetings, review and workshop in Jacobsuni (Bremen)
+
+author: the WP6 team
+location: Jacobsuni (Bremen)
+title: Project meetings, review and workshop
+tags:
+    - project-meeting
+    - workshop
+    - user-interface
+    - math-in-the-middle
 ---
 
 [OpenDreamKit's annual project meeting](/meetings/2016-06-27-Bremen/)

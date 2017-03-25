@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Knowledge representation in mathematical software and databases & Steering Committee, University of St Andrews, St Andrews, 25th-27th January, 2016
+
+author: University of St Andrews
+location: St Andrews, 25th-27th January, 2016
+title: Knowledge representation in mathematical software and databases & Steering Committee
+tags:
+    - workshop
+    - project-meeting
 ---
 
 This workshop is taking place at the University of St Andrews, UK. It will be preceded by the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in St Andrews as well, but require separate registration.

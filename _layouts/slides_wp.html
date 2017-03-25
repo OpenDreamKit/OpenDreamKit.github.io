@@ -1,0 +1,27 @@
+---
+layout: slides
+---
+
+<section class="wp-report-title" >
+<div class="logos" >
+    <img src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" class="odk-logo" />
+    <img src="{{ site.baseurl }}/public/logos/Flag_of_Europe.svg" class="flag-europe" />
+</div>
+{% for d in site.data.proposal.wp %}
+    {% assign key = d[0] %}
+    {% assign wp = site.data.proposal.wp[key] %}
+    {% assign wpnum = wp["num"] | plus:0 %}
+    {% if wpnum == page.wp %}
+    <h1>{{ wp["title"] }}</h1>
+    {% endif %}
+{% endfor %}
+
+<div class="info" >
+{{ page.title }} - {{ page.author }}<br />
+
+{{ page.period }}
+</div>
+
+</section>
+
+{{ content }}

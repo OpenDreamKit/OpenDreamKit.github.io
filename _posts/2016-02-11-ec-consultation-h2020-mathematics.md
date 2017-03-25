@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: the ODK team
 title: European Commission consultation on “mathematics in H2020”
+tags:
+    - blogpost
+    - H2020
 ---
 
 The European Commission has just launched an

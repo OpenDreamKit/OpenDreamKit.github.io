@@ -23,19 +23,20 @@ Administration all going smoothly
 ---
 ## Main activities:
 
-* GAP/Jupyter interface
-* Docker containers
+* GAP/Jupyter interface -- detailed reports this afternoon
+* Docker containers -- reported on Monday
 * Integration of HPCGAP, GAP and libGAP into a coherent code base addressing SAGE integration
   and Some WP 5 tasks
 * other foundational work in GAP to support integration with other systems and UIs
-* training and related initiatives, community building in UK (with CoDiMa)
-* organising this and connected meetings
+* training and related initiatives, community building in UK (with
+CoDiMa)
+* collaboration with JacobsU on exporting the GAP type system
+* organising this workshop
 
 --
 All these continue, plus some new activities:
+* A number of deliverable reports to write
 
-- collaboration with JacobsU on exporting the GAP type system
-- Steve will be working on setting up the advisory board in the next
-  weeks
+
 
 </section>

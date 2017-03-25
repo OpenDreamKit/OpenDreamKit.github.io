@@ -90,7 +90,7 @@ and we will help to convert them to Jupyter notebooks
 
 ### Presentations and tutorials (morning)
 
-* Jeroen Demeyer: **IPywidgets and interact functions**
+* Jeroen Demeyer: **[IPywidgets: unraveling the magic behind @interact](http://opendreamkit.github.io/meetings/2017-01-16-ICMS/talks/IPywidgets%20Demeyer.ipynb)**
 
 * Mike Croucher: **[An introduction to SageMathCloud for lecturers](https://github.com/mikecroucher/SMC_tutorial)**
 
@@ -111,9 +111,9 @@ algebra system [Maxima](http://maxima.sourceforge.net/) to validate answers
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
 
-* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom): 
-Sage code for Tannakian symbols, a tool for computations in certain 
-algebraic structures called lambda-rings and Adams algebras, which 
+* **Tannakian symbols** (leads: Torstein Vik, Andreas Holmstrom):
+Sage code for Tannakian symbols, a tool for computations in certain
+algebraic structures called lambda-rings and Adams algebras, which
 appear naturally in number theory and representation theory.
 
 **Workshop dinner:** Wednesday, 18th January, 18.30-21.00, [Vittoria on the Bridge](http://www.vittoriagroup.co.uk/vittoriabridge/contact-us/) (19 George IV Bridge, Edinburgh, Scotland, EH1 1EN)
@@ -131,7 +131,9 @@ the afternoon.
 
 ### Presentations and tutorials (afternoon)
 
-* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**
+* Sylvain Corlay: **Custom widget libraries and extending [JupyterLab](https://github.com/jupyterlab/jupyterlab)**, see [GitHub repo](https://github.com/SylvainCorlay/CoDimaJan2017)
+
+* Martin Renou: **SciviJS - The extensible scientific 3D mesh visualization library** [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-19-SciviJs.pdf)
 
 * Markus Pfeiffer and Manuel Martins: **Interactive computational discrete mathematics
 with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
@@ -141,9 +143,9 @@ with [GAP Jupyter interface](https://github.com/gap-packages/jupyter-gap)**
 
 ### Presentations and tutorials (morning)
 
-* Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)**
+* Hans Fangohr and Marijan Beg: **A case study of computational science in Jupyter notebooks: [JOOMMF](https://joommf.github.io)** [[slides and notebooks]](http://opendreamkit.org/activities/2017-01-20-JOOMMF-intro/)
 
-* Mark Quinn: **Using SageMathCloud for teaching undergraduate physics**
+* Mark Quinn: **[Using SageMathCloud for teaching undergraduate physics](http://opendreamkit.github.io/meetings/2017-01-16-ICMS/talks/SMC_Sheffield.pdf)**
 
 ### Sprints (afternoon)
 

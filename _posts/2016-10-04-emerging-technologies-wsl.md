@@ -1,9 +1,13 @@
 ---
-layout: activity
+layout: post
 title: "Emerging Technologies: Windows Subsystem for Linux"
 author: Erik M. Bray
-type: blogpost
+
 date: 2016/10/04
+tags:
+    - blogpost
+    - emerging-technologies
+    - windows
 ---
 
 One of the goals of the OpenDreamKit project is to improve support for open
@@ -148,7 +152,7 @@ features, should already work out of the box.
 
 An additional potential advantage for WSL (indeed, one of the project's goals
 as detailed in [this article at Ars
-Technica](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-windows-run-linux-software/))
+Technica](http://arstechnica.com/information-technology/2016/04/why-microsoft-needed-to-make-Windows-run-linux-software/))
 is to make the development tools and command-line interfaces favored by
 UNIX-oriented developers available on Windows.  This makes it possible,
 in principle, to develop software like Sage the same way on both Windows
@@ -170,7 +174,7 @@ unexpected--the current release is marked
 Microsoft, and they fully acknowledge that it is buggy and incomplete.
 
 Second, Microsoft has made it clear in several statements, such as in
-[this blog post](https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/)
+[this blog post](https://blogs.Windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-Windows/)
 that the WSL and "Bash for Windows" are to be considered tools for developer
 convenience *only*.  It is not intended for use in a server infrastructure nor,
 presumably, as a means of distributing/installing software for end-users (i.e.
@@ -198,10 +202,10 @@ Finally, it is not currently supported to run GUI applications on top of WSL,
 in part because that requires a lot more than just system call compatibility.
 While not supported officially by Microsoft, some hobbyists have made progress
 on it though, by integrating with [existing X server implementations for
-Windows](http://www.pcworld.com/article/3055403/windows/windows-10s-bash-shell-can-run-graphical-linux-applications-with-this-trick.html).
+Windows](http://www.pcworld.com/article/3055403/Windows/Windows-10s-bash-shell-can-run-graphical-linux-applications-with-this-trick.html).
 For many mathematical softwares this is a non-issue--they are text based:
 numbers in; numbers out.  Additionally, graphical interfaces for interactive
-research environments are increasingly moving to the web (see for example 
+research environments are increasingly moving to the web (see for example
 [SageMathCloud](https://cloud.sagemath.com/)).  In such
 cases the GUI elements have been moved out to the web browser and the backend
 typically runs "headlessly"--it has no reliance on the system's desktop

@@ -1,6 +1,14 @@
 ---
 layout: post
-title: Full-time developer position opening at Université Grenoble-Alpes (ex UJF) for 2017
+
+author: Université Grenoble-Alpes
+location: Grenoble (ex UJF)
+title: Full-time developer position opening for 2017
+tags:
+    - job-opening
+    - linbox
+    - sagemath
+    - HPC
 ---
 
 This is an announcement for a full-time developer ([Ingénieur de

@@ -1,9 +1,13 @@
 ---
-layout: activity
-title: "Jupyter Day in Orsay: discover the tools available in the Jupyter environment"
+layout: post
+title: "Jupyter Day in Orsay:"
+subtitle: "discover the tools available in the Jupyter environment"
 author: Benoît PILORGET
-type: blogpost
+
 date: 2016/11/04
+tags:
+    - workshop
+    - jupyter
 ---
 # !!! SUBSCRIPTIONS ARE CLOSED
 
@@ -15,7 +19,7 @@ to initiate a reflexion to allow reproducible research works.
 - Where: Room 1-2-3 of the [Institut d'Astrophysique Spatiale](http://www.ias.u-psud.fr/), Orsay, France
 - When: 6th of December 2016
 - Who: four core developers of Jupyter tools will be present (S. Corlay, A, Darian, T. Kluyver, B. Ragan-Kelley) and V. Pons who is working on SageMathCloud.
-- Event organisation: Loïc Gouarin 
+- Event organisation: Loïc Gouarin
 
 [Subscriptions](https://indico.lal.in2p3.fr/event/3319/registration/register#/register) are free but mandatory. Most of
 talks and workshops will be given in English. You may need to bring your own training materials, in which case we will
@@ -41,7 +45,7 @@ warn you in advance.
 
 This talk will consist of an architectural overview and the current state of affairs of the new JupyterLab and ipywidgets.
 It will feature demos of the master branch of these projects, reflecting the latest developments
-     
+
 2) B. Ragan-Kelley : JupyterHub: Deploying Jupyter Notebooks for students and researchers
 
 Since the Jupyter notebook is a web-based environment, the notebook server can be run remotely, not just on your local
@@ -51,7 +55,7 @@ customized to use any authentication system, including GitHub, CILogon, Shibbole
 servers are spawned can also be customized to use services such as Docker, Kubernetes, or HPC cluster queuing systems.
 The tutorial will cover a basic deployment of JupyterHub on a single machine, then extending it to use docker and GitHub
 authentication, as well as general best practices for JupyterHub deployment.
-     
+
 3) V. Fauske : nbdime: diffing and merging notebooks
 
 Jupyter notebooks are JSON documents containing a combination of code, prose, and output. These outputs may be rich
@@ -61,7 +65,7 @@ merge tools can produce invalid results. nbdime aims to provide diff and merge t
 nbdime shows rendered diffs of notebooks, so that the content can be compared efficiently, rather than the raw JSON. Merges
 performed with nbdime will guarantee a valid notebook as a result, even in the event of conflicts. nbdime integrates with
 existing tools, such as git, so you shouldn't need to change how you work.
-     
+
 4) V. Pons : the SageMathCloud platform
 
 We will present the open-source interactive platform SageMathCloud and its many useful aspects for research collaboration
@@ -72,7 +76,7 @@ and teaching:
 - using Jupyter in SageMathCloud;
 - multi-user real time editing;
 - course management with Jupyter and SageMathCloud
-     
+
 5) T. Kluyver : Nbconvert: make things from notebooks
 
 Nbconvert is a set of tools to convert notebooks to other file types, such as HTML,

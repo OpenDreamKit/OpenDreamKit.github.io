@@ -1,0 +1,52 @@
+- name: LinBox
+  link: http://linalg.org/
+  download: http://linalg.org/download.html
+  description: Linbox is a C++ template library for exact, high-performance linear algebra computation with dense, sparse, and structured matrices over the integers and over finite fields. 
+  tag: linbox
+- name: MPIR
+  link: http://mpir.org/
+  download: http://mpir.org/downloads.html
+  description: MPIR (Multiple Precision Integers and Rationals) is a highly optimised library for bignum arithmetic forked from the GMP bignum library. It is written in assembly language and C.
+  tag: MPIR
+- name: SageMath
+  link: http://www.sagemath.org/
+  download: http://www.sagemath.org/download.html
+  description: SageMath is a free open-source mathematics software system licensed under the GPL.  Its mission is to create a viable free open source alternative to Magma, Maple, Mathematica and Matlab. 
+  logo: sagemath.png
+  tag: sagemath
+- name: GAP
+  link: http://www.gap-system.org/
+  download: http://www.gap-system.org/Releases/index.html
+  description: GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory.
+  logo: gap.jpg
+  tag: GAP
+- name: Pari/GP
+  link: http://pari.math.u-bordeaux.fr/
+  download: http://pari.math.u-bordeaux.fr/download.html
+  description: PARI/GP is a widely used computer algebra system designed for fast computations in number theory (factorizations, algebraic number theory, elliptic curves...).
+  logo: parigp.png
+  tag: pari-gp
+- name: LMFDB
+  link: http://www.lmfdb.org/
+  description: The LMFDB is an extensive database of mathematical objects arising in Number Theory.
+  logo: lmfdb.png
+  tag: LMFDB
+- name: Singular
+  link: https://www.singular.uni-kl.de/
+  download: https://www.singular.uni-kl.de/index.php/singular-download.html
+  description: Singular is a computer algebra system for polynomial computations, with special emphasis on commutative and non-commutative algebra, algebraic geometry, and singularity theory.
+  logo: singular.png
+  tag: singular
+- name: MathHub
+  link: https://mathhub.info/
+  description: MathHub.info is a portal for active mathematical documents and an archive for flexiformal mathematics. 
+  logo: mathhub.png
+  tag: math-in-the-middle
+  github: MMT
+- name: Jupyter
+  link: http://jupyter.org/
+  download: http://jupyter.org/install.html
+  description: Project Jupyter is an open source project was born out of the IPython Project in 2014 as it evolved to support interactive data science and scientific computing across all programming languages. 
+  logo: jupyter.svg
+  tag: jupyter
+

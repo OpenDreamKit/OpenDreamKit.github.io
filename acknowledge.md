@@ -5,7 +5,7 @@ title: How to acknowledge OpenDreamKit support
 
 # Collect and advertise ODK activities and publications
 
-Please advertise talks, workshops, publications, and other ODK activities on the [activities](activities) or [events](calendar) pages. Also include bibtex citations of ODK funded publications on our [publication list](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/lib/publications.bib). All papers should be on arxiv, or some equivalent open preprint archive, and the bibtex citations should contain a reference to it.
+Please advertise talks, workshops, publications, and other ODK activities on the [project activities](/events_activities/project_activities/) and [events](/events_activities/calendar) pages. Also include bibtex citations of ODK funded publications on our [publication list](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/lib/publications.bib). All papers should be on arxiv, or some equivalent open preprint archive, and the bibtex citations should contain a reference to it.
 
 # EU visibility
 
@@ -22,7 +22,7 @@ For the communication actions and dissemination listed above, they must:
 
 (a)	Display the EU emblem whenever possible
 
-    (typically publications in our field do not traditionaly include such logos or emblems) 
+(typically publications in our field do not traditionaly include such logos or emblems) 
 
 (b)	Include the following text:
 

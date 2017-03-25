@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: Nicolas M. Thiéry
 title: On open collaborative proposal writing
+tags:
+    - blogpost
+    - H2020
 ---
 
 This is a debriefing rant about the open collaborative writing of the

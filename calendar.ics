@@ -1,0 +1,28 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://opendreamkit.org/
+METHOD:PUBLISH
+{% assign events = site.data.events.InternalEvents | sort:"start" | reverse %}{% for event in events %}BEGIN:VEVENT
+UID:{{event.title | slugify | remove:"-" }}@opendreamkit.org
+ORGANIZER;CN="OpenDreamKit":MAILTO:contact@opendreamkit.org
+LOCATION:
+SUMMARY:{{ event.title }}
+CLASS:PUBLIC
+DTSTART:{{ event.start | remove:"-"}}T170000Z
+DTEND:{{ event.end | remove:"-" }}T190000Z
+DTSTAMP:{{ event.start | remove:"-" }}T170000Z
+END:VEVENT
+{% endfor %}{% assign events = site.data.events.ExternalEvents | sort:"start" | reverse %}{% for event in events %}BEGIN:VEVENT
+UID:{{event.title | slugify | remove:"-" }}@opendreamkit.org
+ORGANIZER;CN="OpenDreamKit":MAILTO:contact@opendreamkit.org
+LOCATION:
+SUMMARY:{{ event.title }}
+CLASS:PUBLIC
+DTSTART:{{ event.start | remove:"-"}}T170000Z
+DTEND:{{ event.end | remove:"-" }}T190000Z
+DTSTAMP:{{ event.start | remove:"-" }}T170000Z
+END:VEVENT
+{% endfor %}END:VCALENDAR

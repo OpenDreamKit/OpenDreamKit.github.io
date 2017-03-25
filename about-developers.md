@@ -8,7 +8,7 @@ title: "OpenDreamKit: the developer's perspective"
 
 ## The developer's perspective
 
-![](/public/logos/odk-elected-logo.svg)
+![](/public/logos/odk_logo_small.png)
 
 ---
 # Trends from the last decade(s)

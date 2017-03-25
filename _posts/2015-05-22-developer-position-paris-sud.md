@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: Paris-Sud
 title: Full-time developer position opening at Université Paris-Sud for Fall 2015 (filled)
+tags:
+    - job-opening
+    - sagemath
 ---
 
 This is an announcement for a full-time developer ([Ingénieur de

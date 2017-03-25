@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: page
 title: "Kickoff meeting: brainstorms and coding sprints"
 ---
 

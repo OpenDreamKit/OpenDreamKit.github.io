@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: the ODK team
 title: Proposal submitted
+tags:
+    - blogpost
+    - H2020
 ---
 
 The OpenDreamKit proposal was submitted on January 15th of 2015.

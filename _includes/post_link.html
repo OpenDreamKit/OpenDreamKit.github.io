@@ -1,0 +1,16 @@
+
+<div class="post-link">
+    <h3 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }} {{ post.subtitle }}
+      </a>
+    </h3>
+    <p class="post-meta" >
+        {% assign firsttag = post.tags | first %}
+        {% assign tmp_list = site.tagpages | where:"tag", firsttag %}
+        {% assign type = tmp_list | first %}
+        <span class="post-type">{{ type.title }} by {{post.author}}</span> -
+        {% if post.location %}<span class="post-location">{{post.location}}</span> - {% endif %}
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+    </p>
+  </div>

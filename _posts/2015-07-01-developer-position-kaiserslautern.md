@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: TU Kaiserslautern
 title: Full-time mathematical researcher and developer position at TU Kaiserslautern for up to four years beginning November 2015
+tags:
+    - job-opening
+    - singular
 ---
 
 We are seeking a full-time mathematical researcher and developer at TU Kaiserslautern to work with Prof. Wolfram Decker on the Singular contribution to the OpenDreamKit project.

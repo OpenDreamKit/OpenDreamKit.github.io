@@ -1,6 +1,13 @@
 ---
 layout: post
-title: Kickoff meeting, Orsay, Université Paris Sud, September 2nd-5th of 2015
+
+author: Paris-Sud
+title: Kickoff meeting
+location: Orsay, Université Paris Sud, September 2nd-5th of 2015
+tags:
+    - workshop
+    - project-meeting
+
 ---
 
 This meeting gathered 30 of the 50 OpenDreamKit participants, together

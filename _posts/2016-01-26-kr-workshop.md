@@ -1,6 +1,11 @@
 ---
 layout: post
+
+author: the WP6 team
 title: St. Andrews Workshop explored "Math-in-the-Middle" Paradigm for Integration
+tags:
+    - blogpost
+    - math-in-the-middle
 ---
 The OpenDreamKit Team held a workshop on knowledge representation to synchronize views and
 start coding for Work Package WP6
@@ -13,6 +18,6 @@ started coding towards realizing it.
 
 This information architecture uses a central mathematical ontology represented in
 OMDoc/MMT as a central vocabulary for specifying system behaviors and capabilities, while
-documenting the maths involved to users. 
+documenting the maths involved to users.
 
 

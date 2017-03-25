@@ -1,0 +1,24 @@
+
+
+
+{% capture delivs_str %}
+{% for wp_dict in site.data.proposal.deliv %}
+    {% assign wpkey = wp_dict[0] %}
+    {% assign wpnum = site.data.proposal.wp[wpkey]["num"] %}
+    {% assign wp = wp_dict[1] %}
+    {% for deliv_dict in wp %}
+    {% assign deliv = deliv_dict[1] %}
+    {% if deliv.status" %}
+        |<li data-sort="{{ deliv.label }}" ><a href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP{{ wpnum}}/{{ deliv.label }}/report-final.pdf" >Report</a> for <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues/{{ deliv.issue}}">{{ deliv.label }}</a> due M{{ deliv.due }}: {{ deliv.short }}. {% if deliv.blog %} <a href="{{ deliv.blog }}" >Read more...</a>{% endif %}</li>
+    {% endif %}
+    {% endfor %}
+{% endfor %}
+{% endcapture %}
+
+{% assign delivs = delivs_str | split:"|" %}
+{% assign delivs_sorted = delivs | sort %}
+<ul>
+    {{ delivs_sorted }}
+</ul>
+
+

@@ -4,20 +4,21 @@ permalink:        pretty
 # Setup
 title:               OpenDreamKit
 tagline:             'Open Digital Research Environment Toolkit for the Advancement of Mathematics'
-description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
+description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> - <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
 url:                 http://opendreamkit.org
 baseurl:             ''
-paginate:            5
+paginate:            10
 paginate_path:       "/news/page:num/"
+blog_path:           "/news/"
 future:              True
 gems:
   - jemoji
   - jekyll-paginate
   - jekyll-github-metadata
-kramdown:
-  toc_levels: "2"
+  - jekyll-redirect-from
 
-exclude: ['_activities/2015-10-01-systematic-gt-ll.pdf', '_activities/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+exclude: ['public/*.md', 'public/*.html', '_tagpages/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+
 
 # About/contact
 author:
@@ -29,8 +30,20 @@ author:
 repository:          OpenDreamKit/OpenDreamKit.github.io
 
 collections:
-  activities:
-    output: true
+    tagpages:
+        output: true
+        permalink: /tag/:path
 
 # Custom vars
-version:             0.2.0
+version:             0.3.0
+repository:          OpenDreamKit/OpenDreamKit.github.io
+bootstrap:           bootstrap-3.3.7-dist
+tagfolder:           tag
+menu:
+    - title: 'The Project'
+      folder: 'project'
+    - title: 'The People'
+      folder: 'people'
+    - title: 'Events and Activities'
+      folder: 'events_activities'
+

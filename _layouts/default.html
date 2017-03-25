@@ -1,17 +1,45 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body class="theme-base-odk">
+  <body>
 
-    {% include sidebar.html %}
+    {% include nav.html %}
 
-    <div class="content container">
-      {{ content }}
+
+    <header class="intro-header" >
+        <div class="container-fluid container-bg">
+            <div class="row">
+                <div class="odk-logo" >
+                    <a href="{{ site.baseurl }}/">
+                        <img class="img-responsive" src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" alt="OpenDreamKit logo" />
+                    </a>
+                </div>
+                <div class="site-heading">
+                    {% if page.layout == "post" %}
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}<h2 class="subheading" >{{ page.subtitle }}</h2>{% endif %}
+                    {% else %}
+                    <h1>Open Digital Research Environment Toolkit</h1>
+                    <h2 class="subheading">for the Advancement of Mathematics</h2>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main-content" >
+        {{ content }}
     </div>
 
-    <script src="{{ site.baseurl }}/public/js/odk.js"></script>
+
+    {% include footer.html %}
+
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ site.baseurl }}/public/{{ site.bootstrap }}/js/bootstrap.min.js"></script>
+
   </body>
 <!--
      Built: {{ site.time }}

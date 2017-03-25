@@ -2,13 +2,13 @@
 _gh_pages
 _site
 .ruby-version
-
+Gemfile.lock
+ 
 # Numerous always-ignore extensions
 *.diff
 *.err
 *.orig
 *.log
-*.lock
 *.rej
 *.swo
 *.swp

@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Full-time two year Postdoctoral Fellow position at Simula Research Laboratory in Norway beginning early 2016
+
+author: Simula
+location: Simula Research Laboratory in Norway beginning early 2016
+title: Full-time two year Postdoctoral Fellow position
+tags:
+    - job-opening
+    - jupyter
 ---
 
 **This position has been filled** by Dr. Vidar Tonaas Fauske

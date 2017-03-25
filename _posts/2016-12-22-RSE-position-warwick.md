@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Full-time open-ended research software engineer position at the University of Warwick.
+
+author: University of Warwick
+title: Full-time open-ended research software engineer position
+tags:
+    - job-opening
+    - LMFDB
 ---
 
 We are seeking a full-time research software engineer at Warwick to

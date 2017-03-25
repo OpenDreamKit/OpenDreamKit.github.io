@@ -51,7 +51,7 @@ sites:
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
   - name: Université Grenoble Alpes
-    logo: Logo-UJF.svg
+    logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
@@ -213,12 +213,12 @@ sites:
         homepage: 'http://user.math.uzh.ch/dehaye/'
         roles:
           - site-leader
-        twitter: 'https://twitter.com/podehaye'
+        twitter: 'podehaye'
         github: pdehaye
   - name: Logilab
     logo: logilab.png
     homepage: 'https://www.logilab.fr'
-    twitter: 'https://twitter.com/logilab'
+    twitter: 'logilab'
     members:
       - name: Florent Cayré
         homepage: 'https://www.logilab.fr/card/florent.cayre'
@@ -245,7 +245,7 @@ sites:
           - wp4-leader
         github: hplgit
       - name: Min Ragan-Kelley
-        twitter: 'https://twitter.com/minrk'
+        twitter: 'minrk'
         github: minrk
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
