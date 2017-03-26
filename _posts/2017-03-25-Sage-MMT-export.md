@@ -13,7 +13,7 @@ tags:
 <br>
 ## Berlin workshop
 
-This week the KWARC team (Michael Kohlhase, Florian Rabe, Dennis Müller) and myself met in Berlin at the [WIAS](https://www.wias-berlin.de/). The goal was to meet some of the modelers working there, who are very interested in the [MMT system](https://uniformal.github.io/doc/) and the work in [OpenDreamKit](http://www.opendreamkit.org). Their entry point is Work Package 6 (interoperability), motivated by the benefits they would get intrinsically from formalizing the work they do into OMDoc/MMT (*e.g.* addressability of mathematical models), but also with an eye on all the other work packages from OpenDreamKit (*e.g.* interactive documents). Personally, I was focused on working out what I could of a semantic interchange between Sage and GAP of mathematical objects. 
+This week the KWARC team (Michael Kohlhase, Florian Rabe, Dennis Müller) and myself met in Berlin at the [WIAS](https://www.wias-berlin.de/). The goal was to meet some of the modelers working there, who are very interested in the [MMT system](https://uniformal.github.io/doc/) and the work in [OpenDreamKit](http://www.opendreamkit.org). Their entry point is [Work Package 6](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP6) (interoperability), motivated by the benefits they would get intrinsically from formalizing the work they do into OMDoc/MMT (*e.g.* addressability of mathematical models), but also with an eye on all the other work packages from OpenDreamKit (*e.g.* [interactive documents](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP4)). Personally, I was focused on working out what I could of a semantic interchange between Sage and GAP of mathematical objects. 
 
 ## Formalization of mathematical concepts
 
@@ -26,7 +26,7 @@ A mathematician should be able to point to this and get near universal agreement
 
 Line 24 is of course critical to the definition, but one can see that the rest is well structured and readable. I have omitted here the first five lines, which consist of `include` statements, and make the whole thing a completely formal definition yet implemented at a very high level of abstraction. You could slim down those `include`s and build the same thing on flexiformal foundations, *e.g.* not bother with the logic "deep down". 
 
-Overall, not many mathematicians might be able to write this, but almost any mathematician can navigate her way through it. It also helps that the jEdit editor and the MathHub webserver have drastically improved, especially in ease of installation and resilience (work done as part of Work Package 4). 
+Overall, not many mathematicians might be able to write this, but almost any mathematician can navigate her way through it. It also helps that the jEdit editor and the MathHub webserver have drastically improved, especially in [ease of use](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP4), but also installation and resilience (work done as part of [Work Package 3](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP3)). 
 
 ## Math-in-the-Middle methodology
 <br>
