@@ -43,11 +43,11 @@ At the moment Sage does export some of its knowledge into CDs, thanks to what wa
 
 ## Exporting knowledge from Sage
 
-If you look at Sage's `TransitiveGroup`, a lot of mathematical knowledge is acquired from elsewhere through the class hierarchy lying above `TransitiveGroup`, and the category framework that is instruments that hierarchy. This lead me to first try to build a model of how the Sage class `TransitiveGroup` was actually implemented and what it was doing, but this was a mistake. Indeed, it was very difficult, as I got lost between meta-logics and what I was actually trying to do: modeling Sage? modeling how Sage models math? how python uses Sage to model math? I was trying to do too much, too early and was probably the wrong person to do that. 
+If you look at Sage's `TransitiveGroup`, a lot of mathematical knowledge is acquired from elsewhere through the class hierarchy lying above `TransitiveGroup`, and the category framework that instruments that hierarchy. This lead me to first try to build a model of how the Sage class `TransitiveGroup` was actually implemented and what it was doing, but this was a mistake. Indeed, it was very difficult, as I got lost between meta-logics and what I was actually trying to do: modeling Sage? modeling how Sage models math? how python uses Sage to model math? I was trying to do too much, too early and was probably the wrong person to do that. 
 
-If you look back at the methodology, the MitM CDs don't need to link up to the Math-in-the-Middle content dictionary. This is up to the alignments, that come later (and could be done by a different person). My focus should really have been: "how do I export, but not align, as much of the math knowledge as possible embedded into Sage into a language that can easily be processed by the KWARC team?" (for the `categories` export built by Nicolas Thiéry, the export went through JSON). 
+If you look back at the methodology, the MitM CDs don't need to link up to the Math-in-the-Middle content dictionary right away. This is actually up to the alignments, that come later (and could be done by a different person). I was trying to do both at once, while my focus should really have been: "how do I export, but not align, as much of the math knowledge as possible embedded into Sage into a language that can easily be processed by the KWARC team?" (for the `categories` export built by Nicolas Thiéry, the export went through JSON). 
 
-So the question now becomes: "where is math knowledge embedded in Sage that is relevant to the mathematical concept of transitive group?" The first response is of course still "Everywhere!", but where are actually the low hanging fruits? 
+OK then, the question now becomes: "where is math knowledge embedded in Sage that is relevant to the mathematical concept of transitive group?" The first response is of course still "Everywhere!", but where are actually the low hanging fruits? 
 
 ### A math skeleton
 
@@ -88,7 +88,7 @@ class CachedRepresentation:
 ~~~
 `CachedRepresentation` is only relevant, from a mathematical standpoint, in *where* it appears as a superclass. Its own internals are pure design decisions for CAS software, not mathematics. 
 
-The criterion to use for "related objects" is thus that only objects inheriting from `SageObject` need to be navigated. So we are navigating the classes in the diamond between `TransitiveGroup` and `SageObject`, which I manually imported from the `sage` library (obviously this could be automated):
+The criterion to use for "related objects" is thus that only objects inheriting from `SageObject` need to be navigated. So we are navigatin in the class hierarchy diamond between `TransitiveGroup` and `SageObject`, collecting classes, which I manually imported from the `sage` library (obviously this could be automated):
 ~~~
 from sage.structure.sage_object import SageObject
 from sage.structure.category_object import Category     # not strictly in the class hierarchy, but included to facilitate discussion
@@ -103,12 +103,12 @@ from sage.groups.perm_gps.permgroup_named import TransitiveGroup
 
 This is how I selected the objects from which I wanted to extract more information, producing the list of class definitions above. 
 
-[Note by the way the weird changes in the path to `sageinspect.sage_getsource` in the listing above (why??? because of interactions between `import` statements?).]
+[Note by the way the weird changes in the path to `sageinspect.sage_getsource` in the listing above (why??? because of interactions between `import` statements?)]
 
 
 ### More flesh on the skeleton
 
-The next step is to add a bit of flesh to that skeleton export. Obviously this is going to be more intricate. I have included [here](https://gl.mathhub.info/ODK/Sage/blob/master/sage/transitive_group_example.py) what you get when you look at all the methods *coming out of the source code* for `TransitiveGroup`, `PermutationGroup_unique`, etc. In other words, a completely static navigation to the specific methods. This was the right thing to do for communicating with the KWARC team, but ultimately wrong for our purpose. As a quicker way to get more consistent and richer Sage output, I should have navigated dynamically to the relevant classes, and extracted all the methods available from the live objects. This is of course because tons of methods get added when the object gets created, with a lot of mathematics packed into that. The same math could be extracted from the source code, but obviously that would be harder to do as we would be emulating a lot of what python does.  
+The next step is to add a bit of flesh to that skeleton export. Obviously this is going to be more intricate. I have included [here](https://gl.mathhub.info/ODK/Sage/blob/master/sage/transitive_group_example.py) what you get when you look at all the methods *coming out of the source code* for `TransitiveGroup`, `PermutationGroup_unique`, etc. In other words, a completely static navigation to the specific methods. This was the right thing to do for communicating with the KWARC team, but is wrong for our ultimate purpose. It was the right thing to do to communicate with KWARC (or in a blog post) as it distilled Sage to its most interesting bits, and we could fill the gaps relying on comment concepts (like "class hierarchy"). However, as a quicker way to get more consistent and richer Sage output, I could have navigated dynamically to the relevant classes, and extracted all the methods available from the live objects. This is of course because tons of methods get added when the object gets created, with a lot of mathematics packed into that. The same math could be reconstructed from the source code, but obviously that would be harder to do as we would be re-emulating a lot of what python does. 
 
 In any case, here is the full printout of what I get for just the method declarations for `PermutationGroup_generic`, the `Parent` that is most interesting:
 
@@ -238,7 +238,7 @@ Many of the deductions made above will be done in the same way for all `Parent`s
 1. Make sure to export *all* the information containing math from Sage into MMT, even that which is not readable beyond text by the system we export to;
 2. Devise methods to make this informal export as addressable as possible from within MMT, but not necessarily runnable.
 
-Step 1. could be useful for instance if one is working in GAP and asking "How does Sage do that?". We should be able to access Sage source code from within GAP, and it might be useful for automating some tasks. 
+Step 1. could be useful for instance if one is working in GAP and asking "How does Sage do that?". We should be able to access Sage source code from within GAP, and it will be useful for automating some tasks. 
 
 Step 2. would be useful for students in the KWARC group, for instance, who would then be able to extract semantically richer information from a system like Sage with just verbal instructions from domain specific experts, because the data is now in MMT format. It splits the step in two: MMT extraction and semantic extraction, and requires different skills. 
 
