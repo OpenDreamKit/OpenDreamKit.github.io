@@ -26,7 +26,7 @@ A mathematician should be able to point to this and get near universal agreement
 
 Line 24 is of course critical to the definition, but one can see that the rest is well structured and readable. I have omitted here the first five lines, which consist of `include` statements, and make the whole thing a completely formal definition yet implemented at a very high level of abstraction. You could slim down those `include`s and build the same thing on flexiformal foundations, *e.g.* not bother with the logic "deep down". 
 
-Overall, not many mathematicians might be able to write this, but almost any mathematician can navigate her way through it. It also helps that the jEdit editor and the MathHub webserver have drastically improved, especially in [ease of use](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP4), but also installation and resilience (work done as part of [Work Package 3](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP3)). 
+Overall, not many mathematicians might be able to write this, but almost any mathematician can navigate her way through it. It also helps that the jEdit editor and the MathHub webserver have drastically improved, especially in ease of use (work done as part of [Work Package 4](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP4)), but also installation and resilience (work done as part of [Work Package 3](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP3)). 
 
 ## Math-in-the-Middle methodology
 <br>
