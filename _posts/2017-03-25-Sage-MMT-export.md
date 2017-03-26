@@ -33,7 +33,7 @@ Overall, not many mathematicians might be able to write this, but almost any mat
 <center><img src="/assets/mitm.jpg" alt="MitM paradigm" style="width: 800px;"/></center>
 <br>
 
-Now that we have a target formalization, the idea is to separately make Sage and GAP interact with it. In the [Math-in-the-Middle (MitM) formalism](https://arxiv.org/abs/1603.06424) adopted for Work Package 6, we think of having in the "center" a system-independent flexiformalization of the mathematical domains (represented in this diagram in blue, in actuality for elliptic curves EC).
+Now that we have a target formalization, the idea is to separately make Sage and GAP interact with it. In the [Math-in-the-Middle (MitM) formalism](https://arxiv.org/abs/1603.06424) adopted for Work Package 6, we think of having in the "center" a system-independent flexiformalization of the mathematical domains (represented in this diagram in blue; replace in your head EC for elliptic curves with TG for transitive groups).
 
 The next step is to work on the reddish clouds, which are the interface theories between this center and the other systems. These interface theories mainly flexiformalize the system-specific aspects of the domain. 
 
