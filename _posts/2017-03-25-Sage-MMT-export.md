@@ -11,6 +11,7 @@ tags:
     - emerging-technologies
 ---
 <br>
+
 ## Berlin workshop
 
 This week the KWARC team (Michael Kohlhase, Florian Rabe, Dennis Müller) and myself met in Berlin at the [WIAS](https://www.wias-berlin.de/). The goal was to meet some of the modelers working there, who are very interested in the [MMT system](https://uniformal.github.io/doc/) and the work in [OpenDreamKit](http://www.opendreamkit.org). Their entry point is [Work Package 6](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP6) (interoperability), motivated by the benefits they would get intrinsically from formalizing the work they do into OMDoc/MMT (*e.g.* addressability of mathematical models), but also with an eye on all the other work packages from OpenDreamKit (*e.g.* [interactive documents](https://github.com/OpenDreamKit//OpenDreamKit/tree/master/WP4)). Personally, I was focused on working out what I could of a semantic interchange between Sage and GAP of mathematical objects. 
