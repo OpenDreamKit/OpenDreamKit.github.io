@@ -1,1 +1,35 @@
 .reveal section img { background:none; border:none; box-shadow:none; }
+
+body.slides_wp {
+    background: no-repeat top right;
+    background-color: #fff;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../images/banner.png);
+}
+
+section.wp-report-title .odk-logo, section.wp-report-title .flag-europe, section.wp-report-title .logos  {
+    width: 150px;
+}
+
+section.wp-report-title .logos {
+    float: left;
+    margin-right: 20px;
+}
+
+section.wp-report-title h1 {
+    font-size: 1.5em;
+    text-align: right;
+    margin-top: 50px;
+}
+
+section.wp-report-title .info {
+    clear: both;
+}
+
+.scrollable-slide {
+    height: 800px;
+    overflow-y: auto !important;
+}
+
+.scrollable-slide li {
+    list-style-position: inside;
+}

@@ -1,0 +1,21 @@
+
+
+{% capture delivs_str %}
+{% for wp_dict in site.data.proposal.deliv %}
+    {% assign wpkey = wp_dict[0] %}
+    {% assign wpnum = site.data.proposal.wp[wpkey]["num"] | plus:0 %}
+    {% if wpnum == page.wp %}
+        {% assign wp = wp_dict[1] %}
+        {% for deliv_dict in wp %}
+        {% assign deliv = deliv_dict[1] %}
+        {% if deliv.status %}
+||{{ deliv.label }}: {{ deliv.short }}
+        {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+{% endcapture %}
+
+{% assign delivs = delivs_str | strip | remove_first: "||" | split:"||"  | sort %}
+
+

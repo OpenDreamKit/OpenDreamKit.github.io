@@ -69,7 +69,7 @@
     <![endif]-->
   </head>
 
-  <body>
+  <body class="{{ page.layout }}" >
     <div class="reveal">
       <div class="slides">
         <!--<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">-->
@@ -78,6 +78,7 @@
       </div>
     </div>
 
+    <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
     <script src="{{ "/public/reveal.js/lib/js/head.min.js" | prepend: site.baseurl }}"></script>
     <script src="{{ "/public/reveal.js/js/reveal.js" | prepend: site.baseurl }}"></script>
     <script>
