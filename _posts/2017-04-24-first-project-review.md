@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 
 author: the ODK team
@@ -24,32 +24,14 @@ Bruxelles
 
 The premises are located at the heart of the European neighbourhood of the Brussels region. OpendreamKit's coordinator redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
 
-Is particularly advised the Best Western hotel (pages 8 and 9). Please each participant book separately their hotel rooms
+Please each participant book separately their hotel rooms
 
-## Content of the Review
-
-- [Slides](http://opendreamkit.org/meetings/2017-01-19-EdinburghSteeringCommittee/Review-presentation/) presenting what is expected.
-
-REMINDER: HAVE TO BE PRESENT: 
-
-  - All WP leaders + Coordinator + project manager
-  - At least one representative per site
-
-- Will be examined by the Project Officer and the three Reviewers:
-   - the degree to which the work plan has been carried out and whether all deliverables were completed
-   - whether the objectives are still relevant and provide scientific or industrial breakthrough potential
-   - how resources were planned and used in relation to the achieved progress, and if their use respects the principles of economy, efficiency and effectiveness
-   - the management procedures and methods of the project
-   - the beneficiaries’ contributions and their integration within the project
-   - the expected potential scientific, technological, economic, competitive and social impact, and plans for using and disseminating results
-   - eligibility of the costs claimed
-   - compliance with other grant agreement obligations
 
 ## Participants
 
 A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
-## Tentative agenda
+## Agenda of the week
 
 - Monday 24/04: Steering Committee meeting in the morning? Rehearsals in the afternoon?
   - Morning: small (10 people)meeting room with beamer
@@ -65,8 +47,34 @@ Closing of rooms: 8:30 pm
 - Wednesday 26/04: REVIEW
 
 All day big (40 sitting people, max 60) meeting room
-  
-   - Evening: dinner to be organised
-
 
 NB: from the looks of photos, the maximum amount of persons per room is most probably underestimated
+  
+
+## Agenda of the review (26/04/2017) [More information for participants](https://github.com/OpenDreamKit/OpenDreamKit/issues/222)
+
+- 9:00 Welcome
+   - Overview of the day by Project Officer
+   - Go around the table
+   - [Brief overview of the project](http://opendreamkit.org/about-mathematicians/) @nthiery
+- 9:30 Some context and case studies
+    - 1:  [Is your research software correct?](https://mikecroucher.github.io/MLPM_talk/) @mikecroucher?
+    - 2: [A case study of computational science in Jupyter notebooks: JOOMMF](http://opendreamkit.org/2017/01/20/JOOMMF-intro/) @fangohr
+    - 3: SageMathCloud for teaching and research @VivianePons 
+- 10:45 Coffee break, with demonstrators and posters
+- 11:45 Achievements, by work package, session 1
+    - WP3: Component Architecture (@defeo)
+    - WP5: High Performance Mathematical Computing (@ClementPernet)
+- 12:45 Lunch in the premises, with demonstrators and posters
+- 13:45 Achievements, by Work Package, session 2
+    - WP4: User Interfaces (@minrk )
+    - WP6: Data/Knowledge/Software-Bases (@kohlhase)
+    - WP7: Social aspects (@dimpase, @mikecroucher?)
+    - WP1: Project management (@bpilorget )
+    - WP2: Community building, training, dissemination, exploitation and outreach (@VivianePons)
+- 15:45 Wrap up (@nthiery)
+- 16:00 Assessment preparation by Reviewers and the Project Officer
+- 17:00 Feedback and discussion with reviewers
+- 18:00 End of review
+- Evening: Social dinner
+
