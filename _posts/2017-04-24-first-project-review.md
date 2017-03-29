@@ -34,7 +34,8 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 ## Agenda of the week
 
 - Monday 24/04:
-  - Quality review Board and Steering Committee meeting in the morning? ?
+  - Quality review Board morning
+  - Brief Steering Committee after lunch (future link towards agenda here)
   - Rehearsals in the afternoon
 
 - Tuesday 25/04: Rehearsals all day
