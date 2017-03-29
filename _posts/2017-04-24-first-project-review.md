@@ -33,23 +33,14 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 ## Agenda of the week
 
-- Monday 24/04: Steering Committee meeting in the morning? Rehearsals in the afternoon?
-  - Morning: small (10 people)meeting room with beamer
-  - Afternoon: medium (20 people) meeting room + small (10 people) meeting room
-Closing of rooms: 8:30 pm
+- Monday 24/04:
+  - Quality review Board and Steering Committee meeting in the morning? ?
+  - Rehearsals in the afternoon
 
-
-- Tuesday 25/04: Rehearsals all day?
-
-All day medium (20 people) meeting room + small (10 people) meeting room
-Closing of rooms: 8:30 pm
+- Tuesday 25/04: Rehearsals all day
 
 - Wednesday 26/04: REVIEW
 
-All day big (40 sitting people, max 60) meeting room
-
-NB: from the looks of photos, the maximum amount of persons per room is most probably underestimated
-  
 
 ## Agenda of the review (26/04/2017) [More information for participants](https://github.com/OpenDreamKit/OpenDreamKit/issues/222)
 
