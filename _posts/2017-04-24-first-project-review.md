@@ -48,24 +48,32 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
    - Overview of the day by Project Officer
    - Go around the table
    - [Brief overview of the project](http://opendreamkit.org/about-mathematicians/) @nthiery
+   
 - 9:30 Some context and case studies
     - 1:  [Is your research software correct?](https://mikecroucher.github.io/MLPM_talk/) @mikecroucher?
     - 2: [A case study of computational science in Jupyter notebooks: JOOMMF](http://opendreamkit.org/2017/01/20/JOOMMF-intro/) @fangohr
     - 3: SageMathCloud for teaching and research @VivianePons 
+    
 - 10:45 Coffee break, with demonstrators and posters
+
 - 11:45 Achievements, by work package, session 1
     - WP3: Component Architecture (@defeo)
     - WP5: High Performance Mathematical Computing (@ClementPernet)
+    
 - 12:45 Lunch in the premises, with demonstrators and posters
+
 - 13:45 Achievements, by Work Package, session 2
     - WP4: User Interfaces (@minrk )
     - WP6: Data/Knowledge/Software-Bases (@kohlhase)
     - WP7: Social aspects (@dimpase, @mikecroucher?)
     - WP1: Project management (@bpilorget )
     - WP2: Community building, training, dissemination, exploitation and outreach (@VivianePons)
+    
 - 15:45 Wrap up (@nthiery)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
+
 - 17:00 Feedback and discussion with reviewers
+
 - 18:00 End of review
 - Evening: Social dinner
 
