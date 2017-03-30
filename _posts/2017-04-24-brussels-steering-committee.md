@@ -2,7 +2,7 @@
 layout: post
 
 author: the ODK team
-title: Steering Committee meeting befire the 1st Project Review
+title: Steering Committee meeting before the 1st Project Review
 tags:
     - project-review
     - project-meeting
