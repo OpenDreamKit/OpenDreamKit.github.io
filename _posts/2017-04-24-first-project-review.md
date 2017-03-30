@@ -35,7 +35,7 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 - Monday 24/04:
   - Quality review Board morning
-  - Brief Steering Committee after lunch (future link towards agenda here)
+  - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
   - Rehearsals in the afternoon
 
 - Tuesday 25/04: Rehearsals all day
