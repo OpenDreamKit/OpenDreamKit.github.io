@@ -42,7 +42,7 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 - Wednesday 26/04: REVIEW
 
--Thursday and Friday 27-28/04: Workshop in Brussels ([More informtaiton available on github](https://github.com/OpenDreamKit/OpenDreamKit/issues/223))
+- Thursday and Friday 27-28/04: Workshop in Brussels ([More informtaiton available on github](https://github.com/OpenDreamKit/OpenDreamKit/issues/223))
 
 
 ## Agenda of the review (26/04/2017) [More information for participants](https://github.com/OpenDreamKit/OpenDreamKit/issues/222)
