@@ -20,6 +20,7 @@ later amended to a new proposal submitted on March 30 2017.
 - [Description of the meeting and its objectives](volet_scientifique.tex)
 - [Preliminary list of speakers](orateurs.tex)
 - [List of potential participants](participants.tex)
+- [Summary file produced by CIRM's system](1978.html)
 
 
 The CIRM committee will meet on May 15-16 2017, and the answer will be
