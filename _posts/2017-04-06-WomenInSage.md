@@ -67,7 +67,7 @@ This disparity also reflected in their knowledge of Sage.
 As for contributions, only 4 participants had contributed to Sage in the past 
 which included the 3 organizers. Also, a majority of participants had never attended
 a Sage Days before. Actually, 6 of them had never even heard of Sage Days and 2 
-of them sayd they did not think it was "for them".
+of them said they did not think it was "for them".
 
 !["I had never heard of Sage Days": 35.3%, "I thought Sage Days were not for me": 11.8%, "I wanted to but never had the time nor the occasion": 17.6% , 
 "I attended once": 17.6%, "I attended many times": 17.6%](/public/images/womenInSage/sage-days-attendance.png){:class="img-responsive"}
