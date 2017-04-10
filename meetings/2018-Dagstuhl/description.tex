@@ -19,48 +19,48 @@ theories.
 
 With computers and open source software becoming widely, and cheaply, available
 to everyone, the last decades have seen the emergence of open-source tools to
-conduct research; the spectrum ranges from special purpose libraries such as
-\MPIR or \Linbox, over topical systems such as \Singular, to general purpose
-systems that feature a complete programming language and environmen such as
-\GAP or \Sage.
-These open-source systems are sometimes in direct competition with
-(semi-)commerical systems (MAGMA, Mathematica, MatLab...).
+conduct research; the spectrum ranges from special purpose Excel worksheets,
+to more sophisticated libraries such as \MPIR or \Linbox, over topical systems
+such as \Singular, to general purpose systems that feature a complete
+programming language and environment such as \GAP or to a much larger extent
+\Sage.
 
-Addionally there is a wealth of databases of objects, Atlas, small groups, transitive groups...
+Addionally there is a wealth of databases of objects, Atlas, small groups,
+transitive groups, findstat, regular graphs,...
 \ednote{markus: I might be focusing this too much on pure maths/combinatorics?}
 
 There is also undeniable value in these software packages for teaching and
 collaborative work.
 
-The big problem with the multitude of systems with different communities,
+A big problem with the multitude of systems with different communities,
 developers, and focuses, is that they do not compose well. To have any hope of
 using a mathematics software package inside one's own system one has to
 understand the conventions and internals of the library sufficiently to write a
-bespoke interface, translate data and representations of objects. This is
-tedious, time consuming and error-prone.
+bespoke interface, translate data and representations of objects semantically
+correctly.
+This is tedious, time consuming and error-prone.
 
-In an ideal world there would be a single, well defined, standard that is used
+In an ideal world there would be a single, well-defined, standard that is used
 to efficiently communicate data between systems.
-Such a standard would have to be universal enough to cover enough fields,
-efficient enough to not slow down computations significantly, and easy enough to
-use to not impose an implementation burden on deveopers.
+uch a standard would have to be universal enough to cover enough fields,
+easy to use to not impose an implementation burden on developers,
+and efficient enough to not slow down computations significantly.
 
 Since the world rarely is ideal, and one cannot expect every developer of
 mathematics software to change it to the needs of this standard, we need to work
 towards composability.
 
-
 A partial success is \Sage, a free general purpose open-source mathematics
-software system licensed under the GPL whose mission is to create a
+software system licensed under the GPL. Its mission is to create a
 viable free open source alternative to Magma, Maple, Mathematica and
-Matlab. It has been developed since 2005 by a growing worldwide community of
+Matlab.
+\Sage has been developed since 2005 by a growing worldwide community of
 about 150 researchers and teachers. It builds on top of many existing
 open-source packages, including NumPy, SciPy, matplotlib, Sympy,
-Maxima, and the aforementioned ones, all accessible from a
-Python-based library containing itself many unique mathematical
-features.
-Thanks to this, \Sage is regularly used in universities, both for
-research and education purposes.
+Maxima, and all other packages mentioned before.
+All packages are accessible from a Python-based library, which itself
+contains many unique mathematical features building on top of the included packages.
+This makes \Sage a popular choice for research and education purposes.
 
 We propose to establish the Math-in-the-Middle approach as described in
 \ednote{CICM paper?} based on MMT as the base for exchanging mathematical
@@ -87,6 +87,7 @@ in the language of logic.
 
 Rabe/Kohlhase et al developed a very general framework (MMT) that can serve as a
 translation layer between different logical frameworks.
+(need a description of the mmt approach?)
 
 The vision is to establish this Math-in-the-middle approach as the API for as
 many computer mathematics software, without forcing these packages to change
@@ -95,7 +96,7 @@ their approach.
 Working on WP6 of OpenDreamKit we realised more and more that it is necessary to
 communicate and work together in one place
 
-get representatives from fields to com
+get representatives from fields to compose
 
 The seminar will consist of few talks that introduce the core concepts of MMT,
 current state of exports of Sage, GAP, Lmfdb MMT interfaces
@@ -104,19 +105,28 @@ Lower the entry barrier for using MitM
 
 \section{Questions, Issues, Objectives, Results}
 
+Conference, seminars, etc. often focus on the exchange of ideas. It is
+of course one of the goals of our proposed semainar, in particular
+brushing a precise state-of-the-art of the above topics. 
+However our goals go beyond that: we wold like to develop a common
+objective of universality that can unify the communities. In the long run, this requires designing uniform conceptualizations, interchange formats, and interoperability layers.
 
+Therefore, \textbf{the goal of this seminar is to systematically identify the
+current obstacles to universality, to collect requirements for universality, and
+to sketch out future solutions}.
+\ednote{markus: I think this should be mentioned much earlier, in the introduction or abstract}
 
 The goal of the seminar is to 
 \begin{itemize}
-\item Bring together developers of (open source) mathematics software
-  components, and logicians and knowledge representation experts.
+\item Bring together developers and users of (open source) mathematics software,
+  and logicians and knowledge representation experts.
 \item Get an overview of the current trends and developments in open source
   mathematics software.
-\item Promote MMT/MathInTheMiddle
+\item Promote MMT/Math-in-the-Middle
 \item Train mathematicians in the art of MMT, and get an idea of how MMT will be
   used by developers of domain specific software.
 \item Share perspectives and best practices, build a joint vision, and
-  seek venues for tighter cooperation.
+  seek venues for tighter collaboration.
 \item Encourage participants to get involved in the standardisation process and
   to provide MMT interfaces to their software.
 \end{itemize}
@@ -142,16 +152,6 @@ communities, in order to:
 \item Share expertise and best practices;
 \item Improve cross-systems development workflows.
 \end{itemize}
-
-
-\subsection{Goals of the seminar}
-
-Conference, seminars, etc. often focus on the exchange of ideas. It is
-of course one of the goals of our proposed semainar, in particular
-brushing a precise state-of-the-art of the above topics. 
-However our goals go beyond that: we wold like to develop a common
-objective of universality that can unify the communities. In the long run, this requires designing uniform conceptualizations, interchange formats, and interoperability layers.
-Therefore, \textbf{the goal of this seminar is to systematically identify the current obstacles to universality, to collect requirements for universality, and to sketch out future solutions}.
 
 \paragraph{Research Questions}
 % checking dependency theories
