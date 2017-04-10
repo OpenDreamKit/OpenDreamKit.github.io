@@ -18,108 +18,106 @@ tables, to prove theorems (famously the four colour theorem), to explore new
 theories.
 
 With computers and open source software becoming widely, and cheaply, available
-to everyone, the last decades have seen the emergence of open-source tools to
-conduct research; the spectrum ranges from special purpose Excel worksheets,
-to more sophisticated libraries such as \MPIR or \Linbox, over topical systems
-such as \Singular, to general purpose systems that feature a complete
-programming language and environment such as \GAP or to a much larger extent
-\Sage.
+to everyone, the last decades have seen the emergence of open-source software in
+research communities; the spectrum ranges from special purpose Excel worksheets,
+to more sophisticated libraries such as \MPIR (for high performance integer
+arithmetic) or \Linbox (linear algebra), to topical systems
+such as \Pari in number theory, \Singular in algebraic geometry, or \GAP in group
+theory.
+Some packages are written and embedded in popular general purpose programming
+languages, wheras some systems feature their own programming language.
 
-Addionally there is a wealth of databases of objects, Atlas, small groups,
-transitive groups, findstat, regular graphs,...
+Addionally, there is a wealth of databases of mathematical objects: the online
+Atlas of Finite Simple Groups, the Small Groups Library, the L-functions and
+Modular Forms Database, FindStat, the Regular Graphs library, the Online
+Encyclopedia of Integer Sequences, and many more.
 \ednote{markus: I might be focusing this too much on pure maths/combinatorics?}
 
-There is also undeniable value in these software packages for teaching and
-collaborative work.
+One major problem posed by the multitude of systems with different communities,
+developers, and focuses, is that they do not compose well. The current state of
+the art in interfacing between systems is to understand the conventions and
+internals of the systems involved sufficiently to write a bespoke interface, and
+to translate data and representations of objects semantically correctly.
 
-A big problem with the multitude of systems with different communities,
-developers, and focuses, is that they do not compose well. To have any hope of
-using a mathematics software package inside one's own system one has to
-understand the conventions and internals of the library sufficiently to write a
-bespoke interface, translate data and representations of objects semantically
-correctly.
-This is tedious, time consuming and error-prone.
+As an example, the group-centric computer algebra system \GAP includes custom
+interfaces to \Singular, the Graph Isomorphism Solvers \Nauty and \Bliss,
+separately with different representations of graphs, the advanced coset
+enumerator \ACE, Holt's automatic groups programs \KBMAG, and more.
 
-In an ideal world there would be a single, well-defined, standard that is used
-to efficiently communicate data between systems.
-uch a standard would have to be universal enough to cover enough fields,
-easy to use to not impose an implementation burden on developers,
-and efficient enough to not slow down computations significantly.
+\Sage, a free general purpose open-source mathematics software with a mission to
+provide an alternative to MAGMA, Maple, Mathematica, and Matlab, includes \GAP
+as a subsystem. The interface between \Sage and \GAP consists of hand-written
+translation routines, which for example have to interface \Sage's integers with
+\GAP's integers, and \Sage's permutations with \GAP's.
 
-Since the world rarely is ideal, and one cannot expect every developer of
-mathematics software to change it to the needs of this standard, we need to work
-towards composability.
+This method of interfacing systems is tedious, time consuming, and error-prone.
 
-A partial success is \Sage, a free general purpose open-source mathematics
-software system licensed under the GPL. Its mission is to create a
-viable free open source alternative to Magma, Maple, Mathematica and
-Matlab.
-\Sage has been developed since 2005 by a growing worldwide community of
-about 150 researchers and teachers. It builds on top of many existing
-open-source packages, including NumPy, SciPy, matplotlib, Sympy,
-Maxima, and all other packages mentioned before.
-All packages are accessible from a Python-based library, which itself
-contains many unique mathematical features building on top of the included packages.
-This makes \Sage a popular choice for research and education purposes.
+Ideally there would be a single, well-defined, standard that defiens how to
+efficiently and correctly communicate data between systems.
+Such a standard would have to be universal enough to cover most of
+computational mathematics, easy to use, and efficient.
 
-We propose to establish the Math-in-the-Middle approach as described in
+(maybe itemize? what about composability/transitivity?
+\begin{itemize}
+\item \textbf{Universality}
+\item \textbf{Usability}
+\item \textbf{Efficiency}
+\end{itemize}
+)
+
+One cannot expect every developer of mathematics software to change it to
+the needs of this standard, we need to work towards
+composability.\ednote{Markus: This needs more substance}
+
+\section{The Math-In-The-Middle Approach}
+
+we propose to establish the Math-in-the-Middle approach as described in
 \ednote{CICM paper?} based on MMT as the base for exchanging mathematical
-objects/meaning/etc; a universal API for mathematics.
+objects in a semantics-preserving way; a universal API for mathematics.
 
-
-\section{Description}
-
-Computer mathematics software is very diverse: in the past every special
-interest community developed their software only considering their own
-needs, with custom APIs and environments. Some projects are developed in general
-purpose programming languages, such as C, Java, or Python, others develop their
-own domain specific languages, or custom languages (like GAP or GP).
-
-Contemporary research in computational mathematics often needs access to
-multiple diverse specialist libraries (example; groups, number theory, linear algebra...) 
-
-The upshot is that researchers build software by tacking it together with duct
-tape and patches, or duplicate effort developing specialist solutions for their
-current problems, which comes at cost of fragility, complexity, and doubtful correctness.
-
-But a general framework that connects exists: its formal mathematics, formalised
-in the language of logic.
+But a general framework that connects exists: formal logic.
 
 Rabe/Kohlhase et al developed a very general framework (MMT) that can serve as a
 translation layer between different logical frameworks.
-(need a description of the mmt approach?)
+(need a description of the mmt approach, i.e. systems describe their
+formats/descriptions can be extracted -> theory morphisms?)
 
 The vision is to establish this Math-in-the-middle approach as the API for as
-many computer mathematics software, without forcing these packages to change
-their approach.
+many computer mathematics software packages as possible, without forcing these
+packages to change their approach.\ednote{markus: No idea what ``approach'' even
+means here}
 
 Working on WP6 of OpenDreamKit we realised more and more that it is necessary to
 communicate and work together in one place
 
 get representatives from fields to compose
 
-The seminar will consist of few talks that introduce the core concepts of MMT,
-current state of exports of Sage, GAP, Lmfdb MMT interfaces
+The seminar will consist of few talks that introduce and showcase our initial
+successes working on WP6 of ODK involving Sage, GAP, LMFDB, the core concepts
+of MMT,
 
 Lower the entry barrier for using MitM
 
 \section{Questions, Issues, Objectives, Results}
 
-Conference, seminars, etc. often focus on the exchange of ideas. It is
-of course one of the goals of our proposed semainar, in particular
-brushing a precise state-of-the-art of the above topics. 
-However our goals go beyond that: we wold like to develop a common
-objective of universality that can unify the communities. In the long run, this requires designing uniform conceptualizations, interchange formats, and interoperability layers.
+Conference, seminars, etc. often focus on the exchange of ideas. It is of course
+one of the goals of our proposed semainar, in particular brushing a precise
+state-of-the-art of the above topics. However our goals go beyond that: we wold
+like to develop a common objective of universality that can unify the
+communities. In the long run, this requires designing uniform
+conceptualizations, interchange formats, and interoperability layers.
+\ednote{Markus: This sounds too much like waffle to me right now.}
 
 Therefore, \textbf{the goal of this seminar is to systematically identify the
 current obstacles to universality, to collect requirements for universality, and
 to sketch out future solutions}.
-\ednote{markus: I think this should be mentioned much earlier, in the introduction or abstract}
+\ednote{markus: I think this should be mentioned much earlier, in the
+  introduction or abstract, also what is the definition of ``universality''}
 
 The goal of the seminar is to 
 \begin{itemize}
 \item Bring together developers and users of (open source) mathematics software,
-  and logicians and knowledge representation experts.
+  logicians, and knowledge representation experts.
 \item Get an overview of the current trends and developments in open source
   mathematics software.
 \item Promote MMT/Math-in-the-Middle
@@ -133,15 +131,15 @@ The goal of the seminar is to
 
 Some of the upcoming major challenges are:
 \begin{itemize}
-\item Lower the entry barrier, in particular via \textbf{unified user
+\item Lowering the entry barrier, in particular via \textbf{unified user
     interfaces}, and \textbf{Virtual Research Environments} that
   groups of users can setup to collaborate on data, software,
   computations, or knowledge;
-\item Further enable \textbf{computations involving multiple systems},
+\item Enabling \textbf{computations involving multiple systems},
   as transparently as possible;
-\item Keep the development efforts manageable as the size and
+\item Keeping the development efforts manageable as the size and
   complexity of software systems increase;
-\item Train a new generation of users and developers.
+\item Training a new generation of users and developers.
 \end{itemize}
 
 A key step is to strengthen collaborations \emph{between} the various
@@ -185,17 +183,25 @@ How can two systems agree on the meaning of an exchanged theorem and thus trust 
 \paragraph{Impact on the Research Community}
 By challenging participants to address research questions concerning
 universality, we do not only raise awareness of the importance of these issues.
-We also help identify the key steps towards \emph{proving in the large} and  \emph{universality} of proofs.
-This will allow the development of a common objective and framework for interoperable and reusable proof development that is crucial for realizing the full potential of formal mechanizations.
+We also help identify the key steps towards \emph{proving in the large} and
+\emph{universality} of proofs. This will allow the development of a common
+objective and framework for interoperable and reusable proof development that is
+crucial for realizing the full potential of formal mechanizations.
 
-This seminar with the associated Dagstuhl proceedings will provide an overview of the problem, the state of the art of current solutions and the active researchers pursuing them, and the most promising ideas for future solutions.
-It will collect and strengthen the small, often-disparate communities that currently work towards universality, e.g., in the very different PxTP (Proof eXchange for Theorem Proving) and LFMTP (dedicated to logical frameworks and meta-languages) workshops.
+This seminar with the associated Dagstuhl proceedings will provide an overview
+of the problem, the state of the art of current solutions and the active
+researchers pursuing them, and the most promising ideas for future solutions. It
+will collect and strengthen the small, often-disparate communities that
+currently work towards universality, e.g., in the very different PxTP (Proof
+eXchange for Theorem Proving) and LFMTP (dedicated to logical frameworks and
+meta-languages) workshops.
 
 The seminar will not only allow for cross-fertilization between
  \begin{compactitem}
-  \item research on logical frameworks, proof formats, logics, proof engineering, mathematics formalization, and program verification,
-  \item foundational research on these topics and application or system-oriented approaches.
- \end{compactitem}
-It will also structure and streamline future collaboration, e.g., by kicking off new workshops or large international grant proposals.
-
+  \item research on logical frameworks, proof formats, logics, proof
+engineering, mathematics formalization, and program verification,
+  \item foundational research on these topics and application or system-oriented
+approaches.
+ \end{compactitem} It will also structure and streamline future collaboration,
+e.g., by kicking off new workshops or large international grant proposals.
 
