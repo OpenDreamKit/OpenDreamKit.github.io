@@ -71,50 +71,37 @@ composability.\ednote{Markus: This needs more substance}
 
 \section{The Math-In-The-Middle Approach}
 
-we propose to establish the Math-in-the-Middle approach as described in
-\ednote{CICM paper?} based on MMT as the base for exchanging mathematical
-objects in a semantics-preserving way; a universal API for mathematics.
+To address the issues introduced in the preceding section, we propose to
+establish the Math-in-the-Middle based on OMDoc/MMT approach as described
+in \ref{cicm2016}.
 
-But a general framework that connects exists: formal logic.
+The idea is to flexibly formalise mathematical concepts in a very general
+logical framework, and to encourage authors to describe their systems in this
+framework, ultimately establishing a common \emph{meaning space} in which data
+can be automatically, efficiently, and semantically correctly translated between
+systems.
+Parts of the process of description and discovery can in many cases be
+automated, as is witnessed by our work on \GAP, \Sage, and \Lmfdb.
 
-Rabe/Kohlhase et al developed a very general framework (MMT) that can serve as a
-translation layer between different logical frameworks.
-(need a description of the mmt approach, i.e. systems describe their
-formats/descriptions can be extracted -> theory morphisms?)
-
-The vision is to establish this Math-in-the-middle approach as the API for as
-many computer mathematics software packages as possible, without forcing these
-packages to change their approach.\ednote{markus: No idea what ``approach'' even
-means here}
+The vision is to establish this Math-in-the-middle approach as the universal API
+for as many computer mathematics software packages as possible, without forcing
+these packages to change their software significantly.
 
 Working on WP6 of OpenDreamKit we realised more and more that it is necessary to
 communicate and work together in one place
 
-get representatives from fields to compose
-
 The seminar will consist of few talks that introduce and showcase our initial
 successes working on WP6 of ODK involving Sage, GAP, LMFDB, the core concepts
-of MMT,
-
-Lower the entry barrier for using MitM
+of MMT, and many workgroup sessions to learn from each other about developers
+needs and about barriers to entry and use. 
 
 \section{Questions, Issues, Objectives, Results}
 
-Conference, seminars, etc. often focus on the exchange of ideas. It is of course
-one of the goals of our proposed semainar, in particular brushing a precise
-state-of-the-art of the above topics. However our goals go beyond that: we wold
-like to develop a common objective of universality that can unify the
-communities. In the long run, this requires designing uniform
-conceptualizations, interchange formats, and interoperability layers.
-\ednote{Markus: This sounds too much like waffle to me right now.}
-
-Therefore, \textbf{the goal of this seminar is to systematically identify the
-current obstacles to universality, to collect requirements for universality, and
+\textbf{The central goal of this seminar is to systematically identify the
+current obstacles to universality, usability, and efficiency, and
 to sketch out future solutions}.
-\ednote{markus: I think this should be mentioned much earlier, in the
-  introduction or abstract, also what is the definition of ``universality''}
 
-The goal of the seminar is to 
+To achieve this goal, we will 
 \begin{itemize}
 \item Bring together developers and users of (open source) mathematics software,
   logicians, and knowledge representation experts.
@@ -131,19 +118,19 @@ The goal of the seminar is to
 
 Some of the upcoming major challenges are:
 \begin{itemize}
-\item Lowering the entry barrier, in particular via \textbf{unified user
-    interfaces}, and \textbf{Virtual Research Environments} that
-  groups of users can setup to collaborate on data, software,
-  computations, or knowledge;
 \item Enabling \textbf{computations involving multiple systems},
   as transparently as possible;
 \item Keeping the development efforts manageable as the size and
   complexity of software systems increase;
 \item Training a new generation of users and developers.
+\item Combining the above to remove usability barriers, in particular via
+  \textbf{unified user interfaces}, and \textbf{Virtual Research Environments}
+  that groups of users can setup to collaborate on data, software, computations,
+  or knowledge;
 \end{itemize}
 
-A key step is to strengthen collaborations \emph{between} the various
-communities, in order to:
+A key step is to strengthen collaborations \emph{between} communities, in order
+to:
 \begin{itemize}
 \item Seek for opportunities for collaboration or outsourcing of
   components to save on development efforts;
