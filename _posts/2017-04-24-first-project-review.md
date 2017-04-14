@@ -68,9 +68,9 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 - 13:45 Achievements, by Work Package, session 2
     - WP4: User Interfaces (@minrk )
     - WP6: Data/Knowledge/Software-Bases (@kohlhase)
-    - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP1) (@dimpase, @mikecroucher?).
+    - WP7: Social aspects(@dimpase, @mikecroucher?).
     - WP1: [Project management](http://opendreamkit.org/meetings/2017-04-26-ProjectReviewPresentations/Presentations/WP1) (@bpilorget)
-    - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2) (@VivianePons)
+    - WP2: Community building, training, dissemination, exploitation and outreach(@VivianePons)
     
 - 15:45 Wrap up (@nthiery)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
