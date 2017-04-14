@@ -69,7 +69,7 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
     - WP4: User Interfaces (@minrk )
     - WP6: Data/Knowledge/Software-Bases (@kohlhase)
     - WP7: Social aspects (@dimpase, @mikecroucher?)
-    - WP1: [Project management](OpenDreamKit/ReportingPeriod_1/Presentations/WP1)
+    - WP1: [Project management](OpenDreamKit/ReportingPeriod_1/Presentations/WP1/)
 ) (@bpilorget )
     - WP2: Community building, training, dissemination, exploitation and outreach (@VivianePons)
     
