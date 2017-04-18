@@ -3,7 +3,7 @@ layout: slides_wp
 title: "WorkPackage Report"
 theme: white
 transition: none
-author: Benoît Pilorget
+author: BenoÃ®t Pilorget
 period: 1st reporting period
 wp: 1
 ---

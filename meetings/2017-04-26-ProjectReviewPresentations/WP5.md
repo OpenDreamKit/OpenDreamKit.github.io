@@ -3,7 +3,7 @@ layout: slides_wp
 title: "WorkPackage Report"
 theme: white
 transition: none
-author: Clément Pernet
+author: ClÃ©ment Pernet
 period: 1st reporting period
 wp: 5
 ---
