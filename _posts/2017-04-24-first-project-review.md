@@ -12,24 +12,11 @@ tags:
 The Review for the first Reporting Period of OpenDreamKit is taking place on the 26th of April in Brussels at the [CLORA](http://www.clora.eu/en/accueil) (Club of associated research organisations) headquarters.
 This Review will be preceded by 2 full days of Project meetings and rehearsals at the same location.
 
-## Address
+## Location
 
 [Avenue des Arts, 8](https://www.google.be/maps/place/Kunstlaan+8,+1210+Sint-Joost-ten-Node/@50.8493378,4.3424626,14.25z/data=!4m5!3m4!1s0x47c3c37d43cc0845:0x5bb9d80283d77220!8m2!3d50.8481962!4d4.3698149)
 
 1210 Saint-Josse-ten-Noode
-
-Bruxelles
-
-## Hotels in the area
-
-The premises are located at the heart of the European neighbourhood of the Brussels region. OpendreamKit's coordinator redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
-
-Please each participant book separately their hotel rooms
-
-
-## Participants
-
-A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 
 ## Agenda of the week
 
@@ -80,3 +67,12 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 - 18:00 End of review
 - Evening: Social dinner
 
+## Participants
+
+A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
+
+## Hotels in the area
+
+The premises are located at the heart of the European neighbourhood of the Brussels region. OpendreamKit's coordinator redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
+
+Please each participant book separately their hotel rooms
