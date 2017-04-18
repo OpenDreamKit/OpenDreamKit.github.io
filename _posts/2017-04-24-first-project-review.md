@@ -60,17 +60,17 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 - 10:45 Coffee break, with demonstrators and posters
 
 - 11:45 Achievements, by work package, session 1
-    - WP3: Component Architecture (@defeo)
-    - WP5: High Performance Mathematical Computing (@ClementPernet)
+    - WP3: [Component Architecture](/meetings/2017-04-26-ProjectReviewPresentations/WP3/) (@defeo)
+    - WP5: [High Performance Mathematical Computing](/meetings/2017-04-26-ProjectReviewPresentations/WP5/) (@ClementPernet)
     
 - 12:45 Lunch in the premises, with demonstrators and posters
 
 - 13:45 Achievements, by Work Package, session 2
-    - WP4: User Interfaces (@minrk )
-    - WP6: Data/Knowledge/Software-Bases (@kohlhase)
-    - WP7: Social aspects(@dimpase, @mikecroucher?).
+    - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) (@minrk )
+    - WP6: [Data/Knowledge/Software-Bases](/meetings/2017-04-26-ProjectReviewPresentations/WP6/) (@kohlhase)
+    - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) (@dimpase, @mikecroucher?).
     - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget)
-    - WP2: Community building, training, dissemination, exploitation and outreach(@VivianePons)
+    - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) (@VivianePons)
     
 - 15:45 Wrap up (@nthiery)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
