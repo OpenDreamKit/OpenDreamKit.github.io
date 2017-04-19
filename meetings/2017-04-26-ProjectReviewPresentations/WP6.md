@@ -9,6 +9,15 @@ wp: 6
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+--
+## Overview
+
+From the Proposal: Data/Knowledge/Software-Bases
+
+![the big picture](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Proposal/Pictures/TheBigPicture.jpg)
+---
+![integration schemata](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/CICM2016/tikz/three-graphs.pdf)
+
 ## Deliverables
 
 {% comment %}
