@@ -15,10 +15,10 @@ wp: 1
 
 Objectives
 Establish and maintain an effective contract, project, and operational management approach, ensuring
-# Effective and timely implementation of the project
-# Quality control of the results
-# Risk and innovation management of the project as a whole as well
-# Timely and necessary interaction with the EC and other interested parties
+### Effective and timely implementation of the project
+### Quality control of the results
+### Risk and innovation management of the project as a whole as well
+### Timely and necessary interaction with the EC and other interested parties
 
 ## Outline
 
