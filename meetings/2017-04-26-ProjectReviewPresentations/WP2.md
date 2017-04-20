@@ -92,7 +92,7 @@ have already been organized and co-organized by OpenDreamKit.
  - **Computational Mathematics with Jupyter** (Edinburgh, Jan. 2017)
 
 ---
-## Micromagnetic VRE dissemination workshops
+## Micromagnetic VRE and JOOMMF
 
 TODO
 
