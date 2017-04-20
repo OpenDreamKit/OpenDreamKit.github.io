@@ -9,6 +9,27 @@ wp: 1
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+---
+## Introduction
+
+Objectives
+Establish and maintain an effective contract, project, and operational management approach, ensuring
+# Effective and timely implementation of the project
+# Quality control of the results
+# Risk and innovation management of the project as a whole as well
+# Timely and necessary interaction with the EC and other interested parties
+
+## Outline
+
+## Use of Person-Months in WP1
+
+
+## Task 1.1: Project and financial management
+
+## Task 1.2: Quality assurance and risk management
+
+## Task 1.3: Innovation management
+
 ## Deliverables
 
 {% comment %}
@@ -32,34 +53,6 @@ some more info on this deliverable
 ### {{ delivs[3] }}
 
 some more info on this deliverable
-
----
-## Big Achievments
-
-We have done many great things and written nice reports.
-
---
-### Some more details
-
-That was really great
-
---
-### Also we did this
-
-And so on...
-
----
-## More to come
-
-Still, we have so much work!
-
---
-### We will do this
-
-(we have to, so...)
-
---
-### And also this
 
 
 
