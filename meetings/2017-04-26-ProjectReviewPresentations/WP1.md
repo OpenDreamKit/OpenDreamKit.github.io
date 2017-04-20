@@ -19,18 +19,18 @@ Establish and maintain an effective contract, project, and operational managemen
 ### Quality control of the results
 ### Risk and innovation management of the project as a whole as well
 ### Timely and necessary interaction with the EC and other interested parties
-
+---
 ## Outline
-
+---
 ## Use of Person-Months in WP1
-
+---
 
 ## Task 1.1: Project and financial management
-
+---
 ## Task 1.2: Quality assurance and risk management
-
+---
 ## Task 1.3: Innovation management
-
+---
 ## Deliverables
 
 {% comment %}
