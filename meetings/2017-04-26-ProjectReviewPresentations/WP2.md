@@ -17,7 +17,7 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {% include deliverables_slides.html %}
 
-{{ delivs | size }} deliverables were submitted.
+{{ delivs | size }} deliverables were submitted..
 
 {% for d in delivs %}
 - {{ d }}
