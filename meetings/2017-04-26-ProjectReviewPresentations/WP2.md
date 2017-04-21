@@ -86,7 +86,7 @@ have already been organized and co-organized by OpenDreamKit.
  - 6 SageDays on specific math-related topics
  - Sage training in developing countries
  - 14 talks (SciPy, EuroSciPy, CICM, ICMS,...)
- - 5 Micromagnetic VRE dissemination workshops (New Orleans x2, Dresden, York, Dublin)
+ - 5 Micromagnetic VRE dissemination workshops
  - Jupyter Day (Orsay, Nov. 2016)
  - **Women In Sage** (Paris, Jan. 2017)
  - **Computational Mathematics with Jupyter** (Edinburgh, Jan. 2017)
@@ -94,7 +94,32 @@ have already been organized and co-organized by OpenDreamKit.
 ---
 ## Micromagnetic VRE and JOOMMF
 
-TODO
+### Overview
+
+Integration of Object Oriented Micro Magnetic Framework (OOMMF) into Jupyter
+- Python interface to OOMMF (completed)
+- multi-media integration (equations, plots, geometries) into Notebook (ongoing)
+- dissemination through workshops, preferred at major conferences
+- Hosting in the cloud (future)
+
+### Workshops
+
+- 61st Annual Conference on Magnetism and Magnetic Materials in New Orleans, LA, USA (2nd and 3rd November 2016).
+- Spring Meeting of the Condensed Matter Section in Dresden, Germany (19th March 2017)
+- Institute of Physics Magnetism 2017 conference in York, UK (5th April 2017)
+- IEEE International Magnetics Conference - Intermag 2017, Dublin, Ireland (24th April 2017)
+
+### Workshop participants (global)
+
+56 participants from 21 countries
+
+![](../joommf-workshops-global.png)
+
+### Workshop participants (global)
+
+35 participants from 10 countries within Europe
+
+![](../joommf-workshops-EU.png)
 
 
 ---
