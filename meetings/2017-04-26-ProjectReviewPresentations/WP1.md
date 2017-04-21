@@ -17,15 +17,20 @@ Objectives
 Establish and maintain an effective contract, project, and operational management approach, ensuring
 ### Effective and timely implementation of the project
 ### Quality control of the results
-### Risk and innovation management of the project as a whole as well
+### Risk and innovation management of the project as a whole
 ### Timely and necessary interaction with the EC and other interested parties
 ---
 ## Outline
 ---
 ## Use of Person-Months in WP1
+
+Data available right before the review
+
 ---
 
 ## Task 1.1: Project and financial management
+
+
 ---
 ## Task 1.2: Quality assurance and risk management
 ---
