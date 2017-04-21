@@ -21,11 +21,13 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 ## Agenda of the week
 
 - Monday 24/04:
-  10:30 - Quality review Board morning ( no room name, Benoît P. will be waiting at the entrance)
+
+10:30 - Quality review Board morning ( no room name, Benoît P. will be waiting at the entrance)
   
-  Lunch
+LUNCH
   
-  13:30, Room "MONTOYER"
+13:30, Room "MONTOYER"
+
   - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
   - Rehearsals in the afternoon
 
