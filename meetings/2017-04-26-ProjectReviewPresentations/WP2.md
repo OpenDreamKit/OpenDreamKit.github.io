@@ -86,7 +86,7 @@ have already been organized and co-organized by OpenDreamKit.
  - 6 SageDays on specific math-related topics
  - Sage training in developing countries
  - 14 talks (SciPy, EuroSciPy, CICM, ICMS,...)
- - **Micromagnetic VRE dissemination workshops** 
+ - 5 Micromagnetic VRE dissemination workshops (New Orleans x2, Dresden, York, Dublin)
  - Jupyter Day (Orsay, Nov. 2016)
  - **Women In Sage** (Paris, Jan. 2017)
  - **Computational Mathematics with Jupyter** (Edinburgh, Jan. 2017)
