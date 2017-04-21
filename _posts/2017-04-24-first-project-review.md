@@ -23,11 +23,13 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - Monday 24/04:
 
 10:30 - Quality review Board, only open to the QRB members and the Coordinator ( no room name, Benoît P. will be waiting at the entrance)
+
 LUNCH
+
 13:30, Room "MONTOYER"
 
-   - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
-   - Rehearsals in the afternoon
+        - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
+        - Rehearsals in the afternoon
 
 - Tuesday 25/04: Rehearsals all day, Room "MONTOYER"
 
