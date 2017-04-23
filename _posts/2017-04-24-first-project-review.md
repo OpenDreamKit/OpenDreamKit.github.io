@@ -44,7 +44,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - 9:00 Welcome
    - Overview of the day by Project Officer
    - Go around the table
-   - [Brief overview of the project](http://opendreamkit.org/about-mathematicians/) @nthiery
+   - [Brief overview of the project](/meetings/2017-04-26-ProjectReviewPresentations/overview/) @nthiery
    
 - 9:30 Some context and case studies
     - [Is your research software correct?](https://mikecroucher.github.io/MLPM_talk/) @mikecroucher?
