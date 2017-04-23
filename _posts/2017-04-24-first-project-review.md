@@ -23,18 +23,18 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - Monday 24/04:
     - Rooms "Hergé" and "Magritte" booked from 9 am until 12:30 O'clock
        
-       -> "Hergé" for Quality review Board (meeting begin at 10:30 AM), only open to the QRB members and the Coordinator
+       -> "Hergé" for Quality review Board (meeting begin at 10:30 AM): QRB members and the Coordinator
        
-       -> "Magritte" for those who wish to begin to practise presententaison etc.
+       -> "Magritte": cross-reviews of slides and demos, first round of talk rehearsals
     
     - LUNCH
     - Rooms "MONTOYER" & "MAGRITTE" - booked from 12:30 until 20:30 PM
         - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
         - Rehearsals in the afternoon
 
-- Tuesday 25/04: Rehearsals all day, Rooms "MONTOYER" & "MAGRITT"E- from 8:30 AM until 20:30 PM
+- Tuesday 25/04: run-through rehearsal all day, Rooms "Montoyer" & "Magritte"- from 8:30 AM until 20:30 PM
 
-- Wednesday 26/04: REVIEW, Room "DELVAUX-PICASSO"- booked from 8:00 AM until 18:00 PM
+- Wednesday 26/04: REVIEW, Room "Delvaux-Picasso"- booked from 8:00 AM until 18:00 PM
 
 - Thursday and Friday 27-28/04: Workshop in Brussels ([More information available on github](https://github.com/OpenDreamKit/OpenDreamKit/issues/223))
 
