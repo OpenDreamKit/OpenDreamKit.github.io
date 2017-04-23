@@ -21,7 +21,9 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 ## Agenda of the week
 
 - Monday 24/04:
-    - 10:30: Quality review Board, Room "MAGRITTE" - Only open to the QRB members and the Coordinator
+    - Rooms "Hergé" and "Magritte" booked from 9 am until 12:30 O'clock
+        -> "Hergé" for Quality review Board (meeting begin at 10:30 AM), only open to the QRB members and the Coordinator
+        -> "Magritte" for those who wish to begin to practise presententaison etc.
     - LUNCH
     - Rooms "MONTOYER" & "MAGRITTE" - booked from 12:30 until 20:30 PM
         - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/))
