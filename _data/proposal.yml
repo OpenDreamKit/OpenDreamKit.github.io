@@ -53,6 +53,7 @@ deliv:
   UI:
     adcomp: {dissem: PU, due: '18', issue: '97', label: D4.9, lead: JU, nature: DEM,
       page: '48', short: In-place computation in active documents (context/computation),
+      status: submitted,
       title: In-place computation in active documents (context/computation)}
     adstex: {dissem: PU, due: '9', issue: '91', label: D4.2, lead: JU, nature: R,
       page: '47', short: Active/Structured Documents Requirements and existing Solutions,
@@ -86,6 +87,7 @@ deliv:
       nature: OTHER, page: '48', short: Exploratory support for live notebook collaboration,
       title: Exploratory support for live notebook collaboration}
     jupyter-test: {dissem: PU, due: '18', issue: '98', label: D4.8, lead: SR, nature: OTHER,
+      status: submitted,
       page: '48', short: Facilities for running notebooks as verification tests, title: Facilities
         for running notebooks as verification tests}
     mathhub-editing: {dissem: PU, due: '18', issue: '92', label: D4.3, lead: FAU,
