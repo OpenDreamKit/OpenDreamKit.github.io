@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides_wp
 title: "KPI Report"
 theme: white
@@ -21,7 +21,7 @@ period: 1st reporting period
 - SageMath 
 
 ![](../KPI-sage_dwld.jpeg)
-![[(../KPI-binary_installs_ubuntu.png)
+![](../KPI-binary_installs_ubuntu.png)
 
 - PARI/GP @videlec?
         
