@@ -76,9 +76,9 @@ have already been organized and co-organized by OpenDreamKit.
  - GAP-SageMath Days (St Andrews, 19 participants)
  - Knowledge representation (St Andrews, 12 participants)
  - SageDays77 (Cernay, 15 participants)
- - WP6 orkshop (Bremen, 7 participants)
+ - WP6 workshop (Bremen, 7 participants)
  - Atelier PARI/GP 2017 (Lyon TODO)
- - SageDays 85 (Cernay TODO)
+ - SageDays 85 (Cernay, 17 participants)
 
 --
 ### Dissemination activities
@@ -102,6 +102,7 @@ Integration of Object Oriented Micro Magnetic Framework (OOMMF) into Jupyter
 - dissemination through workshops, preferred at major conferences
 - Hosting in the cloud (future)
 
+--
 ### Workshops
 
 - 61st Annual Conference on Magnetism and Magnetic Materials in New Orleans, LA, USA (2nd and 3rd November 2016).
@@ -109,18 +110,20 @@ Integration of Object Oriented Micro Magnetic Framework (OOMMF) into Jupyter
 - Institute of Physics Magnetism 2017 conference in York, UK (5th April 2017)
 - IEEE International Magnetics Conference - Intermag 2017, Dublin, Ireland (24th April 2017)
 
+--
 ### Workshop participants (global)
 
 56 participants from 21 countries
 
 ![](../joommf-workshops-global.png)
 
+--
 ### Workshop participants (global)
 
 35 participants from 10 countries within Europe
 
 ![](../joommf-workshops-EU.png)
-
+ 
 
 ---
 ## Women In Sage
