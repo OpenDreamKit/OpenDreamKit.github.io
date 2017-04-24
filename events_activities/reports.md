@@ -10,7 +10,7 @@ menu_order: 4
 
 ## Technical report for Reporting Period 1
 
-[Report](https://github.com/OpenDreamKit/OpenDreamKit/files/953012/ReportsReportingPeriod1.zip)
+* [Report](https://github.com/OpenDreamKit/OpenDreamKit/files/953012/ReportsReportingPeriod1.zip)
 
 ## Workshops and meetings minutes
 
