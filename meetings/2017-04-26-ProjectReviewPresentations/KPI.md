@@ -17,29 +17,28 @@ period: 1st reporting period
 
 #### Number of downloads of:
 
-	- SageMath 
+- SageMath 
 
 ![](../KPI-sage_dwld.jpeg)
 ![[(../KPI-binary_installs_ubuntu.png)
 
-        - PARI/GP @videlec?
+- PARI/GP @videlec?
         
-	- GAP:
+- GAP:
 
 ![](../KPI-GapGScholar_CitationsPerYear.jpeg)
 
-	- Singular @wbhart?
-	- Number of installs via package managers (apt/pacman/...)...???
-
-	- Number of users of Sagemathcloud
+- Singular @wbhart?
+- Number of installs via package managers (apt/pacman/...)...???
+- Number of users of Sagemathcloud
 
 -> from 2016-02-28 to 2017-02-28 there were about 85000 new accounts and 83000 active users
 
 ![](../KP1-Total_number_accounts_and_projects_sagemath)
 
-	- Number of Cloud-GAP @alex-konovalov
+- Number of Cloud-GAP @alex-konovalov
 
-	- Webstats of ODK website
+- Webstats of ODK website
 
 #### Stats ODK for period 15/03 to 24/04/2017:
 
@@ -126,9 +125,5 @@ Mark's stuff?
 - Nr of publications citing ODK or one of its components (see with altmetric and openaire supports how it is possible)
 - Nr of tutorial attendees / Nr of tutorials downloads
      Number of tutorial attendees shouls a piece of cake but downloads...?
-
-
-</section>
-
 
 
