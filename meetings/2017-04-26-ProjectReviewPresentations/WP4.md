@@ -19,23 +19,14 @@ Goal: Provide unified interfaces for OpenDreamKit VREs
 - Interactive documentation
 - Applications of notebooks, widgets
 
----
-## OpenDreamKit VRE Architecture
-
-TODO: architecture diagram
-
-```
-User → JupyterHub | SMC → Jupyter → Sage → GAP, PARI, etc.
-    |→ MathHub
-                         |----------- Docker ------→
-```
+WorkPackage 4 is where ODK components come together.
 
 ---
 ## Background: Jupyter Notebooks
 
-Document format containing code, prose, maths, output
+Document with  code, prose, maths, visualization
 
-<img src="../wp4-notebook.png", style="height: 50vh;">
+<img src="../wp4-notebook.png", style="height: 55vh;">
 
 
 ---
@@ -43,17 +34,21 @@ Document format containing code, prose, maths, output
 
 Web-based interactive computing environment
 
-<img src="../jupyter-diagram.png", style="height: 50vh;">
+<img src="../jupyter-diagram.png", style="height: 340px;">
 
 Language-agnostic protocol for computation
 
 ---
 ## Background: JupyterHub
 
+VRE with authentication
+
 <img src="../jupyterhub-diagram.png", style="height: 50vh;">
 
 ---
 ## Background: tmpnb
+
+VRE for anonymous, ephemeral environments
 
 <img src="../tmpnb-diagram.png", style="height: 40vh;">
 
@@ -63,12 +58,12 @@ Also: mybinder.org, SageMathCloud, more
 ---
 ## Notebook Interfaces
 
-- Implement Jupyter kernels **Delivered: D4.4**
-- Unify notebooks (Sage/Jupyter) **Delivered: D4.5**
+- Jupyter kernels for ODK components **Delivered: D4.4**
+- Unify Sage/Jupyter notebooks for sustainability **Delivered: D4.5**
 - Improve notebook collaboration
    - High latency (diff & merge) **Delivered: D4.6**
    - Real-time (GDocs-style, already in SageMathCloud)
-- Notebook validation **Delivered: D4.8**
+- Notebook validation for reproducibility **Delivered: D4.8**
 
 ---
 ## Highlight: ODK component integration
@@ -109,27 +104,28 @@ New package: **nbval**: testing and validating notebooks (**D4.8**)
 - Active Document Hub/Portal (MathHub) **Delivered: D4.3, D4.9**
 - Structured documents (books, articles)
 
+
 ---
 ## Highlight: Active Documents
 
 MathHub.info is a portal for active mathematical documents
 
-Enables versioned, collaborative editing via GitLab
+Enables versioned, collaborative editing via GitLab (**D4.3**)
 
 <img src="../mathhub-architecture.png", style="height: 40vh;">
 
 ---
 ## Highlight: Active Documents
 
-**D4.9** in-place computation added to MathHub.info
+in-place computation added to MathHub.info (**D4.9**)
 
 <img src="../compman.png", style="height: 40vh;">
 
 ---
 ## Applications
 
-- Explore web-based 3D-vis in notebooks
-- Fluid Dynamics notebook vis
+- Explore web-based 3D visualisation in notebooks
+- Fluid dynamics notebook visualisation
 - Micromagnetics:
    - Notebook examples
    - VRE for micromagnetics non-notebook web application

@@ -9,10 +9,42 @@ wp: 7
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+
+## Social aspects of VREs
+
+ - Understand collaboration in VREs
+   * research ("crowdsourcing", etc.)
+   * teaching and dissemination
+   * VRE development
+ - Inform VRE design
+ - Facilitate collaboration via VREs
+
+---
+## "Crowdsourcing"
+
+ - [Matheoverflow](https://mathoverflow.net/)
+ - [Polymath projects](http://michaelnielsen.org/polymath1/index.php?title=Polymath1)
+ - ...
+
+---
+## VREs in teaching and dissemination
+
+ - interactive textbooks (20+ (?) years on)
+ - VREs in lab-based courses, classes and assignments
+ - [wikipedia](https://en.wikipedia.org/) and wiki's 
+
+---
+## Development of open-source software
+
+ - version control systems and VREs
+ - [github](http://github.com) and pull requests
+ - crowdfunding (in academia too)
+
+---
 ## Deliverables
 
 {% comment %}
-The include bellow gets the finished deliverables of the work pakacge and put the list in "delivs"
+The include below gets the finished deliverables of the work pakacge and put the list in "delivs"
 {% endcomment %}
 
 {% include deliverables_slides.html %}
@@ -24,9 +56,10 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 {% endfor %}
 
 --
-### {{ delivs[2] }}
+### Some examples from the report 
 
-some more info on this deliverable
+ - [An example of devs stats for GAP](http://users.ox.ac.uk/~coml0531/wp7ex/docs/gap-system/gap/contributors.html)
+ - [An example of devs stats for SymPY](http://users.ox.ac.uk/~coml0531/wp7ex/docs/sympy/sympy/contributors.html)
 
 --
 ### {{ delivs[3] }}
@@ -34,33 +67,26 @@ some more info on this deliverable
 some more info on this deliverable
 
 ---
-## Big Achievments
+## Ongoing deliverables 
 
-We have done many great things and written nice reports.
-
---
-### Some more details
-
-That was really great
-
---
-### Also we did this
-
-And so on...
+ - D7.2 prioritisation of tickets on [trac servers](https://trac.sagemath.org/)
+   (due month 24), well on target
+ - D7.7 game-theoretic analysis of development practices in open source
+   first publication [already out](http://dl.acm.org/citation.cfm?id=2936934)
+ - ...
 
 ---
-## More to come
+## VREs, databases, and reproducibility
 
-Still, we have so much work!
+ "Lost" results and their checking: from static
+ to dynamic
 
---
-### We will do this
+ - A.E.Brouwer's (TU Eindhoven) [DB](http://www.win.tue.nl/~aeb/graphs/srg/srgtab.html) of strongly regular graphs
+ - now [in Sagemath](https://doi.org/10.1007/s10623-016-0264-x); errors in DB found
 
-(we have to, so...)
+Some constructions are being contributed by authors! 
 
---
-### And also this
-
+Next: [tables of linear codes](http://codetables.de/)
 
 
 </section>
