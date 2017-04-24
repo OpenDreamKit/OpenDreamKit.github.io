@@ -77,7 +77,7 @@ have already been organized and co-organized by OpenDreamKit.
  - Knowledge representation (St Andrews, 12 participants)
  - SageDays77 (Cernay, 15 participants)
  - WP6 workshop (Bremen, 7 participants)
- - Atelier PARI/GP 2017 (Lyon TODO)
+ - Atelier PARI/GP 2017 (Lyon, 43 participants)
  - SageDays 85 (Cernay, 17 participants)
 
 --
