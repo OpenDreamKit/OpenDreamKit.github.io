@@ -61,8 +61,8 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - 12:45 Lunch in the premises, with demonstrators and posters
 
 - 13:45 Achievements, by Work Package, session 2
-    - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) (@minrk )
     - WP6: [Data/Knowledge/Software-Bases](/meetings/2017-04-26-ProjectReviewPresentations/WP6/) (@kohlhase)
+    - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) (@minrk )
     - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) (@dimpase, @mikecroucher?).
     - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) (@VivianePons)
