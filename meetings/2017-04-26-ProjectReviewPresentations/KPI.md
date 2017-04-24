@@ -7,6 +7,7 @@ author: Benoît Pilorget
 period: 1st reporting period
 ---
 
+<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 ### Key Performance Indicators: Month 18
 
 ---
