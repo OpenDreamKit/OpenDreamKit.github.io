@@ -32,7 +32,8 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
         - Brief Steering Committee after lunch ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/) and [Pad](https://mensuel.framapad.org/p/vQTnSyplRr))
         - Rehearsals in the afternoon. Put your comments on [this pad](https://hebdo.framapad.org/p/wp-presentations)
 
-- Tuesday 25/04: run-through rehearsal all day, Rooms "Montoyer" & "Magritte"- from 8:30 AM until 20:30 PM
+- Tuesday 25/04: run-through rehearsal all day, Rooms "Montoyer" & "Magritte" - from 8:30 AM until 20:30 PM
+    - Put your comments on [this pad](https://hebdo.framapad.org/p/wp-presentations)
 
 - Wednesday 26/04: REVIEW, Room "Delvaux-Picasso"- booked from 8:00 AM until 18:00 PM
 
