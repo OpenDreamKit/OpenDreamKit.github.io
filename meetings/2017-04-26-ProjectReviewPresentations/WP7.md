@@ -26,7 +26,8 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 --
 ### {{ delivs[2] }}
 
-some more info on this deliverable
+ - [An example of devs stats for GAP](http://users.ox.ac.uk/~coml0531/wp7ex/docs/gap-system/gap/contributors.html)
+ - [An example of devs stats for SymPY](http://users.ox.ac.uk/~coml0531/wp7ex/docs/sympy/sympy/contributors.html)
 
 --
 ### {{ delivs[3] }}
