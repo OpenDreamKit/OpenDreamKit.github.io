@@ -56,7 +56,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 
 - 11:45 Achievements, by work package, session 1
     - WP3: [Component Architecture](/meetings/2017-04-26-ProjectReviewPresentations/WP3/) (@defeo)
-    - WP5: [High Performance Mathematical Computing](ttps://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_1/Presentations/WP5/WP5_pres-v1.pdf) (@ClementPernet)
+    - WP5: [High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_1/Presentations/WP5/WP5_pres-v2.pdf) (@ClementPernet)
     
 - 12:45 Lunch in the premises, with demonstrators and posters
 
