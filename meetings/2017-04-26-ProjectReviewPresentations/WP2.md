@@ -162,8 +162,13 @@ And a high rate of satisfaction.
 
 ---
 ##  Computational Mathematics with Jupyter
-
-TODO
+- 5-days workshop at the International Centre for Mathematical Sciences (Edinburgh, 16-20 January 2017)
+- [47 participants from 10 countries](http://opendreamkit.org/meetings/2017-01-16-ICMS/participants/) 
+- About half of the programme consisted of lectures and tutorials
+- The other half - collaborative coding and documentation sprints in parallel break-out groups, often suggested by participants
+- This format is most efficient for the dissemination, allowing attendees to try out new tools themselves
+- Covered many tools from the Python and Juputer ecosystems and their use in research and teaching 
+- FIXME: insert photo sent by email
 
 ---
 ## Looking forward to...
