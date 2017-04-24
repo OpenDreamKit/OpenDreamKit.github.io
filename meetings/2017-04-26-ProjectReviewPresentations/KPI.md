@@ -3,7 +3,7 @@ layout: slides_wp
 title: "KPI Report"
 theme: white
 transition: none
-author: Benoît Pilorget
+author: BenoÃ®t Pilorget
 period: 1st reporting period
 ---
 
@@ -13,9 +13,9 @@ period: 1st reporting period
 ### KPI 1: More effective collaborations between researchers
 
 
-# Nr of Social Media followers (Twitter): 271  followers on April 2017
+#### Nr of Social Media followers (Twitter): 271  followers on April 2017
 
-# Number of downloads of:
+#### Number of downloads of:
 
 	- SageMath 
 
@@ -41,7 +41,7 @@ period: 1st reporting period
 
 	- Webstats of ODK website
 
-# Stats ODK for period 15/03 to 24/04/2017:
+#### Stats ODK for period 15/03 to 24/04/2017:
 
 - 1119 visits
 - 38% read more than one page
@@ -50,7 +50,7 @@ period: 1st reporting period
 ![](../KP1-world_visits_website.png)
 ![](../KPI-Graph-visits.png)
 
-# Attendees to workshops/conferences (number, activity of people, domain of research, gender)
+#### Attendees to workshops/conferences (number, activity of people, domain of research, gender)
 
 On the way..
 
