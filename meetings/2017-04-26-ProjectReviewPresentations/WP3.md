@@ -12,7 +12,7 @@ wp: 3
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 ## Component architecture
 
-### Types of components
+### Components
 
 - **Interfaces**: Jupyter, SageMathCloud;
 - **Systems**: Gap, PARI/GP, SageMath, Singular;
@@ -28,6 +28,35 @@ wp: 3
   (e.g., cloud, local, server, ...);
 - Develop, demonstrate, standardize APIs;
 - Streamline development workflows.
+
+--
+### Examples
+
+- *SageMath's elliptic curves* module calls *C functions in PARI/GP*
+  library.
+- Import *data from LMFDB* at the *GAP command line*.
+- Run commands on *remote Singular server* from a *GAP client* through
+  *MMT mediator*.
+- Deploy *SageMath virtual machines* on *Microsoft Azure cloud*.
+- Deploy a computational mathematics software stack on a *HPC
+  cluster*, controlled through *Jupyter notebooks*.
+
+---
+## Tasks
+
+- **T3.1, Portability:** Virtual machines, containers, Windows.
+- **T3.2, Interfaces between systems:** application level interfaces, network protocols.
+- **T3.3, Modularisation and packaging:** distribution, packaging, compatibility.
+- **T3.4, Simulagora integration:** commercial demonstrator.
+
+--
+## Tasks (cont'd)
+
+- **T3.5, Component architecture for High Performance Computing and
+  Parallelism:** Interaction with WP5 (starts Month 36).
+- **T3.6, Document and modularise SageMathCloud's codebase.**
+- **T3.7, Improving the development workflow in mathematical software.**
+- **T3.8, Python interface for OOMMF micromagnetic simulation library.** (completed)
 
 ---
 
@@ -128,9 +157,8 @@ Adds SCSCP support to: *GAP, Singular*
 
 - Interactions with other work packages: WP4, WP6.
 
-- OOMMFF?
-
-- Simulagora?
+- OOMMFF task (Python interface to OOMMFF) completed. See H. Fanghor
+  talk.
 
 ---
 ## Upcoming work
@@ -148,7 +176,7 @@ Four deliverables due on month 24:
 
 **Good news!**
 
-Already done by SMC developers, will to re-allocate efforts.
+Already done by SMC developers, will re-allocate efforts.
 
 --
 ### D3.5: Inegration between SageMathCloud and Trac
@@ -175,7 +203,12 @@ This deliverable is mostly done:
 ## Longer term
 
 - **Packaging:** SageMath 7.4 in next Debian release. More than 24
-months ahead of schedule!
+  months ahead of schedule!
+
+- **Packaging (bis):** experimental *Conda* packages for SageMath and
+  components are being made, with the help of the community. This is
+  not a planned deliverable, but it would be a pity to miss this
+  opportunity.
 
 - **GAP/SageMath Interface:** experimental work started in
 January 2016. First prototype complete.
