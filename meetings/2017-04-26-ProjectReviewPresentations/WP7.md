@@ -19,24 +19,28 @@ wp: 7
  - Inform VRE design
  - Facilitate collaboration via VREs
 
+---
 ## "Crowdsourcing"
 
  - [Matheoverflow](https://mathoverflow.net/)
  - [Polymath projects](http://michaelnielsen.org/polymath1/index.php?title=Polymath1)
  - ...
 
+---
 ## VREs in teaching and dissemination
 
  - interactive textbooks (20+ (?) years on)
  - VREs in lab-based courses, classes and assignments
  - [wikipedia](https://en.wikipedia.org/) and wiki's 
 
+---
 ## Development of open-source software
 
  - version control systems and VREs
  - [github](http://github.com) and pull requests
  - crowdfunding (in academia too)
 
+---
 ## Deliverables
 
 {% comment %}
@@ -71,7 +75,7 @@ some more info on this deliverable
    first publication [already out](http://dl.acm.org/citation.cfm?id=2936934)
  - ...
 
---
+---
 ## VREs, databases, and reproducibility
 
  "Lost" results and their checking: from static
