@@ -49,7 +49,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - 9:30 Some context and case studies
     - [Is your research software correct?](https://mikecroucher.github.io/MLPM_talk/) @mikecroucher?
     - SageMathCloud for teaching and research @VivianePons 
-    - [A case study of computational science in Jupyter notebooks: JOOMMF](http://opendreamkit.org/2017/01/20/JOOMMF-intro/) @fangohr
+    - A case study of computational science in Jupyter notebooks: JOOMMF @fangohr
     
 - 10:45 Coffee break, with demonstrators and posters
 
