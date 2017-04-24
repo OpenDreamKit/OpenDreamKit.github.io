@@ -64,7 +64,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
     - WP6: [Data/Knowledge/Software-Bases](/meetings/2017-04-26-ProjectReviewPresentations/WP6/) (@kohlhase)
     - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) (@minrk )
     - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) (@dimpase, @mikecroucher?).
-    - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget)
+    - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) (@VivianePons)
     
 - 15:45 Wrap up (@nthiery)
