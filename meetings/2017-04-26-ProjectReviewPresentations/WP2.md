@@ -86,10 +86,24 @@ have already been organized and co-organized by OpenDreamKit.
  - 6 SageDays on specific math-related topics
  - Sage training in developing countries
  - 14 talks (SciPy, EuroSciPy, CICM, ICMS,...)
- - 5 Micromagnetic VRE dissemination workshops
+ - **4 Micromagnetic VRE dissemination workshops**
  - Jupyter Day (Orsay, Nov. 2016)
  - **Women In Sage** (Paris, Jan. 2017)
  - **Computational Mathematics with Jupyter** (Edinburgh, Jan. 2017)
+
+---
+##  Computational Mathematics with Jupyter
+
+![](../ICMS_Jan2017.jpg)
+
+--
+- 5-days workshop at the International Centre for Mathematical Sciences (Edinburgh, January 2017)
+- [47 participants from 10 countries](http://opendreamkit.org/meetings/2017-01-16-ICMS/participants/) 
+- About half of the program consisted of lectures and tutorials
+- The other half - collaborative coding and documentation sprints in parallel break-out groups, often suggested by participants
+- This format is most efficient for the dissemination, allowing attendees to try out new tools themselves
+- Covered many tools from the Python and Juputer ecosystems and their use in research and teaching 
+
 
 ---
 ## Micromagnetic VRE and JOOMMF
@@ -158,17 +172,6 @@ And a high rate of satisfaction.
 
 ![How did you like the general atmosphere of the conference? 1:0 people, 2: 0 people, 3: 0 people, 4: 0 people, 5: 17 people](/public/images/womenInSage/atmosphere.png)
 
-
-
----
-##  Computational Mathematics with Jupyter
-- 5-days workshop at the International Centre for Mathematical Sciences (Edinburgh, 16-20 January 2017)
-- [47 participants from 10 countries](http://opendreamkit.org/meetings/2017-01-16-ICMS/participants/) 
-- About half of the programme consisted of lectures and tutorials
-- The other half - collaborative coding and documentation sprints in parallel break-out groups, often suggested by participants
-- This format is most efficient for the dissemination, allowing attendees to try out new tools themselves
-- Covered many tools from the Python and Juputer ecosystems and their use in research and teaching 
-- FIXME: insert photo sent by email
 
 ---
 ## Looking forward to...
