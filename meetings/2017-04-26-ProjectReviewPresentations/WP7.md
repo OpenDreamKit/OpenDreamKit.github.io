@@ -38,13 +38,13 @@ wp: 7
  - ODK proposal preparation [timeline](https://github.com/OpenDreamKit/OpenDreamKit/graphs/contributors?from=2014-11-23&to=2015-03-07&type=c)
  - version control systems and VREs
  - [github](http://github.com) and pull requests
- - crowdfunding (in academia too---
+ - crowdsourcing (in academia too!)
 
 ---
 ## Deliverables
 
 {% comment %}
-The include below gets the finished deliverables of the work pakacge and put the list in "delivs"
+The include below gets the finished deliverables of the work package and put the list in "delivs"
 {% endcomment %}
 
 {% include deliverables_slides.html %}
@@ -91,7 +91,7 @@ some more info on this deliverable
 ---
 ## Next
 
- - Group Number project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
+ - Group Numbers reproducibility project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
  - making [Tables of linear codes](http://codetables.de/) *dynamic*, i.e. examples are built by a VRE
   dynamically; users contribute examples and implementations
  - similar combinatorial data: Hadamard matrices, designs, etc. 
