@@ -15,13 +15,20 @@ The objective is to establish and maintain an effective contract, project, and o
 ### Quality control of the results
 ### Risk and innovation management of the project as a whole
 ### Timely and necessary interaction with the EC and other interested parties
----
-## Outline
+
 ---
 ## Use of Person-Months in WP1
 
-Data available right before the review
+![](WP1-finance-pm-planned.png)
+--
+![](../WP1-finance-pm-actual.png)
 
+--
+![](../WP1-finance1.png)
+---
+## Use of funding
+
+![](../WP1-finance-moneyuse.png)
 ---
 ## Deliverables
 
