@@ -84,6 +84,7 @@ The objective is to establish and maintain an effective contract, project, and o
 --
 ### Focus on implementation processes of the innovation
 
+- OpenDreamKit is developing software projects with their own managing processes
 - 
 
 
@@ -107,6 +108,7 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 {% endfor %}
 --
 ### {{ delivs[1] }}
+
 --
 ### {{ delivs[2] }}
 
