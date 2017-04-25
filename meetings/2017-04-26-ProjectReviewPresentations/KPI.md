@@ -78,10 +78,10 @@ Mark's stuff?
 --
 ### Nr of contributors to ODK components
 
-	- Sage:[358 contributors for 57,973 commits](https://github.com/sagemath/sage/)
-	- Gap: [25 contributos for 4,483 commits](https://github.com/gap-system/gap)
-	- IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
-	- Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
+- Sage:[358 contributors for 57,973 commits](https://github.com/sagemath/sage/)
+- Gap: [25 contributos for 4,483 commits](https://github.com/gap-system/gap)
+- IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
+- Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 
 
 ### Number of Jupyter kernels: 87 kernels
@@ -123,10 +123,10 @@ Mark's stuff?
 ### Number of components that support SCSCP: presumably 0
 ### Nr of data queries on LMFDB (and knowledge produced via MMT): 
 
-	- 1357 sessions
-	- 885 users (split 50/50 between new and returning)
-	- 6950 page views
-	- 4m21s average session duration
+- 1357 sessions
+- 885 users (split 50/50 between new and returning)
+- 6950 page views
+- 4m21s average session duration
 
 ---
 
