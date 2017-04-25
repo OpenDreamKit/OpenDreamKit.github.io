@@ -30,24 +30,17 @@ Improve and support those existing communities and turn the technical progress w
 - **Dissemination and outreach**: foster larger communities, get new users and new developers
 - **Exploitation**: make effective use of OpenDreamKit development in science and research 
 
-
 ---
-## Deliverables
+## T2.1: Dissemination and Communication activities
 
-{% comment %}
-The include bellow gets the finished deliverables of the work pakacge and put the list in "delivs"
-{% endcomment %}
+How to communicate about our achievement?
 
-{% include deliverables_slides.html %}
-
-{{ delivs | size }} deliverables were submitted.
-
-{% for d in delivs %}
-- {{ d }}
-{% endfor %}
+- [press releases](http://opendreamkit.org/events_activities/press_release/)
+- [social media](https://twitter.com/opendreamkit)
+- [website](http://opendreamkit.org/)
 
 --
-### A new website
+A new website
 
 ![](../site_screenshot.png)
 
@@ -56,20 +49,27 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 ![](../site_tags.png)
 
---
-### {{ delivs[2] }}
+---
+## T2.4: Reviewing emerging technologies
 
 ![](../emerging_technologies.png)
 
 ---
-## Workshops and other events
+## T2.2: Training and training portal
 
-22 meetings, developer and training workshops
-have already been organized and co-organized by OpenDreamKit.
+![](../software_page.png)
+
+---
+## T2.6: Introduce OpenDreamKit to Researchers and Teachers
+
+![](../SMC_tutorial.png)
+
+---
+## T2.3: Community Building: Development Workshops
+
+10 workshops adding to 211 participants in total
 
 --
-### Development workshops
-
  - Kickoff meeting (Orsay, 34 participants)
  - SageDays 70 (Berkeley, 16 participants)
  - Atelier PARI/GP 2016 (Grenoble, 36 participants)
@@ -78,10 +78,19 @@ have already been organized and co-organized by OpenDreamKit.
  - SageDays77 (Cernay, 15 participants)
  - WP6 workshop (Bremen, 7 participants)
  - Atelier PARI/GP 2017 (Lyon, 43 participants)
+ - SageDays 84 (Olot, 12 participants)
  - SageDays 85 (Cernay, 17 participants)
 
+---
+## Dissemination events
+
+T2.5: Dissemination: reaching towards users and fostering diversity
+
+T2.7: Open source dissemination of micromagnetic VRE
+
+T2.8: Micromagnetic VRE dissemination workshops
+
 --
-### Dissemination activities
 
  - 6 SageDays on specific math-related topics
  - Sage training in developing countries
@@ -102,7 +111,7 @@ have already been organized and co-organized by OpenDreamKit.
 - About half of the program consisted of lectures and tutorials
 - The other half - collaborative coding and documentation sprints in parallel break-out groups, often suggested by participants
 - This format is most efficient for the dissemination, allowing attendees to try out new tools themselves
-- Covered many tools from the Python and Juputer ecosystems and their use in research and teaching 
+- Covered many tools from the Python and Jupyter ecosystems and their use in research and teaching 
 
 
 ---
@@ -152,7 +161,7 @@ January 2017, 19 participants
 By targeting women, we reach a population that is often left out in classical events.
 
 !["I had never heard of Sage Days": 35.3%, "I thought Sage Days were not for me": 11.8%, "I wanted to but never had the time nor the occasion": 17.6% , 
-"I attended once": 17.6%, "I attended many times": 17.6%](/public/images/womenInSage/sage-days-attendance.png)
+"I attended once": 17.6%, "I attended many times": 17.6%](/public/images/womenInSage/sage-days-attendance_bigger.png)
 
 
 --
@@ -174,6 +183,12 @@ And a high rate of satisfaction.
 
 
 ---
+## Summary
+
+- 9 developer workshops
+- 16 dissemination events
+- 14 talks
+
 ## Looking forward to...
 
 - 2 major dissemination events (2018, 2019)
@@ -181,6 +196,9 @@ And a high rate of satisfaction.
 - More SageDays
 - More training
 - More Women In Sage
+
+
+
 
 
 </section>
