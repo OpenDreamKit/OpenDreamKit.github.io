@@ -30,6 +30,38 @@ The objective is to establish and maintain an effective contract, project, and o
 
 ![](../WP1-finance-moneyuse.png)
 ---
+## Task 1.1: Project and financial management
+
+![](../workplan-RP1.JPEG)
+
+---
+## Task 1.2: Quality assurance and risk management
+
+### Quality assurance
+
+- Quality Review Board: 1st meeting on 24/O4/2017: first results are...
+
+
+- Advisory board: Technical report was sent a few days ago, we are expecting feedback anytime
+
+--
+
+### Risk Management
+
+- Recruitment of highly qualified staff 
+- Different groups not forming effective team
+- Implementing infrastructure that does not match the needs of end-users
+- Lack of predictability for tasks that are pursued jointly with the community
+- Reliance on external software components
+
+---
+## Task 1.3: Innovation management
+
+---
+## Milestone 1 (Due Month 12):
+- "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
+
+--
 ## Deliverables
 
 {% comment %}
@@ -40,15 +72,10 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {{ delivs | size }} deliverables were submitted.
 
-{% for d in delivs %}
-- {{ d }}
+{% for d in delivs %} {{ d }}
 {% endfor %}
-
----
-## Task 1.1: Project and financial management
-
-![](../workplan-RP1.JPEG)
-
+--
+### {{ delivs[1] }}
 --
 ### {{ delivs[2] }}
 
@@ -59,14 +86,7 @@ some more info on this deliverable
 
 some more info on this deliverable
 
----
-## Task 1.2: Quality assurance and risk management
-
----
-## Task 1.3: Innovation management
-
----
-## Milestone 1 (Due Month 12): "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
+### {{ delivs[4] }}
 
 
 </section>
