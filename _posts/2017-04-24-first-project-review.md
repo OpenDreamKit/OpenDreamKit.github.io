@@ -63,7 +63,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - 13:45 Achievements, by Work Package, session 2
     - WP6: [Data/Knowledge/Software-Bases](https://gl.mathhub.info/MiKoMH/talks/raw/master/source/ODK/talks/WP6-Review1.pdf) [@kohlhase](https://github.com/kohlhase)
     - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) [@minrk](https://github.com/minrk)
-    - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) ([@dimpase](https://github.com/dimpase).
+    - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) [@dimpase](https://github.com/dimpase)
     - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) [@bpilorget](https://github.com/bpilorget) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) [@VivianePons](https://github.com/VivianePons)
     
