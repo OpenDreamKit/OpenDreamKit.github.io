@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides_wp
 title: "KPI Report"
 theme: white
