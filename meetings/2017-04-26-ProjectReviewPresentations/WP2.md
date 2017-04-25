@@ -35,6 +35,10 @@ Improve and support those existing communities and turn the technical progress w
 
 How to communicate about our achievement?
 
+- [press releases](http://opendreamkit.org/events_activities/press_release/)
+- [social media](https://twitter.com/opendreamkit)
+- [website](http://opendreamkit.org/)
+
 --
 A new website
 
