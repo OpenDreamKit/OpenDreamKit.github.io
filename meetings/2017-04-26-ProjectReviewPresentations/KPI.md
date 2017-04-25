@@ -51,8 +51,8 @@ period: 1st reporting period
 
 --
 
-![](../KP1-world_visits_website.png)
-![](../KPI-Graph-visits.png)
+![](../KP1-world_visits_website.PNG)
+![](../KPI-Graph-visits.PNG)
 
 --
 
