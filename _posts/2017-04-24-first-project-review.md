@@ -45,24 +45,24 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 - 9:00 Welcome
    - Overview of the day by Project Officer
    - Go around the table
-   - [Brief overview of the project](/meetings/2017-04-26-ProjectReviewPresentations/overview.pdf) @nthiery
+   - [Brief overview of the project](/meetings/2017-04-26-ProjectReviewPresentations/overview.pdf) [@nthiery](https://github.com/nthiery)
 
 - 9:30 Some context and case studies
-    - [Is your research software correct?](https://mikecroucher.github.io/ODK_isrsc/) @mikecroucher?
-    - SageMathCloud for teaching and research @VivianePons 
-    - A case study of computational science in Jupyter notebooks: JOOMMF @fangohr
+    - [Is your research software correct?](https://mikecroucher.github.io/ODK_isrsc/) [@mikecroucher](https://github.com/mikecroucher)
+    - SageMathCloud for teaching and research [@VivianePons](https://github.com/VivianePons)
+    - A case study of computational science in Jupyter notebooks: JOOMMF [@fangohr](https://github.com/fangohr)
     
 - 10:45 Coffee break, with demonstrators and posters
 
 - 11:45 Achievements, by work package, session 1
-    - WP3: [Component Architecture](/meetings/2017-04-26-ProjectReviewPresentations/WP3/) (@defeo)
-    - WP5: [High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_1/Presentations/WP5/WP5_pres-v3.pdf) (@ClementPernet)
+    - WP3: [Component Architecture](/meetings/2017-04-26-ProjectReviewPresentations/WP3/) [@defeo](https://github.com/defeo)
+    - WP5: [High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_1/Presentations/WP5/WP5_pres-v3.pdf) [@ClementPernet](https://github.com/ClementPernet)
     
 - 12:45 Lunch in the premises, with demonstrators and posters
 
 - 13:45 Achievements, by Work Package, session 2
-    - WP6: [Data/Knowledge/Software-Bases](/meetings/2017-04-26-ProjectReviewPresentations/WP6/) (@kohlhase)
-    - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) (@minrk )
+    - WP6: [Data/Knowledge/Software-Bases](/meetings/2017-04-26-ProjectReviewPresentations/WP6/) [@kohlhase](https://github.com/kohlhase)
+    - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) [@minrk](https://github.com/minrk)
     - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) (@dimpase, @mikecroucher?).
     - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) (@VivianePons)
