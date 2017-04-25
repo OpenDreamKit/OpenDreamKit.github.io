@@ -15,7 +15,7 @@ wp: 7
  - Understand collaboration in VREs
    * research ("crowdsourcing", etc.)
    * teaching and dissemination
-   * VRE development
+   * maths software (including VREs) development
  - Inform VRE design
  - Facilitate collaboration via VREs
 
@@ -35,6 +35,7 @@ wp: 7
 ---
 ## Open-source software and documents
 
+ - ODK proposal preparation [timeline](https://github.com/OpenDreamKit/OpenDreamKit/graphs/contributors?from=2014-11-23&to=2015-03-07&type=c)
  - version control systems and VREs
  - [github](http://github.com) and pull requests
  - crowdfunding (in academia too---
@@ -57,8 +58,8 @@ The include below gets the finished deliverables of the work pakacge and put the
 --
 ### Some examples from the report 
 
- - [An example of devs stats for GAP](http://users.ox.ac.uk/~coml0531/wp7ex/docs/gap-system/gap/contributors.html)
- - [An example of devs stats for SymPY](http://users.ox.ac.uk/~coml0531/wp7ex/docs/sympy/sympy/contributors.html)
+ - [Example of development statistics for GAP](http://users.ox.ac.uk/~coml0531/wp7ex/docs/gap-system/gap/contributors.html)
+ - [Example of development statistics for SymPY](http://users.ox.ac.uk/~coml0531/wp7ex/docs/sympy/sympy/contributors.html)
 
 --
 ### {{ delivs[3] }}
