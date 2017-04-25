@@ -64,19 +64,23 @@ On the way..
 
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
-### Testimonies: planned for social aspects (Mike Croucher)
-#### Testimony of the University of Sheffield for [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353)
+### Testimony of the University of Sheffield for [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353)
 
-##### Limit learning material
+#### Limit learning material
 - Cognitive load issues!
-##### Previous physics experience
+
+#### Previous physics experience
 - With/without A-level
 - No apparent difference in results! 
-##### Code 
+
+--
+
+#### Code 
 - Subjects free to interact or not with code
 - Even for non coders, not an issue 
 
 ![](../KPI-USFD-testimony1.png)
+--
 ![](../KPI-USFD-testimony1.png)
 
 ---
