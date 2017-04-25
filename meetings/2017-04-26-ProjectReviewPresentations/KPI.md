@@ -46,7 +46,7 @@ period: 1st reporting period
 #### OpenDreamKit statistics for period 15/03 to 24/04/2017:
 
 - 1119 visits
-- 38% read more than one page
+- 38% of them read more than one page
 - 2m15sc of average visiting time
 
 --
