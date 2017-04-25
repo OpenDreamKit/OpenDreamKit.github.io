@@ -112,14 +112,14 @@ Marks stuff?
 ![](../stackoverflow-jupyterhub.png)
 ![](../stackoverflow-jupyter-notebook.png)
 
-
+--
 ### User-contributed packages
 
 - Sage?
 - Gap: 
 
 ![](../kpi-gap-packages.png)
-
+--
 ### Number of SageMath installation on Windows:
 - developed by ODK, but is it measurable? @embray
 
