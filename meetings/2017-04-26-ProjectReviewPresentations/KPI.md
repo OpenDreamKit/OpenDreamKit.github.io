@@ -57,7 +57,7 @@ On the way..
 ---
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
-## Number of users of Sagemathcloud: Feb. 2016 to Feb 2017
+### Number of users of Sagemathcloud: Feb. 2016 to Feb 2017
 - about 85000 new accounts
 - 83000 active users on the period
 
@@ -65,7 +65,6 @@ On the way..
 --
 ### Number of downloads of SageMath 
 ![](../KPI-sage_dwld.JPG)
-
 --
 #### Debian stats for PARI/GP, Since 01/09/2015
 - 771 for Debian  (package pari-gp)
@@ -73,27 +72,22 @@ On the way..
 - 597 articles (91 since 2015)
 --     
 #### Citations on Google scholar for GAP:
-
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 --
 ### Testimony of the University of Sheffield for the [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353), by Mark Quinn
 
 ![](../KPI-USFD-testimony2.PNG)
---
+---
 ## KPI 3: Accelerated innovation in research via an integrated access to digital research resources, tools and services across disciplines and user communities
 ---
-### Percentage of tickets/commits by ODK participants to:
-- Sage:  [4291 tickets](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account) (out of 22629 tickets)
-- Gap: 814 commits on Gap-system since September 2015
-- Pari-GP: 2251/2356 commits since September 2015
---
 ### Nr of contributors to ODK components (April 2017)
 
 - Sage:[358 contributors for 57,973 commits](https://github.com/sagemath/sage/)
-- Gap: [25 contributos for 4,483 commits](https://github.com/gap-system/gap)
+- Gap: [25 contributors for 4,483 commits](https://github.com/gap-system/gap)
 - IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 - Singular: [39 contributors for 19,549 commits](https://github.com/Singular/Sources)
+- Pari-GP: 2251/2356 commits since September 2015
 
 ### Number of SageMath downloads on Windows
 --
