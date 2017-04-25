@@ -140,8 +140,7 @@ STudents' improvements using Sage
 ## KPI process: some internal feedback for the 1st Reporting Period
 
  - Dificulty in choosing the most meaningful indicators
- - We could do better, and compiling them this time taught us a lesson. 
- - Need to document the process itself
+ - Documenting needs to be done to repeat measurements for RP2
 
 </section>
 
