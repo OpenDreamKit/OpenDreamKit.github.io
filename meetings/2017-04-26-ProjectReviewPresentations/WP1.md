@@ -37,20 +37,22 @@ The objective is to establish and maintain an effective contract, project, and o
 ---
 ## Task 1.2: Quality assurance and risk management
 
+### Quality assurance
+
+- Quality Review Board: 1st meeting on 24/O4/2017: first results are...
+
+
+- Advisory board: Technical report was sent a few days ago, we are expecting feedback anytime
+
+--
+
+### Risk Management
+
 - Recruitment of highly qualified staff 
 - Different groups not forming effective team
 - Implementing infrastructure that does not match the needs of end-users
 - Lack of predictability for tasks that are pursued jointly with the community
 - Reliance on external software components
-
---
-### Quality Review Board
-
-- 1st meeting on 24/O4/2017: first results are...
-
-### Advisory board
-
-- Technical report was sent a few days ago: we are expecting feedback anytime
 
 ---
 ## Task 1.3: Innovation management
@@ -70,8 +72,7 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {{ delivs | size }} deliverables were submitted.
 
-{% for d in delivs %}
-- {{ d }}
+{% for d in delivs %} {{ d }}
 {% endfor %}
 ### {{ delivs[1] }}
 
