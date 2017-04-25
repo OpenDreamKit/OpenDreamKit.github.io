@@ -17,6 +17,11 @@ The objective is to establish and maintain an effective contract, project, and o
 ### Timely and necessary interaction with the EC and other interested parties
 
 ---
+## Task 1.1: Project and financial management
+
+![](../workplan-RP1.JPEG)
+
+--
 ## Use of Person-Months in WP1
 
 ![](WP1-finance-pm-planned.png)
@@ -25,14 +30,11 @@ The objective is to establish and maintain an effective contract, project, and o
 
 --
 ![](../WP1-finance1.png)
----
+
+--
 ## Use of funding
 
 ![](../WP1-finance-moneyuse.png)
----
-## Task 1.1: Project and financial management
-
-![](../workplan-RP1.JPEG)
 
 ---
 ## Task 1.2: Quality assurance and risk management
