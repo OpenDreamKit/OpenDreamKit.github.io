@@ -1,6 +1,6 @@
 ---
 layout: slides_wp
-title: "KPI Report"
+title: "Key Performance Indicator Report, RP1"
 theme: white
 transition: none
 author: Benoît Pilorget
@@ -73,10 +73,9 @@ Mark's stuff?
 ## KPI 3: Accelerated innovation in research etc. 
 ---
 ### Percentage of tickets/commits by ODK participants to:
-- Sage:  [4291](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account)
+- Sage:  [4291 tickets](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account) (out of 22629 tickets)
 - Gap @alex-konovalov: 814 commits on Gap-system since September 2015
-- Pari-GP: 
-Activité sur Github du 01/09/2015 au 01/03/2017: 2251/2356 by ODK participants
+- Pari-GP: Git activity since September 2015: 2251/2356 commits by ODK participants
 --
 ### Nr of contributors to ODK components
 
@@ -113,9 +112,12 @@ Activité sur Github du 01/09/2015 au 01/03/2017: 2251/2356 by ODK participants
 ![](../stackoverflow-jupyter-notebook.png)
 
 
-### User-contributed packages (Sage and Gap) @alex-konovalov
+### User-contributed packages
 
-### Number of SageMath installation on Windows (Erik's work): easy to measure, as will start during ODK @embray
+- Sage?
+- Gap: 132 with the latest GAP 
+
+### Number of SageMath installation on Windows: developed by ODK, but is it measurable? @embray
 
 ---
 
@@ -139,10 +141,12 @@ Activité sur Github du 01/09/2015 au 01/03/2017: 2251/2356 by ODK participants
 ![](../nr-publications.png)
 
 --
+- Exemple of a high impact publication
 
-https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3e313ae79db60e152a36c54
+[The L-Functions and Modular Forms Database Project](https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3e313ae79db60e152a36c54), by J. Cremona, 2016
+-> Attention score of 33: in the top 5% of research outputs scored by Altmetric
 
-### Nr of publications citing ODK or one of its components (see with altmetric and openaire supports how it is possible)
+### Nr of publications citing ODK or one of its components (Altmetric and Openaire support contacted in January 2017: no answer yet)
 ### Nr of tutorial attendees / Nr of tutorials downloads
 Number of tutorial attendees should a piece of cake but downloads...?
 
