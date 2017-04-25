@@ -116,7 +116,9 @@ Marks stuff?
 ### User-contributed packages
 
 - Sage?
-- Gap: 132 with the latest GAP 
+- Gap: 
+
+![](../kpi-gap-packages.png)
 
 ### Number of SageMath installation on Windows:
 - developed by ODK, but is it measurable? @embray
