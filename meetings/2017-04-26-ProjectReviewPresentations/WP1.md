@@ -102,7 +102,8 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {{ delivs | size }} deliverables were submitted.
 
-{% for d in delivs %} {{ d }}
+{% for d in delivs %}
+{{ d }}
 {% endfor %}
 --
 ### {{ delivs[1] }}
