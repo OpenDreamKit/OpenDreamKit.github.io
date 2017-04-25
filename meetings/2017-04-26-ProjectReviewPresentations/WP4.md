@@ -19,7 +19,6 @@ Goal: Provide unified interfaces for OpenDreamKit VREs
 - Interactive documentation
 - Applications of notebooks, widgets
 
-WorkPackage 4 is where ODK components come together.
 
 ---
 ## Background: Jupyter Notebooks
