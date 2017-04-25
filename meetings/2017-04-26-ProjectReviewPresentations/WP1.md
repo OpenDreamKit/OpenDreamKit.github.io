@@ -19,22 +19,22 @@ The objective is to establish and maintain an effective contract, project, and o
 ---
 ## Task 1.1: Project and financial management
 
-![](../workplan-RP1.JPEG)
+![](../workplan-RP1.JPG)
 
 --
 ## Use of Person-Months in WP1
 
-![](WP1-finance-pm-planned.png)
+![](../WP1-finance-pm-planned.PNG)
 --
-![](../WP1-finance-pm-actual.png)
+![](../WP1-finance-pm-actual.PNG)
 
 --
-![](../WP1-finance1.png)
+![](../WP1-finance1.PNG)
 
 --
 ## Use of funding
 
-![](../WP1-finance-moneyuse.png)
+![](../WP1-finance-moneyuse.PNG)
 
 ---
 ## Task 1.2: Quality assurance and risk management
