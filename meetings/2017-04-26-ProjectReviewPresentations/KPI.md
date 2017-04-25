@@ -46,13 +46,13 @@ period: 1st reporting period
 #### OpenDreamKit statistics for period 15/03 to 24/04/2017:
 
 - 1119 visits
-- 38% read more than one page
+- 38% of them read more than one page
 - 2m15sc of average visiting time
 
 --
 
 ![](../KP1-world_visits_website.png)
-![](../KPI-Graph-visits.png)
+![](../KPI-Graph-visits.JPEG)
 
 --
 
@@ -64,9 +64,24 @@ On the way..
 
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
-### Testimonies: planned for social aspects (Mike Croucher)
+### Testimony of the University of Sheffield for [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353)
 
-Marks stuff?
+#### Limit learning material
+- Cognitive load issues!
+
+#### Previous physics experience
+- With/without A-level
+- No apparent difference in results! 
+
+--
+
+#### Code 
+- Subjects free to interact or not with code
+- Even for non coders, not an issue 
+
+![](../KPI-USFD-testimony1.png)
+--
+![](../KPI-USFD-testimony1.png)
 
 ---
 
@@ -112,14 +127,16 @@ Marks stuff?
 ![](../stackoverflow-jupyterhub.png)
 ![](../stackoverflow-jupyter-notebook.png)
 
-
+--
 ### User-contributed packages
 
 - Sage?
-- Gap: 132 with the latest GAP 
+- Gap: 
 
-### Number of SageMath installation on Windows:
-- developed by ODK, but is it measurable? @embray
+![](../kpi-gap-packages.png)
+--
+### Number of SageMath downloads on Windows:
+- Developed by ODK, so easily measurable
 
 ---
 

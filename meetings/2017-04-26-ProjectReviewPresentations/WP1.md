@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides_wp
 title: "WorkPackage Report"
 theme: white
@@ -37,6 +37,9 @@ Data available right before the review
 
 ---
 ## Task 1.3: Innovation management
+---
+## Milestone 1 (Due Month 12): "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
+
 ---
 ## Deliverables
 
