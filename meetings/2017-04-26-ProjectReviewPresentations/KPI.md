@@ -131,8 +131,8 @@ On the way..
 
 ![](../kpi-gap-packages.png)
 --
-### Number of SageMath installation on Windows:
-- developed by ODK, but is it measurable? @embray
+### Number of SageMath downloads on Windows:
+- Developed by ODK, so easily measurable
 
 ---
 
