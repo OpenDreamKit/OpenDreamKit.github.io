@@ -82,7 +82,8 @@ some more info on this deliverable
  to dynamic
 
  - A.E.Brouwer's (TU Eindhoven) [DB](http://www.win.tue.nl/~aeb/graphs/srg/srgtab.html) of strongly regular graphs
-   * now [in Sagemath](https://doi.org/10.1007/s10623-016-0264-x); errors in DB found
+   * now [in Sagemath](http://doc.sagemath.org/html/en/reference/graphs/sage/graphs/strongly_regular_db.html#sage.graphs.strongly_regular_db.strongly_regular_graph); 
+   errors in DB [found](https://doi.org/10.1007/s10623-016-0264-x)
    * constructions are (slowly) being contributed by authors! 
  - Group Number project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
 

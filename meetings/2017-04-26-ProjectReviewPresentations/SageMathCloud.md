@@ -14,7 +14,9 @@ The example of SageMathCloud and how we use it.
 ---
 ## What is SageMathCloud?
 
-An online platform created in 2013 by William Stein (creator of SageMath) offering virtual machines for scientifc collaboration.
+An online platform created in 2013 offering virtual machines for scientific collaboration.
+
+This is a **service provider** built **on top** of many existing software and part of the **Open Source ecosystem**.   
 
 --
 Demo
@@ -31,6 +33,7 @@ My first experiment: a mathematic and computer science project for first year st
 * are not very autonomous
 * often lack motivation
 
+--
 ### I asked...
 
 * difficult things
@@ -49,21 +52,40 @@ My first experiment: a mathematic and computer science project for first year st
 
 --
 
+![](../SMC_teaching.png)
+
+
+--
 [Demo](../laby.webm)
 
 --
 ### I am not the only one...
 
-An OpenDreamKit anectdote
+An OpenDreamKit anecdote
 
 ---
 ## What is our work in OpenDreamKit?
 
-We build a **toolkit**: we give the means for improving and creating VRE
+We build a **toolkit**: we give the means for improving and creating VREs
 
-* improve the existing tools (Jputer, SageMathCloud)
-* reduce the technical barrier
-* improve interoperability
-* and more...
+--
+## We rely on each other
+
+SageMathCloud **relies** on many of OpenDreamKit software: Jupyter, Sage, and more...
+
+SageMathCloud gives us a great way to **reach our users** by reducing the technical barrier.
+
+--
+## Beyond SageMathCloud
+
+SageMathCloud is **one** example, but it does not answer the great variety of needs that arise.  
+
+**Goal: Give an ecosystem of solutions that work together**
+
+--
+## Use SageMathCloud expertise
+
+--> D3.2: Understand and document SageMathCloud backend code
+
 
 </section>
