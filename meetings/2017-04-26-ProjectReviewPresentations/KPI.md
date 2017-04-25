@@ -9,16 +9,14 @@ period: 1st reporting period
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 
-### KPI 1: More effective collaborations between researchers
+#### KPI 1: More effective collaborations between researchers
 
 
-#### Nr of Social Media followers (Twitter): 271  followers on April 2017
-
-#### Number of downloads of:
+### Nr of Social Media followers (Twitter): 271  followers on April 2017
+### Number of downloads of:
 
 - SageMath 
-
-![](../KPI-sage_dwld.jpeg)
+![](../KPI-sage_dwld.JPG)
 ![](../KPI-binary_installs_ubuntu.png)
 
 --
@@ -27,7 +25,7 @@ period: 1st reporting period
         
 - GAP:
 
-![](../KPI-GapGScholar_CitationsPerYear.jpeg)
+![](../KPI-GapGScholar_CitationsPerYear.JPG)
 
 --
 
@@ -39,7 +37,7 @@ period: 1st reporting period
 
 -> from 2016-02-28 to 2017-02-28 there were about 85000 new accounts and 83000 active users
 
-![](../KP1-Total_number_accounts_and_projects_sagemath.jpeg)
+![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
 
 #### Number of Cloud-GAP @alex-konovalov
 
