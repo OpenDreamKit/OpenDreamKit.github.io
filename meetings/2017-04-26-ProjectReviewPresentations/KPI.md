@@ -120,9 +120,7 @@ On the way..
 ---
 ## KPI 5: Increased take-up of collaborative research and data sharing by new disciplines, research communities and institutions
 ---
-### Publications stats:
-
-#### 15 publications acknowledging OpenDreamKit's support on Openaire
+### Publications stats: 15 publications acknowledging OpenDreamKit's support on Openaire for RP1
 ![](../nr-publications.png)
 
 --
