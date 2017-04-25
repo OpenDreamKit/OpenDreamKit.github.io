@@ -90,13 +90,15 @@ On the way..
 - Gap: 814 commits on Gap-system since September 2015
 - Pari-GP: 2251/2356 commits since September 2015
 --
-### Nr of contributors to ODK components
+### Nr of contributors to ODK components (April 2017)
 
 - Sage:[358 contributors for 57,973 commits](https://github.com/sagemath/sage/)
 - Gap: [25 contributos for 4,483 commits](https://github.com/gap-system/gap)
 - IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 - Singular: [39 contributors for 19,549 commits](https://github.com/Singular/Sources)
+
+### Number of SageMath downloads on Windows
 --
 ### User-contributed packages
 
@@ -104,12 +106,7 @@ On the way..
 - Gap: 
 
 ![](../kpi-gap-packages.PNG)
---
-### Number of SageMath downloads on Windows:
-- Developed by ODK, so easily measurable
-
 ---
-
 ## KPI 4: Researchers able to process structured and qualitative data in virtual and/or ubiquitous workspaces
 ---
 ### Number of datasets in LMFDB:
@@ -124,9 +121,7 @@ On the way..
 - 885 users (split 50/50 between new and returning)
 - 6950 page views
 - 4m21s average session duration
-
 ---
-
 ## KPI 5: Increased take-up of collaborative research and data sharing by new disciplines, research communities and institutions
 ---
 ### Publications stats:
