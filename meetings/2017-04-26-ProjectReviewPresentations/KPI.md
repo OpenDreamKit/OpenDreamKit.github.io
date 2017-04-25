@@ -18,9 +18,12 @@ period: 1st reporting period
 ![](../KPI-sage_dwld.JPG)
 
 --
-
-- PARI/GP @videlec?
-        
+- PARI/GP (Source: Debian stats)
+Since 01/09/2015
+771 for Debian  (package pari-gp)
+4446 for Ubuntu (package pari-gp)
+9 books (all < 2015), 597 articles (91 since 2015)
+       
 - GAP:
 
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
@@ -72,6 +75,8 @@ Mark's stuff?
 ### Percentage of tickets/commits by ODK participants to:
 - Sage:  [4291](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account)
 - Gap @alex-konovalov: 814 commits on Gap-system since September 2015
+- Pari-GP: 
+Activité sur Github du 01/09/2015 au 01/03/2017: 2251/2356 by ODK participants
 --
 ### Nr of contributors to ODK components
 
