@@ -7,16 +7,11 @@ author: Viviane Pons
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-## What is a Math VRE?
-
-The example of SageMathCloud and how we use it.
-
----
 ## What is SageMathCloud?
 
-An online platform created in 2013 offering virtual machines for scientific collaboration.
+An **open-soucre** online platform created in 2013 offering virtual machines for scientific collaboration.
 
-This is a **service provider** built **on top** of many existing software and part of the **Open Source ecosystem**.   
+This is a **service provider** built **on top** of many existing software (including OpenDreamKit components) and part of the **Open Source ecosystem**.   
 
 --
 Demo
@@ -47,15 +42,15 @@ My first experiment: a mathematic and computer science project for first year st
 
 **Phase 1** Learn SageMath and python using notebooks on SageMathCloud
 
-
-**Phase 2** Work on challenging projects in the SageMathCloud environment
+![](../SMC_teaching_notebook.png)
 
 --
-
 ![](../SMC_teaching.png)
 
 
 --
+**Phase 2** Work on challenging projects in the SageMathCloud environment
+
 [Demo](../laby.webm)
 
 --
@@ -63,8 +58,11 @@ My first experiment: a mathematic and computer science project for first year st
 
 An OpenDreamKit anecdote
 
+--
+![](../KPI-USFD-testimony1.PNG)
+
 ---
-## What is our work in OpenDreamKit?
+## How does this relate to OpenDreamKit?
 
 We build a **toolkit**: we give the means for improving and creating VREs
 
