@@ -14,24 +14,26 @@ period: 1st reporting period
 
 Very difficult:
  - VRE toolkit, not VRE deployments themselves
- - citability in collaborative software much harder than academic papers
- - difficulty in claiming credit
+ - Citability in collaborative software is much harder than academic papers
+ - Difficulty in claiming credit for 100% of the impact
 ---
 
 ## Types of Key Performance Indicators
 
- - unique visits on specific websites
- - downloads/installs (but parts of larger systems, different from new users, etc)
- - citation counts of specific papers (consortium papers, but lag)
- - breakdown workshop attendance counts
+ - OpenDreamKit's website statistics
+ - Downloads/installs (but parts of larger systems, different from new users, etc)
+ - Citation counts of specific papers (consortium papers, but lag)
+ - Breakdown workshop attendance counts
  - contribution measurements on software
  - **success stories** 
 ---
 
 ## KPI process
 
+ - Dificulty in choosing the msot meaningful indicators
  - We could do better, and compiling them this time taught us a lesson. 
  - Need to document the process itself
+ 
 ---
 
 ## KPI 1: More effective collaborations between researchers
@@ -39,10 +41,22 @@ Very difficult:
 
 ### Number of Jupyer kernels
 
-[87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+- In September 2015:
+- April 2017: [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
+--
+### Number of questions on Stackoverflow in March 2017 that concern:
+
+- Sage: 650
+- Gap: 309
+- Singular:71
+- Pari-GP:33+42
+- MPIR:20
+- Python
+- 
 
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
+
 ### Number of downloads of:
 
 #### SageMath 
@@ -52,15 +66,11 @@ Very difficult:
 #### PARI/GP (Source: Debian stats), Since 01/09/2015
 - 771 for Debian  (package pari-gp)
 - 4446 for Ubuntu (package pari-gp)
-- 9 books (all < 2015), 597 articles (91 since 2015)
+- 597 articles (91 since 2015)
        
 #### GAP:
 
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
-
---
-## Number of SAGE installs via package managers (apt/pacman/etc.)
-![](../KPI-binary_installs_ubuntu.png)
 
 --
 ## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
@@ -69,8 +79,6 @@ Very difficult:
 - 83000 active users on the period
 
 ![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
-
-### Number of Cloud-GAP @alex-konovalov
 
 --
 ### Webstats of ODK website
@@ -84,9 +92,6 @@ Very difficult:
 --
 
 ![](../KP1-world_visits_website.png)
-
---
-![](../KPI-Graph-visits.JPG)
 
 --
 
@@ -132,37 +137,7 @@ On the way..
 - Gap: [25 contributos for 4,483 commits](https://github.com/gap-system/gap)
 - IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
-
-
---
-### Number of Jupyter kernels:
-- [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-
---
-### Questions on stackoverflows and similar for ODK components:
-
-![](../stackoverflow-sage.png)
-![](../stackoverflow-sage.png)
---
-![](../stackoverflow-gap.png)
-![](../stackoverflow-gap-system.png)
-
---
-![](../stackoverflow-singular.png)
-![](../stackoverflow-pari.png)
---
-![](../stackoverflow-pari-gp.png)
-![](../stackoverflow-mpir.png)
---
-![](../stackoverflow-pythran.png)
-![](../stackoverflow-ipython.png)
---
-![](../stackoverflow-ipython-notebook.png)
-![](../stackoverflow-jupyter.png)
---
-![](../stackoverflow-jupyterhub.png)
-![](../stackoverflow-jupyter-notebook.png)
-
+- Singular: [39 contributors for 19,549 commits](https://github.com/Singular/Sources)
 --
 ### User-contributed packages
 
@@ -180,8 +155,10 @@ On the way..
 ---
 ### Number of datasets in LMFDB:
 - 50 in production database, 84 in beta database
+
 ### Number of components that support SCSCP
 - Presumably 0
+
 ### Nr of data queries on LMFDB (and knowledge produced via MMT): 
 
 - 1357 sessions
