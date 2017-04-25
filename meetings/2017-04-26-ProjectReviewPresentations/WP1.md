@@ -56,6 +56,7 @@ The objective is to establish and maintain an effective contract, project, and o
 
 ---
 ## Task 1.3: Innovation management
+##  No patent application or IP protection is planned according to the Consortium Agreement
 
 ### Transversal objectives
 
@@ -77,9 +78,11 @@ The objective is to establish and maintain an effective contract, project, and o
 
 - Best practice and tools for correct and reproducible research
 - Multisystem architecture
+
 --
 ### Focus on implementation processes of the innovation
 
+- 
 
 
 ---
