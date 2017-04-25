@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides_wp
 title: "WorkPackage Report"
 theme: white
