@@ -1,4 +1,4 @@
----
+﻿---
 layout: slides_wp
 title: "WorkPackage Report"
 theme: white
@@ -30,9 +30,11 @@ Data available right before the review
 
 ## Task 1.1: Project and financial management
 
+![](../workplan-RP1.png)
 
 ---
 ## Task 1.2: Quality assurance and risk management
+
 ---
 ## Task 1.3: Innovation management
 ---

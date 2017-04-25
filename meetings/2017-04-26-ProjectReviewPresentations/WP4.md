@@ -15,16 +15,17 @@ wp: 4
 
 Goal: Provide unified interfaces for OpenDreamKit VREs
 
+Three main areas of work:
+
 - Notebook interfaces
 - Interactive documentation
-- Applications of notebooks, widgets
+- Applications of notebooks
 
-WorkPackage 4 is where ODK components come together.
 
 ---
 ## Background: Jupyter Notebooks
 
-Document with  code, prose, maths, visualization
+Document with  code, prose, maths, visualisation
 
 <img src="../wp4-notebook.png", style="height: 55vh;">
 
@@ -41,7 +42,7 @@ Language-agnostic protocol for computation
 ---
 ## Background: JupyterHub
 
-VRE with authentication
+Extensible VRE for Jupyter
 
 <img src="../jupyterhub-diagram.png", style="height: 50vh;">
 
@@ -162,7 +163,7 @@ JOOMMF: Interactive Micromagnetic simulation in Jupyter
 ---
 ## Upcoming work
 
-- Interactive 3D visualization in notebooks
+- Interactive 3D visualisation in notebooks
 - Workshop on live structured documents
 
 </section>
