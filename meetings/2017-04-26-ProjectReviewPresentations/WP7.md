@@ -49,7 +49,7 @@ The include below gets the finished deliverables of the work pakacge and put the
 
 {% include deliverables_slides.html %}
 
-{{ delivs | size }} deliverables were submitted.
+{{ delivs | size }} deliverable was submitted.
 
 {% for d in delivs %}
 - {{ d }}
@@ -71,7 +71,7 @@ some more info on this deliverable
 
  - D7.2 prioritisation of tickets on [trac servers](https://trac.sagemath.org/)
    (due month 24), well on target
- - D7.7 game-theoretic analysis of development practices in open source
+ - D7.7 game-theoretic analysis of development practices in open source:
    first publication [already out](http://dl.acm.org/citation.cfm?id=2936934)
  - ...
 
