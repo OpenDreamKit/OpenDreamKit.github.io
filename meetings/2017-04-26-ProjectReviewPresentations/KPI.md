@@ -14,17 +14,16 @@ period: 1st reporting period
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
 ### Number of downloads of:
 
-- SageMath 
+#### SageMath 
 ![](../KPI-sage_dwld.JPG)
 
 --
-- PARI/GP (Source: Debian stats)
-Since 01/09/2015
-771 for Debian  (package pari-gp)
-4446 for Ubuntu (package pari-gp)
-9 books (all < 2015), 597 articles (91 since 2015)
+#### PARI/GP (Source: Debian stats), Since 01/09/2015
+- 771 for Debian  (package pari-gp)
+- 4446 for Ubuntu (package pari-gp)
+- 9 books (all < 2015), 597 articles (91 since 2015)
        
-- GAP:
+#### GAP:
 
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 
@@ -43,7 +42,7 @@ Since 01/09/2015
 --
 ### Webstats of ODK website
 
-OpenDreamKit statistics for period 15/03 to 24/04/2017:
+#### OpenDreamKit statistics for period 15/03 to 24/04/2017:
 
 - 1119 visits
 - 38% read more than one page
@@ -141,7 +140,7 @@ Mark's stuff?
 ![](../nr-publications.png)
 
 --
-- Exemple of a high impact publication
+#### Exemple of a high impact publication
 
 [The L-Functions and Modular Forms Database Project](https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3e313ae79db60e152a36c54), by J. Cremona, 2016
 -> Attention score of 33: in the top 5% of research outputs scored by Altmetric
