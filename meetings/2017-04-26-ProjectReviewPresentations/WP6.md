@@ -9,16 +9,15 @@ wp: 6
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-## Overview
+## From the Proposal: Data/Knowledge/Software-Bases
 
-From the Proposal: Data/Knowledge/Software-Bases
-
-![the big picture](TheBigPicture.png)
+![the big picture](../TheBigPicture.png)
+---
+## OpenDreamKit WP6 Worshops
+![Integration schemata](../three-graphs.png)
 --
-[Integration schemata](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/CICM2016/tikz/three-graphs.pdf)
-
 ## Deliverables
-
+--
 {% comment %}
 The include bellow gets the finished deliverables of the work pakacge and put the list in "delivs"
 {% endcomment %}
