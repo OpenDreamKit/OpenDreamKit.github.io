@@ -23,15 +23,20 @@ Very difficult for an opensource project:
  - Citation counts of specific papers (consortium papers, but lag)
  - Breakdown workshop attendance counts
  - contribution measurements on software
- - **success stories** 
+ - **success stories**
+
+---
+## Disclaimer
+### The variation of indicators between RP1 and RP2 will need to be interpreted
 ---
 ## KPI 1: More effective collaborations between researchers
 ---
 ### Number of Jupyer kernels
 
-- In September 2015:
+- In September 2015: ??
 - April 2017: [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
+### Nr of Social Media followers (Twitter): 271  followers on April 2017
 --
 ### Number of questions on Stackoverflow in March 2017 that concern:
 
@@ -43,27 +48,13 @@ Very difficult for an opensource project:
 - Python
 - ?others?
 --
-### Nr of Social Media followers (Twitter): 271  followers on April 2017
-
---
 ### Webstats of ODK website
 
-#### OpenDreamKit statistics for period 15/03 to 24/04/2017:
-
-- 1119 visits
-- 38% of them read more than one page
-- 2m15sc of average visiting time
-
---
-
 ![](../KP1-world_visits_website.png)
-
 --
-
 ### Attendees to workshops/conferences (number, activity of people, domain of research, gender)
 
 On the way..
-
 ---
 
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
@@ -87,24 +78,10 @@ On the way..
 
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 
-### Testimony of the University of Sheffield for [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353)
+### Testimony of the University of Sheffield for the [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353), by Mark Quinn
 
-#### Limit learning material
-- Cognitive load issues!
 
-#### Previous physics experience
-- With/without A-level
-- No apparent difference in results! 
-
---
-
-#### Code 
-- Subjects free to interact or not with code
-- Even for non coders, not an issue 
-
-![](../KPI-USFD-testimony1.PNG)
---
-![](../KPI-USFD-testimony1.PNG)
+![](../KPI-USFD-testimony2.PNG)
 
 ---
 
