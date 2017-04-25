@@ -31,6 +31,7 @@ period: 1st reporting period
 ## Number of SAGE installs via package managers (apt/pacman/etc.)
 ![](../KPI-binary_installs_ubuntu.png)
 
+--
 ## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
 
 - about 85000 new accounts
@@ -52,7 +53,9 @@ period: 1st reporting period
 --
 
 ![](../KP1-world_visits_website.png)
-![](../KPI-Graph-visits.JPEG)
+
+--
+![](../KPI-Graph-visits.JPG)
 
 --
 
@@ -79,9 +82,9 @@ On the way..
 - Subjects free to interact or not with code
 - Even for non coders, not an issue 
 
-![](../KPI-USFD-testimony1.png)
+![](../KPI-USFD-testimony1.PNG)
 --
-![](../KPI-USFD-testimony1.png)
+![](../KPI-USFD-testimony1.PNG)
 
 ---
 
@@ -100,9 +103,11 @@ On the way..
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 
 
+--
 ### Number of Jupyter kernels:
 - [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
+--
 ### Questions on stackoverflows and similar for ODK components:
 
 ![](../stackoverflow-sage.png)
@@ -133,7 +138,7 @@ On the way..
 - Sage?
 - Gap: 
 
-![](../kpi-gap-packages.png)
+![](../kpi-gap-packages.PNG)
 --
 ### Number of SageMath downloads on Windows:
 - Developed by ODK, so easily measurable
