@@ -132,10 +132,13 @@ On the way..
 
 *Attention score of 33: in the top 5% of research outputs scored by Altmetric*
 
-### Nr of publications citing ODK or one of its components: ??google scholar???
+### Nr of publications citing ODK or one of its components:
+- ??google scholar???
 - Altmetric and Openaire support contacted in January 2017: no answer yet
-
-### Nr of tutorial attendees?
+--
+### Nr of tutorial attendees in RP1
+- 4 tutorials organised
+- 160 people targeted
 ---
 ## KPI process: some internal feedback for the 1st Reporting Period
 
