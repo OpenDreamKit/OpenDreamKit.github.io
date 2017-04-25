@@ -72,9 +72,9 @@ Mark's stuff?
 
 ## KPI 3: Accelerated innovation in research etc. 
 ---
-### % of tickets/commits by ODK participants to:
-	- Sage:  [4291](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account)
-	- Gap @alex-konovalov: 814 commits on Gap-system since September 2015
+### Percentage of tickets/commits by ODK participants to:
+- Sage:  [4291](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account)
+- Gap @alex-konovalov: 814 commits on Gap-system since September 2015
 --
 ### Nr of contributors to ODK components
 
@@ -142,6 +142,6 @@ https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3
 
 ### Nr of publications citing ODK or one of its components (see with altmetric and openaire supports how it is possible)
 ### Nr of tutorial attendees / Nr of tutorials downloads
-     Number of tutorial attendees shouls a piece of cake but downloads...?
+Number of tutorial attendees should a piece of cake but downloads...?
 
 </section>
