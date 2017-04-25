@@ -82,11 +82,15 @@ some more info on this deliverable
  to dynamic
 
  - A.E.Brouwer's (TU Eindhoven) [DB](http://www.win.tue.nl/~aeb/graphs/srg/srgtab.html) of strongly regular graphs
- - now [in Sagemath](https://doi.org/10.1007/s10623-016-0264-x); errors in DB found
+   * now [in Sagemath](https://doi.org/10.1007/s10623-016-0264-x); errors in DB found
+   * constructions are (slowly) being contributed by authors! 
+ - Group Number project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
 
-Some constructions are being contributed by authors! 
+---
+## Next
 
-Next: [tables of linear codes](http://codetables.de/)
+ - making [Tables of linear codes](http://codetables.de/) dynamic
+ - ...
 
 
 </section>
