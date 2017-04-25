@@ -28,12 +28,13 @@ period: 1st reporting period
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 
 --
-## Number of sAGE installs via package managers (apt/pacman/...)...???
+## Number of SAGE installs via package managers (apt/pacman/etc.)
 ![](../KPI-binary_installs_ubuntu.png)
 
-## Number of users of Sagemathcloud
+## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
 
--> from 2016-02-28 to 2017-02-28 there were about 85000 new accounts and 83000 active users
+- about 85000 new accounts
+- 83000 active users on the period
 
 ![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
 
@@ -65,7 +66,7 @@ On the way..
 ---
 ### Testimonies: planned for social aspects (Mike Croucher)
 
-Mark's stuff?
+Marks stuff?
 
 ---
 
