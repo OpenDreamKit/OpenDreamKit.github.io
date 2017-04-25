@@ -7,34 +7,28 @@ author: Benoît Pilorget
 period: 1st reporting period
 wp: 1
 ---
-
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
----
-
 ## Introduction
 
-Objectives
-Establish and maintain an effective contract, project, and operational management approach, ensuring
+The objective is to establish and maintain an effective contract, project, and operational management approach, ensuring
 ### Effective and timely implementation of the project
 ### Quality control of the results
 ### Risk and innovation management of the project as a whole
 ### Timely and necessary interaction with the EC and other interested parties
----
-## Outline
+
 ---
 ## Use of Person-Months in WP1
 
-Data available right before the review
+![](WP1-finance-pm-planned.png)
+--
+![](../WP1-finance-pm-actual.png)
 
+--
+![](../WP1-finance1.png)
 ---
+## Use of funding
 
-## Task 1.1: Project and financial management
-
-
----
-## Task 1.2: Quality assurance and risk management
----
-## Task 1.3: Innovation management
+![](../WP1-finance-moneyuse.png)
 ---
 ## Deliverables
 
@@ -50,6 +44,11 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 - {{ d }}
 {% endfor %}
 
+---
+## Task 1.1: Project and financial management
+
+![](../workplan-RP1.JPEG)
+
 --
 ### {{ delivs[2] }}
 
@@ -60,6 +59,14 @@ some more info on this deliverable
 
 some more info on this deliverable
 
+---
+## Task 1.2: Quality assurance and risk management
+
+---
+## Task 1.3: Innovation management
+
+---
+## Milestone 1 (Due Month 12): "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
 
 
 </section>
