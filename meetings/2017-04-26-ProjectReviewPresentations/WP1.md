@@ -57,6 +57,31 @@ The objective is to establish and maintain an effective contract, project, and o
 ---
 ## Task 1.3: Innovation management
 
+### Transversal objectives
+
+- Develop and standardise math soft and data for VRE: WP3, WP4, WP5, WP6
+- Develop core VRE components: WP3, WP4, WP5, WP6
+- Bring together communities: WP2, WP3
+- Update a range of software: WP3, WP5
+
+--
+
+- Foster a sustainable ecosystem: WP3, WP4, WP5, WP6
+- Explore social aspects: WP7
+- Identify and extend ontologies: WP6
+- Effectiveness of the VRE: WP2, WP7
+- Effective dissemination: WP2, WP7
+
+--
+### Typical areas of innovation
+
+- Best practice and tools for correct and reproducible research
+- Multisystem architecture
+--
+### Focus on implementation processes of the innovation
+
+
+
 ---
 ## Milestone 1 (Due Month 12):
 - "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
