@@ -42,7 +42,7 @@ Very difficult for an opensource project:
 - Sage: 650
 - Gap: 309
 - Singular:71
-- Pari-GP:33+42
+- Pari-GP:75
 - MPIR:20
 - Python
 - ?others?
@@ -98,7 +98,7 @@ STudents' improvements using Sage
 --
 ### User-contributed packages
 
-- Sage?
+- Sage: not possible to measure now
 - Gap: 
 ![](../kpi-gap-packages.PNG)
 ---
@@ -130,8 +130,8 @@ STudents' improvements using Sage
 *Attention score of 33: in the top 5% of research outputs scored by Altmetric*
 
 ### Nr of publications citing ODK or one of its components:
-- ??google scholar???
 - Altmetric and Openaire support contacted in January 2017: no answer yet
+- Google scholar is an alternative
 --
 ### Nr of tutorial attendees in RP1
 - 4 tutorials organised
