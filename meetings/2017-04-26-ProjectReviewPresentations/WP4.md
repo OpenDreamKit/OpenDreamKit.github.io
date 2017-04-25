@@ -127,12 +127,10 @@ T4.6: Structured Documents
 - Report on active documents state of the art **Delivered: D4.2**
 - In-place computation of active documents **Delivered: D4.9**
 
-T4.7: Active Documents Portal
+T4.7: Active Documents Portal (MathHub)
 
+- Collaboratie, versioned  editing **Delivered: D4.3**
 - Active Documentation with Notebooks
-- Application for discovering and displaying documentation
-- Active Document Hub/Portal (MathHub)
-  - Collaboratie, versioned  editing **Delivered: D4.3**
 
 
 ---
