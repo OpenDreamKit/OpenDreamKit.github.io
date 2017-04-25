@@ -48,7 +48,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
    - [Brief overview of the project](/meetings/2017-04-26-ProjectReviewPresentations/overview.pdf) @nthiery
 
 - 9:30 Some context and case studies
-    - [Is your research software correct?](https://mikecroucher.github.io/MLPM_talk/) @mikecroucher?
+    - [Is your research software correct?](https://mikecroucher.github.io/ODK_isrsc/) @mikecroucher?
     - SageMathCloud for teaching and research @VivianePons 
     - A case study of computational science in Jupyter notebooks: JOOMMF @fangohr
     
