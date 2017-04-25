@@ -67,7 +67,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
     - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) (@bpilorget) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) (@VivianePons)
     
-- 15:45 Wrap up (@nthiery)
+- 15:45 [Wrap up](/meetings/2017-04-26-ProjectReviewPresentations/wrapup.pdf) (@nthiery)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
 
 - 17:00 Feedback and discussion with reviewers
