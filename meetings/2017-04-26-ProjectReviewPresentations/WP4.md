@@ -27,7 +27,7 @@ Main areas of work:
 
 Document with  code, prose, maths, visualisation
 
-<img src="../wp4-notebook.png", style="height: 55vh; border: 1px solid #aaa;">
+<img src="../wp4-notebook.png", style="border: 1px solid #aaa;">
 
 
 ---
@@ -71,14 +71,14 @@ T4.1: Uniform notebook interface for all interactive components
 - Collaboration with Jupyter on interactive widgets
 
 
-<img src="../interact-jupyter.png", style="height: 55vh;">
+<img src="../interact-jupyter.png", style="margin-top: -20px; border-right: 1px solid #aaa;">
 
 ---
 ### Highlight: ODK component integration
 
 Jupyter kernels for GAP, PARI, SageMath, Singular (**D4.4**)
 
-<img src="../pari-jupyter.png", style="height: 55vh; border: 1px solid #aaa;">
+<img src="../pari-jupyter.png", style="border: 1px solid #aaa;">
 
 ---
 ### Highlight: PARI
@@ -112,7 +112,8 @@ T4.3: Reproducible notebooks
 
 New package: **nbdime**: comparing notebooks (**D4.6**)
 
-<img src="../nbdiff-web.png", style="height: 60vh; border: 1px solid #aaa;">
+<img src="../nbdiff-before.png", style="max-width: 90%; border: 1px solid #aaa;">
+<img src="../nbdiff-web.png", class="fragment" style=" border: 1px solid #aaa; margin-top: -1000px;">
 
 
 ---
@@ -120,7 +121,7 @@ New package: **nbdime**: comparing notebooks (**D4.6**)
 
 New package: **nbval**: validating notebooks (**D4.8**)
 
-<img src="../nbval.png", style="height: 60vh; border: 1px solid #aaa;">
+<img src="../nbval.png", style="border: 1px solid #aaa;">
 
 ---
 ### Interactive Documentation
@@ -156,7 +157,7 @@ MathHub.info portal for active mathematical documents
 
 Versioned, collaborative editing via GitLab (**D4.3**)
 
-<img src="../gitlab-edit.png", style="height: 30vh; border: 1px solid #aaa;">
+<img src="../gitlab-edit.png", style="border: 1px solid #aaa;">
 
 ---
 ### Highlight: Active Documents
@@ -179,7 +180,7 @@ in-place computation added to MathHub.info (**D4.9**)
 
 JOOMMF: Micromagnetic simulation in Jupyter
 
-<img src="../joommf-screenshot.png", style="height: 60vh; border: 1px solid #aaa;">
+<img src="../joommf-screenshot.png", style="border: 1px solid #aaa;">
 
 
 ---
