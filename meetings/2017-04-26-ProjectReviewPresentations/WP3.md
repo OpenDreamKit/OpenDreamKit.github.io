@@ -10,6 +10,23 @@ wp: 3
 
 <style>.reveal div { font-size: 36px }</style>
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+
+## The big picture
+
+- OSS is great for research: powerful tools, open scrutiny,
+  reproducibility, community, ...
+- But there are still many areas where OSS is not so great:
+  - Deep inspection: analyze algorithms & optimizations, compare
+    frameworks;
+  - Semantic interfaces: software that *understands* mathematics and
+    *communicates* them;
+  - Entry barriers: improve docs, UX, support for different platforms;
+  - Credit: aknowledge contributions, peer reviews.
+
+Let's improve these and bring about the next generation of
+mathematical software!
+
+---
 ## Component architecture
 
 ### Components
