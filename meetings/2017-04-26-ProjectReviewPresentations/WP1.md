@@ -23,20 +23,6 @@ The objective is to establish and maintain an effective contract, project, and o
 Data available right before the review
 
 ---
-
-## Task 1.1: Project and financial management
-
-![](../workplan-RP1.JPEG)
-
----
-## Task 1.2: Quality assurance and risk management
-
----
-## Task 1.3: Innovation management
----
-## Milestone 1 (Due Month 12): "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
-
----
 ## Deliverables
 
 {% comment %}
@@ -51,6 +37,11 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 - {{ d }}
 {% endfor %}
 
+---
+## Task 1.1: Project and financial management
+
+![](../workplan-RP1.JPEG)
+
 --
 ### {{ delivs[2] }}
 
@@ -61,6 +52,14 @@ some more info on this deliverable
 
 some more info on this deliverable
 
+---
+## Task 1.2: Quality assurance and risk management
+
+---
+## Task 1.3: Innovation management
+
+---
+## Milestone 1 (Due Month 12): "By milestone 1 we will have carried out the requirements study, design and prototype implementations and started community building activities"
 
 
 </section>
