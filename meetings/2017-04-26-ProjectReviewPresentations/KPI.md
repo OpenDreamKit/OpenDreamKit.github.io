@@ -136,7 +136,7 @@ On the way..
 - Altmetric and Openaire support contacted in January 2017: no answer yet
 
 ### Nr of tutorial attendees?
---
+---
 ## KPI process: some internal feedback for the 1st Reporting Period
 
  - Dificulty in choosing the msot meaningful indicators
