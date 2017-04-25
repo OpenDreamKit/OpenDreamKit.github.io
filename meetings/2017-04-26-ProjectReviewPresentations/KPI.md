@@ -31,10 +31,11 @@ Very difficult for an opensource project:
 ---
 ## KPI 1: More effective collaborations between researchers
 ---
-### Number of Jupyer kernels
+### Number of Jupyter kernels
 
 - In September 2015: ??
 - April 2017: [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
 
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
 --
@@ -73,24 +74,21 @@ On the way..
 - 771 for Debian  (package pari-gp)
 - 4446 for Ubuntu (package pari-gp)
 - 597 articles (91 since 2015)
-       
+--     
 #### Citations on Google scholar for GAP:
 
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
-
+--
 ### Testimony of the University of Sheffield for the [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353), by Mark Quinn
 
-
 ![](../KPI-USFD-testimony2.PNG)
-
----
-
+--
 ## KPI 3: Accelerated innovation in research via an integrated access to digital research resources, tools and services across disciplines and user communities
 ---
 ### Percentage of tickets/commits by ODK participants to:
 - Sage:  [4291 tickets](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account) (out of 22629 tickets)
-- Gap @alex-konovalov: 814 commits on Gap-system since September 2015
-- Pari-GP: Git activity since September 2015: 2251/2356 commits by ODK participants
+- Gap: 814 commits on Gap-system since September 2015
+- Pari-GP: 2251/2356 commits since September 2015
 --
 ### Nr of contributors to ODK components
 
