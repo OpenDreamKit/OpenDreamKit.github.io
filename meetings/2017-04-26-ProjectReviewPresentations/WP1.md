@@ -7,14 +7,10 @@ author: Benoît Pilorget
 period: 1st reporting period
 wp: 1
 ---
-
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
----
-
 ## Introduction
 
-Objectives
-Establish and maintain an effective contract, project, and operational management approach, ensuring
+The objective is to establish and maintain an effective contract, project, and operational management approach, ensuring
 ### Effective and timely implementation of the project
 ### Quality control of the results
 ### Risk and innovation management of the project as a whole
@@ -30,7 +26,7 @@ Data available right before the review
 
 ## Task 1.1: Project and financial management
 
-![](../workplan-RP1.png)
+![](../workplan-RP1.JPEG)
 
 ---
 ## Task 1.2: Quality assurance and risk management
