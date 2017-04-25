@@ -13,13 +13,24 @@ wp: 4
 
 ### User Interfaces for OpenDreamKit
 
-Goal: Provide unified interfaces for OpenDreamKit VREs
+**Goal:** Provide unified interfaces for OpenDreamKit VREs
 
-Main areas of work:
+Broad categories of work:
 
 - Notebook interfaces
 - Interactive documentation
 - Applications of notebooks
+
+
+---
+### Background: Jupyter Notebooks
+
+### Why Jupyter?
+
+- popular in research and education
+- language agnostic
+- fits well into OpenDreamKit architecture
+- open source
 
 
 ---
@@ -64,6 +75,8 @@ T4.1: Uniform notebook interface for all interactive components
 - Jupyter kernels for ODK components **Delivered: D4.4**
 - Unify SageMath/Jupyter notebooks for sustainability **Delivered: D4.5**
 
+Now 87 Jupyter kernels, (49 when ODK started)
+
 ---
 ### Highlight: ODK component integration
 
@@ -90,7 +103,7 @@ T4.12: Python/Cython bindings for PARI
 
 Results:
 
-- New package `CyPari2` can be installed in a standard Python environment (**Delivered: D4.1**)
+- New package CyPari2 can be installed in a standard Python environment (**Delivered: D4.1**)
 - New package `cysignals` used by CyPari2 and SageMath,
   already adopted by other Python wrappers of C libraries as a good example
 
@@ -115,6 +128,9 @@ New package: **nbdime**: comparing notebooks (**D4.6**)
 <img src="../nbdiff-before.png", style="max-width: 90%; border: 1px solid #aaa;">
 <img src="../nbdiff-web.png", class="fragment" style=" border: 1px solid #aaa; margin-top: -1000px;">
 
+<div class="fragment",>
+conda package manager: 6k installs in 3 months
+</div>
 
 ---
 ### Highlight: Reproducible notebooks
@@ -129,7 +145,7 @@ New package: **nbval**: validating notebooks (**D4.8**)
 T4.4 Refactor SageMath's Sphinx documentation system
 
 Significant progress towards sustainability of SageMath documentation
-by refactoring to reduce the amount of custom software.
+by refactoring to reduce the amount of custom software
 
 Highlights:
 
@@ -169,14 +185,13 @@ in-place computation added to MathHub.info (**D4.9**)
 ---
 ## Applications
 
-- 3D visualisation in notebooks (T4.8)
 - Fluid dynamics notebook visualisation (T4.9)
 - Micromagnetics:
    - Notebook examples (T4.11, T4.13)
    - VRE for micromagnetics non-notebook web application (T4.14)
 
 ---
-### Highlight: Micromagnetics VRE
+### Highlight: Micromagnetics
 
 JOOMMF: Micromagnetic simulation in Jupyter
 
