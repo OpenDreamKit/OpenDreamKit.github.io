@@ -16,7 +16,6 @@ period: 1st reporting period
 
 - SageMath 
 ![](../KPI-sage_dwld.JPG)
-![](../KPI-binary_installs_ubuntu.png)
 
 --
 
@@ -27,10 +26,8 @@ period: 1st reporting period
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 
 --
-
-- Singular @wbhart?
-
-## Number of installs via package managers (apt/pacman/...)...???
+## Number of sAGE installs via package managers (apt/pacman/...)...???
+![](../KPI-binary_installs_ubuntu.png)
 
 ## Number of users of Sagemathcloud
 
