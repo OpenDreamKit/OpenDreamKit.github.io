@@ -32,10 +32,8 @@ Very difficult for an opensource project:
 ## KPI 1: More effective collaborations between researchers
 ---
 ### Number of Jupyter kernels
-
-- In September 2015: ??
+- September 2015: 49
 - April 2017: [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-
 
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
 --
@@ -57,15 +55,14 @@ Very difficult for an opensource project:
 
 On the way..
 ---
-
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
-## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
-
+## Number of users of Sagemathcloud: Feb. 2016 to Feb 2017
 - about 85000 new accounts
 - 83000 active users on the period
 
 ![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
+--
 ### Number of downloads of SageMath 
 ![](../KPI-sage_dwld.JPG)
 
@@ -104,7 +101,6 @@ On the way..
 
 - Sage?
 - Gap: 
-
 ![](../kpi-gap-packages.PNG)
 ---
 ## KPI 4: Researchers able to process structured and qualitative data in virtual and/or ubiquitous workspaces
@@ -126,19 +122,21 @@ On the way..
 ---
 ### Publications stats:
 
+#### 15 publications acknowledging OpenDreamKit's support on Openaire
 ![](../nr-publications.png)
 
 --
 #### Exemple of a high impact publication
 
 [The L-Functions and Modular Forms Database Project](https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3e313ae79db60e152a36c54), by J. Cremona, 2016
--> Attention score of 33: in the top 5% of research outputs scored by Altmetric
 
-### Nr of publications citing ODK or one of its components
+*Attention score of 33: in the top 5% of research outputs scored by Altmetric*
+
+### Nr of publications citing ODK or one of its components: ??google scholar???
 - Altmetric and Openaire support contacted in January 2017: no answer yet
-### Nr of tutorial attendees / Nr of tutorials downloads
-- Number of tutorial attendees should a piece of cake but downloads...?
 
+### Nr of tutorial attendees?
+--
 ## KPI process: some internal feedback for the 1st Reporting Period
 
  - Dificulty in choosing the msot meaningful indicators
