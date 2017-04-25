@@ -41,7 +41,7 @@
   \item \textbf{Collaborative work}:
     \href{https://www.wikipedia.org/}{Wikipedia},
     \href{https://polymathprojects.org/}{Polymath}, ...
-  \item \textbf{Mathematical Knowledge Management}: arXiv, ...
+  \item \textbf{Mathematical Knowledge Management}
   \item \textbf{Education}
   \end{itemize}
 \end{frame}
@@ -55,16 +55,22 @@
   \end{quote}
 
   \begin{itemize}
-  \item Open Knowledge (Access, Educational Ressources)
+  \item Open Knowledge (Access, Educational Resources)
   \item Open Source or, better, Free Software
   \item Open Data
   \item Open Peer Review, Methodology, ...
   \end{itemize}
 
   \begin{itemize}
-  \item At the core of science for centuries
+  \item At the heart of the scientific method for centuries\\
+    no reproducibility without it
+    \pause
   \item Finally getting recognition as \textbf{viable} and \textbf{necessary},\\
     even by funding agencies!
+    % Mike's talk will say more on why open source. 
+    % Reproducibility has been identified centuries ago as at the
+    % heart of Scientific process; without openness, there can't
+    % be reproducibility.
   \end{itemize}
 \end{frame}
 
@@ -119,56 +125,91 @@
 \end{frame}
 
 \begin{frame}{A workflow based VRE?}
-  \centerline{\includegraphics[height=.7\textheight]{virtual_observatory.jpeg}}
-  \pause\bigskip
-
-  \centerline{\color{red} Could cover only a tiny fragment of mathematics}
-\end{frame}
-
-\begin{frame}{The Read-Eval-Print loop and notebook metaphors}
-  \centerline{\includegraphics[height=.8\textheight]{worksheet.png}}
-\end{frame}
-
-\begin{frame}{A proof of concept VRE: SageMathCloud}
-  \centerline{\includegraphics[width=\textwidth]{smc.png}}
-\end{frame}
-
-\begin{frame}{A one-size-fits-all VRE?}
+  \begin{center}
+    \includegraphics[height=.7\textheight]{virtual_observatory.jpeg}\\
+    {\tiny The Virtual Observatory: a VRE for astronomy}
+  \end{center}
   \pause
-  \begin{block}{Supporting many scales}
+  \centerline{\color{red} Could cover only a fragment of mathematics}
+\end{frame}
+
+\begin{frame}{Our requirements}
+  \begin{itemize}
+  \item Support a large area of \textbf{pure mathematics}
+    \pause
+  \item Support a large range of users
+    \pause
+  \item Support \textbf{best practices} for scientific computations
+    \pause
+  \item Support a large range of scales:
     \begin{itemize}
     \item A single person installation on a laptop
     \item A collaborative VRE between three researchers, running on
       their lab's server
     \item A university wide VRE for teaching
-    \item A service provided by a European grid infrastructure
+    \item A service provided by a grid infrastructure
+    \end{itemize}
+    \pause
+  \item Sustainable
+    \pause
+  \item Open Source
+  \end{itemize}
+  \pause\bigskip
+  \centerline{\color{red} Just a dream?}
+\end{frame}
+
+% \item Support a large range of computational software/database stacks
+
+\begin{frame}{OpenDreamKit's proposal}\label{our-proposal}
+  \centerline{\includegraphics[height=.85\textheight]{TheBigPicture.pdf}}
+\end{frame}
+
+\begin{frame}{OpenDreamKit's proposal}\label{our-proposal}
+  \begin{itemize}
+  \item Deliver a \textbf{VRE Toolkit for Mathematics}
+  \item From the ecosystem of open source software for mathematics
+  \item And the Jupyter interactive computing environment
+  \end{itemize}
+\end{frame}
+
+\begin{frame}{The Jupyter interactive computing environment}
+  \centerline{\includegraphics[height=.8\textheight]{worksheet.png}}
+\end{frame}
+
+\begin{frame}{Proof of concepts VREs built from the same ecosystem}
+  \begin{block}{SageMathCloud}
+    \begin{itemize}
+    \item A web service launched in 2013
+    \item Widely adopted
+    \item For teaching, for research
     \end{itemize}
   \end{block}
   \pause
 
-  \begin{block}{Supporting many computational components}
+  \begin{block}{Simulagora, tmpnb, mybinder, ...}
   \end{block}
   \pause
 
-  \begin{block}{Supporting many data bases}
+  \begin{block}{Prove that}
+    \begin{itemize}
+    \item The ecosystem is mature
+    \item This kind of VRE fulfills a strong need
+    \end{itemize}
   \end{block}
-  \pause
-
-  \centerline{\color{red}Way too many use cases!}
 \end{frame}
 
-\begin{frame}{OpenDreamKit's proposal}\label{our-proposal}
-  Building a \textbf{VRE Toolkit for Mathematics}
-  \pause\bigskip
 
-  \includegraphics[width=.9\textwidth]{TheBigPicture.pdf}
-\end{frame}
-
-\begin{frame}{Added values of the toolkit approach}
+\begin{frame}{Added values of our approach}
   \begin{itemize}
-  \item \textbf{Modularity}, \textbf{sustainability}
+  \item \textbf{Modular}
+    \pause
   \item Joining forces with the wider scientific computing community
-  \item Lowering the software barrier between pure and applied maths
+    \pause
+  \item \textbf{Sustainable}
+    \pause
+  \item Lowers the software barrier between pure and applied maths
+    \pause
+  \item Impact way beyond pure maths
   \end{itemize}
 \end{frame}
 
@@ -192,9 +233,8 @@
 \end{frame}
 
 \begin{frame}{A user-driven consortium}
-
   %\begin{block}
-  {European power users and core developers of the
+  {European \textbf{power users} and \textbf{core developers} of the
       ecosystem of open source software for Mathematics:}
     \begin{itemize}
     \item GAP (St Andrews, Oxford)
@@ -217,6 +257,16 @@
   \end{block}
 \end{frame}
 
+\begin{frame}{Open from the ground up}
+  \begin{itemize}
+  \item Free software
+  \item Open data
+  \item Open source publications
+    \pause
+  \item \textbf{Open proposal}!
+  \end{itemize}
+\end{frame}
+
 \begin{frame}{OpenDreamKit's aims}
   \begin{itemize}
   \item Improve the productivity of researchers in pure mathematics and
@@ -232,9 +282,8 @@
 \end{frame}
 
 \begin{frame}{How to get there?}
-  \includegraphics[width=\textwidth]{TheBigPicture.pdf}
+  \centerline{\includegraphics[height=.85\textheight]{TheBigPictureDeliverables.pdf}}
 \end{frame}
-
 \end{document}
 
 \begin{frame}{Component architecture (WP3)}
