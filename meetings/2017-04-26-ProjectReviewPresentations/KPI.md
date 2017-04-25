@@ -80,7 +80,7 @@ On the way..
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 --
 ### Testimony of the University of Sheffield for the [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353), by Mark Quinn
-
+STudents' improvements using Sage
 ![](../KPI-USFD-testimony2.PNG)
 ---
 ## KPI 3: Accelerated innovation in research via an integrated access to digital research resources, tools and services across disciplines and user communities
