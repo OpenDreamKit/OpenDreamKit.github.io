@@ -66,7 +66,7 @@ T4.1: Uniform notebook interface for all interactive components
 
 T4.12: Python/Cython bindings for PARI
 
-- **Delivered: D4.1**
+- Implemented and integrated into Sage **Delivered: D4.1**
 
 ---
 ## Highlight: ODK component integration
@@ -114,7 +114,7 @@ New package: **nbval**: testing and validating notebooks (**D4.8**)
 ---
 ## Interactive Documentation
 
-T4.4 Refactor Sage's Sphinx docuementation system
+T4.4 Refactor Sage's Sphinx documentation system
 
 Sage's documentation system has been greatly improved in collaboration
 with the Sage developer community **Delivered: D4.13**
