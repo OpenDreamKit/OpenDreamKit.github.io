@@ -48,7 +48,7 @@ Very difficult for an opensource project:
 - ?others?
 --
 ### Webstats of ODK website: 1200 unique visitors since mid-March 2017
-![](../map-world-onemonth-visits.PNG)
+![](../map-world-onemonth-visits.png)
 --
 ### Attendees to workshops/conferences:
 
