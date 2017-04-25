@@ -8,9 +8,40 @@ period: 1st reporting period
 ---
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+---
+
+## Defining Key Performance Indicators
+
+Very difficult:
+ - VRE toolkit, not VRE deployments themselves
+ - citability in collaborative software much harder than academic papers
+ - difficulty in claiming credit
+---
+
+## Types of Key Performance Indicators
+
+ - unique visits on specific websites
+ - downloads/installs (but parts of larger systems, different from new users, etc)
+ - citation counts of specific papers (consortium papers, but lag)
+ - breakdown workshop attendance counts
+ - contribution measurements on software
+ - **success stories** 
+---
+
+## KPI process
+
+ - We could do better, and compiling them this time taught us a lesson. 
+ - Need to document the process itself
+---
 
 ## KPI 1: More effective collaborations between researchers
 ---
+
+### Number of Jupyer kernels
+
+[87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+
+
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
 ### Number of downloads of:
 
@@ -178,3 +209,4 @@ On the way..
 - Number of tutorial attendees should a piece of cake but downloads...?
 
 </section>
+
