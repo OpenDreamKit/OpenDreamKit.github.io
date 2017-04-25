@@ -47,9 +47,8 @@ Very difficult for an opensource project:
 - Python
 - ?others?
 --
-### Webstats of ODK website
-
-![](../KP1-world_visits_website.png)
+### Webstats of ODK website: 1200 unique visitors since mid-March 2017
+![](../map-world-onemonth-visits.PNG)
 --
 ### Attendees to workshops/conferences:
 
