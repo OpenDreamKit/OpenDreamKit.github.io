@@ -9,15 +9,13 @@ period: 1st reporting period
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 ---
-
 ## Defining Key Performance Indicators
 
-Very difficult:
+Very difficult for an opensource project:
  - VRE toolkit, not VRE deployments themselves
  - Citability in collaborative software is much harder than academic papers
  - Difficulty in claiming credit for 100% of the impact
 ---
-
 ## Types of Key Performance Indicators
 
  - OpenDreamKit's website statistics
@@ -27,18 +25,8 @@ Very difficult:
  - contribution measurements on software
  - **success stories** 
 ---
-
-## KPI process
-
- - Dificulty in choosing the msot meaningful indicators
- - We could do better, and compiling them this time taught us a lesson. 
- - Need to document the process itself
- 
----
-
 ## KPI 1: More effective collaborations between researchers
 ---
-
 ### Number of Jupyer kernels
 
 - In September 2015:
@@ -53,32 +41,9 @@ Very difficult:
 - Pari-GP:33+42
 - MPIR:20
 - Python
-- 
-
+- ?others?
+--
 ### Nr of Social Media followers (Twitter): 271  followers on April 2017
-
-### Number of downloads of:
-
-#### SageMath 
-![](../KPI-sage_dwld.JPG)
-
---
-#### PARI/GP (Source: Debian stats), Since 01/09/2015
-- 771 for Debian  (package pari-gp)
-- 4446 for Ubuntu (package pari-gp)
-- 597 articles (91 since 2015)
-       
-#### GAP:
-
-![](../KPI-GapGScholar_CitationsPerYear.JPG)
-
---
-## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
-
-- about 85000 new accounts
-- 83000 active users on the period
-
-![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
 
 --
 ### Webstats of ODK website
@@ -103,6 +68,25 @@ On the way..
 
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
+## Number of users of Sagemathcloud: from 2016-02-28 to 2017-02-28
+
+- about 85000 new accounts
+- 83000 active users on the period
+
+![](../KP1-Total_number_accounts_and_projects_sagemath.JPG)
+### Number of downloads of SageMath 
+![](../KPI-sage_dwld.JPG)
+
+--
+#### Debian stats for PARI/GP, Since 01/09/2015
+- 771 for Debian  (package pari-gp)
+- 4446 for Ubuntu (package pari-gp)
+- 597 articles (91 since 2015)
+       
+#### Citations on Google scholar for GAP:
+
+![](../KPI-GapGScholar_CitationsPerYear.JPG)
+
 ### Testimony of the University of Sheffield for [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353)
 
 #### Limit learning material
@@ -184,6 +168,12 @@ On the way..
 - Altmetric and Openaire support contacted in January 2017: no answer yet
 ### Nr of tutorial attendees / Nr of tutorials downloads
 - Number of tutorial attendees should a piece of cake but downloads...?
+
+## KPI process: some internal feedback for the 1st Reporting Period
+
+ - Dificulty in choosing the msot meaningful indicators
+ - We could do better, and compiling them this time taught us a lesson. 
+ - Need to document the process itself
 
 </section>
 
