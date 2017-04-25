@@ -51,7 +51,11 @@ Very difficult for an opensource project:
 
 ![](../KP1-world_visits_website.png)
 --
-### Attendees to workshops/conferences (number, activity of people, domain of research, gender)
+### Attendees to workshops/conferences:
+
+- 6 OpenDreamKit workshops: 16+36+19+12+15+7
+- 6 Non-ODK workshops: 9+26+30+30+30+7
+- 10 Conferences for: 30+130+200+94+30+15+3000+6+100+50 
 
 On the way..
 ---
@@ -66,10 +70,12 @@ On the way..
 ### Number of downloads of SageMath 
 ![](../KPI-sage_dwld.JPG)
 --
-#### Debian stats for PARI/GP, Since 01/09/2015
+#### Debian stats for PARI/GP, for RP1
+
 - 771 for Debian  (package pari-gp)
 - 4446 for Ubuntu (package pari-gp)
 - 597 articles (91 since 2015)
+
 --     
 #### Citations on Google scholar for GAP:
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
