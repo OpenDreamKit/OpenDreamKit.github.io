@@ -189,7 +189,7 @@ Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
 
 - Interactions with other work packages: WP4, WP6.
 
-- OOMMFF task (Python interface to OOMMFF) completed. See H. Fanghor
+- OOMMF task (Python interface to OOMMF) completed. See H. Fanghor
   talk.
 
 ---
