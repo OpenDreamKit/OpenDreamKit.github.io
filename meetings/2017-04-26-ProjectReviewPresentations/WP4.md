@@ -15,16 +15,17 @@ wp: 4
 
 Goal: Provide unified interfaces for OpenDreamKit VREs
 
+Three main areas of work:
+
 - Notebook interfaces
 - Interactive documentation
-- Applications of notebooks, widgets
+- Applications of notebooks
 
-WorkPackage 4 is where ODK components come together.
 
 ---
 ## Background: Jupyter Notebooks
 
-Document with  code, prose, maths, visualization
+Document with  code, prose, maths, visualisation
 
 <img src="../wp4-notebook.png", style="height: 55vh;">
 
@@ -41,7 +42,7 @@ Language-agnostic protocol for computation
 ---
 ## Background: JupyterHub
 
-VRE with authentication
+Extensible VRE built around Jupyter
 
 <img src="../jupyterhub-diagram.png", style="height: 50vh;">
 
@@ -58,12 +59,14 @@ Also: mybinder.org, SageMathCloud, more
 ---
 ## Notebook Interfaces
 
+T4.1: Uniform notebook interface for all interactive components
+
 - Jupyter kernels for ODK components **Delivered: D4.4**
 - Unify Sage/Jupyter notebooks for sustainability **Delivered: D4.5**
-- Improve notebook collaboration
-   - High latency (diff & merge) **Delivered: D4.6**
-   - Real-time (GDocs-style, already in SageMathCloud)
-- Notebook validation for reproducibility **Delivered: D4.8**
+
+T4.12: Python/Cython bindings for PARI
+
+- Implemented and integrated into Sage **Delivered: D4.1**
 
 ---
 ## Highlight: ODK component integration
@@ -82,7 +85,19 @@ Jupyter kernels for GAP, PARI/GP, Sage, Singular (**D4.4**)
 <img src="../interact-jupyter.png", style="height: 35vh;">
 
 ---
-## Highlight: Reproducible notebooks
+## Notebook Interfaces
+
+T4.2: Notebook improvements for collaboration
+
+ - High latency (diff & merge) **Delivered: D4.6**
+ - Real-time (GDocs-style, already in SageMathCloud)
+ 
+T4.3: Reproducible notebooks
+ 
+- Notebook validation for reproducibility **Delivered: D4.8**
+
+---
+## Highlight: Notebook collaboration
 
 New package: **nbdime**: improve keeping notebooks in version control (**D4.6**)
 
@@ -99,10 +114,23 @@ New package: **nbval**: testing and validating notebooks (**D4.8**)
 ---
 ## Interactive Documentation
 
+T4.4 Refactor Sage's Sphinx documentation system
+
+Sage's documentation system has been greatly improved in collaboration
+with the Sage developer community **Delivered: D4.13**
+
+---
+## Interactive Documentation
+
+T4.6: Structured Documents
+
+- Report on active documents state of the art **Delivered: D4.2**
+- In-place computation of active documents **Delivered: D4.9**
+
+T4.7: Active Documents Portal (MathHub)
+
+- Collaboratie, versioned  editing **Delivered: D4.3**
 - Active Documentation with Notebooks
-- Application for discovering and displaying documentation
-- Active Document Hub/Portal (MathHub) **Delivered: D4.3, D4.9**
-- Structured documents (books, articles)
 
 
 ---
@@ -124,11 +152,11 @@ in-place computation added to MathHub.info (**D4.9**)
 ---
 ## Applications
 
-- Explore web-based 3D visualisation in notebooks
-- Fluid dynamics notebook visualisation
+- 3D visualisation in notebooks (T4.8)
+- Fluid dynamics notebook visualisation (T4.9)
 - Micromagnetics:
-   - Notebook examples
-   - VRE for micromagnetics non-notebook web application
+   - Notebook examples (T4.11, T4.13)
+   - VRE for micromagnetics non-notebook web application (T4.14)
 
 ---
 ## Highlight: Micromagnetics VRE
@@ -162,8 +190,9 @@ JOOMMF: Interactive Micromagnetic simulation in Jupyter
 ---
 ## Upcoming work
 
-- Interactive 3D visualization in notebooks
-- Workshop on live structured documents
+- Interactive 3D visualisation in notebooks (T4.8)
+- Workshop on live structured documents (T4.6)
+- Micromagnetics applications
 
 </section>
 

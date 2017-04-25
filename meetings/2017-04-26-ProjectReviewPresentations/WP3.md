@@ -10,6 +10,23 @@ wp: 3
 
 <style>.reveal div { font-size: 36px }</style>
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+
+## The big picture
+
+- OSS is great for research: powerful tools, open scrutiny,
+  reproducibility, community, ...
+- But there are still many areas where OSS is not so great:
+  - Deep inspection: analyze algorithms & optimizations, compare
+    frameworks;
+  - Semantic interfaces: software that *understands* mathematics and
+    *communicates* them;
+  - Entry barriers: improve docs, UX, support for different platforms;
+  - Credit: aknowledge contributions, peer reviews.
+
+Let's improve these and bring about the next generation of
+mathematical software!
+
+---
 ## Component architecture
 
 ### Components
@@ -44,22 +61,54 @@ wp: 3
 ---
 ## Tasks
 
-- **T3.1, Portability:** Virtual machines, containers, Windows.
-- **T3.2, Interfaces between systems:** application level interfaces, network protocols.
-- **T3.3, Modularisation and packaging:** distribution, packaging, compatibility.
-- **T3.4, Simulagora integration:** commercial demonstrator.
+### T3.1, Portability
+
+- (mostly) Windows;
+- Testing, continuous integration.
+
+### T3.2, Interfaces between systems
+
+- Application level interfaces;
+- Network protocols.
+
+### T3.3, Modularisation and packaging
+
+- Virtual machines, containers;
+- Packaging and distributing user code;
+- Packaging for popular repositories (Debian, Anaconda, ...).
 
 --
-## Tasks (cont'd)
+### T3.4, Simulagora integration
 
-- **T3.5, Component architecture for High Performance Computing and
-  Parallelism:** Interaction with WP5 (starts Month 36).
-- **T3.6, Document and modularise SageMathCloud's codebase.**
-- **T3.7, Improving the development workflow in mathematical software.**
-- **T3.8, Python interface for OOMMF micromagnetic simulation library.** (completed)
+- Commercial VRE, based on OpenDreamKit components.
+
+*Note​:* Internal task, no public output.
+
+### T3.6, Document and modularise SageMathCloud's codebase
+
+- Collaboration with the (commercial, open source) SageMathCloud project;
+- Share technologies, know-how.
+
+### T3.7, Improving the development workflow in mathematical software
+
+- Experiments with imporoving user/developer experience in VREs;
+- Integration into SageMathCloud.
 
 ---
+### T3.8, Python interface for OOMMF micromagnetic simulation library.
 
+- See H. Fanghor's talk.
+- Completed!
+
+*Note:* no deliverables in this WP.
+
+### T3.5, Component architecture for High Performance Computing and Parallelism
+
+- Experiment: integrate outputs of WP5 into SageMath;
+
+*Note:* Only starts in month 36.
+
+---
 ## Deliverables
 
 {% comment %}
@@ -125,13 +174,6 @@ VirtualBox.
 
 --
 
-### Python
-
-- OpenMath language implementation: <https://pypi.python.org/pypi/openmath>;
-- SCSCP implementation: <https://pypi.python.org/pypi/scscp>.
-
-Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
-
 ### GAP
 
 - OpenMath language implementation: <https://gap-packages.github.io/openmath/>;
@@ -139,14 +181,21 @@ Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
 
 Adds SCSCP support to: *GAP, Singular*
 
---
-
 ### MathHub
 
 - OpenMath language implementation: <https://??>;
 - SCSCP implementation: <https://??>.
 
 **Demonstration:** See ??
+
+--
+### Python
+
+- OpenMath language implementation: <https://pypi.python.org/pypi/openmath>;
+- SCSCP implementation: <https://pypi.python.org/pypi/scscp>.
+
+Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
+
 
 ---
 ## Achievements
@@ -157,7 +206,7 @@ Adds SCSCP support to: *GAP, Singular*
 
 - Interactions with other work packages: WP4, WP6.
 
-- OOMMFF task (Python interface to OOMMFF) completed. See H. Fanghor
+- OOMMF task (Python interface to OOMMF) completed. See H. Fanghor
   talk.
 
 ---
@@ -178,12 +227,10 @@ Four deliverables due on month 24:
 
 Already done by SMC developers, will re-allocate efforts.
 
---
 ### D3.5: Inegration between SageMathCloud and Trac
 
 Ongoing discussions with SMC developers.
 
---
 ### D3.6: Open package repository for SageMath
 
 Current plan is to provide *cookiecutter* templates for hosting

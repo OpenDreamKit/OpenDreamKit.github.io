@@ -270,7 +270,7 @@ Supported by:
 
 - Joint workshops are very effective
 
-- Interesting technology raising
+- Interesting technology appearing
     - Windows support for Linux apps
 
 --
