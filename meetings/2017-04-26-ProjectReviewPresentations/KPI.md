@@ -62,7 +62,7 @@ On the way..
 
 ---
 
-## KPI 2: KPI 2: Higher efficiency and creativity in research, etc.
+## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
 ### Testimonies: planned for social aspects (Mike Croucher)
 
@@ -70,7 +70,7 @@ Marks stuff?
 
 ---
 
-## KPI 3: Accelerated innovation in research etc. 
+## KPI 3: Accelerated innovation in research via an integrated access to digital research resources, tools and services across disciplines and user communities
 ---
 ### Percentage of tickets/commits by ODK participants to:
 - Sage:  [4291 tickets](https://trac.sagemath.org/search?ticket=on&q=jdemeyer&page=11&noquickjump=1) (for the moment only tickets with jdemeyer involved are taken into account) (out of 22629 tickets)
@@ -85,7 +85,8 @@ Marks stuff?
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 
 
-### Number of Jupyter kernels: 87 kernels
+### Number of Jupyter kernels:
+- [87 kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 
 ### Questions on stackoverflows and similar for ODK components:
 
@@ -117,14 +118,17 @@ Marks stuff?
 - Sage?
 - Gap: 132 with the latest GAP 
 
-### Number of SageMath installation on Windows: developed by ODK, but is it measurable? @embray
+### Number of SageMath installation on Windows:
+- developed by ODK, but is it measurable? @embray
 
 ---
 
-## KPI 4: Researchers able to process structured and qualitative data #183
+## KPI 4: Researchers able to process structured and qualitative data in virtual and/or ubiquitous workspaces
 ---
-### Number of datasets in LMFDB: 50 in production database, 84 in beta database
-### Number of components that support SCSCP: presumably 0
+### Number of datasets in LMFDB:
+- 50 in production database, 84 in beta database
+### Number of components that support SCSCP
+- Presumably 0
 ### Nr of data queries on LMFDB (and knowledge produced via MMT): 
 
 - 1357 sessions
@@ -134,7 +138,7 @@ Marks stuff?
 
 ---
 
-## KPI 5: Increased take-up of collaborative research and data sharing etc. #184
+## KPI 5: Increased take-up of collaborative research and data sharing by new disciplines, research communities and institutions
 ---
 ### Publications stats:
 
@@ -146,8 +150,9 @@ Marks stuff?
 [The L-Functions and Modular Forms Database Project](https://www.openaire.eu/en/search/publication?articleId=core_ac_uk__::bac82a8fe3e313ae79db60e152a36c54), by J. Cremona, 2016
 -> Attention score of 33: in the top 5% of research outputs scored by Altmetric
 
-### Nr of publications citing ODK or one of its components (Altmetric and Openaire support contacted in January 2017: no answer yet)
+### Nr of publications citing ODK or one of its components
+- Altmetric and Openaire support contacted in January 2017: no answer yet
 ### Nr of tutorial attendees / Nr of tutorials downloads
-Number of tutorial attendees should a piece of cake but downloads...?
+- Number of tutorial attendees should a piece of cake but downloads...?
 
 </section>
