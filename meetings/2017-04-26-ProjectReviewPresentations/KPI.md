@@ -12,8 +12,8 @@ period: 1st reporting period
 #### KPI 1: More effective collaborations between researchers
 
 
-### Nr of Social Media followers (Twitter): 271  followers on April 2017
-### Number of downloads of:
+## Nr of Social Media followers (Twitter): 271  followers on April 2017
+## Number of downloads of:
 
 - SageMath 
 ![](../KPI-sage_dwld.JPG)
