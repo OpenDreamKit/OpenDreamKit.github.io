@@ -74,8 +74,9 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {% for d in delivs %} {{ d }}
 {% endfor %}
+--
 ### {{ delivs[1] }}
-
+--
 ### {{ delivs[2] }}
 
 some more info on this deliverable
