@@ -49,7 +49,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
 
 - 9:30 Some context and case studies
     - [Is your research software correct?](https://mikecroucher.github.io/ODK_isrsc/) [Mike Croucher](https://github.com/mikecroucher)
-    - [SageMathCloud for teaching and research](/meetings/2017-04-26-ProjectReviewPresentations/SageMathCloud) Viviane Pons 
+    - [SageMathCloud for teaching and research](/meetings/2017-04-26-ProjectReviewPresentations/SageMathCloud) [Viviane Pons](https://github.com/VivianePons)
     - [A case study of computational science in Jupyter notebooks: JOOMMF](/meetings/2017-04-26-ProjectReviewPresentations/joommf/joommf-slides.pdf) [Hans Fangohr](https://github.com/fangohr)
     
 - 10:45 Coffee break, with demonstrators and posters
