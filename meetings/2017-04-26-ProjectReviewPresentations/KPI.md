@@ -47,7 +47,7 @@ Very difficult for an opensource project:
 - Jupyter: 3436
 --
 ### Webstats of ODK website: 1200 unique visitors since mid-March 2017
-![](../map-world-onemonth-visits.png)
+![](../KPI-map-world-onemonth-visits.png)
 --
 ### Attendees to workshops/conferences:
 
