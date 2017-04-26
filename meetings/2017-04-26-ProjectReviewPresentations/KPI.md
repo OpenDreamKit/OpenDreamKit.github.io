@@ -89,7 +89,7 @@ STudents' improvements using Sage
 - IPython: [485 contributors for 22,565 commits](https://github.com/ipython/ipython)
 - Jupyterhub: [65 contributors for 1,670 commits](https://github.com/jupyterhub/jupyterhub)
 - Singular: [39 contributors for 19,549 commits](https://github.com/Singular/Sources)
-- Pari-GP: 2251/2356 commits since September 2015
+- Pari-GP: [32 contributers, including 22 since Sept. 2015](http://pari.math.u-bordeaux.fr/git/pari.git)
 
 ### Number of SageMath downloads on Windows
 - 0 for now -> due Month 24
