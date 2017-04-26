@@ -89,4 +89,4 @@ Please each participant book separately their hotel rooms
 
 ## Social dinner
 
-Restaurant booked for 8 PM. The restaurant name is [TITANIC](https://www.google.be/maps/place/Titanic/@50.8494526,4.36581,15z/data=!4m2!3m1!1s0x0:0xaa8e63760d316d5?sa=X&ved=0ahUKEwiik-COyMLTAhVCuhoKHUfxBAAQ_BIIhwEwDw) (located a few  minuytes walk away from CLORA premises).
+Restaurant booked for 8 PM. The restaurant name is [TITANIC](https://www.google.be/maps/place/Titanic/@50.8494526,4.36581,15z/data=!4m2!3m1!1s0x0:0xaa8e63760d316d5?sa=X&ved=0ahUKEwiik-COyMLTAhVCuhoKHUfxBAAQ_BIIhwEwDw) (located a few  minutes walk away from CLORA premises).
