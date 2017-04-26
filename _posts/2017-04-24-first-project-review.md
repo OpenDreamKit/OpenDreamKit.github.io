@@ -86,3 +86,7 @@ A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created.
 The premises are located at the heart of the European neighbourhood of the Brussels region. OpendreamKit's coordinator redirects to this [list of hotels](http://ec.europa.eu/research/participants/data/support/expert/hotel-list_en.pdf) with which the European Commission has negotiated prices.
 
 Please each participant book separately their hotel rooms
+
+## Social dinner
+
+Restaurant booked for 8 PM. The restaurant name is [TITANIC](https://www.google.be/maps/place/Titanic/@50.8494526,4.36581,15z/data=!4m2!3m1!1s0x0:0xaa8e63760d316d5?sa=X&ved=0ahUKEwiik-COyMLTAhVCuhoKHUfxBAAQ_BIIhwEwDw) (located a few  minuytes walk away from CLORA premises).
