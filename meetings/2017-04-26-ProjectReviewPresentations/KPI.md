@@ -1,6 +1,6 @@
 ---
 layout: slides_wp
-title: "Key Performance Indicator Report, RP1"
+title: "Key Performance Indicators Report, RP1"
 theme: white
 transition: none
 author: Benoît Pilorget
@@ -77,7 +77,7 @@ Very difficult for an opensource project:
 ![](../KPI-GapGScholar_CitationsPerYear.JPG)
 --
 ### Testimony of the University of Sheffield for the [Jupyter NoteBook Trial](https://www.sheffield.ac.uk/bms/teaching/stories/bms353), by Mark Quinn
-Sudents' improvements using Sage through Jupyter Notebook
+Students' improvements using Sage through Jupyter Notebook
 ![](../KPI-USFD-testimony2.PNG)
 ---
 ## KPI 3: Accelerated innovation in research via an integrated access to digital research resources, tools and services across disciplines and user communities
