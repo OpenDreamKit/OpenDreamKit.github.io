@@ -57,7 +57,7 @@ wp: 7
 ## Deliverables
 
 {% comment %}
-The include below gets the finished deliverables of the work pakacge and put the list in "delivs"
+The include below gets the finished deliverables of the work package and put the list in "delivs"
 {% endcomment %}
 
 {% include deliverables_slides.html %}
@@ -114,7 +114,7 @@ some more info on this deliverable
 ---
 ##  VREs, databases, reproducibility II
 
- - Group Number project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
+ - Group Numbers reproducibility project - [crowdsourced enumeration of finite groups](https://github.com/alex-konovalov/gnu)
  - making [Tables of linear codes](http://codetables.de/) 
  (this has many "lost results")
  *dynamic*, i.e. examples are built by a VRE
