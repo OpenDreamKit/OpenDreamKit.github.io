@@ -67,7 +67,7 @@ A new website
 ---
 ## T2.3: Community Building: Development Workshops
 
-10 workshops adding to 211 participants in total
+10 workshops adding up to 211 participants in total
 
 --
  - Kickoff meeting (Orsay, 34 participants)
