@@ -64,7 +64,7 @@ This Review will be preceded by 2 full days of Project meetings and rehearsals a
     - WP6: [Data/Knowledge/Software-Bases](https://gl.mathhub.info/MiKoMH/talks/raw/master/source/ODK/talks/WP6-Review1.pdf) ([Michael Kohlhase](https://github.com/kohlhase))
     - WP4: [User Interfaces](/meetings/2017-04-26-ProjectReviewPresentations/WP4/) ([Benjamin Ragan-Kelley](https://github.com/minrk))
     - WP7: [Social aspects](/meetings/2017-04-26-ProjectReviewPresentations/WP7/) ([Dima Pasechnik](https://github.com/dimpase))
-    - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1/) ([Benoit Pilorget](https://github.com/bpilorget)) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
+    - WP1: [Project management](/meetings/2017-04-26-ProjectReviewPresentations/WP1.pdf) ([Benoit Pilorget](https://github.com/bpilorget)) + [KPIs](/meetings/2017-04-26-ProjectReviewPresentations/KPI/)
     - WP2: [Community building, training, dissemination, exploitation and outreach](/meetings/2017-04-26-ProjectReviewPresentations/WP2/) ([Viviane Pons](https://github.com/VivianePons))
     
 - 15:45 [Wrap up](/meetings/2017-04-26-ProjectReviewPresentations/wrapup.pdf) ([Nicolas Thiery](https://github.com/nthiery))
