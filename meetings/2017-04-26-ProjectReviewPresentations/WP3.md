@@ -8,7 +8,7 @@ period: 1st reporting period
 wp: 3
 ---
 
-<style>.reveal div { font-size: 36px }</style>
+<style>.reveal div { font-size: 36px } .reveal h3 { margin-top: 2ex; margin-bottom: 1ex; }</style>
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 ## Component architecture
 
@@ -20,14 +20,17 @@ wp: 3
 - **Modules**, **packages**, ...;
 - **Databases**: LMFDB, MathHub, ....
 
+How do we want them? **Flexible**, **Portable**, **Modular**, 
+**Open**.
+
 --
 ### Goals
 
-- Enable components to be *flexibly combined*;
-- Enable components *run smoothly* across a wide range of environments
-  (e.g., cloud, local, server, ...);
-- Develop, demonstrate, standardize APIs;
-- Streamline development workflows.
+- **Flexible.** Enable components to be *flexibly combined*;
+- **Portable.** Enable components *run smoothly* across a wide range
+  of environments (e.g., cloud, local, server, ...);
+- **Modular.** Develop, demonstrate, standardize APIs;
+- **Open.** Streamline user/developer workflows.
 
 --
 ### Examples
@@ -41,6 +44,20 @@ wp: 3
   Azure cloud*.
 - Deploy a computational mathematics software stack on a *HPC
   cluster*, controlled through *Jupyter notebooks*.
+
+--
+### Inputs
+
+- **WP4 →** User interface components;
+- **WP5 →** HPC-enabled components;
+- **WP6 →** Interface languages, ontologies;
+- **WP7 →** User behaviour.
+
+### Outputs
+
+- Network protocol implementations **→ WP4, WP6**;
+- Tools, infrastructure (for testing, bug reporting, packaging, distributing) **→ WP7**;
+- Micromagnetic components **→ WP4**.
 
 ---
 ## Tasks
@@ -69,6 +86,8 @@ wp: 3
 ### T3.4, Simulagora integration
 
 - Commercial VRE, showcasing OpenDreamKit components.
+- Interest for the project: measure effort needed to produce a
+  Debian-based VM.
 
 *Note​:* Internal task, no public output.
 
