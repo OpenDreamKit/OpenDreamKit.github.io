@@ -8,43 +8,29 @@ period: 1st reporting period
 wp: 3
 ---
 
-<style>.reveal div { font-size: 36px }</style>
+<style>.reveal div { font-size: 36px } .reveal h3 { margin-top: 2ex; margin-bottom: 1ex; }</style>
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-
-## The big picture
-
-- OSS is great for research: powerful tools, open scrutiny,
-  reproducibility, community, ...
-- But there are still many areas where OSS is not so great:
-  - Deep inspection: analyze algorithms & optimizations, compare
-    frameworks;
-  - Semantic interfaces: software that *understands* mathematics and
-    *communicates* them;
-  - Entry barriers: improve docs, UX, support for different platforms;
-  - Credit: aknowledge contributions, peer reviews.
-
-Let's improve these and bring about the next generation of
-mathematical software!
-
----
 ## Component architecture
 
 ### Components
 
-- **Interfaces**: Jupyter, SageMathCloud;
-- **Systems**: Gap, PARI/GP, SageMath, Singular;
+- **User interfaces**: Jupyter, SageMathCloud;
+- **Systems**: GAP, PARI/GP, SageMath, Singular;
 - **Software libraries**: LinBox, MPIR, ...;
 - **Modules**, **packages**, ...;
-- **Databases**: LMFDB, MatHub, ....
+- **Databases**: LMFDB, MathHub, ....
+
+How do we want them? **Flexible**, **Portable**, **Modular**, 
+**Open**.
 
 --
 ### Goals
 
-- Enable components to be *flexibly combined*;
-- Enable components *run smoothly* across a wide range of environments
-  (e.g., cloud, local, server, ...);
-- Develop, demonstrate, standardize APIs;
-- Streamline development workflows.
+- **Flexible.** Enable components to be *flexibly combined*;
+- **Portable.** Enable components *run smoothly* across a wide range
+  of environments (e.g., cloud, local, server, ...);
+- **Modular.** Develop, demonstrate, standardize APIs;
+- **Open.** Streamline user/developer workflows.
 
 --
 ### Examples
@@ -54,9 +40,24 @@ mathematical software!
 - Import *data from LMFDB* at the *GAP command line*.
 - Run commands on *remote Singular server* from a *GAP client* through
   *MMT mediator*.
-- Deploy *SageMath virtual machines* on *Microsoft Azure cloud*.
+- Deploy *SageMath virtual machines* on Windows machines in *Microsoft
+  Azure cloud*.
 - Deploy a computational mathematics software stack on a *HPC
   cluster*, controlled through *Jupyter notebooks*.
+
+--
+### Inputs
+
+- **WP4 →** User interface components;
+- **WP5 →** HPC-enabled components;
+- **WP6 →** Interface languages, ontologies;
+- **WP7 →** User behaviour.
+
+### Outputs
+
+- Network protocol implementations **→ WP4, WP6**;
+- Tools, infrastructure (for testing, bug reporting, packaging, distributing) **→ WP7**;
+- Micromagnetic components **→ WP4**.
 
 ---
 ## Tasks
@@ -71,31 +72,41 @@ mathematical software!
 - Application level interfaces;
 - Network protocols.
 
+**Delivered:** D3.3, SCSCP support.
+
+--
 ### T3.3, Modularisation and packaging
 
 - Virtual machines, containers;
 - Packaging and distributing user code;
 - Packaging for popular repositories (Debian, Anaconda, ...).
 
---
+**Delivered:** D3.1, Virtual images and containers.
+
 ### T3.4, Simulagora integration
 
-- Commercial VRE, based on OpenDreamKit components.
+- Commercial VRE, showcasing OpenDreamKit components.
+- Interest for the project: measure effort needed to produce a
+  Debian-based VM.
 
 *Note​:* Internal task, no public output.
 
+--
 ### T3.6, Document and modularise SageMathCloud's codebase
 
-- Collaboration with the (commercial, open source) SageMathCloud project;
+- Collaboration on the *open source software* powering the commercial
+  service SageMathCloud.
 - Share technologies, know-how.
+
+**Delivered:** D3.2, Understand and docuement SageMathCloud backend
 
 ### T3.7, Improving the development workflow in mathematical software
 
-- Experiments with imporoving user/developer experience in VREs;
+- Experiments with improving user/developer experience in VREs;
 - Integration into SageMathCloud.
 
----
-### T3.8, Python interface for OOMMF micromagnetic simulation library.
+--
+### T3.8, Python interface for OOMMF micromagnetic simulation library
 
 - See H. Fanghor's talk.
 - Completed!
@@ -132,7 +143,7 @@ OpenDreamKit.*
 - MathHub, <https://hub.docker.com/r/kwarc/>;
 - GAP, <https://hub.docker.com/u/gapsystem/>;
 - OOMMF <https://github.com/fangohr/virtualmicromagnetics>;
-- SageMath, PARI/GP, Singular, ...
+- PARI/GP, SageMath, Singular, ...
   <https://hub.docker.com/u/sagemath/>.
 
 Based on modern and popular technologies: Ansible, Docker, Vagrant,
@@ -146,16 +157,13 @@ VirtualBox.
 **Output:** *Published
   [documentation on the internals of SageMathCloud](https://github.com/sagemathinc/smc/tree/master/src/doc/design_overview)*
 
-- Part of a planned interaction with (commercial) open source software
-  SageMathCloud (SMC).
+- Part of a planned interaction with SageMathCloud (SMC).
 - Development cycles in SMC are very short, architecture, technologies
   change quickly.
 - ODK benefits from keeping track of SMC internal details.
 - SMC benefits from publishing better documentation.
 
 **Partners involved:** UPSud.
-
-**Notes:** Delivered 12 months late, due to delayed recruitment.
 
 --
 ### {{ delivs[2] }}
@@ -170,7 +178,7 @@ VirtualBox.
 - Implementations already available in Java, C, C++. **This
   deliverable:** extend spectrum of available implementations.
 
-**Partners involved:**  CNRS, JacobsUni, UGent, USTAN, UVSQ.
+**Partners involved:**  CNRS, JacobsUni, USTAN, UVSQ.
 
 --
 
@@ -183,10 +191,8 @@ Adds SCSCP support to: *GAP, Singular*
 
 ### MathHub
 
-- OpenMath language implementation: <https://??>;
-- SCSCP implementation: <https://??>.
-
-**Demonstration:** See ??
+- OpenMath language implementation;
+- SCSCP implementation: <https://mathhub.info/>.
 
 --
 ### Python
@@ -200,7 +206,8 @@ Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
 ---
 ## Achievements
 
-- Two workshops on *modularization and packaging*:
+- Two workshops on *modularization and packaging*, great occasion to
+  interact with the community:
   - Sage Days 77, March 2016, Cernay (France);
   - Sage Days 85, March 2017, Cernay (France).
 
@@ -215,7 +222,7 @@ Adds SCSCP support to: *Python, LMFDB, SageMath, PARI/GP* (via D4.10)
 Four deliverables due on month 24:
 
 - D3.4: *Single user* SageMathCloud.
-- D3.5: Inegration between SageMathCloud and Trac (SageMath bug
+- D3.5: Integration between SageMathCloud and Trac (SageMath bug
   tracking system).
 - D3.6: Open package repository for SageMath.
 - D3.7: One-click install SageMath distribution for Windows.
@@ -227,7 +234,7 @@ Four deliverables due on month 24:
 
 Already done by SMC developers, will re-allocate efforts.
 
-### D3.5: Inegration between SageMathCloud and Trac
+### D3.5: Integration between SageMathCloud and Trac
 
 Ongoing discussions with SMC developers.
 
@@ -242,15 +249,15 @@ packages on PyPI (most popular Python package repository).
 This deliverable is mostly done:
 
 - Erik Bray (UPsud) has already completed a one-click install
-  distribution for Windows based on Docker (not original plan, bur
+  distribution for Windows based on Docker (not original plan, but
   important milestone).
 - The latest version of SageMath compiles on Cygwin!
 
 ---
 ## Longer term
 
-- **Packaging:** SageMath 7.4 in next Debian release. More than 24
-  months ahead of schedule!
+- **Packaging:** With help from the community, SageMath will be in the
+  next Debian (Linux) release. More than 24 months ahead of schedule!
 
 - **Packaging (bis):** experimental *Conda* packages for SageMath and
   components are being made, with the help of the community. This is
