@@ -20,9 +20,8 @@ Very difficult for an opensource project:
 
  - OpenDreamKit's website statistics
  - Downloads/installs (but parts of larger systems, different from new users, etc)
- - Citation counts of specific papers (consortium papers, but lag)
  - Breakdown workshop attendance counts
- - contribution measurements on software
+ - Contribution measurements on software
  - **success stories**
 
 ---
@@ -44,19 +43,17 @@ Very difficult for an opensource project:
 - Singular:71
 - Pari-GP:75
 - MPIR:20
-- Python
-- ?others?
+- IPython: 6897
+- Jupyter: 3436
 --
 ### Webstats of ODK website: 1200 unique visitors since mid-March 2017
 ![](../map-world-onemonth-visits.png)
 --
 ### Attendees to workshops/conferences:
 
-- 6 OpenDreamKit workshops: 16+36+19+12+15+7
-- 6 Non-ODK workshops: 9+26+30+30+30+7
-- 10 Conferences for: 30+130+200+94+30+15+3000+6+100+50 
-
-On the way..
+- 6 OpenDreamKit workshops: 105
+- 6 Non-ODK workshops: 102
+- 10 Conferences for: 3655
 ---
 ## KPI 2: Higher efficiency and creativity in research, higher productivity of researchers thanks to reliable and easy access to discovery, access and re-use of data
 ---
@@ -69,10 +66,10 @@ On the way..
 ### Number of downloads of SageMath 
 ![](../KPI-sage_dwld.JPG)
 --
-#### Debian stats for PARI/GP, for RP1
+#### PARI/GP, for RP1
 
-- 771 for Debian  (package pari-gp)
-- 4446 for Ubuntu (package pari-gp)
+- 771 downloads for Debian  (package pari-gp)
+- 4446 downloads for Ubuntu (package pari-gp)
 - 597 articles (91 since 2015)
 
 --     
@@ -95,10 +92,11 @@ STudents' improvements using Sage
 - Pari-GP: 2251/2356 commits since September 2015
 
 ### Number of SageMath downloads on Windows
+- 0 for now -> due Month 24
 --
 ### User-contributed packages
 
-- Sage: not possible to measure now
+- Sage: 0 for now
 - Gap: 
 ![](../kpi-gap-packages.PNG)
 ---
@@ -131,7 +129,6 @@ STudents' improvements using Sage
 
 ### Nr of publications citing ODK or one of its components:
 - Altmetric and Openaire support contacted in January 2017: no answer yet
-- Google scholar is an alternative
 --
 ### Nr of tutorial attendees in RP1
 - 4 tutorials organised
