@@ -67,7 +67,7 @@ A new website
 ---
 ## T2.3: Community Building: Development Workshops
 
-9 workshops adding to 199 participants in total
+10 workshops adding up to 211 participants in total
 
 --
  - Kickoff meeting (Orsay, 34 participants)
@@ -78,6 +78,7 @@ A new website
  - SageDays77 (Cernay, 15 participants)
  - WP6 workshop (Bremen, 7 participants)
  - Atelier PARI/GP 2017 (Lyon, 43 participants)
+ - SageDays 84 (Olot, 12 participants)
  - SageDays 85 (Cernay, 17 participants)
 
 ---
@@ -110,7 +111,7 @@ T2.8: Micromagnetic VRE dissemination workshops
 - About half of the program consisted of lectures and tutorials
 - The other half - collaborative coding and documentation sprints in parallel break-out groups, often suggested by participants
 - This format is most efficient for the dissemination, allowing attendees to try out new tools themselves
-- Covered many tools from the Python and Juputer ecosystems and their use in research and teaching 
+- Covered many tools from the Python and Jupyter ecosystems and their use in research and teaching 
 
 
 ---
@@ -160,7 +161,7 @@ January 2017, 19 participants
 By targeting women, we reach a population that is often left out in classical events.
 
 !["I had never heard of Sage Days": 35.3%, "I thought Sage Days were not for me": 11.8%, "I wanted to but never had the time nor the occasion": 17.6% , 
-"I attended once": 17.6%, "I attended many times": 17.6%](/public/images/womenInSage/sage-days-attendance.png)
+"I attended once": 17.6%, "I attended many times": 17.6%](/public/images/womenInSage/sage-days-attendance_bigger.png)
 
 
 --

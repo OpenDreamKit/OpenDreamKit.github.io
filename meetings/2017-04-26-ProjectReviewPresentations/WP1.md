@@ -17,22 +17,24 @@ The objective is to establish and maintain an effective contract, project, and o
 ### Timely and necessary interaction with the EC and other interested parties
 
 ---
-## Use of Person-Months in WP1
-
-![](WP1-finance-pm-planned.png)
---
-![](../WP1-finance-pm-actual.png)
-
---
-![](../WP1-finance1.png)
----
-## Use of funding
-
-![](../WP1-finance-moneyuse.png)
----
 ## Task 1.1: Project and financial management
 
-![](../workplan-RP1.JPEG)
+![](../workplan-RP1.JPG)
+
+--
+## Use of Person-Months in WP1
+
+![](../WP1-finance-pm-planned.PNG)
+--
+![](../WP1-finance-pm-actual.PNG)
+
+--
+![](../WP1-finance1.PNG)
+
+--
+## Use of funding
+
+![](../WP1-finance-moneyuse.PNG)
 
 ---
 ## Task 1.2: Quality assurance and risk management
@@ -56,6 +58,35 @@ The objective is to establish and maintain an effective contract, project, and o
 
 ---
 ## Task 1.3: Innovation management
+##  No patent application or IP protection is planned according to the Consortium Agreement
+
+### Transversal objectives
+
+- Develop and standardise math soft and data for VRE: WP3, WP4, WP5, WP6
+- Develop core VRE components: WP3, WP4, WP5, WP6
+- Bring together communities: WP2, WP3
+- Update a range of software: WP3, WP5
+
+--
+
+- Foster a sustainable ecosystem: WP3, WP4, WP5, WP6
+- Explore social aspects: WP7
+- Identify and extend ontologies: WP6
+- Effectiveness of the VRE: WP2, WP7
+- Effective dissemination: WP2, WP7
+
+--
+### Typical areas of innovation
+
+- Best practice and tools for correct and reproducible research
+- Multisystem architecture
+
+--
+### Focus on implementation processes of the innovation
+
+- OpenDreamKit is developing software projects with their own managing processes
+- 
+
 
 ---
 ## Milestone 1 (Due Month 12):
@@ -72,10 +103,12 @@ The include bellow gets the finished deliverables of the work pakacge and put th
 
 {{ delivs | size }} deliverables were submitted.
 
-{% for d in delivs %} {{ d }}
+{% for d in delivs %}
+{{ d }}
 {% endfor %}
 --
 ### {{ delivs[1] }}
+
 --
 ### {{ delivs[2] }}
 

@@ -11,11 +11,11 @@ wp: 4
 
 <section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 
-## User Interfaces for OpenDreamKit
+### User Interfaces for OpenDreamKit
 
-Goal: Provide unified interfaces for OpenDreamKit VREs
+**Goal:** Provide unified interfaces for OpenDreamKit VREs
 
-Three main areas of work:
+Broad categories of work:
 
 - Notebook interfaces
 - Interactive documentation
@@ -23,35 +23,46 @@ Three main areas of work:
 
 
 ---
-## Background: Jupyter Notebooks
+### Background: Jupyter Notebooks
 
-Document with  code, prose, maths, visualisation
+### Why Jupyter?
 
-<img src="../wp4-notebook.png", style="height: 55vh;">
+- popular in research and education
+- language agnostic
+- fits well into OpenDreamKit architecture
+- open source
 
 
 ---
-## Background: Jupyter Notebooks
+### Background: Jupyter Notebooks
+
+Document with  code, prose, maths, visualisation
+
+<img src="../wp4-notebook.png", style="border: 1px solid #aaa;">
+
+
+---
+### Background: Jupyter Notebooks
 
 Web-based interactive computing environment
 
-<img src="../jupyter-diagram.png", style="height: 340px;">
+<img src="../jupyter-diagram.png", style="height: 400px;">
 
 Language-agnostic protocol for computation
 
 ---
-## Background: JupyterHub
+### Background: JupyterHub
 
 Extensible VRE built around Jupyter
 
-<img src="../jupyterhub-diagram.png", style="height: 50vh;">
+<img src="../jupyterhub-diagram.png", style="height: 500px;">
 
 ---
-## Background: tmpnb
+### Background: tmpnb
 
 VRE for anonymous, ephemeral environments
 
-<img src="../tmpnb-diagram.png", style="height: 40vh;">
+<img src="../tmpnb-diagram.png", style="height: 400px;">
 
 Also: mybinder.org, SageMathCloud, more
 
@@ -62,27 +73,40 @@ Also: mybinder.org, SageMathCloud, more
 T4.1: Uniform notebook interface for all interactive components
 
 - Jupyter kernels for ODK components **Delivered: D4.4**
-- Unify Sage/Jupyter notebooks for sustainability **Delivered: D4.5**
+- Unify SageMath/Jupyter notebooks for sustainability **Delivered: D4.5**
+
+Now 87 Jupyter kernels, (49 when ODK started)
+
+---
+### Highlight: ODK component integration
+
+- Migration tools for SageMath → Jupyter notebooks
+- Collaboration with Jupyter on interactive widgets
+
+
+<img src="../interact-jupyter.png", style="margin-top: -20px; border-right: 1px solid #aaa;">
+
+---
+### Highlight: ODK component integration
+
+Jupyter kernels for GAP, PARI, SageMath, Singular (**D4.4**)
+
+<img src="../pari-jupyter.png", style="border: 1px solid #aaa;">
+
+---
+### Highlight: PARI
 
 T4.12: Python/Cython bindings for PARI
 
-- Implemented and integrated into Sage **Delivered: D4.1**
+- Challenging project to separate Python PARI interface from SageMath due to deep integration
+- Closed 50 tickets on SageMath
 
----
-## Highlight: ODK component integration
+Results:
 
-Jupyter kernels for GAP, PARI/GP, Sage, Singular (**D4.4**)
+- New package CyPari2 can be installed in a standard Python environment (**Delivered: D4.1**)
+- New package `cysignals` used by CyPari2 and SageMath,
+  already adopted by other Python wrappers of C libraries as a good example
 
-<img src="../pari-jupyter.png", style="height: 40vh;">
-
---
-## Highlight: ODK component integration
-
-- Collaboration between Sage & Jupyter on interactive widgets
-- Migration tools for Sage → Jupyter notebooks
-
-
-<img src="../interact-jupyter.png", style="height: 35vh;">
 
 ---
 ## Notebook Interfaces
@@ -97,30 +121,39 @@ T4.3: Reproducible notebooks
 - Notebook validation for reproducibility **Delivered: D4.8**
 
 ---
-## Highlight: Notebook collaboration
+### Highlight: Notebook collaboration
 
-New package: **nbdime**: improve keeping notebooks in version control (**D4.6**)
+New package: **nbdime**: comparing notebooks (**D4.6**)
 
-<img src="../nbdiff-web.png", style="height: 40vh;">
+<img src="../nbdiff-before.png", style="max-width: 90%; border: 1px solid #aaa;">
+<img src="../nbdiff-web.png", class="fragment" style=" border: 1px solid #aaa; margin-top: -1000px;">
+
+<div class="fragment",>
+conda package manager: 6k installs in 3 months
+</div>
+
+---
+### Highlight: Reproducible notebooks
+
+New package: **nbval**: validating notebooks (**D4.8**)
+
+<img src="../nbval.png", style="border: 1px solid #aaa;">
+
+---
+### Interactive Documentation
+
+T4.4 Refactor SageMath's Sphinx documentation system
+
+Significant progress towards sustainability of SageMath documentation
+by refactoring to reduce the amount of custom software
+
+Highlights:
+
+- Already improved Cython support in Sphinx documentation system itself
 
 
 ---
-## Highlight: Reproducible notebooks
-
-New package: **nbval**: testing and validating notebooks (**D4.8**)
-
-<img src="../nbval.png", style="height: 40vh;">
-
----
-## Interactive Documentation
-
-T4.4 Refactor Sage's Sphinx documentation system
-
-Sage's documentation system has been greatly improved in collaboration
-with the Sage developer community **Delivered: D4.13**
-
----
-## Interactive Documentation
+### Interactive Documentation
 
 T4.6: Structured Documents
 
@@ -129,62 +162,40 @@ T4.6: Structured Documents
 
 T4.7: Active Documents Portal (MathHub)
 
-- Collaboratie, versioned  editing **Delivered: D4.3**
-- Active Documentation with Notebooks
+- Collaborative, versioned  editing **Delivered: D4.3**
+- Active Documents with Notebooks
 
 
 ---
-## Highlight: Active Documents
+### Highlight: Active Documents
 
-MathHub.info is a portal for active mathematical documents
+MathHub.info portal for active mathematical documents
 
-Enables versioned, collaborative editing via GitLab (**D4.3**)
+Versioned, collaborative editing via GitLab (**D4.3**)
 
-<img src="../mathhub-architecture.png", style="height: 40vh;">
+<img src="../gitlab-edit.png", style="border: 1px solid #aaa;">
 
 ---
-## Highlight: Active Documents
+### Highlight: Active Documents
 
 in-place computation added to MathHub.info (**D4.9**)
 
-<img src="../compman.png", style="height: 40vh;">
+<img src="../compman.png", style="height: 55vh;">
 
 ---
 ## Applications
 
-- 3D visualisation in notebooks (T4.8)
 - Fluid dynamics notebook visualisation (T4.9)
 - Micromagnetics:
    - Notebook examples (T4.11, T4.13)
    - VRE for micromagnetics non-notebook web application (T4.14)
 
 ---
-## Highlight: Micromagnetics VRE
+### Highlight: Micromagnetics
 
-JOOMMF: Interactive Micromagnetic simulation in Jupyter
+JOOMMF: Micromagnetic simulation in Jupyter
 
-<img src="../joommf-screenshot.png", style="height: 50vh;">
-
----
-## Deliverables
-
-{% include deliverables_slides.html %}
-
-{{ delivs | size }} deliverables were submitted.
-
-{% assign delivs_first = delivs | slice: 0, 4 %}
-{% assign delivs_second = delivs | slice: 4, 8 %}
-
-{% for d in delivs_first %}
-- {{ d }}
-{% endfor %}
-
---
-## Deliverables
-
-{% for d in delivs_second %}
-- {{ d }}
-{% endfor %}
+<img src="../joommf-screenshot.png", style="border: 1px solid #aaa;">
 
 
 ---
