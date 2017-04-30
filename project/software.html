@@ -20,7 +20,15 @@ source: _data/software.yml
                     </a>
                 </h2>
             </div>
-            <p>{% if soft.download %}<a href="{{ soft.download }}" >Download</a> -- {% endif %}<a href="{{ site.baseurl }}/tag/{{ soft.tag }}" >OpenDreamKit activites</a></p>
+            <p>
+	      {% if soft.download %}
+	      <a href="{{ soft.download }}" >Download</a> --
+	      {% endif %}
+	      {% if soft.github %}
+	      <a href="{{ soft.github }}" >GitHub</a> --
+	      {% endif %}
+	      <a href="{{ site.baseurl }}/tag/{{ soft.tag }}" >OpenDreamKit activites</a>
+	    </p>
             <p>{{ soft.description }}</p>
         </div>
     {% endfor %}

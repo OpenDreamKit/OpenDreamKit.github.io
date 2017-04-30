@@ -42,7 +42,13 @@
   description: MathHub.info is a portal for active mathematical documents and an archive for flexiformal mathematics. 
   logo: mathhub.png
   tag: math-in-the-middle
-  github: MMT
+  github: https://github.com/KWARC/mathhub
+- name: MMT
+  link: http://uniformal.github.io
+  description: Language and System for the Uniform Representation of Knowledge
+  tag: math-in-the-middle
+  download: http://uniformal.github.io/doc/setup/index.html
+  github: https://github.com/uniformal/MMT
 - name: Jupyter
   link: http://jupyter.org/
   download: http://jupyter.org/install.html
