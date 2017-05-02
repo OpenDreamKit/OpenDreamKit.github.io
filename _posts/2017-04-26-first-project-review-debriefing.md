@@ -3,7 +3,7 @@ layout: post
 author: Nicolas M. Thiéry
 title: Debriefing from a succesfull Formal Project Review by the EU Commission
 tags:
-    - blog-post
+    - blogpost
     - front-page
     - management
     - project-review
@@ -13,7 +13,7 @@ On April 26th, OpenDreamKit underwent its first formal review by the
 European Commission. We presented the achievements of the first 18
 months of the project, including
 [30 deliverables](https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3AReportingPeriod1)
-([reports](/events_activities/reports/), [slides](meetings/2017-04-26-ProjectReviewPresentations/)).
+([reports](/events_activities/reports/), [slides](/meetings/2017-04-26-ProjectReviewPresentations/)).
 Overall, **the feedback was very positive**, with language such as
 "enthusiasts", "brilliant", "amazing job", or "things have come along
 fantastically". We made a strong point in our reports and
