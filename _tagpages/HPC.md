@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 tag: HPC
-title: HPC
+title: "WP5: HPC"
 class: keyword
 ---

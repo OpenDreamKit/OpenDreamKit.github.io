@@ -1,6 +1,6 @@
 ---
 layout: tagpage
 tag: dissemination
-title: Dissemination
+title: "WP2: Dissemination"
 class: keyword
 ---
