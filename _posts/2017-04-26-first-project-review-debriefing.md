@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nicolas M. Thiéry
-title: Debriefing from a succesfull Formal Project Review by the EU Commission
+title: Debriefing from a successful Formal Project Review by the EU Commission
 tags:
     - blog-post
     - front-page
