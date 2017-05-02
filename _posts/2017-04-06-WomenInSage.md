@@ -8,6 +8,7 @@ tags:
     - dissemination
     - sagemath
     - diversity
+    - front-page
 ---
 
 Last January, Viviane Pons, Jessica Striker and Jennifer Balakrishnan organized 
