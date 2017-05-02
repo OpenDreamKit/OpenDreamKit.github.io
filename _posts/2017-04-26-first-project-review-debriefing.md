@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nicolas M. Thiéry
-title: Debriefing from a succesfull Formal Project Review by the EU Commission
+title: Debriefing from a successful Formal Project Review by the EU Commission
 tags:
     - blogpost
     - front-page
@@ -15,7 +15,7 @@ months of the project, including
 [30 deliverables](https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3AReportingPeriod1)
 ([reports](/events_activities/reports/), [slides](/meetings/2017-04-26-ProjectReviewPresentations/)).
 Overall, **the feedback was very positive**, with language such as
-"enthusiasts", "brilliant", "amazing job", or "things have come along
+"enthusiast", "brilliant", "amazing job", or "things have come along
 fantastically". We made a strong point in our reports and
 presentations that a vast majority of what's happening comes from the
 ecosystem we support. All we do is exploit the special resources the
@@ -45,7 +45,7 @@ project, to be funded; it's really because they appreciated so much
 the strength of the proposal and our "clever and creative
 interpretation of the call" that we made it through. "No other math
 project is being funded" (this quote obviously does not apply to
-ERC's; the scope is plausibly that of H2020 projects).
+ERCs; the scope is plausibly that of H2020 projects).
 
 They now need strong ammunition to make sure that future calls leave
 room for mathematics. So not only do we have to succeed because we
@@ -68,7 +68,7 @@ Let me conclude by thanking the whole band that came to Brussels (with
 a special nod to the presenters on which we dumped the most delicate
 presentations). I was frustrated as you all were spending all this
 time together without tackling what we all really care most. However
-we built on our image in the commission, and used the occasion to
+we built on our image in the Commission, and used the occasion to
 strengthen our group around a joint vision. This is a worthwhile long
 term investment.
 
