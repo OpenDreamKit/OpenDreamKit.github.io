@@ -34,10 +34,10 @@ they get formalized.
 - [A full time developer position (Ingénieur de Recherche)](http://opendreamkit.org/2016/06/28/developer-position2-bordeaux)
   starting in Fall 2016 or 2017 for two years.
 
-# TU Kaiserslautern, Germany (updated 17.02.17)
+# TU Kaiserslautern, Germany
 
 - [A full time researcher/developer position](http://opendreamkit.org/2016/12/15/developer-position-kaiserslautern)
-  for two and a half years, starting as soon as possible.
+  for two and a half years, starting as soon as possible (filled).
 
 - [A full time researcher/developer position](http://opendreamkit.org/2015/07/01/developer-position-kaiserslautern)
   starting in November 2015 (filled).
