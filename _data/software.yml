@@ -57,7 +57,7 @@
   tag: jupyter
 - name: JOOMMF
   link: http://joommf.github.io/
-  download: http://oommfc.readthedocs.io/
+  download: http://oommfc.readthedocs.io/en/latest/ipynb/installation.html
   description: JOOMMF integrates the popular micromagnetic simulation package OOMMF with Python and Jupyter.
   logo: joommf_logo.png
   tag: OOMMF
