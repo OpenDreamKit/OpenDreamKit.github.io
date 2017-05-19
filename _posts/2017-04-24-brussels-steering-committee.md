@@ -13,6 +13,8 @@ tags:
 
 A framadate [poll](https://framadate.org/MPxYiQTu1JZjHuJp) was created
 
+### Were present on the steering committee day:
+Nicolas THIERY; Benoît PILORGET; Erik BRAY; Viviane PONS; Vincent DELECROIX; Michael KOHLHASE; Dennis MUELLER; Florian RABE; Tom WIESING; Clément PERNET; Wolfram DECKER; William HART; Dmitrii PASECHNIK; Marcin KOSTUR; Mike CROUCHER; Hans FANGOHR; Alexander KONOVALOV; Stephen LINTON; Luca DE FEO; John CREMONA; Paul-Olivier DEHAYE; Benjamin RAGAN-KELLEY; Jeroen DEMEYER; Konrad HINSEN
 
 ## Agenda
 
