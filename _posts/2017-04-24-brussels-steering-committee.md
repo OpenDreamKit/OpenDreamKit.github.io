@@ -37,14 +37,14 @@ Resulting from the retirement of Ursula Martin, it appears that some aspects of 
 
 Several options have been discussed:
 
-1) Hire new staff specialised in sociology or likewise field. This solution would probably lead to the transfer of some funding within the consortium, unless it turns out enough PM are planned at UOXF
+1) Hire new staff specialised in sociology or likewise field. This solution would probably lead to the transfer of some funding within the consortium, unless it turns out enough Person-Months are planned at UOXF
     
-2) Subcontract the planned work not feasible by. For this solution to work out, one must find an adequate subcontractor (providing enough funds are available within UOXF or the consortium) and sign an amendment to the Grant with the Commission
+2) Subcontract the planned work not feasible. For this solution to work out, one must find an adequate subcontractor (providing enough funds are available within UOXF or the consortium) and sign an amendment to the Grant with the Commission
     
-3) Rethink the scientific content (objectives, tasks, deliverables), to take into account all we have learned since the writing of the proposal, and make the best use of the available ressources and consortium expertise. This of course would require a negotiation with the EU and a new amendment to the grant agreement.
+3) Rethink the scientific content (objectives, tasks, deliverables), to take into account all we have learned since the writing of the proposal, and make the best use of the available ressources and consortium expertise. This of course would require a negotiation with the EU and probably a new amendment to the grant agreement.
     
     
-The consortium is expecting official feedback from the Project Officer and reviewers after the formal review. In the meantime, the Coordinator and PIs of the WP7 will be informally brainstorming all possibilities. Were an amendment necessary, it will be written after the current amendment for the addition of FAU Erlangen and XFEL is signed by the Commission.
+The consortium is expecting official feedback from the Project Officer and reviewers after the formal review. In the meantime, the Coordinator and Principal Investigators of WP7 will be informally brainstorming all possibilities. Were an amendment necessary, it will be written after the current amendment for the addition of FAU Erlangen and XFEL is signed by the Commission.
 
 
 ### Overview of the deliverables due for [M18](https://github.com/OpenDreamKit/OpenDreamKit/milestone/62?closed=1 ) and [24](https://github.com/OpenDreamKit/OpenDreamKit/milestone/65 )
