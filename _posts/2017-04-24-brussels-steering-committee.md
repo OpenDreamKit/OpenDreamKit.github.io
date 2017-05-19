@@ -30,7 +30,7 @@ Benoît Pilorget (BP) announced that the Second Amendment should be over in Apri
 Related to this amendment, the consortium expressed their congratulations to Hans Fangohr (HF) for his new position at XFEL, in Hamburg.
 All points of the amendment can be found on the github issue [#193](https://github.com/OpenDreamKit/OpenDreamKit/issues/193)
 
-### WP7: overview of the situation and of the measures taken and to be planned (https://github.com/OpenDreamKit/Steering/blob/master/2017-01-19-WP7-Brainstorm.md ):
+### WP7: overview of the situation and of the measures taken and to be planned:
 
 An open brainstorming session took place.
 Resulting from the retirement of Ursula Martin, it appears that some aspects of WP7 that require research-grade  expertise in sociology will be hardly achievable as it is organised today with the current consortium. Therefore solutions must be found so that we don't just tick the boxes but actually deliver high quality material.
