@@ -17,7 +17,7 @@ week of April 2017 at the [CLORA](http://www.clora.eu/en/accueil)
 
 ## Monday 24, Tuesday 25
 
-- Brief Steering Committee ([Agenda](http://opendreamkit.org/2017/04/24/brussels-steering-committee/) and [Pad](https://mensuel.framapad.org/p/vQTnSyplRr))
+- Brief Steering Committee ([Agenda & Minutes](http://opendreamkit.org/2017/04/24/brussels-steering-committee/) and [Pad](https://mensuel.framapad.org/p/vQTnSyplRr))
 - [Preparation for the review](https://github.com/OpenDreamKit/OpenDreamKit/issues/222)
 
 ## Wednesday 26
