@@ -6,6 +6,7 @@ tags:
     - blogpost
     - cython
     - sphinx
+    - sagemath
 
 ---
 
@@ -33,9 +34,14 @@ Thanks to some changes I made to Sphinx, autodoc for Cython now works provided t
         import inspect
         inspect.isfunction = isfunction
 
+This was used successfully for the documentation of
+[cysignals](http://cysignals.readthedocs.io/en/latest/)
+and [fpylll](http://fpylll.readthedocs.io/en/latest/).
+There is [ongoing work](https://trac.sagemath.org/ticket/22747) to do the same for SageMath.
+
 ## Implementation of functions in Python ##
 
-To understand why items 2 and 3 on this list are needed,
+To understand why items 2 and 3 on the above list are needed,
 we need to look at how Python implements functions.
 In Python, there are two kinds of functions
 (we really mean functions here, not methods or other callables):
