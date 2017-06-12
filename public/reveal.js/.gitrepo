@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:hakimel/reveal.js.git
 	branch = master
-	commit = a349ff43c58c23f9c837b8ea9b5fc7d4761b8de3
-	parent = 9f8a7ca7f18fbb41c19602affbae35915d5c7182
+	commit = 360bc940062711db9b8020ce4e848f6c37014481
+	parent = ebe1b5e79140c59e2bc798b18653d5708dc4f401
 	cmdver = 0.3.1
