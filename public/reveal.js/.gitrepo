@@ -7,5 +7,5 @@
 	remote = git@github.com:hakimel/reveal.js.git
 	branch = master
 	commit = 360bc940062711db9b8020ce4e848f6c37014481
-	parent = 34a51bdeb30b4226690eca1e5303ce4694e7f83d
+	parent = 685c16d47751ea4fdb8691230be6d670117ed467
 	cmdver = 0.3.1
