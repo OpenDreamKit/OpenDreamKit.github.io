@@ -258,8 +258,8 @@ sites:
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         github: mb1a15
   - name: FAU Universität Erlangen-Nürnberg
+     logo: FAU-logo.png
      homepage: 'https://www.fau.de/'
-     logo FAU-logo.png
      members:
        - name: Michael Kohlhase
          homepage: 'https://kwarc.info/people/mkohlhase'
