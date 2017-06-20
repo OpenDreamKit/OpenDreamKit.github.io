@@ -160,27 +160,11 @@ sites:
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'
     members:
-      - name: Michael Kohlhase
-        homepage: 'https://kwarc.info/people/mkohlhase'
-        roles:
-          - site-leader
-          - wp6-leader
-        github: kohlhase
       - name: Florian Rabe
+        roles:
+         - site-leader
         homepage: 'https://kwarc.info/people/frabe/'
         github: florian-rabe
-      - name: Christian Maeder
-        homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
-        github: cmaeder
-      - name: Dennis Müller
-        homepage: 'https://kwarc.info/people/dmueller'
-        github: Jazzpirate
-      - name: Mihnea Iancu
-        homepage: 'http://www.jacobs-university.de/directory/miancu'
-        github: m-iancu
-      - name: Tom Wiesing
-        homepage: 'https://kwarc.info/people/twiesing'
-        github: tkw1536
   - name: Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
@@ -259,7 +243,44 @@ sites:
       - name: Jeroen Demeyer
         homepage: 'http://cage.ugent.be/~jdemeyer/'
         github: jdemeyer
-
+  - name: European XFEL
+    logo: xfel-png.png
+    homepage: 'http://www.xfel.eu/en/'
+    members:
+      - name: Hans Fangohr
+        homepage: 'http://www.southampton.ac.uk/~fangohr'
+        twitter: ProfCompMod
+        roles:
+          - site-leader
+          - qr-board-leader
+        github: fangohr
+      - name: Marijan Beg 
+        homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
+        github: mb1a15
+  - name: FAU Universität Erlangen-Nürnberg
+     homepage: 'https://www.fau.de/'
+     logo FAU-logo.png
+     members:
+       - name: Michael Kohlhase
+         homepage: 'https://kwarc.info/people/mkohlhase'
+         roles:
+          - site-leader
+          - wp6-leader
+         github: kohlhase
+       - name: Christian Maeder
+         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
+         github: cmaeder
+       - name: Dennis Müller
+         homepage: 'https://kwarc.info/people/dmueller'
+         github: Jazzpirate
+       - name: Mihnea Iancu
+         homepage: 'http://www.jacobs-university.de/directory/miancu'
+         github: m-iancu
+       - name: Tom Wiesing
+         homepage: 'https://kwarc.info/people/twiesing'
+         github: tkw1536
+         
+     
 partners:
   - name: CNRS
     logo: CNRS.svg
