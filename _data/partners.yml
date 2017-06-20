@@ -258,27 +258,27 @@ sites:
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         github: mb1a15
   - name: FAU Universität Erlangen-Nürnberg
-     logo: FAU-logo.png
-     homepage: 'https://www.fau.de/'
-     members:
-       - name: Michael Kohlhase
-         homepage: 'https://kwarc.info/people/mkohlhase'
-         roles:
-          - site-leader
-          - wp6-leader
-         github: kohlhase
-       - name: Christian Maeder
-         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
-         github: cmaeder
-       - name: Dennis Müller
-         homepage: 'https://kwarc.info/people/dmueller'
-         github: Jazzpirate
-       - name: Mihnea Iancu
-         homepage: 'http://www.jacobs-university.de/directory/miancu'
-         github: m-iancu
-       - name: Tom Wiesing
-         homepage: 'https://kwarc.info/people/twiesing'
-         github: tkw1536
+    logo: FAU-logo.png
+    homepage: 'https://www.fau.de/'
+    members:
+      - name: Michael Kohlhase
+        homepage: 'https://kwarc.info/people/mkohlhase'
+        roles:
+         - site-leader
+         - wp6-leader
+        github: kohlhase
+      - name: Christian Maeder
+        homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
+        github: cmaeder
+      - name: Dennis Müller
+        homepage: 'https://kwarc.info/people/dmueller'
+        github: Jazzpirate
+      - name: Mihnea Iancu
+        homepage: 'http://www.jacobs-university.de/directory/miancu'
+        github: m-iancu
+      - name: Tom Wiesing
+        homepage: 'https://kwarc.info/people/twiesing'
+        github: tkw1536
          
      
 partners:
