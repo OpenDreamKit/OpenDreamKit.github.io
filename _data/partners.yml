@@ -196,6 +196,7 @@ sites:
           - site-leader
         github: JohnCremona
       - name: Chris Brady
+      - name: Heather Ratcliffe
   - name: Universität Zurich
     logo: University_of_Zurich_Logo.svg
     homepage: 'http://www.uzh.ch'
