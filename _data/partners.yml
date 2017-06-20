@@ -270,8 +270,8 @@ sites:
       - name: Michael Kohlhase
         homepage: 'https://kwarc.info/people/mkohlhase'
         roles:
-          - site-leader
-          - wp6-leader
+         - site-leader
+         - wp6-leader
         github: kohlhase
       - name: Dennis Müller
         homepage: 'https://kwarc.info/people/dmueller'
