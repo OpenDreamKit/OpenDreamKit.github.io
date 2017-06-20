@@ -202,7 +202,7 @@ sites:
     members:
       - name: Paul-Olivier Dehaye
         homepage: 'http://user.math.uzh.ch/dehaye/'
-       roles:
+        roles:
           - site-leader
         twitter: 'podehaye'
         github: pdehaye
