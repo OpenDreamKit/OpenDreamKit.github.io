@@ -172,15 +172,9 @@ sites:
       - name: Christian Maeder
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
         github: cmaeder
-      - name: Dennis Müller
-        homepage: 'https://kwarc.info/people/dmueller'
-        github: Jazzpirate
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
         github: m-iancu
-      - name: Tom Wiesing
-        homepage: 'https://kwarc.info/people/twiesing'
-        github: tkw1536
   - name: Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
@@ -212,7 +206,7 @@ sites:
     members:
       - name: Paul-Olivier Dehaye
         homepage: 'http://user.math.uzh.ch/dehaye/'
-        roles:
+       roles:
           - site-leader
         twitter: 'podehaye'
         github: pdehaye
@@ -259,7 +253,23 @@ sites:
       - name: Jeroen Demeyer
         homepage: 'http://cage.ugent.be/~jdemeyer/'
         github: jdemeyer
-
+  - name: FAU Erlangen-Nürnberg
+    logo: FAU.png
+    homepage: 'http://fau.de'
+    members:
+      - name: Michael Kohlhase
+        homepage: 'https://kwarc.info/people/mkohlhase'
+        roles:
+          - site-leader
+          - wp6-leader
+        github: kohlhase
+      - name: Dennis Müller
+        homepage: 'https://kwarc.info/people/dmueller'
+        github: Jazzpirate
+      - name: Tom Wiesing
+        homepage: 'https://kwarc.info/people/twiesing'
+        github: tkw1536
+    
 partners:
   - name: CNRS
     logo: CNRS.svg
