@@ -25,7 +25,9 @@ of six other people working full time.
 
 The above pdf is the officially submitted one, up to the fixing of a
 couple unfortunate typos we noticed since then, and some refactoring
-of the deliverable during the negotiation phase with the EU. For a
+of the deliverable during the negotiation phase with the EU. It also
+includes ammendments that have been negotiated later on with the EU.
+See the history of changes in the early pages for details. For a
 specific list of tasks, see Section 3.1.6, Work Package
 Descriptions. For budget details, see Section 3.4, Resources to be
 committed.
