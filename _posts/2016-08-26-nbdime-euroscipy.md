@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "nbime - Notebook diffing and merging"
+title: "nbdime - Notebook diffing and merging"
 author: Vidar Tonaas Fauske, Martin Alnaes, Min Ragan-Kelley
 
 location: "EuroSciPy 2016, Erlangen, Germany"
