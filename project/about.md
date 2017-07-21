@@ -90,7 +90,7 @@ barrier:
     platforms, including High Performance Computers or cloud services.
 -   Improve user interfaces, in particular in the promising area of
     collaborative workspaces as those provided by
-    [SageMathCloud](http://cloud.sagemath.org).
+    [CoCalc](https://cocalc.com) (previously called SageMathCloud).
 -   Lower barriers between research communities and promote
     dissemination. For example make it easy for a specialist of
     scientific computing to use tools from pure mathematics, and
