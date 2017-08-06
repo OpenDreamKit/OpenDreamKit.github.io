@@ -11,10 +11,11 @@ tags:
 
 ## OpenDreamKit at Groups St Andrews in Birmingham ##
 
-[http://www.groupsstandrews.org/](Groups St Andrews) is a conference series 
-with a conference every four years. This year's Groups St Andrews will be in
-Birmingham, and I will attend, bring a [public/public/groups-st-andrews-2017.pdf](poster),
-give a contributed talk about computing in permutation groups, and teach a course on GAP.
+[Groups St Andrews](http://www.groupsstandrews.org/) is a conference series with
+a conference every four years. This year's Groups St Andrews will be in
+Birmingham, and I will attend, bring
+a [poster](public/public/groups-st-andrews-2017.pdf), give a contributed talk
+about computing in permutation groups, and teach a course on GAP.
 
 This post serves the main purpose of providing a page on the OpenDreamKit website
 that can hold all the links that will appear on the poster, and possible further
@@ -23,20 +24,20 @@ information.
 
 ## Links ##
 
- * [http://opendreamkit.org](OpenDreamKit)
+ * [OpenDreamKit](http://opendreamkit.org)
 
- * [https://jupyter.org](Jupyter)
+ * [Jupyter](https://jupyter.org)
 
- * [http://www.gap-system.org](GAP), [https://github.com/gap-system](GAP GitHub), [https://github.com/gap-packages/](GAP Packages on GitHub)
- * [https://github.com/gap-packages/jupyter-kernel-gap](GAP Jupyter Kernel)
+ * [GAP](http://www.gap-system.org), [https://github.com/gap-system](GAP GitHub), [https://github.com/gap-packages/](GAP Packages on GitHub)
+ * [GAP Jupyter Kernel](https://github.com/gap-packages/jupyter-kernel-gap)
 
- * [https://sagemath.org](SageMath)
- * [https://cocalc.com](CoCalc (formerly SageMathCloud))
+ * [SageMath](https://sagemath.org)
+ * [CoCalc (formerly SageMathCloud](https://cocalc.com))
 
- * [https://openmath.github.io](OpenMath)
- * [https://mathhub.info](MathHub)
- * [https://uniformal.github.io](MMT)
- * [https://mathhub.info/MitM](Maths in the Middle)
- * [https://mathhub.info/mh/mmt/graphs/tgview.html](Theory Graphs) 
+ * [OpenMath](https://openmath.github.io)
+ * [MathHub](https://mathhub.info)
+ * [MMT](https://uniformal.github.io)
+ * [Maths in the Middle](https://mathhub.info/MitM)
+ * [Theory Graphs](https://mathhub.info/mh/mmt/graphs/tgview.html) 
 
- * [https://lmfdb.org](L-Functions and Modular Forms Database)
+ * [L-Functions and Modular Forms Database](https://lmfdb.org)
