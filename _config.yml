@@ -11,8 +11,7 @@ paginate:            10
 paginate_path:       "/news/page:num/"
 blog_path:           "/news/"
 future:              True
-gems:
-  - jemoji
+plugins:
   - jekyll-paginate
   - jekyll-github-metadata
   - jekyll-redirect-from
