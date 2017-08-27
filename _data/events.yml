@@ -68,7 +68,11 @@ InternalEvents:
       start: 2017-03-13
       end: 2017-03-18
       url: https://wiki.sagemath.org/days85
-ExternalEvents:
+    - title:  Workshop on live structured documents  
+      start: 2017-10-16
+      end: 2017-10-20
+      location: Simula Research Laboratory
+  ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
       end: 2017-07-21

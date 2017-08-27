@@ -8,7 +8,7 @@ METHOD:PUBLISH
 {% assign events = site.data.events.InternalEvents | sort:"start" | reverse %}{% for event in events %}BEGIN:VEVENT
 UID:{{event.title | slugify | remove:"-" }}@opendreamkit.org
 ORGANIZER;CN="OpenDreamKit":MAILTO:contact@opendreamkit.org
-LOCATION:
+LOCATION: {{ event.location}}
 SUMMARY:{{ event.title }}
 CLASS:PUBLIC
 DTSTART:{{ event.start | remove:"-"}}T170000Z
