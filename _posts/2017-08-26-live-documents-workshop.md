@@ -11,9 +11,9 @@ tags:
     - math-in-the-middle
 ---
 
-[OpenDreamKit is hosting a workshop on live structured documents
+[OpenDreamKit](http://opendreamkit.org) is hosting a workshop on live structured documents
 to take place at Simula Research Laboratory in Oslo, Norway
-from Monday 16. October to Friday 21. October.
+from Monday 16. October to Friday 20. October.
 
 The workshop is dedicated to various aspects of live documents, including:
 
