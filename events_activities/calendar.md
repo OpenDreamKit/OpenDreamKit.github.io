@@ -26,7 +26,7 @@ we think are interesting for the community.
 {% for event in events %}
   <li>
      {% if event.url %}<a href="{{ event.url }}" >{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
-     {% id event.location %}({{event.location}}){% endif %}
+     {% if event.location %}({{event.location}}){% endif %}
 	 </li>
 {% endfor %}
 </ul>
