@@ -3,6 +3,7 @@ InternalEvents:
       start: 2015-09-02
       end: 2015-09-06
       url: http://opendreamkit.org/2015/09/02/KickoffMeeting/
+      location: Universite Paris Sud
     - title: Women in Sage (SagemathFemmes)
       start: 2017-01-09
       end: 2017-01-14
@@ -15,10 +16,12 @@ InternalEvents:
       start: 2017-04-24
       end: 2017-04-29
       url: http://opendreamkit.org/2017/04/24/first-project-review/
+      location: Brussels
     - title: Workshop on knowledge representation in mathematical software and databases
       start: 2016-01-25
       end: 2016-01-28
       url: http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/
+      location: University of St Andrews
     - title: Sage Days 73
       start: 2016-05-04
       end: 2016-05-08
@@ -38,12 +41,15 @@ InternalEvents:
     - title: Annual meeting
       start: 2016-06-27
       end: 2016-06-27
+      location: Jacobs University Bremen, Germany
     - title: Review
       start: 2016-06-28
       end: 2016-06-28
+      location: Jacobs University Bremen, Germany
     - title: Workshops on WP4, WP6
       start: 2016-06-29
       end: 2016-07-02
+      location: Jacobs University Bremen, Germany
     - title: Sage Days 79
       start: 2016-11-21
       end: 2016-11-24
@@ -71,7 +77,7 @@ InternalEvents:
     - title:  Workshop on live structured documents  
       start: 2017-10-16
       end: 2017-10-20
-      location: Simula Research Laboratory
+      location: Simula Research Laboratory, Norway
   ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
@@ -120,6 +126,7 @@ InternalEvents:
       start: 2016-01-13
       end: 2016-01-23
       url: http://gapdays.de/gap-sage-days2016/
+      location: University of St Andrews
     - title: Paris-Saclay Center for Data Science - Open Software Initiative (OSI) day
       start: 2015-10-26
       end: 2015-10-26
