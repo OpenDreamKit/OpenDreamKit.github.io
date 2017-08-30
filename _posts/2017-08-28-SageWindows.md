@@ -330,7 +330,7 @@ Share](https://www.netmarketshare.com/operating-system-market-share.aspx?qprid=1
 as of writing Windows 7 still makes up nearly 50% of all desktop operating
 system installments.  This still does not tell us about 32-bit versus
 64-bit.  The popular ([12.5 million concurrent
-users](http://www.gamespot.com/articles/steam-reaches-new-concurrent-user-record/1100-6431895/)
+users](http://www.gamespot.com/articles/steam-reaches-new-concurrent-user-record/1100-6431895/))
 publishes the results of their [usage statistics
 survey](http://store.steampowered.com/hwsurvey/), which as of writing shows
 barely over 5% of users with 32-bit versions of Windows.  However, computer
