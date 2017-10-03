@@ -217,6 +217,7 @@ sites:
         roles:
           - site-leader
         github: fcayre
+        status: left the project
       - name: Olivier Cayrol
         homepage: 'https://www.logilab.fr/card/olivier.cayrol'
       - name: David Douard
@@ -232,16 +233,18 @@ sites:
     members:
       - name: Hans Petter Langtangen
         homepage: 'http://www.simula.no/people/hpl'
-        roles:
-          - site-leader
-          - wp4-leader
         github: hplgit
+        status: deceased
       - name: Min Ragan-Kelley
         twitter: 'minrk'
         github: minrk
+        roles:
+          - site-leader
+          - wp4-leader
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
         github: martinal
+        status: left the project
       - name: Vidar Tonaas Fauske
   - name: Universiteit Gent
     logo: universiteit_gent.gif
