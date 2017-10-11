@@ -18,7 +18,7 @@ improving portability of mathematical software across hardware platforms and
 operating systems.
 
 One particular such challenge, which has dogged the SageMath project
-practically since its incept, is getting a fully working port of Sage on
+practically since its inception, is getting a fully working port of Sage on
 Windows (and by extension this would mean working Windows versions of all
 the CAS's and other software Sage depends on, such as GAP, Singular, etc.)
 
@@ -34,11 +34,15 @@ is estimated to be [more than
 75%](https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#Desktop_and_laptop_computers)
 and is an important source of potential users, especially students.
 
-However, for most of its existence, the only to "install" Sage on Windows
-was to run a Linux virtual machine that came pre-installed with Sage, which
-is made available on Sage's downloads page.  This is clumsy and onerous for
-users, however, and treating Windows users as second-class citizens may turn
-them away.
+However, for most of its existence, the only way to "install" Sage on
+Windows was to run a Linux virtual machine that came pre-installed with
+Sage, which is made available on Sage's downloads page.  This is clumsy and
+onerous for users--it forces them to work within an unfamiliar OS, and it
+can be difficult and confusing to connect files and directories in their
+host OS to files and directories inside the VM, and likewise for web-based
+applications like the notebook.  Because of this Windows users can feel like
+second-class citizens in the Sage ecosystem, and this may turn them away
+from Sage.
 
 Attempts at Windows support almost as old as Sage itself (initial Sage
 release in 2005). Microsoft offered funding to work on Windows version [as
@@ -61,11 +65,16 @@ effort needed for Sage's Windows support to catch up.
 # Sage for Windows overview
 
 As of SageMath version 8.0, Sage will be available for 64-bit versions of
-Windows 7 and up.  A 32-bit version had been planned as well, but is on hold
-due to technical limitations that will be discussed later.  The installer
-contains all software and documentation making up the standard Sage
-distribution, all libraries needed for Cygwin support, a bash shell,
-numerous standard UNIX command-line utilties, and the
+Windows 7 and up.  It can be downloaded through the [SageMath
+website](https://www.sagemath.org/download-windows.html), and up-to-date
+installation instructions are being developed at the [SageMath
+wiki](http://wiki.sagemath.org/SageWindows).  A 32-bit version had been
+planned as well, but is on hold due to technical limitations that will be
+discussed later.
+
+The installer contains all software and documentation making up the standard
+Sage distribution, all libraries needed for Cygwin support, a bash shell,
+numerous standard UNIX command-line utilities, and the
 [Mintty](https://mintty.github.io/) terminal emulator, which is generally
 more user-friendly and better suited for Cygwin software than the standard
 Windows console.
@@ -95,17 +104,17 @@ The installer include three desktop and/or start menu shortcuts:
 
 ![Sage for Windows start menu shortcuts](/public/images/2017-08-28-SageWindows/shortcuts.png){:class="img-responsive"}
 
-"SageMath Console" launches the standard Sage command prompt in a text-based
-console. In general it integrates well enough with the Windows shell to
-launch files with the default viewer for those file types. For example,
-plots will saved to files and displayed automatically with the default image
-viewer registered on the computer.
+The shortcut titled just "SageMath 8.0" launches the standard Sage command
+prompt in a text-based console. In general it integrates well enough with
+the Windows shell to launch files with the default viewer for those file
+types. For example, plots are saved to files and displayed automatically
+with the default image viewer registered on the computer.
 
 ![Sage for Windows console](/public/images/2017-08-28-SageWindows/console.png){:class="img-responsive"}
 
-Because Mintty supports [SIXEL](https://en.wikipedia.org/wiki/Sixel) mode
+(Because Mintty supports [SIXEL](https://en.wikipedia.org/wiki/Sixel) mode
 graphics, it may also be possible to embed plots and equations directly in
-the console, but this has not been made to work yet with Sage.
+the console, but this has not been made to work yet with Sage.)
 
 "SageMath Shell" runs a bash shell with the environment set up to
 run software in the Sage distribution.  More advanced users, or users who
@@ -115,7 +124,7 @@ GAP, Singular) without going through the Sage interface.  Finally,
 the default kernel and, where possible, opens the Notebook interface in the
 user's browser.
 
-In princple this could also be used as a development environment for doing
+In principle this could also be used as a development environment for doing
 development of Sage and/or Sage extensions on Windows, but the current
 installer is geared primarily just for users.
 
@@ -143,10 +152,10 @@ worse, running Linux images in Docker for Windows still requires
 virtualization.  On older versions this meant running VirtualBox in the
 background, while newer versions require the Hyper-V hypervisor (which is
 not available on all versions of Windows--particularly "Home" versions).
-Furthermore, this requires hardware-assisted virtualization (HAV) to enabled
-in the user's BIOS.  This typically does not come enabled by default (as a
-security measure), and users must manually enable it in their BIOS menu.  We
-did not consider this a reasonable step to ask of users merely to "install
+Furthermore, this requires hardware-assisted virtualization (HAV) to be
+enabled in the user's BIOS.  This typically does not come enabled by default
+on home PCs, and users must manually enable it in their BIOS menu.  We did
+not consider this a reasonable step to ask of users merely to "install
 Sage".
 
 Another approach, which was looked at in the early efforts to port Sage to
@@ -174,11 +183,15 @@ non-trivial dependencies, such as GAP and Singular, to work on Windows
 without some POSIX emulation.
 
 So Cygwin is the path of least resistance.  Although bugs and shortcomings
-in Cygwin itself occasionally require some effort to work around, for the
-most part it *just works* with software written for UNIX-like systems.  It
-also has the advantage of providing a full UNIX-like shell experience, so
-shell scripts and scripts that use UNIX shell tools will work even on
-Windows.
+in Cygwin itself occasionally require some effort to work around (as a
+developer--users should not have to think about it), for the most part it
+*just works* with software written for UNIX-like systems.  It also has the
+advantage of providing a full UNIX-like shell experience, so shell scripts
+and scripts that use UNIX shell tools will work even on Windows.  However,
+since it works directly on the native filesystem, there is less opportunity
+for confusion regarding where files and folders are saved.  In fact, Cygwin
+supports both Windows-style paths (starting with `C:\\`) and UNIX-style
+paths (in this case starting with `C:/`).
 
 Finally, a note on the Windows Subsystem for Linux (WSL), which debuted
 shortly after I began my Cygwin porting efforts, as I often get asked about
@@ -219,7 +232,7 @@ efforts in emulating POSIX signal handling on Windows).  Rather, most of the
 effort has gone into build and portability issues with Sage's more than 150
 dependencies.
 
-The majority of issues have been built-related issues.  Runtime issues are
+The majority of issues have been build-related issues.  Runtime issues are
 less common, as many of Sage's dependencies are primarily mathematical,
 numerical code--mostly CPU-bound algorithms that have little use of
 platform-specific APIs.  Another reason is that, although there are some
@@ -277,7 +290,7 @@ well.  One particular source of bugs is subtle synchronization issues in
 multi-process code, that arise primarily due to the large overhead of
 creating, destroying, and signalling processes on Cygwin, as compared to
 most UNIXes.  Other problems arise in areas of behavior that are not
-specified by the POSIX standard, and assumtions are made that might hold on,
+specified by the POSIX standard, and assumptions are made that might hold on,
 say, Linux, but that do not hold on Cygwin (but that are still
 POSIX-compliant!)  For example, a difference in (undocumented, in both
 cases) memory management between Linux and Cygwin made for a particularly
@@ -316,7 +329,7 @@ use this is rare, though this limit can be hit while running the Sage test
 suite.
 
 With some care, such as reserving address space for the most likely to be
-used (especially simulateously) libraries in Sage, we can work around this
+used (especially simultaneously) libraries in Sage, we can work around this
 problem for the average user.  But the result may still not be 100% stable.
 
 It becomes a valid question whether it's worth the effort.  There are
@@ -331,7 +344,7 @@ as of writing Windows 7 still makes up nearly 50% of all desktop operating
 system installments.  This still does not tell us about 32-bit versus
 64-bit.  The popular ([12.5 million concurrent
 users](http://www.gamespot.com/articles/steam-reaches-new-concurrent-user-record/1100-6431895/))
-publishes the results of their [usage statistics
+Steam PC gaming platform publishes the results of their [usage statistics
 survey](http://store.steampowered.com/hwsurvey/), which as of writing shows
 barely over 5% of users with 32-bit versions of Windows.  However, computer
 gamers are not likely to be representative of the overall market, being more
