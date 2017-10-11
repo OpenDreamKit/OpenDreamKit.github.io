@@ -3,7 +3,7 @@ layout: post
 title: "Release: SageMath for Windows"
 author: Erik M. Bray
 
-date: 2017/08/28
+date: 2017/10/11
 tags:
     - release
     - sagemath
@@ -84,9 +84,9 @@ familiar install wizard interface (built with the venerable
 [InnoSetup](http://www.jrsoftware.org/isinfo.php).  The installer comes in
 at just under a gigabyte, but unpacks to more than 4.5 GB in version 8.0.
 
-![Sage for Windows Installer](/public/images/2017-08-28-SageWindows/installer1.png){:class="img-responsive"}
+![Sage for Windows Installer](/public/images/2017-10-11-SageWindows/installer1.png){:class="img-responsive"}
 
-![Sage for Windows Installer](/public/images/2017-08-28-SageWindows/installer2.png){:class="img-responsive"}
+![Sage for Windows Installer](/public/images/2017-10-11-SageWindows/installer2.png){:class="img-responsive"}
 
 Because of the large number of files comprising the complete SageMath
 distribution, and the heavy compression of the installer, installation can
@@ -98,11 +98,11 @@ multi-core machine the installer itself does not use overly many resources.
 
 If you don't like it, there's also a standard uninstall:
 
-![Sage for Windows Uninstaller](/public/images/2017-08-28-SageWindows/uninstall.png){:class="img-responsive"}
+![Sage for Windows Uninstaller](/public/images/2017-10-11-SageWindows/uninstall.png){:class="img-responsive"}
 
 The installer include three desktop and/or start menu shortcuts:
 
-![Sage for Windows start menu shortcuts](/public/images/2017-08-28-SageWindows/shortcuts.png){:class="img-responsive"}
+![Sage for Windows start menu shortcuts](/public/images/2017-10-11-SageWindows/shortcuts.png){:class="img-responsive"}
 
 The shortcut titled just "SageMath 8.0" launches the standard Sage command
 prompt in a text-based console. In general it integrates well enough with
@@ -110,7 +110,7 @@ the Windows shell to launch files with the default viewer for those file
 types. For example, plots are saved to files and displayed automatically
 with the default image viewer registered on the computer.
 
-![Sage for Windows console](/public/images/2017-08-28-SageWindows/console.png){:class="img-responsive"}
+![Sage for Windows console](/public/images/2017-10-11-SageWindows/console.png){:class="img-responsive"}
 
 (Because Mintty supports [SIXEL](https://en.wikipedia.org/wiki/Sixel) mode
 graphics, it may also be possible to embed plots and equations directly in
