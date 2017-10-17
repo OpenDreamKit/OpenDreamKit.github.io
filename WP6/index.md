@@ -18,6 +18,22 @@ The ultimate purpose of a mathematical VRE is to create data (D), knowledge (K),
 * to design a flexible, knowledge-based integration layer for the OpenDreamKit Systems
 * to integrate large-scale data sources into the VRE and make them accessible programmatically at the math level 
 
-## Knowledge-based Integration of Systems 
+## Knowledge-based Integration of Systems
+
+Individually, the OpenDreamKit systems are optimized for particular domains and functionalities, and together they cover many needs of practical and theoretical mathematics.
+However, each system specializes on one particular area, and it remains very difficult to solve problems that need to involve multiple systems.
+Some integrations exist, but the are ad-hoc and have scalability and maintainability issues. To alleviate this, the OpenDreamKit project introduces the *Math-in-the-Middle* (*MitM*) approach using
+* a central system-agnostic formalization of mathematics (the Math-in-the-Middle *MitM Ontology*) as the needed interoperability layer and
+* per system a system of *API theories* that specify the system's constructors and interface functions with their types.
+* a system of alingments between API theories and the MitM ontology. 
+
+
 
 ## Integration of Knowledge and Data Sources. 
+
+Mathematical knoweledge sources are usually only accessible via a dedicated web information system or a low-level API at the level of the raw database content.  
+What we would want is a ``programmatic, mathematical API'' which would give access to the knowledge-bases programmatically via their mathematical constructions and properties.
+
+The OpenDreamKit project by interpreting large knowledge bases as OMDoc/MMT theories -- modular representations of mathematical objects and their properties. 
+For this, we generalize OMdoc/MMT theories to ``virtual theories'' -- theories so big that they do not fit into main memory -- and update its knowledge management algorithms so that they can work directly with objects stored in external knowledge bases.
+An additional technical contribution is the introduction of a codec system that bridges between low-level encodings in databases and the abstract construction of mathematical objects.
