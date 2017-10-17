@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Work Package 6 -  Data/Knowledge/Software-Bases 
+layout: page
+title: "Work Package: 6 Data/Knowledge/Software-Bases" 
 ---
 
 [WP6 GitHub Space](https://github.com/OpenDreamKit/OpenDreamKit/tree/master/WP6),
