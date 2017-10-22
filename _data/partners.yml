@@ -90,18 +90,22 @@ sites:
         github: dimpase 
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
+
+      # TODO: reinsert Ursula, with status: retired
+
   - name: University of Sheffield
     logo: sheffield_logo.gif
     homepage: 'http://www.sheffield.ac.uk/'
     members:
       - name: Neil Lawrence
         homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
-        roles:
-          - site-leader
         github: lawrennd
+        # status: left
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
         github: mikecroucher
+        roles:
+          - site-leader
       - name: Guy Brown
         homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
         github: guyjbrown
@@ -123,6 +127,7 @@ sites:
         homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/5-prof-dr-hab-jerzy-luczka-head'
       - name: Jan Aksamit
         homepage: 'http://www.researchgate.net/profile/Jan_Aksamit'
+        status: deceased
   - name: University of Southampton
     logo: University-of-Southampton.png
     homepage: 'http://www.southampton.ac.uk'
@@ -207,6 +212,7 @@ sites:
           - site-leader
         twitter: 'podehaye'
         github: pdehaye
+        status: left
   - name: Logilab
     logo: logilab.png
     homepage: 'https://www.logilab.fr'
@@ -214,15 +220,17 @@ sites:
     members:
       - name: Florent Cayré
         homepage: 'https://www.logilab.fr/card/florent.cayre'
-        roles:
-          - site-leader
         github: fcayre
+        status: left
       - name: Olivier Cayrol
         homepage: 'https://www.logilab.fr/card/olivier.cayrol'
+        roles:
+          - site-leader
       - name: David Douard
         homepage: 'https://www.logilab.fr/id/david.douard'
       - name: Julien Cristau
         homepage: 'https://www.logilab.org/blogentry/854624'
+        status: left
       - name: Serge Guelton
         homepage: 'http://serge.liyun.free.fr/serge/index.html'
         github: serge-sans-paille
@@ -232,16 +240,18 @@ sites:
     members:
       - name: Hans Petter Langtangen
         homepage: 'http://www.simula.no/people/hpl'
-        roles:
-          - site-leader
-          - wp4-leader
         github: hplgit
+        status: deceased
       - name: Min Ragan-Kelley
         twitter: 'minrk'
         github: minrk
+        roles:
+          - site-leader
+          - wp4-leader
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
         github: martinal
+        status: left
       - name: Vidar Tonaas Fauske
   - name: Universiteit Gent
     logo: universiteit_gent.gif
@@ -280,7 +290,7 @@ sites:
       - name: Tom Wiesing
         homepage: 'https://kwarc.info/people/twiesing'
         github: tkw1536
-    
+
 partners:
   - name: CNRS
     logo: CNRS.svg
@@ -297,3 +307,12 @@ roles:
     desc: Quality review board leader
   project-deputy:
     desc: Project deputy coordinator
+
+# TODO: implement this
+status:
+  left:
+    desc: left the project # TODO Find something better
+  retired:
+    desc: retired
+  deceased:
+    desc: deceased
