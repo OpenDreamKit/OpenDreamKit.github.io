@@ -50,6 +50,9 @@ sites:
         homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
+      - name: Vincent Klein
+      - name: Sébastien Labbé
+        homepage: "http://www.slabbe.org/"
   - name: Université Grenoble Alpes
     logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
