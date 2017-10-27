@@ -66,6 +66,8 @@ sites:
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
         github: jgdumas
+      - name: Hongguang Zhu
+        github: ZHG2017
   - name: University of Kaiserslautern
     logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
