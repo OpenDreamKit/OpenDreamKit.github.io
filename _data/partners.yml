@@ -50,12 +50,15 @@ sites:
         homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
+      - name: Vincent Klein
+      - name: Sébastien Labbé
+        homepage: "http://www.slabbe.org/"
   - name: Université Grenoble Alpes
     logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
-        homepage: 'http://membres-liglab.imag.fr/pernet'
+        homepage: 'http://ljk.imag.fr/membres/Clement.Pernet'
         roles:
           - site-leader
           - wp5-leader
@@ -63,6 +66,8 @@ sites:
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
         github: jgdumas
+      - name: Hongguang Zhu
+        github: ZHG2017
   - name: University of Kaiserslautern
     logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
