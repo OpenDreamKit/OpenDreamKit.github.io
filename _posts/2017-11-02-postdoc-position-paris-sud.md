@@ -1,10 +1,11 @@
 ---
-layout: disabled
+layout: post
 
 author: Paris-Sud
 title: post doc position opening at Université Paris-Sud
 tags:
     - job-opening
+published: false
 ---
 
 This is an announcement for a postdoc position opening at Université
@@ -19,8 +20,6 @@ Interviews in early december, for a recruitment from early 2018 to
 Fall 2019. Since we have a strong candidate for a half time position,
 we will also consider candidates interested in a half-time or shorter
 duration position.
-
-A second full-time developer will be hired later on, presumably in Fall 2016.
 
 # Salary
 
