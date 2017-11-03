@@ -9,6 +9,9 @@ tags:
     - workshop
     - user-interface
     - math-in-the-middle
+    - binder
+    - jupyter
+    - thebe
 ---
 
 [OpenDreamKit](http://opendreamkit.org) is hosting a workshop on live structured documents
