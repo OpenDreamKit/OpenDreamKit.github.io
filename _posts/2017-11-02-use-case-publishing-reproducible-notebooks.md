@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Nicolas M. Thiéry
-title: 'Use case: publishing reproducible notebooks'
+title: 'Use case: Publishing reproducible notebooks (draft)'
 tags:
     - use-case
     - best-practice
