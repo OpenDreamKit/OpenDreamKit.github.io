@@ -12,7 +12,10 @@ title: Home
 
 {% for post in site.posts %}
     {% if forloop.index < 5 %}
+        {% if post.title contains 'draft' %}
+        {% else %}
 	{% include post_link.html %}
+        {% endif %}
     {% endif %}
 {% endfor %}
 
