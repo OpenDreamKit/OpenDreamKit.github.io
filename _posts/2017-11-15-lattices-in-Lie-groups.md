@@ -8,6 +8,7 @@ tags:
     - workshop
     - sagemath
     - GAP
+    - pari-gp
 ---
 
 [OpenDreamKit](http://opendreamkit.org) is hosting a workshop on "Subgroups and lattices of Lie groups"
