@@ -6,8 +6,7 @@ location: Olot, Spain
 title: Subgroups and lattices of Lie groups
 tags:
     - workshop
-    - Sage
-    - PARI/GP
+    - sagemath
     - GAP
 ---
 
