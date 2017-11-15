@@ -78,6 +78,11 @@ InternalEvents:
       start: 2017-10-16
       end: 2017-10-20
       location: Simula Research Laboratory, Norway
+    - title: Subgroups and lattices of Lie groups
+      start: 2018-02-19
+      end: 2018-03-04
+      url: https://wiki.sagemath.org/days93
+      location: Olot
 ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
