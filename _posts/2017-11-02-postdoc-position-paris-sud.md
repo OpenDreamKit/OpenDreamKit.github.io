@@ -2,7 +2,7 @@
 layout: post
 
 author: Paris-Sud
-title: post doc position opening at Université Paris-Sud
+title: Post doc position opening at Université Paris-Sud
 tags:
     - job-opening
 ---
