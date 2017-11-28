@@ -9,7 +9,6 @@ tags:
     - reproducibility
     - jupyter
     - binder
-published: false
 ---
 
 This document is part of a collection of [use cases](/tag/use-case).
