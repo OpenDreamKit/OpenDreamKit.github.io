@@ -87,6 +87,10 @@ InternalEvents:
       end: 2018-03-04
       url: https://wiki.sagemath.org/days93
       location: Olot
+    - title: Ecole matméhatiques experimentales
+      start: 2018-05-21
+      end: 2018-06-02
+      url: https://mathexp2018.sciencesconf.org/
 ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
