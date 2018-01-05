@@ -82,6 +82,11 @@ InternalEvents:
       start: 2018-01-15
       end: 2018-01-20
       location: France
+    - title: Software tools for mathematics
+      start: 2018-01-22
+      end: 2018-01-26
+      url: http://matmor.unam.mx/software-tools-math
+      location: Morelia, Michoacán, México
     - title: Subgroups and lattices of Lie groups
       start: 2018-02-19
       end: 2018-03-04
