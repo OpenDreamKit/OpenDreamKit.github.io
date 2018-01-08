@@ -22,13 +22,21 @@ like anyone to be able to reproduce her calculations.
 
 Describe the experimentation as Jupyter notebooks, mixing prose, code,
 and outputs (think of them as logbooks). Publish them on a public
-repository (e.g. on [github](http://github.com), and make that
+repository (e.g. on [GitHub](https://github.com), and make that
 repository [binder-ready](/tag/binder). Make the paper itself active
 (TODO: latexml+thebe?).
+
+If executing the examples requires a non-trivial instal/build step,
+also consider [using a
+`Dockerfile`](http://mybinder.readthedocs.io/en/latest/dockerfile.html),
+and auto-building the Docker image on <https://hub.docker.com/>.
 
 ## Instances
 
 - TODO: links to favorite instances
+  
+  - <https://github.com/defeo/ffisom>
+
 
 - TODO: estimate of the number of such instances.
 
@@ -41,6 +49,7 @@ first time, and half an hour later on.
 
 ## What's new since OpenDreamKit started:
 
+- SageMath packaged in Debian/Ubuntu
 - expansion of the Jupyter technology
 - apparition of binder
 
