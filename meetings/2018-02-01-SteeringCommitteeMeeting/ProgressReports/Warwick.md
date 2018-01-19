@@ -13,6 +13,7 @@ period: Reporting period from March 2017 to January 2018
 {{ page.author }}
 
 {{ page.period }}
+
 ---
 
 ## Finance and administration
