@@ -1,4 +1,4 @@
-﻿---
+---
 layout: slides
 title: "Progress report for Jacobsuni-FAU"
 theme: white
