@@ -1,9 +1,9 @@
-﻿---
+---
 layout: slides
 title: "Progress report for Simula"
 theme: white
 transition: none
-author: Martin Alnæs, Min RK, Vidar Tonaas Fauske
+author: Min RK, Vidar Tonaas Fauske
 period: Reporting period from March 2017 to January 2018
 ---
 
