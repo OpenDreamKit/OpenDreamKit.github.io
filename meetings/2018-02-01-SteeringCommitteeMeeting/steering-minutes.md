@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: Minutes for the February 2017 (virtual) Steering Committee meeting
+title: Minutes for the February 2018 (virtual) Steering Committee meeting
 ---
 
 ## Participants
