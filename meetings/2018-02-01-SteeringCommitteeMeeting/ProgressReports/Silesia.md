@@ -24,12 +24,15 @@ period: Reporting period from March 2017 to January 2018
 ---
 ## Hiring
 
-dr Jolanta Marzec, was hired from remaining funding on dr Jan Aksamit position. The goal is to finish Linear Algebra demonstrator.
+dr Jolanta Marzec, was hired using remaining funding after dr Jan Aksamit position. The goal is to finish Linear Algebra demonstrator.
 
 ---
 ## Achievements
 
-K3D-jupyter project was ported to ipywidgets 7, and has been tested in real world scenario in IT company. (https://www.youtube.com/watch?v=Zzvx72fD6oo)
+K3D-jupyter 
+ - project was ported to ipywidgets 7, (v 2.1)
+ - it is being tested in real world scenario in a IT company (e.g. https://www.youtube.com/watch?v=Zzvx72fD6oo)
+ 
 
 
 
@@ -40,11 +43,14 @@ K3d-jupyter widget is under final stage of development which includes, polishing
 
 There is ongoing work on demonstrators: Nonlinear processes in Biology and on "Problems in Physics".
 
+Demonstrator Linear Algebra is under active development.
+
 ---
 ## Workshops and dissemination activities
 
 Marcin Kostur presented ODK project in a talk "Computing in science education with SageMath and Jupyter" 
-INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE, Zürich, Switzerland     12-14 June, 2017
+International Conference on Computational Science, Zürich, Switzerland,    12-14 June, 2017
+
 
 
 ---
