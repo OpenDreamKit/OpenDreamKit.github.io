@@ -47,7 +47,7 @@ Marcin Kostur presented ODK project in a talk "Computing in science education wi
 INTERNATIONAL CONFERENCE ON COMPUTATIONAL SCIENCE, Zürich, Switzerland     12-14 June, 2017
 
 
---
+---
 ## Other
 
 
