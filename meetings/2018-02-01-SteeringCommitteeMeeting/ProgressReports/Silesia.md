@@ -33,7 +33,7 @@ K3D-jupyter project was ported to ipywidgets 7, and has been tested in real worl
 
 
 
---
+---
 ## Work in progress
 
 K3d-jupyter widget is under final stage of development which includes, polishing existing features and API, performance optimalization and CFD analysis module.
