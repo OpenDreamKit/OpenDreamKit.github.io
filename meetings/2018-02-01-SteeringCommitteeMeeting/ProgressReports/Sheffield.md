@@ -57,7 +57,7 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 - Developed training materials and provided training for over 95 women in the last 12 months at Sheffield and Manchester in partnership with CodeFirstGirls.
 - Participation in the Diversity and Inclusion in Scientific Computing unconference by direct invite of NUMFOCUS.
 
---
+---
 ## Other
 
 
