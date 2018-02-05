@@ -29,7 +29,7 @@ period: Reporting period from March 2017 to January 2018
   * 1 July 2017 -- 30 Sept. 2019
   * Research Associate at Penn State University
 
-* R&eacute;mi Imbach, postdoc 100%
+* Rémi Imbach, postdoc 100%
    * 1 June 2017 -- 31 March 2018
 
    * Designer and developer of certified numerical solver [subdiv_solver](http://subdiv-solver.gforge.inria.fr/) at INRIA Nancy - Grand Est
