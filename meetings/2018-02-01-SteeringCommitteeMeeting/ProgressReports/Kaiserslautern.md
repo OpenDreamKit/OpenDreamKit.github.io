@@ -51,7 +51,7 @@ period: Reporting period from March 2017 to January 2018
 
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
   * Due month 48
-  * The above are example deliverables only (we will delivers these in addition to other parallel/Singular HPC projects) 
+  * The above are example deliverables only (we will deliver these in addition to other parallel/Singular HPC projects) 
 
 ### Parallel Sparse Polynomial Arithmetic in Singular
 
