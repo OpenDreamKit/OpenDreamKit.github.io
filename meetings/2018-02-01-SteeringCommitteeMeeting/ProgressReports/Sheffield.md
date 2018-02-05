@@ -41,7 +41,7 @@ This package converts Jupyter notebooks into .md files that can be readily usabl
 
 
 
---
+---
 ## Work in progress
 
 - Involvement in the Sheffield Machine Learning Network: working with the Machine Learning group at Sheffield to leverage the use of Jupyter notebooks and related technologies (e.g. code cafe, coding dojos)
