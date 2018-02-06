@@ -61,6 +61,13 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 ---
 ## Workshops and dissemination activities
 
+ * March 13-17, 2017 [Sage/GAP Days 85](https://wiki.sagemath.org/days85) at Cernay on *packaging, portability, and documentation tools for Sage*. 17 participants.
+ * Sage and OpenDreamKit dissemination:
+     - Eurocomb 2017 -- [Introduction to SageMath](http://opendreamkit.org/2017/08/31/eurocomb/)
+     - Netmath -- [Presentation of OpenDreamKit to math teachers](http://opendreamkit.org/2017/10/19/Netmath/)
+     - ENS Lyon -- [Lecture on mathematical experimentation](http://opendreamkit.org/2018/01/23/ENS/)
+ * Use-case: Run a 300 students course using JupyterHub and the newly developed Cling Jupyter kernel for C++.
+
 
 --
 ## Upcoming workshops 
