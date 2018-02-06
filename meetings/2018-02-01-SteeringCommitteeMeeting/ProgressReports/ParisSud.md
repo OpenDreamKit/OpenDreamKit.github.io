@@ -56,7 +56,7 @@ In addition to this the amendment reshuffled the workplan, in particular: new mi
   
   
 - Communication strategy: the outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
-Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics] and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
+Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics](https://pluquetelisabeth.typeform.com/to/uTnjIQ) and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
 
 ---
 ## Workshops and dissemination activities
