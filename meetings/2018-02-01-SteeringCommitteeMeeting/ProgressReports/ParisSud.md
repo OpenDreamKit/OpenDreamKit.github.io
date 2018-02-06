@@ -52,12 +52,11 @@ In addition to this the amendment reshuffled the workplan, in particular: new mi
 - OpenDreamKit and EOSC:
   - Strategy: N. Thiéry, B. Pilorget and H. Fangohr participated last November to two events in Brussels dedicated to the the future European Open Science Cloud (EOSC). We aimed at understanding this future network and what opportunities it offers for our communities. A [blogpost](http://opendreamkit.org/2017/12/06/EOSC/) was written on the matter. For the time being, ODK has nto yet expressed official support to EOSCThe steering committee is welcome to express their interest or disinterest in this project.
   
-   -Partnership with EGI (main stakeholder of the EOSC)
-
-There is an existing collaboration between EGI and OpenDreamKit for the deployment of JupyterHub in EGI services. A Technology Provider Agreement must be signed between EGI and OpenDreamKit/Jupyter developers in the next weeks. Depending on the success of this joint work and of the need of the EOSC post-2020, the collaboration could be extended.
+   - Partnership with EGI (main stakeholder of the EOSC): there is an existing collaboration between EGI and OpenDreamKit for the deployment of JupyterHub in EGI services. A Technology Provider Agreement must be signed between EGI and OpenDreamKit/Jupyter developers in the next weeks. Depending on the success of this joint work and of the need of the EOSC post-2020, the collaboration could be extended.
   
   
-- Communication strategy (outcome of the traineeships)
+- Communication strategy: the outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
+Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics] and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
 
 ---
 ## Workshops and dissemination activities
