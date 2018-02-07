@@ -28,10 +28,12 @@ period: Reporting period from March 2017 to January 2018
 ---
 ## Finance and administration
 
-Is in good hands at FAU now. There is still an issue about the un-used pre-payment for
-JacU that needs to be resolved via the coordinator. The agreement is that this should go
-to FAU in its entirety (modulo possibly some travel funds for Florian Rabe that could go
-to LRI with his shared appointment). 
+On 18/01/2018 the Jacobs University has officially terminated from the OpenDreamKit project. 
+
+Finance and admin for the KWARC group (Kohlhase/Rabe) in good hands at FAU now. There is
+still an issue about the un-used pre-payment for JacU that needs to be resolved via the
+coordinator. The agreement is that this should go to FAU in its entirety (modulo possibly
+some travel funds for Florian Rabe that could go to LRI with his shared appointment).
 
 ---
 ## Hiring
