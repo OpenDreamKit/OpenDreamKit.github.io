@@ -50,13 +50,20 @@ period: Reporting period from March 2017 to January 2018
 * Integration of these latest releases in SageMath:
   + [https://trac.sagemath.org/ticket/24214]
   + fixing several long lasting bugs
-  + speeding-up end-user routines: e.g. the characteristic polynomial of a dense
-    matrix over a modular finite field.
+  + speeding-up end-user routines: e.g. the characteristic polynomial of a dense matrix over a modular finite field.
 
+* A new recursive algorithm for the symmetric indefinite triangular factorization revealing the rank profile matrix (article submitted and implementation available upstream in fflas-ffpack)
+
+* New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (article at ISSAC'17, and extended version submitted to J. of Symbolic Computation).
 
 --
 ## Work in progress
+* In collaboration with V. Delecroix (CNRS partner)
+  + Further exposition of LinBox routines in SageMath.
+  + Consolidation and improvement of the rational system solver in LinBox
 
+* MPI version of the Chinese remainder based rational solver
+* DSL for exposing parallel features
 
 ---
 ## Workshops and dissemination activities
