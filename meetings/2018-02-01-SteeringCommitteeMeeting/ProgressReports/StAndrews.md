@@ -17,7 +17,7 @@ period: Reporting period from March 2017 to January 2018
 
 ## Finance and administration
 
-- Participaing in the OpenDreamKit midterm review (April 2017, Brussels)
+- Participated in the OpenDreamKit midterm review (April 2017, Brussels)
 
 ---
 ## Hiring
@@ -41,7 +41,7 @@ period: Reporting period from March 2017 to January 2018
 
 - Incorporating HPC-GAP (a code for shared memory parallel programming in GAP) into GAP 4.9 (WP5)
 
-- James Mitchel collabotated with Nicolas Thiery on Semigroups package and libsemigroups library, with contributions from Markus (see https://github.com/gap-packages/Semigroups/wiki)
+- James Mitchell collaborated with Nicolas Thiery on Semigroups package and libsemigroups library, with contributions from Markus (see https://github.com/gap-packages/Semigroups/wiki)
 
 - Improvements of type/filter/category information in GAP (outcome of the work carried out under WP6)
 
@@ -68,11 +68,9 @@ period: Reporting period from March 2017 to January 2018
 
 - Fully functional MathInTheMiddle server for GAP, Singular, and Pari
 
-- Madeleine Whybrow and Markus Pfeiffer computing all previously known Majorana Representations with an independent implementation of Seress' algorithm
+- Madeleine Whybrow and Markus Pfeiffer computed all previously known Majorana Representations with an independent implementation of Seress' algorithm, now computing previously unknown ones
 
-- Work on meataxe64 package for GAP
-
-- The meataxe64 package and contributions to the underlying meataxe64 libraries, providing a major advance on the state of the art in linear algebra and computational representation theory in high dimensions over finite fields on multicore computers
+- The meataxe64 GAP package and contributions to the underlying meataxe64 libraries, providing a major advance on the state of the art in linear algebra and computational representation theory in high dimensions over finite fields on multicore computers
 
 - p-adic solutions to systems of equations over the rationals using meataxe64 (as a package)
 
@@ -105,7 +103,7 @@ Future events:
 
 - "Jupyter in GAP and other CAS" workshop (June 4th - June 8th 2018, University of St Andrews, http://gapdays.de/gap-jupyter-days2018/)
 
-- Deemonstrating Jupyter GAP interface at the 20th Postgraduate Group Theory Conference (St Andrews, 17-20th July, 2018, https://en-gb.facebook.com/pgtc2018/)
+- Demonstrating Jupyter GAP interface at the 20th Postgraduate Group Theory Conference (St Andrews, 17-20th July, 2018, https://en-gb.facebook.com/pgtc2018/)
 
 - Markus sent two session proposals to the International Congress on Mathematical Software (ICMS 2018, University of Notre Dame, 24-27 July 2018, http://icms-conference.org/2018/), one for interoperability in mathematical software, one for permutation group search methods
 
