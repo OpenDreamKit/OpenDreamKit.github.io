@@ -66,8 +66,9 @@ This brings FAU to nominal strenght after the move.
   WIAS Berlin).
 - Generated API theory graphs for GAP (with St. Andrews), Sage (LRI), LMFDB (Warwick),
   Singular (Kaiserslautern).  
-- Experimental Jupyter Kernel for MMT 
-
+- Experimental Jupyter Kernel for MMT
+- [Four international conference publications](http://kwarc.github.io/bibs/odk/) 
+- Two M.Sc. Theses: Theresa Pollinger and Tom Wiesing
 --
 ## Work in progress
 - Using Jupyter for document-embedded computing
@@ -79,6 +80,7 @@ This brings FAU to nominal strenght after the move.
 ---
 
 ## Workshops and dissemination activities
+- OpenMath Workshop at CICM 2017
 
 
 --
