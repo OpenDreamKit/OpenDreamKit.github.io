@@ -7,6 +7,6 @@ tags:
     - project-meeting
 ---
 
-This is a remote project meeting to reveiew all achievments since March 2017. 
+This is an online project meeting to review all achievements since March 2017.
 
  * [Progress reports](http://opendreamkit.org/meetings/2018-02-01-SteeringCommitteeMeeting/ProgressReports/)
