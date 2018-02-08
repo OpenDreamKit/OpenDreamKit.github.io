@@ -75,8 +75,8 @@ This proposal grew out of a reflection on the needs of the (pure)
 mathematics community in terms of computational software and databases.
 The highly successful development in the last decades of systems such as
 [GAP](http://www.gap-system.org/), [LinBox](http://www.linalg.org/),
-[LMFDB](lmfdb.org), [PARI](http://pari.math.u-bordeaux.fr/),
-[Sage](www.sagemath.org), or [Singular](http://www.singular.uni-kl.de/),
+[LMFDB](http://lmfdb.org), [PARI](http://pari.math.u-bordeaux.fr/),
+[Sage](https://www.sagemath.org), or [Singular](http://www.singular.uni-kl.de/),
 has proven the viability and power of collaborative open source
 development models, by users and for users, even for delivering general
 purpose systems targeting a large public (researchers, teachers,

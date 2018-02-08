@@ -46,7 +46,7 @@ on the project: aims, work packages, consortium.
   - [WP3](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit.github.io/master/meetings/2015-09-02-Kickoff/WorkPackages/WP3.md): Component Architecture (Luca De Feo)
   - [WP4](../WorkPackages/WP4.pdf): User Interfaces (Min Ragan-Kelley)
   - [WP5](../WorkPackages/WP5.pdf): High Performance Mathematical Computing (Clément Pernet)
-  - [WP6](../WorkPackages/WP6.pdf): Data/Knowledge/Software bases (Michael Kohlhase)
+  - [WP6](../WorkPackages/wp6.pdf): Data/Knowledge/Software bases (Michael Kohlhase)
   - [WP7](../WorkPackages/WP7.pdf): Social aspects (Steve Linton?)
 
 ## 4pm-4:30pm: Coffee break
