@@ -9,7 +9,8 @@ rvm:
 # the `install` step will run `bundle install` by default.
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --disable-external --allow-hash-href --assume-extension --url-ignore 're:./_site/reveal.js/.*'
+  - gem install html-proofer
+  - bundle exec htmlproofer ./_site --disable-external --allow-hash-href --assume-extension --file-ignore '/.\/_site\/reveal.js\/.*/' --empty-alt-ignore
 
 env:
   global:
