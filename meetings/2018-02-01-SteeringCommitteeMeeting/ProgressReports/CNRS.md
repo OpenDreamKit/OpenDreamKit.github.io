@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: page
 title: "Progress report for CNRS"
 theme: white
 transition: none
