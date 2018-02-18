@@ -96,6 +96,10 @@ InternalEvents:
       start: 2018-05-21
       end: 2018-06-02
       url: https://mathexp2018.sciencesconf.org/
+    - title: Workshop on low-level interfaces with libraries
+      start: 2018-04-30
+      end: 2018-05-04
+      url: https://github.com/OpenDreamKit/OpenDreamKit/issues/251
 ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
@@ -158,7 +162,3 @@ ExternalEvents:
       start: 2016-10-17
       end: 2016-10-22
       url: http://www.codima.ac.uk/school2016/
-    - title: "Workshop on low-level interfaces with libraries"
-      start: 2018-04-30
-      end: 2018-05-04
-      url: https://github.com/OpenDreamKit/OpenDreamKit/issues/251
