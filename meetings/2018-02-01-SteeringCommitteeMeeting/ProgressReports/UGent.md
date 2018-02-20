@@ -73,7 +73,8 @@ period: Reporting period from March 2017 to January 2018
 ---
 ## Workshops and dissemination activities
 
-(TODO: does this mean *organized* or *attended* workshops?)
+- Attended several OpenDreamKit workshops such as the first ODK review meeting,
+  the PARI/GP atelier and the Jupyter widgets workshop.
 
 - Wrote [blogpost](http://opendreamkit.org/2017/06/09/CythonSphinx/)
   on how to generate documentation for Cython projects.
