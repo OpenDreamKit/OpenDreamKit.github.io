@@ -43,7 +43,7 @@ respectively Jupyter-based user interfaces and interoperability for
 mathematical computational systems and databases. A common theme is how
 to best exploit the mathematical knowledge embedded in the systems.
 For some context, see e.g. the [recent
-publications](http://opendreamkit/2017/10/15/WP6-Usecase/) describing
+publications](http://opendreamkit.org/2017/10/15/WP6-Usecase/) describing
 the Math-In-The-Middle approach.
 
 More specifically, a successful candidate will be expected to
