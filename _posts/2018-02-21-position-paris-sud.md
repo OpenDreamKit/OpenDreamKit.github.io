@@ -184,7 +184,7 @@ The LRI also hosts a strong team working on proof systems.
 
 To apply for this position, please send an e-mail to
 upsud-recruitement-research-engineer at opendreamkit.org
-by March 15, with the following documents (in English) attached:
+by March 10, with the following documents (in English) attached:
 
 - cover_letter.pdf: a cover letter explaining your interest in this particular position;
 
@@ -196,5 +196,5 @@ by March 15, with the following documents (in English) attached:
 
 - reference letters: files reference_letter_<contactname>.pdf or contact information of potential referees.
 
-Applications sent after March 15 will be considered until the
+Applications sent after March 10 will be considered until the
 position is filled.
