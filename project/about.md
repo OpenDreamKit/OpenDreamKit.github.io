@@ -21,8 +21,8 @@ of six other people working full time.
 
 ## Grant agreement
 
-- [Part1: Description of Action: Workpackages, tasks, deliverables](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex1-Description_of_the_action-01032018.pdf)
-- [Part2: Objectives, workplan, description of participants, budgets](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex2-Workplan-01032018.pdf)
+- [Part 1: Description of Action: Workpackages, tasks, deliverables](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex1-Description_of_the_action-01032018.pdf)
+- [Part 2: Objectives, workplan, description of participants, budgets](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex2-Workplan-01032018.pdf)
 
 The above documents form the binding contract between the consortium and the European Union. 3 amendmendments to the Grant were necessary since Sept 2015 to follow the evolution of partners forming the consortium and of the workplan.
 
