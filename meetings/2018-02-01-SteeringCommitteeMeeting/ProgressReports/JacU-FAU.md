@@ -15,15 +15,6 @@ period: Reporting period from March 2017 to January 2018
 {{ page.period }}
 
 ---
-
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# {{ page.title }}
-
-{{ page.author }}
-
-{{ page.period }}
-
----
 ## Finance and administration
 
 On 18/01/2018 the Jacobs University has officially terminated from the OpenDreamKit
