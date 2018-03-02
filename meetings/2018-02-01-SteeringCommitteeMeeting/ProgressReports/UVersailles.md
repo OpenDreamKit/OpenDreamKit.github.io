@@ -35,7 +35,7 @@ Nothing very important since the review.
 ---
 ## Work in progress
 
-[](#47)
+[D2.7: Community-curated indexing tool (open source)](https://github.com/OpenDreamKit/OpenDreamKit/issues/47)
 
 - Due M24.
 - Various failed iterations (with CNRS).
@@ -46,6 +46,3 @@ Nothing very important since the review.
 
 - Participated to atelier PARI/GP (Jan 2018, Besançon).
 
-
-
-</section>

@@ -59,7 +59,7 @@ It also uses nbval to perform notebook validation and add custom headers indicat
 ---
 ## Workshops and dissemination activities
 
-- Developed and delivered a workshop on using Jupyter notebooks for reproducible research for the 2nd international Research Software Engineering conference. The workshop was one of the most popular across the entire conference and, as such, we were asked to deliver it twice in order to meet demand. Workshop materials at https://github.com/trallard/JNB_reproducible and blog post at [RSE Sheffield blog](www.rse.shef.ac.uk/blog) which was reposted in the [Software Carpentries Blog](https://software-carpentry.org/blog/2018/01/rse-conf-repost.html)
+- Developed and delivered a workshop on using Jupyter notebooks for reproducible research for the 2nd international Research Software Engineering conference. The workshop was one of the most popular across the entire conference and, as such, we were asked to deliver it twice in order to meet demand. Workshop materials at https://github.com/trallard/JNB_reproducible and blog post at [RSE Sheffield blog](http://www.rse.shef.ac.uk/blog) which was reposted in the [Software Carpentries Blog](https://software-carpentry.org/blog/2018/01/rse-conf-repost.html)
 ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
 [T2.6](https://github.com/OpenDreamKit/OpenDreamKit/issues/29)).
 - Developed and delivered Bioinformatics Awareness Days [https://github.com/trallard/BAD_days](https://github.com/trallard/BAD_days) in Collaboration with Prof. Luisa Cutillo of Parthenope University of Naples ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
