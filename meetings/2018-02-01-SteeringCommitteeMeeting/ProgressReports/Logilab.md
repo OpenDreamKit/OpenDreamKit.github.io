@@ -52,6 +52,12 @@ Library for exporting code samples from Sphinx documents into a set of
 Jupyter notebooks and for integrating back the code outputs computed
 by Jupyter into the Sphinx documents.
 
+Simulagora.com virtual research environment has been under heavy development
+since the summer 2017 and a new version will be online in March 2018. This will
+showcase virtual desktops available from a web browser and collaboration
+workflows based on "tools" that can be described as micro web applications that
+require very little development skills to set up, but make it easy to make
+available complex simulations to users.
 
 ---
 ## Workshops and dissemination activities
