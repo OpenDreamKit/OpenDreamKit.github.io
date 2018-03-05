@@ -70,11 +70,3 @@ This brings FAU to nominal strenght after the move.
 
 ## Workshops and dissemination activities
 - OpenMath Workshop at CICM 2017
-
-
---
-## Other
-
-
-
-</section>
