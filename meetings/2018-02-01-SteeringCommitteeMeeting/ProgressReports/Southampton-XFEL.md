@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: page
 title: "Progress report for Southampton-XFEL"
 theme: white
 transition: none
@@ -7,7 +7,6 @@ author: Hans Fangohr
 period: Reporting period from April 2017 to January 2018
 ---
 
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ Marijan Beg and Hans Fangohr }}

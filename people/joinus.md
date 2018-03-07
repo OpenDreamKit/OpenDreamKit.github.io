@@ -6,10 +6,14 @@ redirect_from: "/joinus/"
 ---
 
 Due to the highly technical aspects of this project, a large focus is
-on hiring about ten full time developers across Europe. We will post
+on hiring a dozen full time developers across Europe. We will post
 informal information here, and add links to the official job offers as
 they get formalized.
 
+# Université Paris Sud, Orsay:
+
+- [A research software engineer position](http://opendreamkit.org/2018/02/21/position-paris-sud/)
+  starting Spring 2018
 
 # Université Grenoble Alpes, France
 

@@ -24,7 +24,7 @@ The workshop is dedicated to various aspects of live documents, including:
 - Converters (Sphinx, pandoc, docbook, ...),
 - Infrastructure for rendering documents,
 - Infrastructure for interacting with the computing backends (e.g.  [Thebe](https://github.com/oreillymedia/thebe) based on the Jupyter protocol, [sympy live](https://github.com/sympy/sympy-live/), ...),
-- Online services providing computing backends (e.g. [tmpnb](try.jupyter.org), [sagecell](https://sagecell.sagemath.org/), [binder](mybinder.org), ...),
+- Online services providing computing backends (e.g. [tmpnb](https://try.jupyter.org), [sagecell](https://sagecell.sagemath.org/), [binder](https://mybinder.org), ...),
 - Integrated collaborative authoring environments (sharelatex, SMC, texmacs, ...)
 
 Participants can register [via eventbrite](https://www.eventbrite.com/e/opendreamkit-workshop-on-live-structured-documents-tickets-37364670736).

@@ -35,7 +35,7 @@ We used a [framapad](https://mensuel.framapad.org/p/BWEKoBS4jU) to edit collabor
 
 No vote was planned for this meeting. Partners not represented (UNIKL, USFD, UJF and USlaski) are informed by the floowing minutes. 
 
-[Slides](opendreamkit.org/meetings/2016-06-27-Bremen/steering-slides/) of the meeting.
+[Slides](/meetings/2016-06-27-Bremen/steering-slides/) of the meeting.
 
 
 
