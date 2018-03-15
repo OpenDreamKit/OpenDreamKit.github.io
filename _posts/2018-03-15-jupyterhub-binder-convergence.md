@@ -15,7 +15,7 @@ tags:
 # About this document
 
 Nowadays, many institutions run a [JupyterHub](http://jupyterhub.org)
-server, providing their members with easy access to Jupyter-based
+server, providing their members with easy access to [Jupyter](http://jupyter.org)-based
 virtual environments (a.k.a. notebook servers), preinstalled with a
 stack of computational software, tailored to the typical needs of the
 institution's members. Meanwhile, since a few years,
