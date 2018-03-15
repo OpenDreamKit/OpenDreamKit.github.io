@@ -278,7 +278,9 @@ Submitting assignments:
 - Use nbgrader, either from the command line or with the UI to push the files to the shared volume
 
 To explore: integration with local e-learning platforms like Moodle,
-in particular for the class members management and grades reporting.
+typically using [LTI](https://www.imsglobal.org/activity/learning-tools-interoperability),
+in particular for class management and grades reporting.
+There already exists an [LTI authenticator for Jupyter](https://github.com/jupyterhub/ltiauthenticator).
 
 # Security concerns
 
@@ -369,7 +371,6 @@ Note: at this stage, a user cannot produce an image by setting up a
 machine "by hand" and save its state. The construction must be fully
 scripted. On the plus side, this encourages users to script their
 images, making them more reproducible.
-
 
 ## Default volume configuration
 
