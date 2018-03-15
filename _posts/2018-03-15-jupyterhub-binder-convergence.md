@@ -7,7 +7,7 @@ tags:
     - jupyter
     - binder
     - emerging-technologies
-    - WP4
+    - user-interface
     - teaching
     - cloud
 ---
