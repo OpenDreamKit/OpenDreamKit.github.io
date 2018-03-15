@@ -21,7 +21,7 @@ stack of computational software, tailored to the typical needs of the
 institution's members. Meanwhile, since a few years,
 [Binder](http://mybinder.org) lets any user on the internet define,
 run, and share temporary virtual environments equipped with an
-arbitrary software stack.
+arbitrary software stack ([examples](https://jupyter.org/try)).
 
 In Fall 2017, Binder was revamped as BinderHub, a lightweight layer on
 top of JupyterHub. The next step in this convergence is to bring
