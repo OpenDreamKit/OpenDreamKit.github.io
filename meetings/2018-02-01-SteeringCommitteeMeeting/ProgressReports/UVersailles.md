@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: page
 title: "Progress report for UVersailles"
 theme: white
 transition: none
@@ -7,7 +7,6 @@ author: Luca De Feo
 period: Reporting period from March 2017 to January 2018
 ---
 
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
 # {{ page.title }}
 
 {{ page.author }}
@@ -36,7 +35,7 @@ Nothing very important since the review.
 ---
 ## Work in progress
 
-[](#47)
+[D2.7: Community-curated indexing tool (open source)](https://github.com/OpenDreamKit/OpenDreamKit/issues/47)
 
 - Due M24.
 - Various failed iterations (with CNRS).
@@ -47,6 +46,3 @@ Nothing very important since the review.
 
 - Participated to atelier PARI/GP (Jan 2018, Besançon).
 
-
-
-</section>

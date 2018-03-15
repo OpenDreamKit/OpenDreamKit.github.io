@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: page
 title: "Progress report for Jacobsuni-FAU"
 theme: white
 transition: none
@@ -7,21 +7,10 @@ author: M.Kohlhase
 period: Reporting period from March 2017 to January 2018
 ---
 
-<section data-markdown data-separator="^---\n" data-separator-vertical="^---\n">
-
 # {{ page.title }}
 
 {{ page.author }}
 
-
-{{ page.period }}
-
----
-
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
-# {{ page.title }}
-
-{{ page.author }}
 
 {{ page.period }}
 
@@ -81,11 +70,3 @@ This brings FAU to nominal strenght after the move.
 
 ## Workshops and dissemination activities
 - OpenMath Workshop at CICM 2017
-
-
---
-## Other
-
-
-
-</section>

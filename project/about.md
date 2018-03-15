@@ -19,18 +19,14 @@ researchers and developers working full time on the
 project. Additionally, the participants will contribute the equivalent
 of six other people working full time.
 
-## Proposal
+## Grant agreement
 
-- [PDF Proposal](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/proposal-www.pdf)
+- [Part 1: Description of Action: Workpackages, tasks, deliverables](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex1-Description_of_the_action-01032018.pdf)
+- [Part 2: Objectives, workplan, description of participants, budgets](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex2-Workplan-01032018.pdf)
 
-The above pdf is the officially submitted one, up to the fixing of a
-couple unfortunate typos we noticed since then, and some refactoring
-of the deliverable during the negotiation phase with the EU. It also
-includes ammendments that have been negotiated later on with the EU.
-See the history of changes in the early pages for details. For a
-specific list of tasks, see Section 3.1.6, Work Package
-Descriptions. For budget details, see Section 3.4, Resources to be
-committed.
+The above documents form the binding contract between the consortium and the European Union. 3 amendments to the Grant were necessary since September 2015 to follow the evolution of partners forming the consortium and of the workplan.
+
+The [github repository](https://github.com/OpenDreamKit/OpenDreamKit/milestones) for the project shows the advancements of the work accomplished in regards with the Grant agreement
 
 ## Abstract of the project
 

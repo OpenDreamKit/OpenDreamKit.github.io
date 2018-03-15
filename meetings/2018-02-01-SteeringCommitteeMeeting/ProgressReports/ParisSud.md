@@ -74,10 +74,8 @@ UZH where all resources had been spent and no personnel remained.
 
 All changes were implemented in the [github repository](https://github.com/OpenDreamKit/OpenDreamKit/).
 
-The amendment is about to be completed with the signature of the
-Commission. UPSUD will make an announcement and make public the new
-version of the Grant when it is signed.
-
+The amendment is fully complete with the signature of the
+Commission. 
 
 --
 ## Work in progress
