@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Paris-Sud
+author: Nicolas M. Thiéry
 title: Toward versatile JupyterHub deployments, with the Binder and JupyterHub convergence
 tags:
     - blogpost
