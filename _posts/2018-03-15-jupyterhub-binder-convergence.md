@@ -196,8 +196,9 @@ Scenarios:
 - Alice has authored notebooks that she wants to share with her
   colleagues. Maybe the notebooks automatize some complicated
   processes and present them in the form of interactive web
-  applications built using Jupyter widgets. Think of a wizard to setup
-  parameters and data, run a computation, and visualize the results.
+  applications built using Jupyter widgets ([minimal demo](https://mybinder.org/v2/gh/oschuett/appmode/master?urlpath=%2Fapps%2Fexample_app.ipynb)).
+  Think of a wizard to setup parameters and data, run a computation,
+  and visualize the results.
 
 Setup:
 
