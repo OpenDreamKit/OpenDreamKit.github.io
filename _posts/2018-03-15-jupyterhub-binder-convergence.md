@@ -3,13 +3,13 @@ layout: post
 author: Paris-Sud
 title: Toward versatile JupyterHub deployments, with the Binder and JupyterHub convergence
 tags:
-    - Blogpost
-    - Jupyter
-    - Binder
-    - Emerging Technologies
-    - WP4: User Interfaces
-    - Teaching
-    - Cloud
+    - blogpost
+    - jupyter
+    - binder
+    - emerging-technologies
+    - WP4
+    - teaching
+    - cloud
 ---
 
 # About this document
