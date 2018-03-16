@@ -12,13 +12,13 @@ tags:
     - cloud
 ---
 
-# About this document
+# About this document 
 
 Nowadays, many institutions run a [JupyterHub](http://jupyterhub.org)
 server, providing their members with easy access to [Jupyter](http://jupyter.org)-based
 virtual environments (a.k.a. notebook servers), preinstalled with a
 stack of computational software, tailored to the typical needs of the
-institution's members. Meanwhile, since a few years,
+institution's members. Meanwhile, since a few years ago,
 [Binder](http://mybinder.org) lets any user on the internet define,
 run, and share temporary virtual environments equipped with an
 arbitrary software stack ([examples](https://jupyter.org/try)).
@@ -31,18 +31,18 @@ together the best of both worlds: think persistent authenticated
 [JupyterHub](http://jupyterhub.org). For now, let's call them *versatile
 JupyterHub deployments*.
 
-This document brainstorms about this convergence: it sets up the
+This document brainstorms this convergence process: it sets up the
 ground with a scenario and assumptions for a typical institution-wide
-JupyterHub deployment, propose specifications from a user perspective,
+JupyterHub deployment, proposes specifications from a user perspective,
 and describes some typical use cases that would be enabled by such
-specifications. It further discuss security aspects and what remains
+specifications. It further discusses security aspects and what remains
 to be implemented, before concluding with more advanced features and
 open questions.
 
 This document started as a collection of notes of Nicolas M. Thiéry,
 reflecting on in-development
 [JupyterHub deployment at Paris-Saclay](http://jupytercloud.lal.in2p3.fr/)
- and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively.
+ and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively, with [some additional contributions](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commits/master/_posts/2018-03-15-jupyterhub-binder-convergence.md).
 They were largely informed by many discussions at
 March 2018's JupyterHub coding sprint in Orsay that involved dev-ops
 of those deployments and two of the main JupyterHub and BinderHub
@@ -54,14 +54,17 @@ This document is meant for brainstorming; please
 
 # Typical scenario
 
-An institution -- typically a university, a national lab, or maybe
-even a transnational infrastructure provider like EGI -- wishes to
-provide to its members with a Jupyter service.
+An institution -- typically a university, a national lab, a
+transnational research infrastructure such [European
+XFEL](http://xfel.eu), or transational infrastructure provider like
+[EGI](http://egi.eu) -- wishes to provide its members and users with a
+Jupyter service.
 
-The service lets user spawn and access a personal or collaborative
+The service lets user spawn and access personal or collaborative
 virtual environments: namely a web interface to a light weight virtual
 machine, in which they can use Jupyter notebooks, run calculations,
-etc. In the sequel we will use JupyterHub's terminology and call such
+etc. In the remainder of this document we will use JupyterHub's
+terminology and call such
 virtual environments *notebook servers*.
 
 To cater for a large variety of use cases in teaching and research,
@@ -74,22 +77,22 @@ without a need for administrator intervention.
 
 The institution has access to:
 
-- an authentication service (Single Sign-On)
+- An authentication service (Single Sign-On)
 
   Examples: Paris-Sud' Adonis internal SSO, the federated "Recherche
   et Enseignement Supérieur" authentication service of Renater, EGI
   CheckIn, ...
 
-- computing resources
+- Computing resources
 
   Examples: a local cluster, access to a externalized cloud (GC, AWS,
   Azure, ...)
 
-- a shared volume service using the above authentication service
+- A shared volume service using the above authentication service
 
   E.g. a local NextCloud service, or ...
 
-- (optional) a forge
+- (Optional) a forge
 
   Examples: a local gitlab service, github, ... if private
   repositories are needed, the forge presumably will need the same
@@ -124,7 +127,8 @@ binder's main page:
 
 The form consists of:
 
-. The usal binder items:
+- The usual binder items:
+
     - the description of the computing environment: a repo-to-docker-style git repo+branch+...
 
     - the file/url to open on startup
@@ -133,7 +137,7 @@ The form consists of:
 
     - a UI to get a URL/badge referencing the machine
 
-. Persistence and access options:
+- Persistence and access options:
 
     - server_name: name to give to the server
 
@@ -146,6 +150,8 @@ The form consists of:
 
     - collaborators=[....]: (optional) a white list of other users of this jupyterhub that can access this server
 
+    - a flag allowing public 'read-only' access [read-only meaning that the container and all changes are thrown away at the end of the session; and that any 'mounted' data sources are read-only during the session]
+
     - credentials: whether to pass the user credentials into the container (as environment variable, or file)
 
     - resources scaling (optional): memory, number of processors,
@@ -155,7 +161,7 @@ The form consists of:
 ## Behavior upon clicking Launch:
 
 - If a notebook server with the given name already exists and the
-   parameters are not change (or not set): connect to that server,
+   parameters are not changed (or not set): connect to that server,
    restarting it if needed
 
 - If the parameters have been changed, update the existing server when
@@ -165,23 +171,34 @@ The form consists of:
 
 ## Behavior upon following a server URL/badge:
 
-.  Display the authentication page (if not yet authenticated)
+-  Display the authentication page (if not yet authenticated)
 
-.  Display a security confirmation dialog as above (if origin is not within the
+-  Display a security confirmation dialog as above (if origin is not within the
     jupyterhub), with a description of the configuration and origin.
 
-.  As above after clicking "Launch"
+-  As above after clicking "Launch"
 
 # Some use cases
 
-## Local binder (better name?)
+## Local binder (better name? [Binder@home?])
 
-Scenario: Luc, a researcher, discovered a nice computing environment
-on Binder. Maybe a notebook demonstrating an interesting workflow to
-analyze data. He wants to use it more intensively on his own data.
+Scenarios:
 
-Setup: Luc recreates the same environment on his local server by just
-changing the server name in the binder URL.
+- Luc, a researcher, discovered a nice computing environment
+  on Binder. Maybe a notebook demonstrating an interesting workflow to
+  analyze data. He wants to use it more intensively on his own data.
+
+- Lucy has found a notebook & binder environment published
+  with a paper, and he wants to re-execute the notebook to reproduce the
+  published results and start his research in the field. However, no
+  binder (compute) resources are available in the cloud. The computation
+  takes 20 minutes on a standard PC and he would like to run this
+  calculation on his Desktop PC because that resources is readily
+  available and idle 99% of the time.
+
+Setup:
+
+They recreate the same environment on his local server (for example by just changing the server name in the binder URL).
 
 ## Easy sharing of computational environments
 
@@ -245,8 +262,8 @@ Desired features:
 - Full customizability of the computing environment by the teacher
 - Support for live manipulation of the class notes
 - Support for submission, collection and auto-grading of assignments
-- Access from the computer labs or from home
-- Possibility to use either the labs local computers or the server
+- Access from the computer labs or from home, needing only a web browser
+- Possibility to use either the laboratory's local computers or the server (if the server is used, the students only need a web-brower on their computer/laptop/tablet, i.e. no further software installation required)
 
 Prerequisites:
 - A JupyterHub instance, configured as above, accessible from the teachers and students;
@@ -259,7 +276,8 @@ Prerequisites:
 
 Procedure for the teacher(s):
 - Set up a shared volume for the whole class
-- Prepare a computing environment in a git repository on the forge
+- Prepare a computing environment in a git repository on the forge.
+
   Typically includes: computational software, [nbgrader] + configuration, ...
 - Prepare the course material typically in a git repository on the forge
   (the same one or another)
@@ -268,7 +286,8 @@ Procedure for the teacher(s):
   Possibly add the teacher(s) as collaborator(s) ???
   Get the corresponding URL.
 - Possibly prepare a variant thereof for teachers of the class.
-- Set up a web page for the class, with hyperlink(s) to the above URL
+- Set up a web page for the class, with hyperlink(s) to the above URL.
+
   There can typically be an hyperlink for each session pointing directly
   to the exercises for that particular session.
 
@@ -305,7 +324,7 @@ A malicious image description, image, or collaborator can:
 - With read-write persistent storage: corrupt the storage (e.g. the user's home directory)
 
 - With credentials: take any action on behalf of the user in any
-  service that use the same authentication..
+  service that use the same authentication.
 
 # Implementation status
 
@@ -376,6 +395,10 @@ machine "by hand" and save its state. The construction must be fully
 scripted. On the plus side, this encourages users to script their
 images, making them more reproducible.
 
+National and international iniatitives such as the [European Open
+Science Cloud](http://opendreamkit.org/2017/12/06/EOSC/) may help
+providing such a catalog of relevant jupyter notebooks/images.
+
 ## Default volume configuration
 
 - Choose good defaults, if at all possible compatible with binder.
@@ -387,7 +410,7 @@ images, making them more reproducible.
 ## Intensive use and resource management / accounting
 
 The above has been written with casual use in mind. For extensive use,
-some form of accounting of the resources used would be needed. For
+some form of accounting and controlling of the resources used would be needed. For
 example, for LAL's cloud we may want to have some form of bridge
 between the OpenStack dashboard and the hub. UI to be designed. Could
 the user provision a machine using the dashboard, and then specify on
