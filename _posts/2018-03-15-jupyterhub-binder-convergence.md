@@ -127,7 +127,7 @@ binder's main page:
 
 The form consists of:
 
-. The usual binder items:
+- The usual binder items:
 
     - the description of the computing environment: a repo-to-docker-style git repo+branch+...
 
@@ -137,7 +137,7 @@ The form consists of:
 
     - a UI to get a URL/badge referencing the machine
 
-. Persistence and access options:
+- Persistence and access options:
 
     - server_name: name to give to the server
 
