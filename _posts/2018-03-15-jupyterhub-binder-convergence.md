@@ -395,6 +395,10 @@ machine "by hand" and save its state. The construction must be fully
 scripted. On the plus side, this encourages users to script their
 images, making them more reproducible.
 
+National and international iniatitives such as the [European Open
+Science Cloud](http://opendreamkit.org/2017/12/06/EOSC/) may help
+providing such a catalog of relevant jupyter notebooks/images.
+
 ## Default volume configuration
 
 - Choose good defaults, if at all possible compatible with binder.
