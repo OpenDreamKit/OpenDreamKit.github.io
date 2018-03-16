@@ -161,7 +161,7 @@ The form consists of:
 ## Behavior upon clicking Launch:
 
 - If a notebook server with the given name already exists and the
-   parameters are not change (or not set): connect to that server,
+   parameters are not changed (or not set): connect to that server,
    restarting it if needed
 
 - If the parameters have been changed, update the existing server when
