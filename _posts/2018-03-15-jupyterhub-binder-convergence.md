@@ -406,7 +406,7 @@ images, making them more reproducible.
 ## Intensive use and resource management / accounting
 
 The above has been written with casual use in mind. For extensive use,
-some form of accounting of the resources used would be needed. For
+some form of accounting and controlling of the resources used would be needed. For
 example, for LAL's cloud we may want to have some form of bridge
 between the OpenStack dashboard and the hub. UI to be designed. Could
 the user provision a machine using the dashboard, and then specify on
