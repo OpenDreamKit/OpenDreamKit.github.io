@@ -42,7 +42,7 @@ open questions.
 This document started as a collection of notes of Nicolas M. Thiéry,
 reflecting on in-development
 [JupyterHub deployment at Paris-Saclay](http://jupytercloud.lal.in2p3.fr/)
- and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively.
+ and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively, with [some additional contributions](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commits/master/_posts/2018-03-15-jupyterhub-binder-convergence.md).
 They were largely informed by many discussions at
 March 2018's JupyterHub coding sprint in Orsay that involved dev-ops
 of those deployments and two of the main JupyterHub and BinderHub
