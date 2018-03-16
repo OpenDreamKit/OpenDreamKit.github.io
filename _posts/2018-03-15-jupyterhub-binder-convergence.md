@@ -180,7 +180,7 @@ The form consists of:
 
 # Some use cases
 
-## Local binder (better name?)
+## Local binder (better name? [Binder@home?])
 
 Scenario: Luc, a researcher, discovered a nice computing environment
 on Binder. Maybe a notebook demonstrating an interesting workflow to
