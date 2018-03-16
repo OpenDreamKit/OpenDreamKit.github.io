@@ -127,7 +127,8 @@ binder's main page:
 
 The form consists of:
 
-. The usal binder items:
+. The usual binder items:
+
     - the description of the computing environment: a repo-to-docker-style git repo+branch+...
 
     - the file/url to open on startup
