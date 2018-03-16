@@ -182,9 +182,17 @@ The form consists of:
 
 ## Local binder (better name? [Binder@home?])
 
-Scenario: Luc, a researcher, discovered a nice computing environment
+Scenario 1: Luc, a researcher, discovered a nice computing environment
 on Binder. Maybe a notebook demonstrating an interesting workflow to
 analyze data. He wants to use it more intensively on his own data.
+
+Scenarion 2: Luc has found a notebook & binder environment published
+with a paper, and he wants to re-execute the notebook to reproduce and
+start his research in the field. However, no binder (compute)
+resources are available in the cloud. The computation takes 20 minutes
+on a standard PC and he would like to run the this calculation on his
+Desktop PC because that resources is readily available and idle 99% of
+the time.
 
 Setup: Luc recreates the same environment on his local server by just
 changing the server name in the binder URL.
