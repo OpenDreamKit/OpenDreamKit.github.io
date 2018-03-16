@@ -77,22 +77,22 @@ without a need for administrator intervention.
 
 The institution has access to:
 
-- an authentication service (Single Sign-On)
+- An authentication service (Single Sign-On)
 
   Examples: Paris-Sud' Adonis internal SSO, the federated "Recherche
   et Enseignement Supérieur" authentication service of Renater, EGI
   CheckIn, ...
 
-- computing resources
+- Computing resources
 
   Examples: a local cluster, access to a externalized cloud (GC, AWS,
   Azure, ...)
 
-- a shared volume service using the above authentication service
+- A shared volume service using the above authentication service
 
   E.g. a local NextCloud service, or ...
 
-- (optional) a forge
+- (Optional) a forge
 
   Examples: a local gitlab service, github, ... if private
   repositories are needed, the forge presumably will need the same
