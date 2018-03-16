@@ -171,12 +171,12 @@ The form consists of:
 
 ## Behavior upon following a server URL/badge:
 
-.  Display the authentication page (if not yet authenticated)
+-  Display the authentication page (if not yet authenticated)
 
-.  Display a security confirmation dialog as above (if origin is not within the
+-  Display a security confirmation dialog as above (if origin is not within the
     jupyterhub), with a description of the configuration and origin.
 
-.  As above after clicking "Launch"
+-  As above after clicking "Launch"
 
 # Some use cases
 
