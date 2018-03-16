@@ -262,8 +262,8 @@ Desired features:
 - Full customizability of the computing environment by the teacher
 - Support for live manipulation of the class notes
 - Support for submission, collection and auto-grading of assignments
-- Access from the computer labs or from home
-- Possibility to use either the labs local computers or the server
+- Access from the computer labs or from home, needing only a web browser
+- Possibility to use either the laboratory's local computers or the server (if the server is used, the students only need a web-brower on their computer/laptop/tablet, i.e. no further software installation required)
 
 Prerequisites:
 - A JupyterHub instance, configured as above, accessible from the teachers and students;
