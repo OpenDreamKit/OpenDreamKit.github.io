@@ -57,13 +57,14 @@ This document is meant for brainstorming; please
 An institution -- typically a university, a national lab, a
 transnational research infrastructure such [European
 XFEL](http://xfel.eu), or transational infrastructure provider like
-[EGI](http://egi.eu) -- wishes to provide to its members with a
+[EGI](http://egi.eu) -- wishes to provide its members and users with a
 Jupyter service.
 
-The service lets user spawn and access a personal or collaborative
+The service lets user spawn and access personal or collaborative
 virtual environments: namely a web interface to a light weight virtual
 machine, in which they can use Jupyter notebooks, run calculations,
-etc. In the sequel we will use JupyterHub's terminology and call such
+etc. In the remainder of this document we will use JupyterHub's
+terminology and call such
 virtual environments *notebook servers*.
 
 To cater for a large variety of use cases in teaching and research,
