@@ -276,7 +276,8 @@ Prerequisites:
 
 Procedure for the teacher(s):
 - Set up a shared volume for the whole class
-- Prepare a computing environment in a git repository on the forge
+- Prepare a computing environment in a git repository on the forge.
+
   Typically includes: computational software, [nbgrader] + configuration, ...
 - Prepare the course material typically in a git repository on the forge
   (the same one or another)
@@ -285,7 +286,8 @@ Procedure for the teacher(s):
   Possibly add the teacher(s) as collaborator(s) ???
   Get the corresponding URL.
 - Possibly prepare a variant thereof for teachers of the class.
-- Set up a web page for the class, with hyperlink(s) to the above URL
+- Set up a web page for the class, with hyperlink(s) to the above URL.
+
   There can typically be an hyperlink for each session pointing directly
   to the exercises for that particular session.
 
@@ -322,7 +324,7 @@ A malicious image description, image, or collaborator can:
 - With read-write persistent storage: corrupt the storage (e.g. the user's home directory)
 
 - With credentials: take any action on behalf of the user in any
-  service that use the same authentication..
+  service that use the same authentication.
 
 # Implementation status
 
