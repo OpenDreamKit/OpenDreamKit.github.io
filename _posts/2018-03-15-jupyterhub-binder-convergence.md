@@ -150,6 +150,8 @@ The form consists of:
 
     - collaborators=[....]: (optional) a white list of other users of this jupyterhub that can access this server
 
+    - a flag allowing public 'read-only' access [read-only meaning that the container and all changes are thrown away at the end of the session; and that any 'mounted' data sources are read-only during the session]
+
     - credentials: whether to pass the user credentials into the container (as environment variable, or file)
 
     - resources scaling (optional): memory, number of processors,
