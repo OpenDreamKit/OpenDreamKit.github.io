@@ -56,7 +56,7 @@ This document is meant for brainstorming; please
 
 An institution -- typically a university, a national lab, a
 transnational research infrastructure such [European XFEL](http://xfel.eu), or
-transational infrastructure provider like EGI -- wishes to provide to
+transational infrastructure provider like [EGI](http://egi.eu) -- wishes to provide to
 its members with a Jupyter service.
 
 The service lets user spawn and access a personal or collaborative
