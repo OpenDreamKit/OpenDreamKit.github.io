@@ -54,9 +54,10 @@ This document is meant for brainstorming; please
 
 # Typical scenario
 
-An institution -- typically a university, a national lab, or maybe
-even a transnational infrastructure provider like EGI -- wishes to
-provide to its members with a Jupyter service.
+An institution -- typically a university, a national lab, a
+transnational research infrastructure such [European XFEL](http://xfel.eu), or
+transational infrastructure provider like EGI -- wishes to provide to
+its members with a Jupyter service.
 
 The service lets user spawn and access a personal or collaborative
 virtual environments: namely a web interface to a light weight virtual
