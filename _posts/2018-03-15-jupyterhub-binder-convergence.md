@@ -39,15 +39,18 @@ specifications. It further discusses security aspects and what remains
 to be implemented, before concluding with more advanced features and
 open questions.
 
-This document started as a collection of notes of Nicolas M. Thiéry,
+This document started as a collection of private notes
 reflecting on in-development
 [JupyterHub deployment at Paris-Saclay](http://jupytercloud.lal.in2p3.fr/)
- and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively, with [some additional contributions](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commits/master/_posts/2018-03-15-jupyterhub-binder-convergence.md).
+and [EGI](https://jupyterhub.fedcloud-tf.fedcloud.eu/) respectively,
+with [some additional contributions](https://github.com/OpenDreamKit/OpenDreamKit.github.io/commits/master/_posts/2018-03-15-jupyterhub-binder-convergence.md).
 They were largely informed by many discussions at
-March 2018's JupyterHub coding sprint in Orsay that involved dev-ops
+March 2018's [JupyterHub coding sprint in Orsay](https://pad.unistra.fr/p/jupyterhub-dev)
+that involved dev-ops
 of those deployments and two of the main JupyterHub and BinderHub
 devs: Min Ragan Kelley and Chris Holdgraf. It was also inspired by
-some of [cocalc](https://cocalc.com) features. Thank you all!!!
+some of [cocalc](https://cocalc.com) features. Silly ideas reflecting
+here are mine, hard work is theirs; thank you all!!!
 
 This document is meant for brainstorming; please
 [hop in and edit](https://github.com/OpenDreamKit/OpenDreamKit.github.io/tree/master/_posts/2018-03-15-jupyterhub-binder-convergence.md).
@@ -55,7 +58,7 @@ This document is meant for brainstorming; please
 # Typical scenario
 
 An institution -- typically a university, a national lab, a
-transnational research infrastructure such [European
+transnational research infrastructure such as the [European
 XFEL](http://xfel.eu), or transational infrastructure provider like
 [EGI](http://egi.eu) -- wishes to provide its members and users with a
 Jupyter service.
@@ -150,7 +153,10 @@ The form consists of:
 
     - collaborators=[....]: (optional) a white list of other users of this jupyterhub that can access this server
 
-    - a flag allowing public 'read-only' access [read-only meaning that the container and all changes are thrown away at the end of the session; and that any 'mounted' data sources are read-only during the session]
+    - a flag allowing public 'temporary read-only' access (meaning
+      that the container and all changes are thrown away at the end of
+      the session; and that any 'mounted' data sources are read-only
+      during the session)
 
     - credentials: whether to pass the user credentials into the container (as environment variable, or file)
 
@@ -188,17 +194,21 @@ Scenarios:
   on Binder. Maybe a notebook demonstrating an interesting workflow to
   analyze data. He wants to use it more intensively on his own data.
 
-- Lucy has found a notebook & binder environment published
-  with a paper, and he wants to re-execute the notebook to reproduce the
-  published results and start his research in the field. However, no
-  binder (compute) resources are available in the cloud. The computation
-  takes 20 minutes on a standard PC and he would like to run this
-  calculation on his Desktop PC because that resources is readily
-  available and idle 99% of the time.
+- Lucy has found a notebook & binder environment published with a
+  paper, and she wants to re-execute the notebook to reproduce the
+  published results and start her research in the field. However, no
+  binder (compute) resources are available in the cloud. The
+  computation takes 20 minutes on a standard PC and she would like to
+  run this calculation on her local server.
 
 Setup:
 
-They recreate the same environment on his local server (for example by just changing the server name in the binder URL).
+They recreate the same environment on their local server (for example
+by just changing the server name in the binder URL).
+
+More advanced scenario to explore: Lucy would like to use her Desktop
+PC because that resource is readily available and idles 99% of the
+time.
 
 ## Easy sharing of computational environments
 
@@ -259,11 +269,13 @@ file format for notebooks.
 Scenario: using the server for a class' computer labs and assignments
 
 Desired features:
-- Full customizability of the computing environment by the teacher
-- Support for live manipulation of the class notes
-- Support for submission, collection and auto-grading of assignments
-- Access from the computer labs or from home, needing only a web browser
-- Possibility to use either the laboratory's local computers or the server (if the server is used, the students only need a web-brower on their computer/laptop/tablet, i.e. no further software installation required)
+- Full customizability of the computing environment by the teacher;
+- Support for live manipulation of the class notes;
+- Support for submission, collection and auto-grading of assignments;
+- Access from the computer labs or outside (home, ...);
+- Possibility to either use the server, needing only a web browser (no
+  software installation required; supports phones, tablets, ...), or
+  install and run the software locally.
 
 Prerequisites:
 - A JupyterHub instance, configured as above, accessible from the teachers and students;
@@ -395,9 +407,9 @@ machine "by hand" and save its state. The construction must be fully
 scripted. On the plus side, this encourages users to script their
 images, making them more reproducible.
 
-National and international iniatitives such as the [European Open
+National and international initiatives such as the [European Open
 Science Cloud](http://opendreamkit.org/2017/12/06/EOSC/) may help
-providing such a catalog of relevant jupyter notebooks/images.
+providing such a catalog of relevant Jupyter notebooks/images.
 
 ## Default volume configuration
 
