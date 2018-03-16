@@ -194,8 +194,7 @@ on a standard PC and he would like to run the this calculation on his
 Desktop PC because that resources is readily available and idle 99% of
 the time.
 
-Setup: Luc recreates the same environment on his local server by just
-changing the server name in the binder URL.
+Setup: Luc recreates the same environment on his local server (for example by just changing the server name in the binder URL).
 
 ## Easy sharing of computational environments
 
