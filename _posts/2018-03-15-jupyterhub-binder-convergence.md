@@ -12,13 +12,13 @@ tags:
     - cloud
 ---
 
-# About this document
+# About this document 
 
 Nowadays, many institutions run a [JupyterHub](http://jupyterhub.org)
 server, providing their members with easy access to [Jupyter](http://jupyter.org)-based
 virtual environments (a.k.a. notebook servers), preinstalled with a
 stack of computational software, tailored to the typical needs of the
-institution's members. Meanwhile, since a few years,
+institution's members. Meanwhile, since a few years ago,
 [Binder](http://mybinder.org) lets any user on the internet define,
 run, and share temporary virtual environments equipped with an
 arbitrary software stack ([examples](https://jupyter.org/try)).
@@ -31,11 +31,11 @@ together the best of both worlds: think persistent authenticated
 [JupyterHub](http://jupyterhub.org). For now, let's call them *versatile
 JupyterHub deployments*.
 
-This document brainstorms about this convergence: it sets up the
+This document brainstorms this convergence process: it sets up the
 ground with a scenario and assumptions for a typical institution-wide
-JupyterHub deployment, propose specifications from a user perspective,
+JupyterHub deployment, proposes specifications from a user perspective,
 and describes some typical use cases that would be enabled by such
-specifications. It further discuss security aspects and what remains
+specifications. It further discusses security aspects and what remains
 to be implemented, before concluding with more advanced features and
 open questions.
 
