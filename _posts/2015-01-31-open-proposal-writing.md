@@ -171,7 +171,8 @@ Exception: if you use like us the web repository browser as web site for
 the proposal, you may want to commit from time to time the proposal's
 pdf to make it accessible to everybody. That's alright, but do it under
 a specific name, so that people don't conflict with it when they build
-the pdf locally. See e.g. the `final` dependency in our [](Makefile).
+the pdf locally. See e.g. the `final` dependency in our
+[Makefile](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/Proposal/Makefile).
 
 Finding a nice acronym
 ----------------------

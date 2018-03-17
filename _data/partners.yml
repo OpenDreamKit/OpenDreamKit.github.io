@@ -33,6 +33,9 @@ sites:
       - name: Loïc Gouarin
         homepage: 'http://www.math.u-psud.fr/~gouarin/'
         github: gouarin
+      - name: Florian Rabe
+        homepage: 'https://kwarc.info/people/frabe/'
+        github: florian-rabe
         
   - name: Université de Bordeaux
     logo: Universite-de-Bordeaux_static.svg
@@ -289,12 +292,19 @@ sites:
          - site-leader
          - wp6-leader
         github: kohlhase
+      - name: Florian Rabe
+        roles:
+         - site-leader
+        homepage: 'https://kwarc.info/people/frabe/'
+        github: florian-rabe
       - name: Dennis Müller
         homepage: 'https://kwarc.info/people/dmueller'
         github: Jazzpirate
       - name: Tom Wiesing
         homepage: 'https://kwarc.info/people/twiesing'
         github: tkw1536
+      - name: Theresa Pollinger
+        homepage: 'https://kwarc.info/people/tpollinger'
 
 partners:
   - name: CNRS

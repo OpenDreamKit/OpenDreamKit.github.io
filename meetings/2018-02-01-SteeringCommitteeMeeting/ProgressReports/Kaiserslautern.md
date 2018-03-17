@@ -1,5 +1,5 @@
 ---
-layout: slides
+layout: page
 title: "Progress report for Kaiserslautern"
 theme: white
 transition: none
@@ -7,7 +7,7 @@ author: Wolfram Decker
 period: Reporting period from March 2017 to January 2018
 ---
 
-<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+
 # {{ page.title }}
 
 {{ page.author }}
@@ -51,13 +51,13 @@ period: Reporting period from March 2017 to January 2018
 
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
   * Due month 48
-  * The above are example deliverables only (we will delivers these in addition to other parallel/Singular HPC projects) 
+  * The above are example deliverables only (we will deliver these in addition to other parallel/Singular HPC projects) 
 
 ### Parallel Sparse Polynomial Arithmetic in Singular
 
 The goal of the project is to implement in Singular fast parallel arithmetic for multivariate polynomials defined over either the integers ($\mathbb{Z}$), the rational numbers ($\mathbb{Q}$), or the integers modulo a prime ($\mathbb{Z}/n\mathbb{Z}$). The implementation should include the basic operations (addition, subtraction, multiplication, exact division, and powering), the various kinds of inexact division, and a computation of the greatest common divisor (GCD) of two polynomials. These operations should also be parallelized.
 
-The main librayr in sinfular for arithemtic is factory, which makes use of FLINT for polynomials rings. Because the work is being done to a library available in Singular (FLINT), it is directly avaiable to other projects with the OpenDreamKit progect. The repository is located at https://github.com/wbhart/flint2/tree/fmpz_mpoly.
+The main library in Singular for arithemtic is Factory, which makes use of FLINT for polynomials rings. Because the work is being done to a library available in Singular (FLINT), it is directly available to other projects with the OpenDreamKit progect. The repository is located at https://github.com/wbhart/flint2/tree/fmpz_mpoly.
 
 The \emph{mpoly} module for dealing with multivariate exponents has been rewritten to allow for arbitrary packings of the exponents into fields within one machine word as well as over multiple machine words, a strategy employed by singular. This means that small exponents as well as large multi-precision exponents can be dealt with efficiently. However, only the basic operations (addition, subtraction, multiplication, exact division, and powering) are allowed to work on multi-precision exponents. For multiplication and division of polynomials, the algorithms are further divided into a "sparse" case and a "semi-sparse" case, where sparse data stuctures and algorithms are sill employed, but traditional sparse alrorithms are not optimal.
 
