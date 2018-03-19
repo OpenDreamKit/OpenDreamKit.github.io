@@ -27,6 +27,10 @@ menu_order: 2
   software and data: University/Institution/European Infrastructure
   wide deployment
 
+- A community wanting to deploy a dedicated VRE (e.g. JOOMMF's VRE)
+
+- WP6 use case: multi-system math calculations with the Math-in-the-Middle
+
 ## About
 
 This (in-the-works) page collects a range of typical use cases that
