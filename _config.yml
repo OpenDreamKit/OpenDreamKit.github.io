@@ -11,10 +11,12 @@ paginate:            10
 paginate_path:       "/news/page:num/"
 blog_path:           "/news/"
 future:              True
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-github-metadata
   - jekyll-redirect-from
+gems:
+  - jekyll-paginate
 
 exclude: ['public/*.md', 'public/*.html', '_tagpages/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
 
