@@ -53,8 +53,8 @@ and auto-building the Docker image on <https://hub.docker.com/>. !-->
 
 ## To do
 
-- Estimate the number of such instances
-- Provide a template
+- Estimate the number of such instances;
+- Provide a template.
 
 ## Time and expertise required
 
@@ -67,9 +67,9 @@ later on.
 
 ## What's new since OpenDreamKit started
 
-- Apparition of [Binder](http://mybinder.org)
-- Expansion of the [Jupyter](http://jupyter.org) technology
-- Better packaging and interfacing of math software
+- Apparition of [Binder](http://mybinder.org);
+- Expansion of the [Jupyter](http://jupyter.org) technology;
+- Better packaging and interfacing of math software.
 
 ## OpenDreamKit contribution
 
@@ -80,9 +80,9 @@ later on.
   SageMath, Singular, ...); see
   [D3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/58)
   and
-  [D3.10](https://github.com/OpenDreamKit/OpenDreamKit/issues/59).
-- Early adoption of Binder
+  [D3.10](https://github.com/OpenDreamKit/OpenDreamKit/issues/59);
+- Early adoption of Binder;
 - Contributions to the
-  [deployment of new Binder instances](https://github.com/OpenDreamKit/OpenDreamKit/issues/238)
+  [deployment of new Binder instances](https://github.com/OpenDreamKit/OpenDreamKit/issues/238);
 - Advertising, training, providing a template (TODO!), ...
 
