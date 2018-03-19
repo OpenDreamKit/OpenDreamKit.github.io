@@ -183,6 +183,11 @@ svg.icon, img.icon {
     vertical-align: baseline;
 }
 
+img.small-screenshot {
+    max-width: 45%;
+    vertical-align: baseline;
+}
+
 #sites {
     display: flex;
     flex-flow: row wrap;

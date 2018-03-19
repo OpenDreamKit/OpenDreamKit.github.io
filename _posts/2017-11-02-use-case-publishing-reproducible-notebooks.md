@@ -2,6 +2,7 @@
 layout: post
 author: Nicolas M. Thiéry
 title: Publishing reproducible logbooks
+picture: use-cases-binder-logbook.png
 tags:
     - use-case
     - best-practice
@@ -11,12 +12,12 @@ tags:
     - binder
 ---
 
-This document is part of a collection of [use cases](/tag/use-case).
-
 ## Scenario
 
 Jane has written a (math) paper based on experimentations. She would
 like anyone to be able to reproduce her calculations.
+
+[ ![a binder logbook screenshot](/public/images/use-cases-binder-logbook.png){:class="small-screenshot"} ](/public/images/use-cases-binder-logbook.png)
 
 ## Suggestion of solution
 
@@ -32,7 +33,7 @@ like anyone to be able to reproduce her calculations.
 
 4.  Bonus: make the paper itself active
 
-    TODO: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?).
+    To do: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?.
 
 <!-- If executing the examples requires a non-trivial install/build step,
 also consider
