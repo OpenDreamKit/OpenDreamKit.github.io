@@ -4,6 +4,8 @@ author: Nicolas M. Thiéry
 title: Toward versatile JupyterHub deployments, with the Binder and JupyterHub convergence
 tags:
     - blogpost
+    - blogpost-technical
+    - front-page
     - jupyter
     - binder
     - emerging-technologies
@@ -12,7 +14,7 @@ tags:
     - cloud
 ---
 
-# About this document 
+# About this document
 
 Nowadays, many institutions run a [JupyterHub](http://jupyterhub.org)
 server, providing their members with easy access to [Jupyter](http://jupyter.org)-based
@@ -157,6 +159,8 @@ The form consists of:
       that the container and all changes are thrown away at the end of
       the session; and that any 'mounted' data sources are read-only
       during the session)
+
+      alternatively
 
     - credentials: whether to pass the user credentials into the container (as environment variable, or file)
 
