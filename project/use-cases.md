@@ -2,7 +2,6 @@
 layout: page
 title: Use cases
 menu_order: 2
-source: _data/software.yml
 ---
 
 {% for post in site.tags['use-case'] %}
