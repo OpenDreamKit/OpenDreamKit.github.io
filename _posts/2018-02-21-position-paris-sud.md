@@ -17,6 +17,9 @@ systems and databases.
 
 Interviews in March 2018 for a recruitment as soon as possible.
 
+Update (March 22nd): after the interviews on March 21st, we selected
+and ranked two candidates and made an offer to the first one.
+
 # Salary
 
 For a full-time position, and depending on the applicant's past
