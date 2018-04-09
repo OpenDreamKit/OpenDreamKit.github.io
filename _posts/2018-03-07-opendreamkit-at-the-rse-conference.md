@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "OpenDreamKit at the RSE conference"
-date: "2018-03-07 10:34:07 +0000"
+title: OpenDreamKit at the RSE conference
 author: Tania Allard
 tags:
    - jupyter
    - workshop
    - nbdime
    - conference
+   - teaching
+   - blogpost
 ---
 # Open Dream Kit presence at the second RSE conference
 
