@@ -1,11 +1,12 @@
 ---
 layout: post
-
 author: OpenDreamKit
-location: Olot, Spain
 title: Subgroups and lattices of Lie groups
+location: Olot, Spain
+dates: February 19th-March 3rd of 2018
 tags:
     - workshop
+    - front-page
     - sagemath
     - GAP
     - pari-gp
@@ -13,7 +14,7 @@ tags:
 
 [OpenDreamKit](http://opendreamkit.org) is hosting a workshop on "Subgroups and lattices of Lie groups"
 to take place at the [Faber residency](http://faberresidency.cat/) in Olot, Spain from monday 19th
-of February to Saturday 3rd of March. The aim is to bring together experts in the geometry, algebra
+of February to Saturday 3rd of March 2018. The aim is to bring together experts in the geometry, algebra
 and combinatorics together with software developers in order to improve algorithms and
 functionalities of open source packages concerning Lie groups and their subgroups.
 

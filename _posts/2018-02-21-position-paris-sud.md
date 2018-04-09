@@ -5,6 +5,7 @@ author: Paris-Sud
 title: Research Software Engineer position opening at Université Paris-Sud
 tags:
     - job-opening
+    - front-page
 ---
 
 This is an announcement for a research software engineer position
@@ -14,7 +15,10 @@ systems and databases.
 
 # Time line
 
-Interviews in early Spring 2018 for a recruitment as soon as possible.
+Interviews in March 2018 for a recruitment as soon as possible.
+
+Update (March 22nd): after the interviews on March 21st, we selected
+and ranked two candidates and made an offer to the first one.
 
 # Salary
 
@@ -22,10 +26,7 @@ For a full-time position, and depending on the applicant's past
 experience, between 2000€ and 3000€ of monthly "salaire net" (salary
 after non-wage labour cost but before income tax). Equivalently, what
 this salary represents for is a "salaire brut" of up to 46200€ yearly.
-
-At this stage, we have secured funding for at least 9 months of
-full-time salary. We hope to be able to extend this up to the end of
-the project (August 2019). Part time positions are negotiable.
+We have secured funding until the end of the project (August 2019).
 
 # Location
 
