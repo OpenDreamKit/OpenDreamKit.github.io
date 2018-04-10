@@ -60,4 +60,5 @@ the attendees to share their previous experiences regarding reproducibility and/
 thereof in different research areas.
 
 We plan to run a set or workshops around reproducibility over the duration of the
-ODK project and we'll make sure to report on them here too.
+ODK project and we'll make sure to report on them here too. Finally, all the materials are licensed under
+CC-BY and can be found [in this GitHub repository](https://github.com/trallard/JNB_reproducible) .
