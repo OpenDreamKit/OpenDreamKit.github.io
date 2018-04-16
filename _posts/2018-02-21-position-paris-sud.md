@@ -6,6 +6,9 @@ title: Research Software Engineer position opening at Université Paris-Sud
 tags:
     - job-opening
     - front-page
+    - jupyter
+    - sagemath
+    - math-in-the-middle
 ---
 
 This is an announcement for a research software engineer position
@@ -106,7 +109,7 @@ contribute significantly to some of the following tasks (see also
 - Knowledge-based code infrastructure (Task 6.5)
 
   Over the last decades, computational components, and in particular
-  Axiom, MuPAD, \GAP, or \Sage, have embedded more and more
+  Axiom, MuPAD, GAP, or Sage, have embedded more and more
   mathematical knowledge directly inside the code, as a way to better
   structure it for expressiveness, flexibility, composability,
   documentation, and robustness. In this task we will review the
