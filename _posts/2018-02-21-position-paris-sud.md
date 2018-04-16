@@ -2,10 +2,9 @@
 layout: post
 
 author: Paris-Sud
-title: Research Software Engineer position opening at Université Paris-Sud
+title: Research Software Engineer position opening at Université Paris-Sud (tentativelly filled)
 tags:
     - job-opening
-    - front-page
     - jupyter
     - sagemath
     - math-in-the-middle
@@ -20,8 +19,9 @@ systems and databases.
 
 Interviews in March 2018 for a recruitment as soon as possible.
 
-Update (March 22nd): after the interviews on March 21st, we selected
-and ranked two candidates and made an offer to the first one.
+Update (March 27th): after the interviews on March 21st, we selected
+and ranked two candidates and made an offer to the first one. Pending
+administrative hoops, they will take the position.
 
 # Salary
 
