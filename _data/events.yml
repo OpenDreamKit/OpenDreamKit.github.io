@@ -104,6 +104,12 @@ InternalEvents:
       start: 2019-02-11
       end: 2019-02-16
       url: http://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
+    - title: Dissemination project meeting 
+      start: 2018-06-20
+      end: 2018-06-23
+    - title: Steering committee
+      start: 2018-06-21
+      end: 2018-06-21
       
 ExternalEvents:
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
@@ -167,9 +173,4 @@ ExternalEvents:
       start: 2016-10-17
       end: 2016-10-22
       url: http://www.codima.ac.uk/school2016/
-    - title: Dissemination project meeting 
-      start: 2018-06-20
-      end: 2018-06-23
-    - title: Steering committee
-      start: 2018-06-21
-      end: 2018-06-21
+
