@@ -22,7 +22,7 @@ InternalEvents:
       end: 2016-01-28
       url: http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/
       location: University of St Andrews
-    - title: Sage Days 73
+    - title: Sage Days 73https://opendreamkit.org/events_activities/calendar/#
       start: 2016-05-04
       end: 2016-05-08
       url: http://wiki.sagemath.org/days73
@@ -167,3 +167,9 @@ ExternalEvents:
       start: 2016-10-17
       end: 2016-10-22
       url: http://www.codima.ac.uk/school2016/
+    - title: Dissemination project meeting 
+      start: 2018-06-20
+      end: 2018-06-23
+    - title: Steering committee
+      start: 2018-06-21
+      end: 2018-06-21
