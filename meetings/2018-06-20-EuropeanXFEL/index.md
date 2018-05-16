@@ -9,9 +9,9 @@ June 2018. We expect about 20 participants at this event.
 
 # Agenda
 
-- Wednesday 20 June: ...
-- Thursday 21 June: ...
-- Friday 22 June: ...
+- Wednesday 20 June: ... 
+- Thursday 21 June: ... 
+- Friday 22 June: ... 
 
 [Detailed Agenda](agenda/)
 
@@ -22,26 +22,33 @@ June 2018. We expect about 20 participants at this event.
 
 # Venue
 
-A big meeting room and a small meeting room are reserved:
+At European XFEL, two meeting rooms are reserved:
 
-- Big room (coffee and lunch served)
+- Big room (coffee and lunch served) 
 - Small room
+
+# How to reach the European XFEL
+
+For the details on how to reach the venue, please check [here](https://www.xfel.eu/contacts/index_eng.html).
 
 # Accommodation
 
 Participants need to book and pay themselves for the rooms.
 
-You can book any hotel you want, but here is the list of probably the closest hotels to the venue:
+You can book any hotel you want, but three probably the closest hotels to the venue are:
 
--
--
+- Hotel Klövensteen (1.0 km), http://www.hotel-kloevensteen.de 
+- Pension Wulff (0.5 km), http://www.wulff-pension.de 
+- Hotel Blankenese (2.0 km), http://www.hotel-blankenese.de/
 
-# How to come
+For further information about the possible hotels recommended by European XFEL, please check this [pdf](hotels_list.pdf). Please note that prices in the document can be outdated.
 
-Although the European XFEL is in Schenefeld, it is very easy to reach it both from the Hamburg Airport, Main Train Station (Hauptbahnhof), and central Hamburg. To plan your local journey, you can visit [HVV](http://www.hvv.de/en/), enter your starting station and use "Schenefeld, Aneken" as your final stop.
+# Public transport
 
-Tickets can be bought at all S-Bahn and U-Bahn stations (cards and cash accepted) as well as from the bus driver (change given). In addition, you can also get a ticket using [HVV-App](http://www.hvv.de/fahrplaene/hvv-app/), but you will need to create an account.
+European XFEL is in Schenefeld, but it is very easy to reach it both from the Hamburg Airport, Main Train Station (Hauptbahnhof), and central Hamburg. To plan your local journey, you can visit [HVV](http://www.hvv.de/en/), enter your starting station and use "Schenefeld, Aneken" as your final stop.
+
+Tickets can be bought at all S-Bahn and U-Bahn stations (cards and cash accepted) as well as from the bus driver (cash only, change given). In addition, you can also get a ticket using [HVV-App](http://www.hvv.de/fahrplaene/hvv-app/), but you will need to create an account.
 
 # Other
 
-If you have any questions, please email either Marijan Beg (marijan.beg (at) xfel.eu) or Hans Fangohr (hans.fangohr (at) xfel.eu).
+If you have any questions or requests regarding the meeting (accommodation, transport, food), please email either Marijan Beg (marijan.beg (at) xfel.eu) or Hans Fangohr (hans.fangohr (at) xfel.eu).
