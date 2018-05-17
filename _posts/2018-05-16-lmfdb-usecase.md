@@ -6,9 +6,10 @@ tags:
    - use-case
    - open-science
    - dksbases
-   -  LMFDB
+   - LMFDB
    - sagemath
    - pari-gp
+   - math-in-the-middle
 ---
 
 John Cremona and David Lowry wrote up a [detailed mathematical use case](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/usecase-notes/UseCaseHecke.pdf) for integrating LMFDB with SageMath and/or Pari/GP via the [virtual theories in MMT](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-vt/crc.pdf) and the Math-in-the-Middle Paradigm.
