@@ -112,16 +112,16 @@ InternalEvents:
       end: 2018-06-21
       
 ExternalEvents:
-    - title: International Congress on Mathematical Software - ICMS 2018
+   - title: International Congress on Mathematical Software - ICMS 2018
       location: University of Notre Dame
       start: 2018-07-24
       end: 2018-07-27
       url: http://icms-conference.org/2018/
-    - title: Conference on Intelligent Computer Mathematics (CICM 2018)
+   - title: Conference on Intelligent Computer Mathematics (CICM 2018)
       start: 2017-08-13
       end: 2017-08-17
       url: http://www.cicm-conference.org/2018/
-     P location: RISC Linz
+      location: RISC Linz
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
       end: 2017-07-21
