@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenDreamKit project meeting at European XFEL GmbH (draft)
+title: Project meeting at European XFEL GmbH (draft)
 tags:
     - project-meeting
     - front-page
