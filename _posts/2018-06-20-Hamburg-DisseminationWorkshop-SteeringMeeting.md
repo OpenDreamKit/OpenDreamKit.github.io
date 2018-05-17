@@ -1,6 +1,11 @@
----
-layout: page
+﻿---
+layout: post
 title: OpenDreamKit project meeting at European XFEL GmbH (draft)
+tags:
+    - project-meeting
+    - front-page
+    - dissemination
+
 ---
 
 OpenDreamKit’s project meeting will take place at European XFEL GmbH
