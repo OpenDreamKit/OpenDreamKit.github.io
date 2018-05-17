@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenDreamKit project meeting at European XFEL GmbH
+title: OpenDreamKit project meeting at European XFEL GmbH (draft)
 ---
 
 OpenDreamKit’s project meeting will take place at European XFEL GmbH
@@ -9,8 +9,11 @@ June 2018. We expect about 20 participants at this event.
 
 # Agenda
 
-- Wednesday 20 June: ... 
-- Thursday 21 June: ... 
+- Wednesday 20 June: 
+  - Morning and afternoon: interviews will be run for some input on the website
+- Thursday 21 June: 
+  - Morning: Dissemination workshop + last interviews
+  - Afternoon: Steering committee meeting
 - Friday 22 June: ... 
 
 [Detailed Agenda](agenda/)
@@ -18,7 +21,15 @@ June 2018. We expect about 20 participants at this event.
 # Participants
 
 - European XFEL GmbH: Hans Fangohr, Marijan Beg
-- ...
+- Université Paris-Sud: Benoît Pilorget, Nicolas Thiéry, Viviane Pons, Erik Bray, (+ Romain Turminel?)
+- Logilab: Olivier Cayrol 	
+- UWarwick: John Cremona
+- University of Leeds: Mike Croucher
+- Simula: Min RK
+- University of Silesia: Marcin Kostur
+- TU Kaiserslautern: Wolfram Decker
+- FAU: Michael Kohlhase
+
 
 # Venue
 
