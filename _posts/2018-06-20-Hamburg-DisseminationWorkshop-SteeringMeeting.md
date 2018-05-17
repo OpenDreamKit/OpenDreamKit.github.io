@@ -5,7 +5,6 @@ tags:
     - project-meeting
     - front-page
     - dissemination
-
 ---
 
 OpenDreamKit’s project meeting will take place at European XFEL GmbH
