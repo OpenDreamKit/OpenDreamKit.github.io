@@ -172,7 +172,7 @@ at [`py-scscp`(https://github.com/OpenMath/py-scscp/) and
 [`py-openmath`](https://github.com/OpenMath/py-openmath)).
 
 * **[NumericalSgps](https://www.gap-system.org/Packages/numericalsgps.html)**
-(lead: Pedro A. García Sánchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
+(lead: Pedro A. Garcaa Sanchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
 
 * **Extending and integrating nbval and nbdime features** Developers of nbval and nbdime and others interested in contributing should meet to extend nbval and possibly nbdime.
 
