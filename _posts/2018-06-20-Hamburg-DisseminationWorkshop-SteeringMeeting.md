@@ -14,9 +14,9 @@ OpenDreamKit’s project meeting will take place at European XFEL GmbH
 in Schenefeld near Hamburg (Germany), from Wednesday 20 - Friday 22
 June 2018. We expect about 20 participants at this event.
 
-*!! Note that during Wednesday all days as well as The Thursday morning a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants likely to be required to share their points of views, insights (on ODK as a project, Jupyter, dissemiantion activities...). The content will eventually added on the next version of the website once the videographer is done editing everything.*
+*!! Note that during Wednesday all days as well as The Thursday morning a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants likely to be required to share their points of views, insights (on ODK as a project, Jupyter, dissemiantion activities...). The content will eventually be added on the next version of the website once the videographer is done editing everything.*
 
-# The 3-day workshop will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
+# The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
 # Agenda
 
