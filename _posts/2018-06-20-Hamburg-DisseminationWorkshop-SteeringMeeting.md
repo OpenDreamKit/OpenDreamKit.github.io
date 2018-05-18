@@ -26,13 +26,13 @@ June 2018. We expect about 20 participants at this event.
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainsroming if required and/or writing of content (use cases, etc)
     
-- Thursday 21 June: 
+- Thursday 21 June (main room for WP1 and WP2): 
   - Morning
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainsroming if required and/or writing of content (use cases, etc)
   - Afternoon: Steering committee meeting and preparation/writing of deliverables due for end August 2018
   
-- Friday 22 June: writing of dissemination content and development of website (new version will not be ready by the meeting)
+- Friday 22 June (main room for WP2): writing of dissemination content and development of website (new version will not be ready by the meeting)
 
 # Participants
 
