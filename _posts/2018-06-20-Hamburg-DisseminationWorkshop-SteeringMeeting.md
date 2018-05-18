@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Marijan Beg
-title: Project meeting at European XFEL GmbH (draft)
+title: Project meeting at European XFEL GmbH
 dates: June 20-22 2018
 location: Hamburg, Germany
 tags:
@@ -14,16 +14,25 @@ OpenDreamKit’s project meeting will take place at European XFEL GmbH
 in Schenefeld near Hamburg (Germany), from Wednesday 20 - Friday 22
 June 2018. We expect about 20 participants at this event.
 
+*!! Note that during Wednesday all days as well as The Thursday morning a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants likely to be required to share their points of views, insights (on ODK as a project, Jupyter, dissemiantion activities...). The content will eventually added on the next version of the website once the videographer is done editing everything.*
+
+# The 3-day workshop will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
+
 # Agenda
 
-- Wednesday 20 June: 
-  - Morning and afternoon: interviews will be run for some input on the website
+- Wednesday 20 June (main room devoted to WP2) 
+  - Morning: Viviane will begin the day introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit.  Remaining time before lunch will be used for brainstorming.
+  - Afternoon
+    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+    - brainsroming if required and/or writing of content (use cases, etc)
+    
 - Thursday 21 June: 
-  - Morning: Dissemination workshop + last interviews
-  - Afternoon: Steering committee meeting
-- Friday 22 June: ... 
-
-[Detailed Agenda](agenda/)
+  - Morning
+    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+    - brainsroming if required and/or writing of content (use cases, etc)
+  - Afternoon: Steering committee meeting and preparation/writing of deliverables due for end August 2018
+  
+- Friday 22 June: writing of dissemination content and development of website (new version will not be ready by the meeting)
 
 # Participants
 
