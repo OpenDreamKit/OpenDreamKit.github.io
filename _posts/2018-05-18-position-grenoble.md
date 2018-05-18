@@ -90,9 +90,7 @@ The position will be funded by
 [OpenDreamKit](http://opendreamkit.org), a
 [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
 European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
-project that will run for four years, starting from September
-2015. This project brings together the open-source computational
-mathematics ecosystem -- and in particular
+project that will run for four years, starting from September 2015. This project brings together the open-source computational mathematics ecosystem -- and in particular
 [LinBox](http://linalg.org/),
 [MPIR](http://mpir.org),
 [SageMath](http://sagemath.org/),
