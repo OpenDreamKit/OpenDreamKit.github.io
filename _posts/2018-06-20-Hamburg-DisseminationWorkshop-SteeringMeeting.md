@@ -14,25 +14,25 @@ OpenDreamKit’s project meeting will take place at European XFEL GmbH
 in Schenefeld near Hamburg (Germany), from Wednesday 20 - Friday 22
 June 2018. We expect about 20 participants at this event.
 
-*!! Note that during Wednesday all days as well as The Thursday morning a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants likely to be required to share their points of views, insights (on ODK as a project, Jupyter, dissemiantion activities...). The content will eventually be added on the next version of the website once the videographer is done editing everything.*
+*!! Note that during Wednesday all day as well as on the Thursday morning, a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants who are likely to be required to share their points of views and insights (on ODK as a project, Jupyter, dissemination activities...). The content will eventually be added on the next version of the website once the videographer is done editing everything.*
 
 # The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
 # Agenda
 
 - Wednesday 20 June (main room devoted to WP2) 
-  - Morning: Viviane will begin the day introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit.  Remaining time before lunch will be used for brainstorming.
+  - Morning: Viviane will begin the day byintroducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
   - Afternoon
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainsroming if required and/or writing of content (use cases, etc)
+    - brainstorming if needed and/or writing of content (use cases, etc)
     
 - Thursday 21 June (main room for WP1 and WP2): 
   - Morning
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainsroming if required and/or writing of content (use cases, etc)
+    - brainstorming if needed and/or writing of content (use cases, etc)
   - Afternoon: Steering committee meeting and preparation/writing of deliverables due for end August 2018
   
-- Friday 22 June (main room for WP2): writing of dissemination content and development of website (new version will not be ready by the meeting)
+- Friday 22 June (main room for WP2): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
 
 # Participants
 
