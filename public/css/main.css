@@ -188,6 +188,13 @@ img.small-screenshot {
     vertical-align: baseline;
 }
 
+img.display {
+    max-width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #sites {
     display: flex;
     flex-flow: row wrap;

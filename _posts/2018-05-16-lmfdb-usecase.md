@@ -37,7 +37,7 @@ in mind, this integration is non-trivial on several levels. This is where the
 [Math-in-the-Middle Paradigm](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/WP6/MACIS17-interop/crc.pdf)
 comes to the rescue.
 
-[ ![The MitM Paradigm Connection Graph](/public/images/use-cases-lmfdb-mitm.png){:class="img-responsive"} ](/public/images/use-cases-lmfdb-mitm.png)
+[ ![The MitM Paradigm Connection Graph](/public/images/use-cases-lmfdb-mitm.png){:class="display"} ](/public/images/use-cases-lmfdb-mitm.png)
 
 Systems (A, ..., H in the image) are connected via formal representations their APIs 
 (data types and functions), which are in turn related to a central (system-independent)
@@ -50,7 +50,7 @@ At the system level, SageMath (or PARI) and LMFDB are connected via a MitM Media
 receives requests from SageMath (in terms of the SageMath API), translates them to the
 LMFDB API via their relations to the MitM Ontology, and back. 
 
-[ ![The MitM Paradigm Mediator Architecture](/public/images/use-cases-lmfdb-mediator.png){:class="img-responsive"} ](/public/images/use-cases-lmfdb-mediator.png)
+[ ![The MitM Paradigm Mediator Architecture](/public/images/use-cases-lmfdb-mediator.png){:class="display"} ](/public/images/use-cases-lmfdb-mediator.png)
 
 In essence, the knowledge about the connections between the system API theories and the
 MitM Ontology acts as semantic glue between the systems. 
