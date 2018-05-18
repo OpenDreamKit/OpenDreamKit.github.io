@@ -16,7 +16,7 @@ Recherche](http://fr.wikipedia.org/wiki/Ing%C3%A9nieur_de_recherche))
 position opening at Université Grenoble-Alpes, working on open source
 software engineering for computational mathematics.
 
-contact: clement.pernet@univ-grenoble-alpes.fr and jean-guillaume.dumas@univ-grenoble-alpes.fr
+contact: [clement.pernet@univ-grenoble-alpes.fr and jean-guillaume.dumas@univ-grenoble-alpes.fr](mailto:clement.pernet@univ-grenoble-alpes.fr,jean-guillaume.dumas@univ-grenoble-alpes.fr)
 
 # Duration
 
@@ -74,7 +74,7 @@ The following are not prerequisites but would be very much appreciated:
 
 # Applications
 
-Applicants should send an email to clement.pernet@univ-grenoble-alpes.fr and jean-guillaume.dumas@univ-grenoble-alpes.fr with:
+Applicants should send an email to  [clement.pernet@univ-grenoble-alpes.fr and jean-guillaume.dumas@univ-grenoble-alpes.fr](mailto:clement.pernet@univ-grenoble-alpes.fr,jean-guillaume.dumas@univ-grenoble-alpes.fr)
 
 - A complete CV
 
