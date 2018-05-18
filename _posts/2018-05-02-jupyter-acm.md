@@ -3,9 +3,9 @@ layout: post
 title: Jupyter receives the ACM Software System Award!
 author: Nicolas M. Thiéry
 tags:
-   - blogpost
-   - front-page
-   - jupyter
+    - blogpost
+    - front-page
+    - jupyter
 ---
 
 [Project Jupyter has been awarded](https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2)

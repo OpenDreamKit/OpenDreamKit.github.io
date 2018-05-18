@@ -3,13 +3,13 @@ layout: post
 title: OpenDreamKit at the RSE conference
 author: Tania Allard
 tags:
-   - blogpost
-   - front-page
-   - jupyter
-   - workshop
-   - nbdime
-   - conference
-   - teaching
+    - blogpost
+    - front-page
+    - jupyter
+    - workshop
+    - nbdime
+    - conference
+    - teaching
 ---
 # Open Dream Kit presence at the second RSE conference
 

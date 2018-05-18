@@ -3,13 +3,13 @@ layout: post
 author: Michael Kohlhase
 title: "Mixing Data and Computation to explore mathematical data sets: Knowledge to the rescue with LMFDB + SageMath + Pari + MitM"
 tags:
-   - use-case
-   - open-science
-   - dksbases
-   - LMFDB
-   - sagemath
-   - pari-gp
-   - math-in-the-middle
+    - use-case
+    - open-science
+    - dksbases
+    - LMFDB
+    - sagemath
+    - pari-gp
+    - math-in-the-middle
 ---
 
 Exploring mathematical data sets often requires both data base operations and
