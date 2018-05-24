@@ -36,6 +36,8 @@ June 2018. We expect about 20 participants at this event.
 
 # Participants
 
+[Registration page](https://framadate.org/XQuv3rtgcC8jtl7c)
+
 - European XFEL GmbH: Hans Fangohr, Marijan Beg
 - Université Paris-Sud: Benoît Pilorget, Nicolas Thiéry, Viviane Pons, Erik Bray, (+ Romain Turminel?)
 - Logilab: Olivier Cayrol 	
