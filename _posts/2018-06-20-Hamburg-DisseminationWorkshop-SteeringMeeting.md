@@ -18,6 +18,8 @@ June 2018. We expect about 20 participants at this event.
 
 # The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
+=> Open github issue to decide upon the content of the three days
+
 # Agenda
 
 - Wednesday 20 June (main room devoted to WP2) 
