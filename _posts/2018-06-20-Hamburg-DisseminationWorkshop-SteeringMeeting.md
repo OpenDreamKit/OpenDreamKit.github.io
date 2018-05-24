@@ -21,10 +21,12 @@ June 2018. We expect about 20 participants at this event.
 # Agenda
 
 - Wednesday 20 June (main room devoted to WP2) 
-  - Morning: Viviane will begin the day byintroducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
+  - Morning: Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
   - Afternoon
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainstorming if needed and/or writing of content (use cases, etc)
+    - Tour of XFEL -TO BE CONFIRMED- (1 hour): general introduction of the facility and purpose; aspects of control and data analysis software at XFEL; Python at XFEL.EU
+
     
 - Thursday 21 June (main room for WP1 and WP2): 
   - Morning
@@ -32,7 +34,7 @@ June 2018. We expect about 20 participants at this event.
     - brainstorming if needed and/or writing of content (use cases, etc)
   - Afternoon: Steering committee meeting and preparation/writing of deliverables due for end August 2018
   
-- Friday 22 June (main room for WP2): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
+- Friday 22 June (1 room for WP2 + 1 room for Jupyter workshop): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
 
 # Participants
 
