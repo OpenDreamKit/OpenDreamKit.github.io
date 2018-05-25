@@ -70,9 +70,9 @@ Participants need to book and pay themselves for the rooms.
 
 You can book any hotel you want, but three probably the closest hotels to the venue are:
 
-- Hotel Klövensteen (1.0 km), http://www.hotel-kloevensteen.de 
-- Pension Wulff (0.5 km), http://www.wulff-pension.de 
-- Hotel Blankenese (2.0 km), http://www.hotel-blankenese.de/
+- [Hotel Klövensteen](http://www.hotel-kloevensteen.de) (1.0 km)
+- [Pension Wulff](http://www.wulff-pension.de) (0.5 km)
+- [Hotel Blankenese](http://www.hotel-blankenese.de/) (2.0 km)
 
 For further information about the possible hotels recommended by European XFEL, please check this [pdf](hotels_list.pdf). Please note that prices in the document can be outdated.
 
