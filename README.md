@@ -115,7 +115,7 @@ you with the exact same versions used by GitHub to compile your site.
 If you already have Ruby, the install part should be as easy as
 
 ~~~
-gem install github-pages -V
+bundle install
 ~~~
 
 Note that you will need Ruby headers (`ruby-dev` package on Ubuntu) in
@@ -127,7 +127,7 @@ Now you can `cd` into your local clone of the repository and launch
 the compilation by
 
 ~~~
-jekyll serve -w -b''
+bundle exec jekyll serve -w -b''
 ~~~
 
 Your site will be generated in a `_site` sub-directory, and served

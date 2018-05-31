@@ -10,6 +10,7 @@ tags:
     - talk
     - jupyter
     - nbdime
+    - reproducibility
 ---
 
 Talk to be presented at SciPy US, July 2016. Presentation to be linked when available.

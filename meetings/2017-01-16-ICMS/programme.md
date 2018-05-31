@@ -44,8 +44,11 @@ prior to the workshop, we will help you with this (for example, install
 [Jupyter](http://jupyter.org/) to follow the forthcoming Jupyter tutorial;
 install releases or development versions of GAP, SageMath, etc.)
 
+* Hans Fangohr and Marijan Beg: A case study of computational science in Jupyter notebooks - [JOOMMF](https://joommf.github.io)
 * **Integrate Semigroups++ into Sage**: we will attempt to
+
   incorporate
+## Coding and documentation sprints
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
 
@@ -169,7 +172,7 @@ at [`py-scscp`(https://github.com/OpenMath/py-scscp/) and
 [`py-openmath`](https://github.com/OpenMath/py-openmath)).
 
 * **[NumericalSgps](https://www.gap-system.org/Packages/numericalsgps.html)**
-(lead: Pedro A. García Sánchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
+(lead: Pedro A. Garcaa Sanchez): NumericalSgps is a gap package for numerical semigroups. It benefits from other gap packages and software. The development version can be found in [bitbucket](https://bitbucket.org/gap-system/numericalsgps).
 
 * **Extending and integrating nbval and nbdime features** Developers of nbval and nbdime and others interested in contributing should meet to extend nbval and possibly nbdime.
 

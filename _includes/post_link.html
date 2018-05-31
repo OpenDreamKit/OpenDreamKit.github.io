@@ -11,6 +11,7 @@
         {% assign type = tmp_list | first %}
         <span class="post-type">{{ type.title }} by {{post.author}}</span> -
         {% if post.location %}<span class="post-location">{{post.location}}</span> - {% endif %}
-        <span class="post-date">{{ post.date | date_to_string }}</span>
+        {% if post.dates %}<span class="post-dates">{{post.dates}}</span> - {% endif %}
+        <span class="post-date">Posted: {{ post.date | date_to_string }}</span>
     </p>
   </div>

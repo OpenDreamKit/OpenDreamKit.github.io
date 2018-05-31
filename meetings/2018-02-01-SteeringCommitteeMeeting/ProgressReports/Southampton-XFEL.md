@@ -9,9 +9,9 @@ period: Reporting period from April 2017 to January 2018
 
 # {{ page.title }}
 
-{{ Marijan Beg and Hans Fangohr }}
+Marijan Beg and Hans Fangohr
 
-{{ April 2017 - January 2018 }}
+April 2017 - January 2018
 ---
 
 ## Finance and administration

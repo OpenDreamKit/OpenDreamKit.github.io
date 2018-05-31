@@ -5,6 +5,7 @@ author: Paris-Sud
 title: Post doc position opening at Université Paris-Sud
 tags:
     - job-opening
+    - front-page
 ---
 
 This is an announcement for a postdoc position opening at Université

@@ -8,6 +8,7 @@ tags:
     - release
     - sagemath
     - windows
+    - blogpost
 ---
 
 # Introduction
@@ -100,7 +101,7 @@ If you don't like it, there's also a standard uninstall:
 
 ![Sage for Windows Uninstaller](/public/images/2017-10-11-SageWindows/uninstall.png){:class="img-responsive"}
 
-The installer include three desktop and/or start menu shortcuts:
+The installer includes three desktop and/or start menu shortcuts:
 
 ![Sage for Windows start menu shortcuts](/public/images/2017-10-11-SageWindows/shortcuts.png){:class="img-responsive"}
 

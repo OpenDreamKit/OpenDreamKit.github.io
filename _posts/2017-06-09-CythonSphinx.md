@@ -7,7 +7,6 @@ tags:
     - cython
     - sphinx
     - sagemath
-
 ---
 
 One of the deliverables ([D4.13](https://github.com/OpenDreamKit/OpenDreamKit/issues/87))

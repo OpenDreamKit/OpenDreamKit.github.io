@@ -22,7 +22,7 @@ InternalEvents:
       end: 2016-01-28
       url: http://opendreamkit.org/2015/12/08/WP6StAndrewsMeeting/
       location: University of St Andrews
-    - title: Sage Days 73
+    - title: Sage Days 73https://opendreamkit.org/events_activities/calendar/#
       start: 2016-05-04
       end: 2016-05-08
       url: http://wiki.sagemath.org/days73
@@ -104,8 +104,25 @@ InternalEvents:
       start: 2019-02-11
       end: 2019-02-16
       url: http://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
+    - title: Dissemination project meeting 
+      start: 2018-06-20
+      end: 2018-06-23
+      url: https://opendreamkit.org/2018/06/20/Hamburg-DisseminationWorkshop-SteeringMeeting/
+    - title: Steering committee
+      start: 2018-06-21
+      end: 2018-06-21
       
 ExternalEvents:
+    - title: International Congress on Mathematical Software (ICMS 2018)
+      location: University of Notre Dame
+      start: 2018-07-24
+      end: 2018-07-27
+      url: http://icms-conference.org/2018/
+    - title: Conference on Intelligent Computer Mathematics (CICM 2018)
+      start: 2017-08-13
+      end: 2017-08-17
+      url: http://www.cicm-conference.org/2018/
+      location: RISC Linz
     - title: Conference on Intelligent Computer Mathematics (CICM 2017)
       start: 2017-07-17
       end: 2017-07-21
@@ -167,3 +184,4 @@ ExternalEvents:
       start: 2016-10-17
       end: 2016-10-22
       url: http://www.codima.ac.uk/school2016/
+

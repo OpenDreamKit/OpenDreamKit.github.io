@@ -11,7 +11,7 @@ tags:
 ---
 
 This meeting gathered 30 of the 50 OpenDreamKit participants, together
-with a couple external person. See the [Participants
+with a couple external persons. See the [Participants
 list](/meetings/2015-09-02-Kickoff/participants).
 
 Many of them had never met in person before. The objective was to build

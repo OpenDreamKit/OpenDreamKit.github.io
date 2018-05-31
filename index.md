@@ -10,13 +10,10 @@ title: Home
 
 ## Recent activities
 
-{% for post in site.posts %}
-    {% if forloop.index < 5 %}
-        {% if post.title contains 'draft' %}
-        {% else %}
-	{% include post_link.html %}
-        {% endif %}
-    {% endif %}
+{% for post in site.tags['front-page'] %}
+  {% if forloop.index <= 5 %}
+    {% include post_link.html %}
+  {% endif %}
 {% endfor %}
 
 [See all activites](/events_activities/project_activities/)
