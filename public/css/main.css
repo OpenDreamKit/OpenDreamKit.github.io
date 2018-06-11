@@ -336,3 +336,21 @@ img.display {
     width: 200px;
     height: 200px;
 }
+
+.example_iframe 
+{
+display: block; 
+position: absolute;
+width: 100%; 
+height: 100%;
+border: none;
+margin: 0px;
+overflow-y: auto; 
+overflow-x: hidden;
+}
+
+div.embedded_link
+{
+    position: fixed;
+    margin-left: 5%;
+}
