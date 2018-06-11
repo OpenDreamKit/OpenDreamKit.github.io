@@ -54,4 +54,5 @@ menu:
       slug: 'events'
     - title: 'Blog'
       link: '/tag/blogpost'
-
+    - title: 'Try'
+      folder: 'try'
