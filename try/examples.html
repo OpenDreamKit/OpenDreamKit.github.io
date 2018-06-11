@@ -1,0 +1,44 @@
+---
+layout: page
+title: Example notebooks from OpenDreamKit
+menu_title: Examples
+menu_order: 2
+---
+
+<span>Click on one of the examples below to open the example <a href="http://jupyter.org">Jupyter</a> notebook statically. 
+    For an interactive version, which you can manipulate and play around with, click the "Run on Binder" button to open it on <a href="http://mybinder.org">MyBinder.org.</a></span>
+<br/>
+
+<!-- Setup a basic two-column box setting, static this time :) -->
+
+<div id="example_gallery">
+    {% for post in site.categories.try %}
+    <div class="static_try_block">
+        {% if post.notebook_url != null %}
+            <a href="{{ post.notebook_url }}">
+        {% else %}
+            <a href="https://nbviewer.jupyter.org/github/{{ post.repository }}/blob/master/{{ post.filename }}.ipynb">
+        {% endif %}
+
+        {% if post.thumbnail_url != null %}
+            <img class="static_try_block_image" src="{{ post.thumbnail_url }}"/>
+        {% else %}
+            <img class="static_try_block_image" src="/try/thumbnails/{{ post.thumbnail }}"/>
+        {% endif %}
+
+        <div>{{ post.title }}</div>
+        <div>{{ post.author }}</div>
+        </a>
+        {% if post.binderrepo_url != null %}
+            <a href="{{ post. binderrepo_url }}">
+            <img src="https://mybinder.org/badge.svg" alt="Run on Binder"/>
+            </a>
+        {% else %}
+            <a href="https://mybinder.org/v2/gh/{{ post.repository }}/master?filepath={{ post.filename }}.ipynb">
+            <img src="https://mybinder.org/badge.svg" alt="Run on Binder"/>
+            </a>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+

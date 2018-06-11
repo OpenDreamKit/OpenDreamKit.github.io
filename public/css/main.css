@@ -318,3 +318,21 @@ img.display {
     color: #f00;
 }
 
+.static_try_block {
+    width: 40%;
+    border-radius: 15px;
+    border: 2px solid #5B78FD;
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    padding: 2%;
+    align-content: center;
+    text-align: center;
+}
+
+.static_try_block_image {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
