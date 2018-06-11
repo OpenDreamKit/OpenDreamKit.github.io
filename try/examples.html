@@ -14,11 +14,7 @@ menu_order: 2
 <div id="example_gallery">
     {% for post in site.categories.try %}
     <div class="static_try_block">
-        {% if post.notebook_url != null %}
-            <a href="{{ post.notebook_url }}">
-        {% else %}
-            <a href="https://nbviewer.jupyter.org/github/{{ post.repository }}/blob/master/{{ post.filename }}.ipynb">
-        {% endif %}
+        <a href="{{ post.url }}">
 
         {% if post.thumbnail_url != null %}
             <img class="static_try_block_image" src="{{ post.thumbnail_url }}"/>
