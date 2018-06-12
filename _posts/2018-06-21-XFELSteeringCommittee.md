@@ -10,7 +10,7 @@ main activities, achieved and ongoing deliverables ...
 
 The slides below are to be filled in:
 
-- [Université Paris Sud](/meetings/2018-06-20EuropeanXFEL/ProgressReports/ParisSud)
+- [Université Paris Sud](/meetings/2018-06-20-EuropeanXFEL/ProgressReports/ParisSud)
 - [CNRS](CNRS)
 - [Jacobs University Bremen with FAU Erlangen-Nürnberg](JacU-FAU)
 - [Université Grenoble-Alpes](UGA)
