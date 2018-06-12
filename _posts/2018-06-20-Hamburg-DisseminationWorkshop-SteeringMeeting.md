@@ -34,7 +34,7 @@ June 2018. We expect about 20 participants at this event.
   - Morning
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainstorming if needed and/or writing of content (use cases, etc)
-  - Afternoon: [Steering committee meeting](https://opendreamkit.org/2018/06/21/XFELSteeringCommittee/) and  preparation/writing of deliverables due for end August 2018
+  - Afternoon: [Steering committee meeting](https://opendreamkit.org/meetings/2018/06/21/XFELSteeringCommittee/) and  preparation/writing of deliverables due for end August 2018
   
 - Friday 22 June (1 room for WP2 + 1 room for Jupyter workshop): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
 
