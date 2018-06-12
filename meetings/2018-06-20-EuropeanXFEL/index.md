@@ -13,7 +13,7 @@ June 2018. We expect about 20 participants at this event.
   - Morning and afternoon: interviews will be run for some input on the website
 - Thursday 21 June: 
   - Morning: Dissemination workshop + last interviews
-  - Afternoon: [Steering committee meeting]()
+  - Afternoon: [Steering committee meeting](http://opendreamkit.org/meetings/2018-06-21-XFELSteeringCommittee/ProgressReports/)
 - Friday 22 June: ... 
 
 [Detailed Agenda](agenda/)
