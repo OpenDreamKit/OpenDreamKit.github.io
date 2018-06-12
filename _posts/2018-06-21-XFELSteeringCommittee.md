@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Progress report for the Period March 2017-January 2018
+title: Progress report for the Period January-June 2018
 ---
 
 Brief yearly progress reports for all sites.
