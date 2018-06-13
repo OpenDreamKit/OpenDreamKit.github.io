@@ -27,7 +27,7 @@ June 2018. We expect about 15 participants at this event.
   - Afternoon
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainstorming if needed and/or writing of content (use cases, etc)
-    - Tour of XFEL -TO BE CONFIRMED- (1 hour): general introduction of the facility and purpose; aspects of control and data analysis software at XFEL; Python at XFEL.EU
+    - Tour of XFEL 15.00-16.15: general introduction of the facility and purpose; aspects of control and data analysis software at XFEL; Python at XFEL.EU
 
     
 - Thursday 21 June (main room for WP1 and WP2): 
