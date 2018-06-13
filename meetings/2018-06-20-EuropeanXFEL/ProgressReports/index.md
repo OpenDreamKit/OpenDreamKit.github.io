@@ -1,4 +1,4 @@
----
+﻿---
 
 layout: page
 
@@ -35,7 +35,7 @@ The slides below are to be filled in:
 
 - [University of Silesia](Silesia)
 
-- [University of Sheffield with University of Leeds](Sheffield)
+- [University of Sheffield with University of Leeds](Sheffield-Leeds)
 
 - [University of Southampton with XFEL](Southampton-XFEL)
 

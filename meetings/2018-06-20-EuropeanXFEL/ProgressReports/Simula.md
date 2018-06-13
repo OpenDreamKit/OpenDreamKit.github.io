@@ -1,10 +1,10 @@
----
+﻿---
 layout: page
 title: "Progress report for Simula"
 theme: white
 transition: none
 author: Min Ragan-Kelley, Vidar Tonaas Fauske
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # Simula Progress Report

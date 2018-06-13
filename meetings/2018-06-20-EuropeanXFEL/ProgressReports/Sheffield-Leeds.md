@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Progress report for Sheffield"
+title: "Progress report for Sheffield/Leeds"
 theme: white
 transition: none
 author: Tania Allard and Michael Croucher
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}

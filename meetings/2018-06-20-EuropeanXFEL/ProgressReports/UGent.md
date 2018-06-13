@@ -4,7 +4,7 @@ title: "Progress report for Ghent University"
 theme: white
 transition: none
 author: Jeroen Demeyer
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}

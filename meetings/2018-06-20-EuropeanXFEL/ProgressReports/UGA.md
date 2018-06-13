@@ -1,10 +1,10 @@
----
+﻿---
 layout: page
 title: "Progress report for UGA"
 theme: white
 transition: none
 author: Clément Pernet
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}
