@@ -12,9 +12,9 @@ tags:
 
 OpenDreamKit’s project meeting will take place at European XFEL GmbH
 in Schenefeld near Hamburg (Germany), from Wednesday 20 - Friday 22
-June 2018. We expect about 20 participants at this event.
+June 2018. We expect about 15 participants at this event.
 
-*!! Note that during Wednesday all day as well as on the Thursday morning, a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants who are likely to be required to share their points of views and insights (on ODK as a project, Jupyter, dissemination activities...). The content will eventually be added on the next version of the website once the videographer is done editing everything.*
+*!! Note that during Wednesday all day as well as on Thursday morning, a professionnal videographer will be running 6 interviews (or more if relevant). Viviane Pons will directly contact the participants who are likely to be required to share their points of views and insights (on ODK as a project, Jupyter, dissemination activities...). The content will eventually be added on the next version of the website once the videographer is done editing.*
 
 # The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
@@ -37,6 +37,33 @@ June 2018. We expect about 20 participants at this event.
   - Afternoon: [Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
   
 - Friday 22 June (1 room for WP2 + 1 room for Jupyter workshop): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
+
+# Booked rooms at European XFEL
+
+- Main room
+
+During the entire meeting, the main room at the event is going to be XTOB1.01 which accommodates about 50 people. Coffee breaks (daily at 10.30 and 15.45) and lunch (daily 12.30-13.30) will be served there. This room is available to all participants at all times.
+
+- Break out rooms
+  - Wednesday 20 June
+    - XHQ E1.150, from 12:00 to 18:00, max. 8 people
+
+  - Thursday 21 June
+    - XHQ E2.042 ~ 15 people
+    - XHQ E1.150 ~ 8 people (apart from 12:30 to 14:00)
+
+  - Friday 22 June
+    - XHQ E1.007 ~ 8 people	
+
+- Interview rooms
+  - Wednesday 20 June
+    - XHQ E2.097 15.00-20.00
+
+  - Thursday 21 June
+    - XHQ E2.097 12.00-18.45
+
+  - Friday 22 June
+    - XHQ E2.097 all day
 
 # Participants
 
