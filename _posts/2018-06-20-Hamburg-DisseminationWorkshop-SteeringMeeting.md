@@ -79,14 +79,6 @@ During the entire meeting, the main room at the event is going to be XTOB1.01 wh
 - TU Kaiserslautern: Wolfram Decker
 - FAU: Michael Kohlhase
 
-
-# Venue
-
-At European XFEL, two meeting rooms are reserved:
-
-- Big room (coffee and lunch served) 
-- Small room
-
 # How to reach the European XFEL
 
 For the details on how to reach the venue, please check [here](https://www.xfel.eu/contacts/index_eng.html).
