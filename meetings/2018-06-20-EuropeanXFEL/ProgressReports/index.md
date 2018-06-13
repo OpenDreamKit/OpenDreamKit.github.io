@@ -17,7 +17,7 @@ main activities, achieved and ongoing deliverables ...
 
 
 
-The slides below are to be filled in:
+The slides below are to be updated:
 
 
 
