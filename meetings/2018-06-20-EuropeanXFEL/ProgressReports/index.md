@@ -1,8 +1,8 @@
-﻿---
+---
 
 layout: page
 
-title: Progress report for the Period March 2017-January 2018
+title: Progress report for the Period January-June 2018
 
 ---
 
@@ -28,13 +28,14 @@ The slides below are to be filled in:
 - [Jacobs University Bremen with FAU Erlangen-Nürnberg](JacU-FAU)
 
 - [Université Grenoble-Alpes](UGA)
+
 - [University of Kaiserslautern](Kaiserslautern)
 
 - [Oxford](Oxford)
 
 - [University of Silesia](Silesia)
 
-- [University of Sheffield](Sheffield)
+- [University of Sheffield with University of Leeds](Sheffield)
 
 - [University of Southampton with XFEL](Southampton-XFEL)
 
@@ -43,8 +44,6 @@ The slides below are to be filled in:
 - [Université Versailles Saint-Quentin](UVersailles)
 
 - [University of Warwick](Warwick)
-
-- [Universität Zürich](Zurich)
 
 - [Logilab](Logilab)
 
