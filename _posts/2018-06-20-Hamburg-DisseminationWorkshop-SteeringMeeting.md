@@ -22,6 +22,46 @@ June 2018. We expect about 15 participants at this event.
 
 # Agenda
 
+Wednesday (all in XTOB1.01)
+
+9:00 Session 1
+10:30 Coffee break
+11:00 Session 2
+12:30 lunch
+14:00 Session 3
+15:30 Coffee
+16:00 Session 4
+17:30 Close 
+
+Thursday (all in XTOB1.01)
+
+9:00 XTOB1.01 Session 1
+10:30 Coffee break
+11:00 Session 2
+12:30 lunch
+14:00 Session 3
+15:00 Introduction to XFEL and visit to experimental hall
+16:15 Coffee
+17:00 Session 4
+18:00 Close, and walk to restaurant
+
+18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)
+
+Friday 
+
+- Jupyter workshop on 3d graphics in XTOB1.01
+- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
+
+9:00  Session 1
+10:30 Coffee break (XTOB1.01)
+11:00 Session 2
+12:30 lunch (XTOB1.01)
+14:00 Session 3
+15:30 Coffee (XTOB1.01)
+16:00 Closing (XTOB1.01)
+
+# Draft agenda
+
 - Wednesday 20 June (main room devoted to WP2) 
   - Morning: Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
   - Afternoon
@@ -59,7 +99,7 @@ During the entire meeting, the main room at the event is going to be XTOB1.01 wh
   - Wednesday 20 June
     - XHQ E2.097 15.00-20.00
 
-  - Thursday 21 June
+- Thursday 21 June
     - XHQ E2.097 12.00-18.45
 
   - Friday 22 June
