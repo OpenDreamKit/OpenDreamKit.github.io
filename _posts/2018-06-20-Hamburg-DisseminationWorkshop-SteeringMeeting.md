@@ -12,9 +12,9 @@ tags:
 
 OpenDreamKit’s project meeting will take place at European XFEL GmbH
 in Schenefeld near Hamburg (Germany), from Wednesday 20 - Friday 22
-June 2018. We expect about 20 participants at this event.
+June 2018. We expect about 15 participants at this event.
 
-*!! Note that during Wednesday all day as well as on the Thursday morning, a professionnal videographer will be running 6 interviews or more if relevant. Viviane Pons will directly contact the participants who are likely to be required to share their points of views and insights (on ODK as a project, Jupyter, dissemination activities...). The content will eventually be added on the next version of the website once the videographer is done editing everything.*
+*!! Note that during Wednesday all day as well as on Thursday morning, a professionnal videographer will be running 6 interviews (or more if relevant). Viviane Pons will directly contact the participants who are likely to be required to share their points of views and insights (on ODK as a project, Jupyter, dissemination activities...). The content will eventually be added on the next version of the website once the videographer is done editing.*
 
 # The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
@@ -22,21 +22,100 @@ June 2018. We expect about 20 participants at this event.
 
 # Agenda
 
-- Wednesday 20 June (main room devoted to WP2) 
-  - Morning: Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
-  - Afternoon
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
-    - Tour of XFEL -TO BE CONFIRMED- (1 hour): general introduction of the facility and purpose; aspects of control and data analysis software at XFEL; Python at XFEL.EU
+## Wednesday (all in XTOB1.01)  
 
+11:00 Session 1:
+
+ - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
+ - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
     
-- Thursday 21 June (main room for WP1 and WP2): 
-  - Morning
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
-  - Afternoon: Steering committee meeting and preparation/writing of deliverables due for end August 2018
+### 12:30 lunch  
+
+14:00 Session 2 :
+
+  - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
+  - Brainstorming if needed and/or writing of content (use cases, etc)
   
-- Friday 22 June (1 room for WP2 + 1 room for Jupyter workshop): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
+ 15:00 Session 3 : Introduction to XFEL and visit to experimental hall Coffee  
+ 
+### 16:00 Coffee break  
+
+16:30 Session 4 : 
+
+   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+   - brainstorming if needed and/or writing of content (use cases, etc)
+    
+### 18:00 Close  
+
+## Thursday (all in XTOB1.01)  
+
+9:00 XTOB1.01 Session 1 
+   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+   - brainstorming if needed and/or writing of content (use cases, etc)
+   
+### 10:30 Coffee break  
+
+11:00 Session 2 : 
+   - EOSC overview (Benoît)
+   - EOSC pilot (Guelzow and Fuhrmann)
+   - NUMFOCS Europe (Nicolas) 
+   
+### 12:30 lunch  
+
+14:00 Session 3-a : 
+[Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
+
+### 16:15 Coffee  
+
+17:00 Session 3-b: Steering committee meeting  
+18:00 Close, and walk to restaurant  
+
+### 18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)  
+
+## Friday  
+
+- Jupyter workshop on 3d graphics in XTOB1.01  
+- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)  
+
+9:00  Session 1  
+
+### 10:30 Coffee break (XTOB1.01)  
+
+11:00 Session 2
+
+### 12:30 lunch (XTOB1.01)  
+
+14:00 Session 3  
+15:30 Coffee (XTOB1.01)  
+
+### 16:00 Closing (XTOB1.01)  
+
+# Booked rooms at European XFEL
+
+- Main room
+
+During the entire meeting, the main room at the event is going to be XTOB1.01 which accommodates about 50 people. Coffee breaks (daily at 10.30 and 15.45) and lunch (daily 12.30-13.30) will be served there. This room is available to all participants at all times.
+
+- Break out rooms
+  - Wednesday 20 June
+    - XHQ E1.150, from 12:00 to 18:00, max. 8 people
+
+  - Thursday 21 June
+    - XHQ E2.042 ~ 15 people
+    - XHQ E1.150 ~ 8 people (apart from 12:30 to 14:00)
+
+  - Friday 22 June
+    - XHQ E1.007 ~ 8 people	
+
+- Interview rooms
+  - Wednesday 20 June
+    - XHQ E2.097 15.00-20.00
+
+- Thursday 21 June
+    - XHQ E2.097 12.00-18.45
+
+  - Friday 22 June
+    - XHQ E2.097 all day
 
 # Participants
 
@@ -51,14 +130,6 @@ June 2018. We expect about 20 participants at this event.
 - University of Silesia: Marcin Kostur
 - TU Kaiserslautern: Wolfram Decker
 - FAU: Michael Kohlhase
-
-
-# Venue
-
-At European XFEL, two meeting rooms are reserved:
-
-- Big room (coffee and lunch served) 
-- Small room
 
 # How to reach the European XFEL
 
