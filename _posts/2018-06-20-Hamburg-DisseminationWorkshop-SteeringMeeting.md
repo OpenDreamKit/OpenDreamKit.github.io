@@ -25,20 +25,27 @@ June 2018. We expect about 15 participants at this event.
 Wednesday (all in XTOB1.01)  
 
 11:00 Session 1:
+
     - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
     - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
+    
 12:30 lunch  
 14:00 Session 3 :
+
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainstorming if needed and/or writing of content (use cases, etc)
  15:00 Session 4 : Introduction to XFEL and visit to experimental hall Coffee  
-16:00 Coffee break  
+ 
+#16:00 Coffee break  
+
 16:30 Session 4 : 
+
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
     - brainstorming if needed and/or writing of content (use cases, etc)
-18:00 Close  
+    
+#18:00 Close  
 
-Thursday (all in XTOB1.01)  
+##Thursday (all in XTOB1.01)  
 
 9:00 XTOB1.01 Session 1 
     - presentations of participants eager to share their activities or ideas on dissem. and comm. content
