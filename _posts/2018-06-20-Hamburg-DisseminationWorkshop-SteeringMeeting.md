@@ -22,60 +22,68 @@ June 2018. We expect about 15 participants at this event.
 
 # Agenda
 
-Wednesday (all in XTOB1.01)  
+## Wednesday (all in XTOB1.01)  
 
 11:00 Session 1:
 
-    - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
-    - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
+ - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
+ - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
     
-12:30 lunch  
+### 12:30 lunch  
+
 14:00 Session 3 :
 
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
+  - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+  - brainstorming if needed and/or writing of content (use cases, etc)
  15:00 Session 4 : Introduction to XFEL and visit to experimental hall Coffee  
  
-#16:00 Coffee break  
+### 16:00 Coffee break  
 
 16:30 Session 4 : 
 
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
+   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+   - brainstorming if needed and/or writing of content (use cases, etc)
     
-#18:00 Close  
+### 18:00 Close  
 
-##Thursday (all in XTOB1.01)  
+## Thursday (all in XTOB1.01)  
 
 9:00 XTOB1.01 Session 1 
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
-10:30 Coffee break  
+   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+   - brainstorming if needed and/or writing of content (use cases, etc)
+   
+### 10:30 Coffee break  
+
 11:00 Session 2 : 
-    - EOSC overview (Benoît)
-    - EOSC pilot (Guelzow and Fuhrmann)
-    - NUMFOCS Europe (Nicolas) 
-12:30 lunch  
+   - EOSC overview (Benoît)
+   - EOSC pilot (Guelzow and Fuhrmann)
+   - NUMFOCS Europe (Nicolas) 
+   
+### 12:30 lunch  
+
 14:00 Session 3-a : 
 [Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
 16:15 Coffee  
 17:00 Session 3-b: Steering committee meeting  
 18:00 Close, and walk to restaurant  
 
-18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)  
+### 18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)  
 
-Friday  
+## Friday  
 
 - Jupyter workshop on 3d graphics in XTOB1.01  
 - Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)  
 
 9:00  Session 1  
 10:30 Coffee break (XTOB1.01)  
-11:00 Session 2  
-12:30 lunch (XTOB1.01)  
+11:00 Session 2
+
+### 12:30 lunch (XTOB1.01)  
+
 14:00 Session 3  
 15:30 Coffee (XTOB1.01)  
-16:00 Closing (XTOB1.01)  
+
+### 16:00 Closing (XTOB1.01)  
 
 # Booked rooms at European XFEL
 
