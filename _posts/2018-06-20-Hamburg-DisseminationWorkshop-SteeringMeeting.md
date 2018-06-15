@@ -31,11 +31,12 @@ June 2018. We expect about 15 participants at this event.
     
 ### 12:30 lunch  
 
-14:00 Session 3 :
+14:00 Session 2 :
 
-  - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-  - brainstorming if needed and/or writing of content (use cases, etc)
- 15:00 Session 4 : Introduction to XFEL and visit to experimental hall Coffee  
+  - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
+  - Brainstorming if needed and/or writing of content (use cases, etc)
+  
+ 15:00 Session 3 : Introduction to XFEL and visit to experimental hall Coffee  
  
 ### 16:00 Coffee break  
 
@@ -63,7 +64,9 @@ June 2018. We expect about 15 participants at this event.
 
 14:00 Session 3-a : 
 [Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
-16:15 Coffee  
+
+### 16:15 Coffee  
+
 17:00 Session 3-b: Steering committee meeting  
 18:00 Close, and walk to restaurant  
 
@@ -75,7 +78,9 @@ June 2018. We expect about 15 participants at this event.
 - Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)  
 
 9:00  Session 1  
-10:30 Coffee break (XTOB1.01)  
+
+### 10:30 Coffee break (XTOB1.01)  
+
 11:00 Session 2
 
 ### 12:30 lunch (XTOB1.01)  
