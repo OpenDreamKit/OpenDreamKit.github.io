@@ -24,25 +24,35 @@ June 2018. We expect about 15 participants at this event.
 
 Wednesday (all in XTOB1.01)  
 
-9:00 Session 1  
-10:30 Coffee break  
-11:00 Session 2  
+11:00 Session 1:
+    - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
+    - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
 12:30 lunch  
-14:00 Session 3  
-15:30 Coffee  
-16:00 Session 4  
-17:30 Close  
+14:00 Session 3 :
+    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+    - brainstorming if needed and/or writing of content (use cases, etc)
+ 15:00 Session 4 : Introduction to XFEL and visit to experimental hall Coffee  
+16:00 Coffee break  
+16:30 Session 4 : 
+    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+    - brainstorming if needed and/or writing of content (use cases, etc)
+18:00 Close  
 
 Thursday (all in XTOB1.01)  
 
-9:00 XTOB1.01 Session 1  
+9:00 XTOB1.01 Session 1 
+    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
+    - brainstorming if needed and/or writing of content (use cases, etc)
 10:30 Coffee break  
-11:00 Session 2  
+11:00 Session 2 : 
+    - EOSC overview (Benoît)
+    - EOSC pilot (Guelzow and Fuhrmann)
+    - NUMFOCS Europe (Nicolas) 
 12:30 lunch  
-14:00 Session 3  
-15:00 Introduction to XFEL and visit to experimental hall  
+14:00 Session 3-a : 
+[Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
 16:15 Coffee  
-17:00 Session 4  
+17:00 Session 3-b: Steering committee meeting  
 18:00 Close, and walk to restaurant  
 
 18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)  
@@ -59,24 +69,6 @@ Friday
 14:00 Session 3  
 15:30 Coffee (XTOB1.01)  
 16:00 Closing (XTOB1.01)  
-
-# Draft agenda
-
-- Wednesday 20 June (main room devoted to WP2) 
-  - Morning: Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit. Remaining time before lunch will be used for brainstorming.
-  - Afternoon
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
-    - Tour of XFEL 15.00-16.15: general introduction of the facility and purpose; aspects of control and data analysis software at XFEL; Python at XFEL.EU
-
-    
-- Thursday 21 June (main room for WP1 and WP2): 
-  - Morning
-    - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-    - brainstorming if needed and/or writing of content (use cases, etc)
-  - Afternoon: [Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
-  
-- Friday 22 June (1 room for WP2 + 1 room for Jupyter workshop): writing of dissemination content and development of the ODK website (new version will not be ready by the meeting)
 
 # Booked rooms at European XFEL
 
