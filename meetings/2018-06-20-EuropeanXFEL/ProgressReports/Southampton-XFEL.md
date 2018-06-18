@@ -11,7 +11,7 @@ period: Reporting period from April 2017 to June 2018
 
 Marijan Beg and Hans Fangohr
 
-April 2017 - January 2018
+April 2017 - June 2018
 ---
 
 ## Finance and administration
@@ -21,7 +21,9 @@ Completed move from the University of Southampton to the European XFEL GmbH. No 
 ---
 ## Hiring
 
-No hiring was required during this period.
+* New OpenDreamKit position advertised.
+* Shortlisting and interview stages completed.
+* Top three candidates are selected. 
 
 ---
 ## Achievements
@@ -30,10 +32,10 @@ No hiring was required during this period.
 
 * T2.7 Open source dissemination of micromagnetic VRE
     * Repositories for source code under github.com/joommf
-    * Set up publicly accessible Jenkins/Travis CI to
+    * Set up publicly accessible Jenkins/Travis CI
     * Added Docker image containing JOOMMF and all its dependencies to DockerHub
     * Another announcement made to the community via micromagnetic mailing list
-    * Conda installation developed for OOMMF and all JOOMMF packages
+    * Conda installation done for OOMMF and all JOOMMF packages
       (OSX and Linux)
     * Set up read the docs for every code repository
     * Set up code coverage for all code repositories
@@ -41,8 +43,8 @@ No hiring was required during this period.
       Windows
 
 * T2.8 Micromagnetic VRE dissemination workshops
-    * Three workshops completed
-    * Two workshops/tutorials scheduled
+    * Four workshops completed
+    * One workshop scheduled
     * Publications, conference contributions, and tutorials listed in the "Other" section.
     * Details in the "Workshops and dissemination activities" section
 
@@ -74,7 +76,7 @@ No hiring was required during this period.
 ---
 ## Workshops and dissemination activities
 
-Three workshops have been completed in this period:
+Four workshops have been completed in this period:
 
 * Institute of Physics (IOP) Magnetism conference, 04 April 2017, York, UK
     * details about the workshop [here](http://magnetism2017.iopconfs.org/OOMMF)
@@ -97,10 +99,18 @@ Three workshops have been completed in this period:
     * Workshop conducted informally with JOOMMF users and people who want to start using it
     * Received feedback from the users as well as the feature requests
 
-One tutorial has been scheduled for the upcoming period:
-
 * Advances in Magnetism 2017, 04-07 February 2018, La Thuile, Italy
     * Tutorial session for all conference attendees
+    * Over 100 participants
+
+One workshop has been scheduled for the upcoming period:
+
+* International Conference on Magnetism, 14-20 July 2018, San Francisco, USA
+    * Part of the official conference programme
+
+One invited talk has been scheduled for the upcoming period:
+
+* 9th Joint European Magnetic Symposia, 03-09 September 2018, Mainz, Germany
 
 ---
 ## Other
@@ -108,8 +118,9 @@ One tutorial has been scheduled for the upcoming period:
 Research output acknowledging OpenDreamKit in the period from April 2017 to January 2018:
 
 * Publications
-    * R. A. Pepper et al. Skyrmion states in thin confined polygonal nanostructures. submitted, preprint:  http://arxiv.org/abs/1801.03275 (2017).
-    * D. Cortés-Ortuño et al. Thermal stability and topological protection of skyrmions in nanotracks.Scientific Reports 7, 4060 (2017).
+    * D. Cortés-Ortuño et al. Proposal for a micromagnetic standard problem for materials with Dzyaloshinskii-Moriya interaction. preprint: http://arxiv.org/abs/1803.11174
+    * R. A. Pepper et al. Skyrmion states in thin confined polygonal nanostructures. Journal of Applied Physics 123, 093903 (2018).
+    * D. Cortés-Ortuño et al. Thermal stability and topological protection of skyrmions in nanotracks. Scientific Reports 7, 4060 (2017).
     * M. Beg et al. Zero-field stable Bloch point. in preparation for submission (2018)
 
 * Invited talks
