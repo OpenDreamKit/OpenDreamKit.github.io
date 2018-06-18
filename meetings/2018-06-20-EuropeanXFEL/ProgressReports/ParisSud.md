@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Progress report for Université Paris-Sud"
 theme: white
@@ -17,9 +17,14 @@ period: Reporting period from March 2017 to June 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
+- Unused funding from Jacobsuni was not yes transfered to UPSUD. 
 
 --
 ## Hiring
+
+### 1 Project Manager on WP1 and WP2
+
+UPSUD is hiring a new project manager following the departure of B. Pilorget.
 
 ### 1 postdoc on WP6
 
@@ -28,6 +33,8 @@ UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe
 ### Three part-time trainees on Communication
 
 Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them are on their second year of Master's degree in digital communciation.Half of their time is spent in a company, the other half is spent working on two academic projects with their teacher. OpenDreamKit is one of this projects. Monitored by B. Pilorget and V. Pons their work focuses on: writing a communication plan, developing the website towards end-users, and creating media (videos, articles, interview etc.) to help us communicate and disseminate outside our communities.
+
+The Main outcome of their work will be a 3 minute-long explanatory video of ODK and Jupyter
 
 --
 ## Achievements
@@ -77,10 +84,16 @@ All changes were implemented in the [github repository](https://github.com/OpenD
 The amendment is fully complete with the signature of the
 Commission. 
 
+### 4th amendment
+
+A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the aprtner (and termination of USHEFFIELD) will start from 01/05/2018.
+
 --
 ## Work in progress
 
 ### OpenDreamKit and EOSC
+
+UPDATE BY NICOLAS???
 
 * Strategy: last November, N. Thiéry, B. Pilorget, and H. Fangohr
   participated to two events in Brussels dedicated to the the future
@@ -113,10 +126,12 @@ Commission.
 
 - Work on WP5: HPC for combinatorics
 
-### Communication strategy
+### Communication strategy 
 
-The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
+- The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
 Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics](https://pluquetelisabeth.typeform.com/to/uTnjIQ) and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
+
+- UPSUD paid for the services of a professional videographer who will lead and film interviews of key OpenDreamKit actors at the XFEL. these interviews will hopefully allow the addition of great communication and dissemiantion content on the website.
 
 --
 ## Workshops and dissemination activities
