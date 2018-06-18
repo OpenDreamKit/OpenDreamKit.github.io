@@ -17,7 +17,7 @@ period: Reporting period from March 2017 to June 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
-- Unused funding from Jacobsuni was not yes transfered to UPSUD. 
+- Unused funding from Jacobsuni was not yet transferred to UPSUD. 
 
 --
 ## Hiring
@@ -34,7 +34,7 @@ UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe
 
 Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them are on their second year of Master's degree in digital communciation.Half of their time is spent in a company, the other half is spent working on two academic projects with their teacher. OpenDreamKit is one of this projects. Monitored by B. Pilorget and V. Pons their work focuses on: writing a communication plan, developing the website towards end-users, and creating media (videos, articles, interview etc.) to help us communicate and disseminate outside our communities.
 
-The Main outcome of their work will be a 3 minute-long explanatory video of ODK and Jupyter
+The main outcome of their work will be a 3 minute-long explanatory video of ODK and Jupyter.
 
 --
 ## Achievements
@@ -42,8 +42,7 @@ The Main outcome of their work will be a 3 minute-long explanatory video of ODK 
 ### 1st Review
 
 The [review of the first Reporting Period (18 months)](http://opendreamkit.org/meetings/2017-04-26-ProjectReviewPresentations/)
-
-was organized in Brussels by Paris Sud on the 26th of April 2017. All
+was organized in Brussels by UPSUD on the 26th of April 2017. All
 in all the work due for M18 was done and the overall
 feedback was very positive from our Project Officer and reviewers. See
 Nicolas Thiéry's
@@ -52,7 +51,7 @@ for more information.
 
 ### 2nd amendment
 
-This amendment catered for the respective move of Michael Kohlhase and
+This amendment catered for the move of Michael Kohlhase and
 Hans Fangohr and their respective teams to new institutions. This led
 to the addition of to locations (FAU and XFEL) respectively and the
 termination of Southampton.
@@ -64,7 +63,7 @@ revisions to our work plan, based on our latest vision of the project
 and its landscape, in order to maximize the effectiveness and impact
 of our resources.
 
-UPSud led the process, getting work package and site leaders involved,
+UPSUD led the process, getting work package and site leaders involved,
 as well as our advisory board. Our proposals were accepted with very
 minor changes by the reviewers and implemented in a third amendment to
 the grant agreement:
@@ -72,7 +71,8 @@ the grant agreement:
 - new milestones were added, Key Performance Indicators were modified
 - Objective 6 (social studies) canceled
 - T7.4 integrated in T2.8
-- T7.1, T7.2 and T7.3 cancelled and related resources were transfered in favour of T2.6, T3.3, T3.3 and T5.7
+- T7.1, T7.2 and T7.3 cancelled and related resources were transferred
+  in favour of T2.6, T3.3, T3.3 and T5.7
 - Remaining work on WP7 moved to other work packages
 - Consolidation of deliverables to reduce their number
 
@@ -86,7 +86,7 @@ Commission.
 
 ### 4th amendment
 
-A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the aprtner (and termination of USHEFFIELD) will start from 01/05/2018.
+A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
 
 --
 ## Work in progress
@@ -155,7 +155,7 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 ## ODK Use Cases
 
 For the first time this year, we used a *Jupyter Hub* and
-the newly developed *Cling C++ kernel* in our 300 students
+the newly developed *Cling C++ kernel* in our 300 student
 [introductory programming course](http://nicolas.thiery.name/Enseignement/Info111/)
 at Paris Sud. This was the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
@@ -168,7 +168,7 @@ through many bug reports and feature requests.
   March 13-17, 2017, Cernay; planning for 20 participants
 
 - Lead the organization of ODK's main dissemination event targeted
-  toward mathematicians: the conference *Calcul Mathematique Libre* will be organized from Feb 11 to Feb 15, 2019 at
+  toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
   [CIRM](https://www.fr-cirm-math.fr/). Amenities reserved, main speakers invited, announcements to be made soon.
 
   Confirmed speakers:
