@@ -38,7 +38,7 @@ modelling and simulation systems.
 - PD Dr. Florian Rabe (shared appointment with LRI) for foundational work on the MMT
   system and MitM-based system integration. 
 
-This brings FAU to nominal strenght after the move. 
+This brings FAU to nominal strength after the move. 
   
 ---
 ## Achievements
