@@ -54,12 +54,13 @@ It also uses nbval to perform notebook validation and add custom headers indicat
 ## Work in progress
 
 - Involvement in the Sheffield Machine Learning Network: working with the Machine Learning group at Sheffield to leverage the use of Jupyter notebooks and related technologies (e.g. code cafe, coding dojos) ([T2.3](https://github.com/OpenDreamKit/OpenDreamKit/issues/26))
-- CrePythonation of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon) ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
+- Creation of an online journal based on Jupyter notebook submissions and with a content review performed in GitHub (the first volume will be generated from a sprint/hackathon) ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
 [T2.6](https://github.com/OpenDreamKit/OpenDreamKit/issues/29),
 [T2.3](https://github.com/OpenDreamKit/OpenDreamKit/issues/26))
 - The infrastructure for the journal itself is now in the form of a WebApp and deployed using Heroku
 - The contents for the journal can be found at: [https://github.com/MCNotes](https://github.com/MCNotes)
   - The review process will be fully automated via GitHub issues and PR and a bot has been created to handle most of the review admin and validation tasks ([https://github.com/MCNotes/wintermute](https://github.com/MCNotes/wintermute))
+- Tania A. will be attending  [Women in Sage](https://wiki.sagemath.org/daysMTL) in Montreal during July 8-13th. She will give a talk on practical best practices for computational sciences. In addition she will participate in the sprints to take place during the event.
 
 ---
 ## Workshops and dissemination activities
@@ -69,7 +70,7 @@ It also uses nbval to perform notebook validation and add custom headers indicat
 [T2.6](https://github.com/OpenDreamKit/OpenDreamKit/issues/29)).
 - Developed and delivered Bioinformatics Awareness Days [https://github.com/trallard/BAD_days](https://github.com/trallard/BAD_days) in Collaboration with Prof. Luisa Cutillo of Parthenope University of Naples ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
 [T2.6](https://github.com/OpenDreamKit/OpenDreamKit/issues/29)).
-- Developed training materials and provided training for over 95 women in the last 12 months at Sheffield and Manchester in partnership with CodeFirstGirls ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
+- Developed training materials and provided training for over 130 women in the last 12 months at Sheffield and Manchester in partnership with CodeFirstGirls ([D2.17](https://github.com/OpenDreamKit/OpenDreamKit/issues/252),
 [T2.6](https://github.com/OpenDreamKit/OpenDreamKit/issues/29),[T2.5](https://github.com/OpenDreamKit/OpenDreamKit/issues/28)).
 - Participation in the Diversity and Inclusion in Scientific Computing unconference by direct invite of NUMFOCUS
 ([T2.5](https://github.com/OpenDreamKit/OpenDreamKit/issues/28)).
