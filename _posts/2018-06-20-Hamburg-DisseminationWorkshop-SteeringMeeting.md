@@ -18,101 +18,104 @@ June 2018. We expect about 15 participants at this event.
 
 # The 3-day long meeting will be devoted to WP2 (dissemination) and WP1 (steering committee and preparation of deliverables), with a side-workshop about Jupyter activities
 
-=> [Open github issue to decide upon the content of the three days](https://github.com/OpenDreamKit/OpenDreamKit/issues/270)
+=> [Open GitHub issue to decide upon the content of the three days](https://github.com/OpenDreamKit/OpenDreamKit/issues/270)
 
 # Agenda
 
-## Wednesday (all in XTOB1.01)  
+## Wednesday (all in XTOB1.01)
 
-11:00 Session 1:
+11:00 Session 1
 
- - Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
- - Schools/Trainings/workshops from Adrien Boucicault (Viviane)
+- Viviane will begin the day by introducing the current dissemination/communication situation and our strategy for the last year of OpenDreamKit
+- Schools/trainings/workshops by Adrien Boussicault (Viviane)
     
-### 12:30 lunch  
+*12:30 lunch*
 
-14:00 Session 2 :
+14:00 Session 2
 
-  - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
-  - Brainstorming if needed and/or writing of content (use cases, etc)
+- Presentations of participants eager to share their activities or ideas on dissem. and comm. content
+- Brainstorming if needed and/or writing of content (use cases, etc)
   
- 15:00 Session 3 : Introduction to XFEL and visit to experimental hall Coffee  
+15:00 Session 3: Introduction to XFEL and visit to experimental hall Coffee
  
-### 16:00 Coffee break  
+*16:00 Coffee break*
 
-16:30 Session 4 : 
+16:30 Session 4
 
-   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-   - brainstorming if needed and/or writing of content (use cases, etc)
-    
-### 18:00 Close  
+- Presentations of participants eager to share their activities or ideas on dissem. and comm. content
+- Brainstorming if needed and/or writing of content (use cases, etc)
 
-## Thursday (all in XTOB1.01)  
+*18:00 Close*
 
-9:00 XTOB1.01 Session 1 
-   - presentations of participants eager to share their activities or ideas on dissem. and comm. content
-   - brainstorming if needed and/or writing of content (use cases, etc)
+## Thursday (all in XTOB1.01)
+
+09:00 XTOB1.01 Session 1
+
+- Presentations of participants eager to share their activities or ideas on dissem. and comm. content
+- Brainstorming if needed and/or writing of content (use cases, etc)
    
-### 10:30 Coffee break  
+*10:30 Coffee break*
 
-11:00 Session 2 : 
-   - EOSC overview (Benoît)
-   - EOSC pilot (Guelzow and Fuhrmann)
-   - NUMFOCS Europe (Nicolas) 
+11:00 Session 2
+- EOSC overview (Benoît)
+- EOSC pilot (Guelzow and Fuhrmann)
+- NumFOCUS Europe (Nicolas)
    
-### 12:30 lunch  
+*12:30 lunch*
 
-14:00 Session 3-a : 
-[Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and  preparation/writing of deliverables due for end August 2018
+14:00 Session 3-a:
+[Steering committee meeting](https://opendreamkit.org/meetings/2018-06-20-EuropeanXFEL/ProgressReports) and preparation/writing of deliverables due for end August 2018
 
-### 16:15 Coffee  
+*16:15 Coffee*
 
-17:00 Session 3-b: Steering committee meeting  
-18:00 Close, and walk to restaurant  
+17:00 Session 3-b: Steering committee meeting
 
-### 18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)  
+*18:00 Close, and walk to restaurant*
+
+*18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)*
 
 ## Friday  
 
-- Jupyter workshop on 3d graphics in XTOB1.01  
-- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)  
+- Jupyter workshop on 3d graphics in XTOB1.01
+- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
 
-9:00  Session 1  
+09:00  Session 1
 
-### 10:30 Coffee break (XTOB1.01)  
+*10:30 Coffee break (XTOB1.01)*
 
 11:00 Session 2
 
-### 12:30 lunch (XTOB1.01)  
+*12:30 lunch (XTOB1.01)*
 
-14:00 Session 3  
-15:30 Coffee (XTOB1.01)  
+14:00 Session 3
 
-### 16:00 Closing (XTOB1.01)  
+15:30 Coffee (XTOB1.01)
+
+*16:00 Closing (XTOB1.01)*
 
 # Booked rooms at European XFEL
 
 - Main room
 
-During the entire meeting, the main room at the event is going to be XTOB1.01 which accommodates about 50 people. Coffee breaks (daily at 10.30 and 15.45) and lunch (daily 12.30-13.30) will be served there. This room is available to all participants at all times.
+  The main room for the entire meeting is XTOB1.01, which accommodates about 50 people. Coffee breaks (daily at 10:30 and 15:45) and lunch (daily 12:30-13:30) will be served there. This room is available to all participants at all times.
 
-- Break out rooms
+- Breakout rooms
   - Wednesday 20 June
-    - XHQ E1.150, from 12:00 to 18:00, max. 8 people
+    - XHQ E1.150, 12:00-18:00, max. 8 people
 
   - Thursday 21 June
     - XHQ E2.042 ~ 15 people
-    - XHQ E1.150 ~ 8 people (apart from 12:30 to 14:00)
+    - XHQ E1.150 ~ 8 people (except 12:30-14:00)
 
   - Friday 22 June
     - XHQ E1.007 ~ 8 people	
 
 - Interview rooms
   - Wednesday 20 June
-    - XHQ E2.097 15.00-20.00
+    - XHQ E2.097 15:00-20:00
 
-- Thursday 21 June
-    - XHQ E2.097 12.00-18.45
+  - Thursday 21 June
+    - XHQ E2.097 12:00-18:45
 
   - Friday 22 June
     - XHQ E2.097 all day
@@ -123,7 +126,7 @@ During the entire meeting, the main room at the event is going to be XTOB1.01 wh
 
 - European XFEL GmbH: Hans Fangohr, Marijan Beg
 - Université Paris-Sud: Benoît Pilorget, Nicolas Thiéry, Viviane Pons, Erik Bray, (+ Romain Turminel?)
-- Logilab: Olivier Cayrol 	
+- Logilab: Olivier Cayrol
 - UWarwick: John Cremona
 - University of Leeds: Mike Croucher
 - Simula: Min RK
