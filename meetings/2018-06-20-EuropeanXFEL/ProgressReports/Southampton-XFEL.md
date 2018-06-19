@@ -138,4 +138,4 @@ Research output acknowledging OpenDreamKit in the period from April 2017 to Janu
     * M. Beg et al. Computational micromagnetics with JOOMMF. Institute of Physics (IOP) Magnetism 2017, University of York, York, UK, 3–4 April 2017.
     * M. Beg et al. Demagnetisation energy and magnetisation variation effects on the isolated skyrmion dynamics. Institute of Physics (IOP) Magnetism 2017, University of York, York, UK, 3–4 April 2017.
 
-</section>
+
