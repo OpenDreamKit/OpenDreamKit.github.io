@@ -83,6 +83,10 @@ June 2018. We expect about 15 participants at this event.
 
 09:00  Session 1 (XTOB1.01)
 
+- Review of existing technology (Vidar) (something like [EuroSciPy talk](https://pyvideo.org/euroscipy-2017/interactive-3d-visualization-in-jupyter-notebooks.html))?
+
+- Objective of 3d visualisation for Jupyter OOMMF (Marijan)
+
 *10:30 Coffee break (XTOB1.01)*
 
 11:00 Session 2 (XTOB1.01)
@@ -96,7 +100,9 @@ June 2018. We expect about 15 participants at this event.
 *16:00 Closing (XTOB1.01)*
 
 
-### Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
+### Dissemination workshop in XHQ2.097
+
+(Can also use the smaller room XHQ1.007 instead of XHQ2.097 if preferred.)
 
 09:00  Session 1 (XHQ2.097)
 
