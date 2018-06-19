@@ -23,7 +23,8 @@ June 2018. We expect about 15 participants at this event.
 # Agenda
 
 ## Wednesday (all in XTOB1.01)
-10:30 Coffee for those already present
+
+*10:30 Coffee for those already present*
 
 11:00 Session 1
 
@@ -46,7 +47,7 @@ June 2018. We expect about 15 participants at this event.
 - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
 - Brainstorming if needed and/or writing of content (use cases, etc)
 
-*18:00 Close*
+18:00 Close
 
 ## Thursday (all in XTOB1.01)
 
@@ -72,7 +73,7 @@ June 2018. We expect about 15 participants at this event.
 
 17:00 Session 3-b: Steering committee meeting
 
-*18:00 Close, and walk to restaurant*
+18:00 Close, and walk to restaurant
 
 *18:30 Dinner at [Peter’s Bistro](http://www.hotel-kloevensteen.de/restaurant))*
 
