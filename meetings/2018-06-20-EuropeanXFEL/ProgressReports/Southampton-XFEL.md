@@ -43,10 +43,13 @@ Completed move from the University of Southampton to the European XFEL GmbH. No 
       Windows
 
 * T2.8 Micromagnetic VRE dissemination workshops
-    * Four workshops completed
-    * One workshop scheduled
+    * Workshops
+      * Four workshops completed
+      * One workshop scheduled
+      * Details in the "Workshops and dissemination activities" section
+      
     * Publications, conference contributions, and tutorials listed in the "Other" section.
-    * Details in the "Workshops and dissemination activities" section
+    
 
 
 * T4.14 Online portal for Micromagnetic VRE demonstrator
@@ -138,4 +141,4 @@ Research output acknowledging OpenDreamKit in the period from April 2017 to Janu
     * M. Beg et al. Computational micromagnetics with JOOMMF. Institute of Physics (IOP) Magnetism 2017, University of York, York, UK, 3–4 April 2017.
     * M. Beg et al. Demagnetisation energy and magnetisation variation effects on the isolated skyrmion dynamics. Institute of Physics (IOP) Magnetism 2017, University of York, York, UK, 3–4 April 2017.
 
-</section>
+

@@ -54,7 +54,7 @@ June 2018. We expect about 15 participants at this event.
 09:00 XTOB1.01 Session 1
 
 - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
-  - XFEL presentation on JOOMMF and dissemination workshops
+  - XFEL presentation on Jupyter OOMMF and dissemination workshops
 - Brainstorming if needed and/or writing of content (use cases, etc)
    
 *10:30 Coffee break*
@@ -79,22 +79,49 @@ June 2018. We expect about 15 participants at this event.
 
 ## Friday  
 
-- Jupyter workshop on 3d graphics in XTOB1.01
-- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
+### Jupyter workshop on 3d graphics in XTOB1.01
 
-09:00  Session 1
+09:00  Session 1 (XTOB1.01)
+
+- Review of existing technology (Vidar) (something like [EuroSciPy talk](https://pyvideo.org/euroscipy-2017/interactive-3d-visualization-in-jupyter-notebooks.html))?
+
+- Objective of 3d visualisation for Jupyter OOMMF (Marijan)
 
 *10:30 Coffee break (XTOB1.01)*
 
-11:00 Session 2
+11:00 Session 2 (XTOB1.01)
 
 *12:30 lunch (XTOB1.01)*
 
-14:00 Session 3
+14:00 Session 3 (XTOB1.01)
 
 15:30 Coffee (XTOB1.01)
 
 *16:00 Closing (XTOB1.01)*
+
+
+### Dissemination workshop in XHQ2.097
+
+(Can also use the smaller room XHQ1.007 instead of XHQ2.097 if preferred.)
+
+09:00  Session 1 (XHQ2.097)
+
+*10:30 Coffee break (XTOB1.01)*
+
+11:00 Session 2 (XHQ2.097)
+
+*12:30 lunch (XTOB1.01)*
+
+14:00 Session 3 (XHQ2.097)
+
+15:30 Coffee (XTOB1.01)
+
+*16:00 Closing (XTOB1.01)*
+
+
+
+
+
 
 # Booked rooms at European XFEL
 
