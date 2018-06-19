@@ -45,4 +45,6 @@ Working with a group of 3 students to re-design the website and improve our comm
 - Teaching (Mike, Viviane, Nicolas)
 - Diversity (Viviane)
 
+</section>
+
 
