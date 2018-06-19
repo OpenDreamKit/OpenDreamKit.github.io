@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: slides
 title: "Dissemination, website, and more"
 theme: white
 transition: none
