@@ -11,7 +11,7 @@ author: Viviane Pons
 {{ page.author }}
 
 
---
+---
 ## Some events of the last 2 years
 
 - Sage days and Sage workshop in Combinatorics semester (Canada) - June 2017
