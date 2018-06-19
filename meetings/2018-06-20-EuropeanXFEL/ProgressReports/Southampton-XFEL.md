@@ -43,10 +43,13 @@ Completed move from the University of Southampton to the European XFEL GmbH. No 
       Windows
 
 * T2.8 Micromagnetic VRE dissemination workshops
-    * Four workshops completed
-    * One workshop scheduled
+    * Workshops
+      * Four workshops completed
+      * One workshop scheduled
+      * Details in the "Workshops and dissemination activities" section
+      
     * Publications, conference contributions, and tutorials listed in the "Other" section.
-    * Details in the "Workshops and dissemination activities" section
+    
 
 
 * T4.14 Online portal for Micromagnetic VRE demonstrator
