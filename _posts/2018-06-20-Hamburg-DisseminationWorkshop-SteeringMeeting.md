@@ -79,22 +79,43 @@ June 2018. We expect about 15 participants at this event.
 
 ## Friday  
 
-- Jupyter workshop on 3d graphics in XTOB1.01
-- Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
+### Jupyter workshop on 3d graphics in XTOB1.01
 
-09:00  Session 1
+09:00  Session 1 (XTOB1.01)
 
 *10:30 Coffee break (XTOB1.01)*
 
-11:00 Session 2
+11:00 Session 2 (XTOB1.01)
 
 *12:30 lunch (XTOB1.01)*
 
-14:00 Session 3
+14:00 Session 3 (XTOB1.01)
 
 15:30 Coffee (XTOB1.01)
 
 *16:00 Closing (XTOB1.01)*
+
+
+### Dissemination workshop in XHQ2.097 (or XHQ1.007 if preferred)
+
+09:00  Session 1 (XHQ2.097)
+
+*10:30 Coffee break (XTOB1.01)*
+
+11:00 Session 2 (XHQ2.097)
+
+*12:30 lunch (XTOB1.01)*
+
+14:00 Session 3 (XHQ2.097)
+
+15:30 Coffee (XTOB1.01)
+
+*16:00 Closing (XTOB1.01)*
+
+
+
+
+
 
 # Booked rooms at European XFEL
 
