@@ -6,6 +6,8 @@ transition: none
 author: Viviane Pons
 ---
 
+<section data-markdown data-separator="^---\n" data-separator-vertical="^--\n">
+
 # {{ page.title }}
 
 {{ page.author }}
@@ -24,7 +26,7 @@ author: Viviane Pons
 - Experimental math school (France) - May 2018
 - Sage at combinatorics scool ECCO (Colombia) - June 2018
 
---
+---
 ## Upcoming new website and communication
 
 Working with a group of 3 students to re-design the website and improve our communication.
@@ -33,7 +35,7 @@ Working with a group of 3 students to re-design the website and improve our comm
 - Creation of a stop motion video (in progress)
 - Gathering informations on different ODK thematics
 
---
+---
 # Interviews
 
 6 interviews pre-bookeds, 4 thematics
