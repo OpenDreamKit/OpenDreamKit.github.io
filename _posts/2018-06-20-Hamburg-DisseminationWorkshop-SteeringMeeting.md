@@ -54,7 +54,7 @@ June 2018. We expect about 15 participants at this event.
 09:00 XTOB1.01 Session 1
 
 - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
-  - XFEL presentation on JOOMMF and dissemination workshops
+  - XFEL presentation on Jupyter OOMMF and dissemination workshops
 - Brainstorming if needed and/or writing of content (use cases, etc)
    
 *10:30 Coffee break*
