@@ -23,6 +23,7 @@ June 2018. We expect about 15 participants at this event.
 # Agenda
 
 ## Wednesday (all in XTOB1.01)
+10:30 Coffee for those already present
 
 11:00 Session 1
 
@@ -59,7 +60,7 @@ June 2018. We expect about 15 participants at this event.
 
 11:00 Session 2
 - EOSC overview (Benoît)
-- EOSC pilot (Guelzow and Fuhrmann)
+- EOSC pilot ([Frank Schluenzen](https://confluence.desy.de/pages/viewpage.action?pageId=13795644))
 - NumFOCUS Europe (Nicolas)
    
 *12:30 lunch*
@@ -73,7 +74,7 @@ June 2018. We expect about 15 participants at this event.
 
 *18:00 Close, and walk to restaurant*
 
-*18:30 Dinner at Peter’s Bistro (http://www.hotel-kloevensteen.de/restaurant)*
+*18:30 Dinner at [Peter’s Bistro](http://www.hotel-kloevensteen.de/restaurant))*
 
 ## Friday  
 
