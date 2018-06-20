@@ -46,7 +46,9 @@ period: Reporting period from March 2017 to June 2018
 
 
 
---
+* Major achievements with regard to introducing parallelism into polynomial computations in Singular are included under work in progress below.
+* Extensions for ThebeLab to prepare for an interactive manual for GAP and Singular
+* Updates for the Jupyter kernel for Singular, in particular to allow for a simplified use within the Debian/Ubuntu-Package of Singular
 ## Work in progress
 
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
