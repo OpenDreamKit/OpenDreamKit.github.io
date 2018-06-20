@@ -54,12 +54,12 @@ June 2018. We expect about 15 participants at this event.
 09:00 XTOB1.01 Session 1
 
 - Presentations of participants eager to share their activities or ideas on dissem. and comm. content
-  - XFEL presentation on Jupyter OOMMF and dissemination workshops
 - Brainstorming if needed and/or writing of content (use cases, etc)
    
 *10:30 Coffee break*
 
 11:00 Session 2
+- XFEL presentation on Jupyter OOMMF and dissemination workshops
 - EOSC overview (Benoît)
 - EOSC pilot ([Frank Schluenzen](https://confluence.desy.de/pages/viewpage.action?pageId=13795644))
 - NumFOCUS Europe (Nicolas)
@@ -71,7 +71,7 @@ June 2018. We expect about 15 participants at this event.
 
 *16:15 Coffee*
 
-17:00 Session 3-b: Steering committee meeting
+17:00 Session 3-b: Steering committee meeting (IF NEEDED)
 
 18:00 Close, and walk to restaurant
 
