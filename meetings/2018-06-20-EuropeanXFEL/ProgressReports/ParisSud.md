@@ -22,13 +22,21 @@ period: Reporting period from March 2017 to June 2018
 --
 ## Hiring
 
-### 1 Project Manager on WP1 and WP2
+### One Project Manager on WP1 and WP2
 
 UPSUD is hiring a new project manager following the departure of B. Pilorget.
 
-### 1 postdoc on WP6
+### One postdoc on WP6
 
 UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe as Postdoc. He will be working half-time on WP6 and WP4. Florian will be spending the other half of his time at FAU with Pr. Kohlhase working on the same thematics.
+
+### One Research Software Engineer
+
+Using left overs from Florian's half post-doc and other planned
+positions, UPSUD has hired Odile Benassy as Research Software Engineer
+early June until the end of the project. She will be working on the
+technical/Jupyter side of Florian's tasks in WP4 and WP6, and in
+particular [T4.5 dynamic documentation and exploration system](https://github.com/OpenDreamKit/OpenDreamKit/issues/73)
 
 ### Three part-time trainees on Communication
 
@@ -88,6 +96,8 @@ Commission.
 
 A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
 
+### 
+
 --
 ## Work in progress
 
@@ -113,6 +123,13 @@ UPDATE BY NICOLAS???
   the success of this joint work and of the need of the EOSC
   post-2020, the collaboration could be extended.
 
+### Numfocus Europe
+
+- Nicolas participated to Sylvain Corlay's effort in setting up
+  Numfocus Europe (to be announced officially soon), an umbrella
+  association whose mission is to make it easier in Europe for
+  companies to financially support open source computational software.
+
 ### Portability and build system for SageMath
 
 - Finalization of Cygwin's port of SageMath [https://github.com/OpenDreamKit/OpenDreamKit/issues/66].
@@ -121,10 +138,25 @@ UPDATE BY NICOLAS???
 
 ### Misc technical achievements
 
-- Work on WP4: enabling binder and ThebeLab for SageMath, for live
-  documentation, reproducible notebooks, etc.
+- WP3:
 
-- Work on WP5: HPC for combinatorics
+  - Python 3 support, build system, and continuous integration for
+    SageMath (in collaboration with Logilab)
+
+- WP4:
+
+  - Enabling binder and ThebeLab for SageMath, for live documentation, reproducible notebooks, etc
+    (close to final integration); contributions to ThebeLab.
+
+  - Jupyter Widgets for combinatorics objects and dynamic
+    documentation and exploration.
+
+  - Heavy contributions to xeus-cling, a C++ kernel for Jupyter
+
+- WP5: HPC for combinatorics
+
+- WP6: OpenMath serialization for SageMath & Python based on Python's
+  native serialization ("pickling")
 
 ### Communication strategy 
 
@@ -143,6 +175,26 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 - Coorganization of a [Jupyter Widgets Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), January 23-26 of 2018, south of Paris.
 - Participation to ODK's [Workshop on live structured documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211) October 16-20 of 2017, Oslo
 - Organization of a WP6 meeting, November 6-8 of 2017
+- Organisation of a [Workshop on interfacing low level libraries with (math) software](https://github.com/OpenDreamKit/OpenDreamKit/issues/251)
+  April 24-28 , 2018, Cernay. 25 participants from all horizons,
+  including QuantStack, Google, Root, High Energy physics, ...
+- Organization of a winter school on Software Tools for Mathematics (Mexico) - Jan 2018, 40 participants
+- Participation to the [Jupyter in GAP and other CAS]() workshop in St Andrews, June 4th-9th.
+- Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
+- Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
+- Sage at combinatorics scool ECCO (Colombia) - June 2018
+
+- Lead the organization of ODK's main dissemination event targeted
+  toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
+  [CIRM](https://www.fr-cirm-math.fr/). Amenities reserved, main speakers invited, announcements to be made soon.
+
+  Confirmed speakers:
+
+  - Marie-Françoise Roy
+  - Max Horn
+  - Fernando Perez
+  - Anne Schilling
+  - Joris Van Der Hoeven
 
 --
 ### Sage and OpenDreamKit dissemination:
@@ -160,21 +212,3 @@ the newly developed *Cling C++ kernel* in our 300 student
 at Paris Sud. This was the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
 through many bug reports and feature requests.
-
---
-## Upcoming workshops
-
-- Organisation of a [Workshop on low-level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251),
-  March 13-17, 2017, Cernay; planning for 20 participants
-
-- Lead the organization of ODK's main dissemination event targeted
-  toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
-  [CIRM](https://www.fr-cirm-math.fr/). Amenities reserved, main speakers invited, announcements to be made soon.
-
-  Confirmed speakers:
-
-  - Marie-Françoise Roy
-  - Max Horn
-  - Fernando Perez
-  - Anne Schilling
-  - Joris Van Der Hoeven
