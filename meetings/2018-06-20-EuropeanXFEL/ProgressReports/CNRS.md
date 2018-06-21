@@ -16,7 +16,8 @@ period: Reporting period from March 2017 to June 2018
 ---
 ## Finance and administration
 
-* engineer Vincent Klein is now working for a year
+* engineer Vincent Klein is now working for almost a year
+  and a half
 
 ---
 ## Hiring
@@ -34,18 +35,18 @@ none
 
 * (not directly in the Proposal) finalization of upstream work on
    [gmpy2](https://github.com/aleaxit/gmpy) and Python standalone
-   interface to [pplpy](https://github.com/aleaxit/pply) (see
+   interface to [pplpy](https://gitlab.com/videlec/pplpy) (see
   [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
   integration)
 
-* (not directly in the Proposal) cysignals port on native Windows
-  [PR 76](https://github.com/sagemath/cysignals/pull/76).
-
---
+---
 ## Work in progress 
 
 * active collaboration between PARI/GP (Bill Allombert, Vincent Delecroix) and
   GAP (Markus Pfeiffer) for Galois group computations
+
+* (not directly in the Proposal) cysignals port on native Windows
+  [PR 76](https://github.com/sagemath/cysignals/pull/76).
 
 ---
 ## Workshops and dissemination activities
@@ -62,5 +63,3 @@ none
 
 * Sage days at [summer school][https://if-summer2018.sciencesconf.org/] in Grenoble (France)
   in June 2018.
-
-</section>
