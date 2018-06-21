@@ -159,7 +159,7 @@ June 2018. We expect about 15 participants at this event.
 - Logilab: Olivier Cayrol
 - UWarwick: John Cremona
 - University of Leeds: Mike Croucher
-- Simula: Min RK
+- Simula: Min RK, Vidar T. Fauske
 - University of Silesia: Marcin Kostur
 - TU Kaiserslautern: Wolfram Decker
 - FAU: Michael Kohlhase
