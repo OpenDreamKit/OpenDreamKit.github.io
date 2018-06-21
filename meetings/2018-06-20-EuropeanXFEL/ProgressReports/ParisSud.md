@@ -182,7 +182,7 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 - Participation to the [Jupyter in GAP and other CAS]() workshop in St Andrews, June 4th-9th.
 - Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
 - Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
-- Sage at combinatorics scool ECCO (Colombia) - June 2018
+- Sage at [combinatorics scool ECCO](http://ecco2018.combinatoria.co/) (Colombia) - June 2018
 
 - Lead the organization of ODK's main dissemination event targeted
   toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
