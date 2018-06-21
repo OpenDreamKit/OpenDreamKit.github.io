@@ -31,7 +31,7 @@ none
   [Sage trac ticket 22872](https://trac.sagemath.org/ticket/22872)
   [25257](https://trac.sagemath.org/ticket/25257),
   [25353](https://trac.sagemath.org/ticket/25353),
-  [24544](<https://trac.sagemath.org/ticket/24544).
+  [24544](https://trac.sagemath.org/ticket/24544).
 
 * (not directly in the Proposal) finalization of upstream work on
    [gmpy2](https://github.com/aleaxit/gmpy) and Python standalone
@@ -51,15 +51,18 @@ none
 ---
 ## Workshops and dissemination activities
 
-* PARI/GP atelier workshop in January 2018 ([website](https://pari.math.u-bordeaux.fr/Events/PARI2018/)).
+* [PARI/GP atelier workshop](https://pari.math.u-bordeaux.fr/Events/PARI2018/)
+  January 15-19, Besançon (France), 40 participants.
 
-* [Sage days 93](https://wiki.sagemath.org/days93) in Olot in February 2018
+* [Sage days 93](https://wiki.sagemath.org/days93)
+  February 19-March 4, Olot (Span), 11 participants.
 
-* [spring scool](https://mathexp2018.sciencesconf.org/) in St Flour (France)
-  in May 2018. 
+* [spring scool](https://mathexp2018.sciencesconf.org/)
+  May 21-June 1, St Flour (France), 25 participants.
 
-* course at [EJCIM](https://ejcim2018.sciencesconf.org/) in Nancy (France)
-  in March 2018.
+* course at [EJCIM](https://ejcim2018.sciencesconf.org/)
+  Mars 26-30, Nancy (France), 70 participants.
 
-* Sage days at [summer school][https://if-summer2018.sciencesconf.org/] in Grenoble (France)
-  in June 2018.
+* [Sage days 93.52](https://wiki.sagemath.org/days93.52)
+  (as part of a [summer school](https://if-summer2018.sciencesconf.org/))
+  June 11-22, Grenoble (France), 100 participants.
