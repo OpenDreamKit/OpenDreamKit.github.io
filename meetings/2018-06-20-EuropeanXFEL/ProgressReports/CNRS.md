@@ -28,12 +28,18 @@ none
 
 * (T5.3) working on cleaner linbox integration in Sage, see
   [Sage trac ticket 22872](https://trac.sagemath.org/ticket/22872)
+  [25257](https://trac.sagemath.org/ticket/25257),
+  [25353](https://trac.sagemath.org/ticket/25353),
+  [24544](<https://trac.sagemath.org/ticket/24544).
 
 * (not directly in the Proposal) finalization of upstream work on
    [gmpy2](https://github.com/aleaxit/gmpy) and Python standalone
    interface to [pplpy](https://github.com/aleaxit/pply) (see
   [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
   integration)
+
+* (not directly in the Proposal) cysignals port on native Windows
+  [PR 76](https://github.com/sagemath/cysignals/pull/76).
 
 --
 ## Work in progress 
@@ -46,9 +52,15 @@ none
 
 * PARI/GP atelier workshop in January 2018 ([website](https://pari.math.u-bordeaux.fr/Events/PARI2018/)).
 
-* (to come) [spring scool](https://mathexp2018.sciencesconf.org/) in St Flour (France)
-  in May 2018
+* [Sage days 93](https://wiki.sagemath.org/days93) in Olot in February 2018
 
-* (to come) [Sage days 93](https://wiki.sagemath.org/days93) in Olot in Februar 2018
+* [spring scool](https://mathexp2018.sciencesconf.org/) in St Flour (France)
+  in May 2018. 
+
+* course at [EJCIM](https://ejcim2018.sciencesconf.org/) in Nancy (France)
+  in March 2018.
+
+* Sage days at [summer school][https://if-summer2018.sciencesconf.org/] in Grenoble (France)
+  in June 2018.
 
 </section>
