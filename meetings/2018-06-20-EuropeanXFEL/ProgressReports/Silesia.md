@@ -23,26 +23,33 @@ period: Reporting period from March 2017 to June 2018
 ---
 ## Hiring
 
-dr Jolanta Marzec, was hired using remaining funding after dr Jan Aksamit position. The goal is to finish Linear Algebra demonstrator.
+dr Jolanta Marzec, is hired using and finishing the Linear Algebra demonstrator (http://visual.icse.us.edu.pl/LA)
 
 ---
 ## Achievements
 
 K3D-jupyter 
- - project was ported to ipywidgets 7, (v 2.1)
- - it is being tested in real world scenario in a IT company (e.g. https://www.youtube.com/watch?v=Zzvx72fD6oo)
- 
+ - project was ported to ipywidgets 7, (v 2.4.9), API is (mostly) stable
+ - it is already being used by FutureProcessing (https://www.future-processing.com) by teams involved in data analysis and simulation and cfd analysis.
+ - it is included in pip: 
+ 	
+	pip install k3d
+	jupyter nbextension install --py --sys-prefix k3d
+	jupyter nbextension enable --py --sys-prefix k3d
 
 
 
 ---
 ## Work in progress
 
-K3d-jupyter widget is under final stage of development which includes, polishing existing features and API, performance optimalization and CFD analysis module.
+K3d-jupyter widget is under final stage of development which includes:
+
+ - polishing existing features, performance optimalization
+ - CFD analysis module is under active development now.
 
 There is ongoing work on demonstrators: Nonlinear processes in Biology and on "Problems in Physics".
 
-Demonstrator Linear Algebra is under active development.
+Demonstrator Linear Algebra is in last phase - mostly adding under active development.
 
 ---
 ## Workshops and dissemination activities
@@ -57,4 +64,3 @@ International Conference on Computational Science, Zürich, Switzerland,    12-1
 
 
 
-</section>
