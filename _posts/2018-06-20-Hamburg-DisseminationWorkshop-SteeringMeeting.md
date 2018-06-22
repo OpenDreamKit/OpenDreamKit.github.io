@@ -60,7 +60,7 @@ June 2018. We expect about 15 participants at this event.
 
 11:00 Session 2
 - XFEL presentation on Jupyter OOMMF and dissemination workshops
-- EOSC overview (Benoît)
+- [EOSC overview](/meetings/2018-06-20-EuropeanXFEL/EOSC-June2018.pdf) (Benoît)
 - EOSC pilot ([Frank Schluenzen](https://confluence.desy.de/pages/viewpage.action?pageId=13795644))
 - NumFOCUS Europe (Nicolas)
    
