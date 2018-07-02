@@ -4,6 +4,7 @@ author: Marijan Beg
 title: Project meeting at European XFEL GmbH
 dates: June 20-22 2018
 location: Hamburg, Germany
+image: xfel.jpeg
 tags:
     - project-meeting
     - front-page

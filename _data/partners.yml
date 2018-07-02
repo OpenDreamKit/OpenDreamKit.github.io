@@ -86,8 +86,8 @@ sites:
         homepage: 'https://alexjbest.github.io/'
         github: alexjbest
       - name: Dr Alexander Kruppa
-      -name: Dr. Remi Imbach
-      -name: Daniel Schultz
+      - name: Dr. Remi Imbach
+      - name: Daniel Schultz
   - name: University of Oxford
     logo: ox_brand.png
     homepage: 'http://www.ox.ac.uk'

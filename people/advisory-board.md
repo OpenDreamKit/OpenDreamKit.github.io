@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Advisory Board
-menu_order: 2
+menu_order: 3
+menu: people
 ---
 
 

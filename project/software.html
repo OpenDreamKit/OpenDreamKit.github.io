@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Software and components
-menu_order: 4
+menu_order: 3
+slider: True
+slider_order: 2
+slider_heading: Software we contribute to
+slider_sentence: OpenDreamKit supports the development of several several open source software projects
+image: software.png
+menu: project
 source: _data/software.yml
 ---
 
@@ -21,14 +27,14 @@ source: _data/software.yml
                 </h2>
             </div>
             <p>
-	      {% if soft.download %}
-	      <a href="{{ soft.download }}" >Download</a> --
-	      {% endif %}
-	      {% if soft.github %}
-	      <a href="{{ soft.github }}" >GitHub</a> --
-	      {% endif %}
-	      <a href="{{ site.baseurl }}/tag/{{ soft.tag }}" >OpenDreamKit activites</a>
-	    </p>
+          {% if soft.download %}
+          <a href="{{ soft.download }}" >Download</a> --
+          {% endif %}
+          {% if soft.github %}
+          <a href="{{ soft.github }}" >GitHub</a> --
+          {% endif %}
+          <a href="{{ site.baseurl }}/tag/{{ soft.tag }}" >OpenDreamKit activites</a>
+        </p>
             <p>{{ soft.description }}</p>
         </div>
     {% endfor %}

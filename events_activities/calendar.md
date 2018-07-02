@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Events calendar
-menu_order: 2
+title: All events
+menu_order: 1
+menu: events
 id: Calendar
 source: _data/events.yml
 redirect_from: "/calendar/"

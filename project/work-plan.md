@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Work plan
-menu_order: 3
+menu_order: 2
+menu: project
 ---
 
 We have set various objectives and tasks. The nine objectives must be

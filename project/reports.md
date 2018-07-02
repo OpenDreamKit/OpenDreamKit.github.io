@@ -2,6 +2,8 @@
 layout: page
 title: Reports
 menu_order: 4
+menu: project
+redirect_from: "/events_activities/reports/"
 ---
 
 ## Deliverable reports

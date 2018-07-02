@@ -1,7 +1,13 @@
 ---
 layout: page
 title: Use cases
-menu_order: 2
+slider: True
+slider_heading: Use Cases and Success Stories
+slider_sentence: What can we do for you
+image: math.png
+menu: project
+menu_order: 1
+slider_order: 1
 ---
 
 {% for post in site.tags['use-case'] %}

@@ -2,6 +2,7 @@
 layout: partners
 title: Partners
 menu_order: 1
+menu: people
 source: _data/partners.yml
 redirect_from: "/partners/"
 ---

@@ -14,10 +14,14 @@
     <!-- Bootstrap -->
     <link href="{{ site.baseurl }}/public/{{ site.bootstrap }}/css/bootstrap.min.css" rel="stylesheet">
 
+
+
     <!-- Custom CSS -->
-    <link href="{{ site.baseurl }}/public/css/main.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/public/css/flexslider.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/public/css/style.css" rel="stylesheet">
 
     <!-- Font css -->
+    <link href="{{ site.baseurl }}/public/css/fonts.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/public/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
 
@@ -35,8 +39,17 @@
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/atom.xml">
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins and calendar) -->
+    <!-- jQuery -->
     <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/public/js/jquery.flexslider-min.js"></script>
+    <script>
+    $(window).on('load', function() {
+        $('.flexslider').flexslider({
+            directionNav: false,
+            controlNav: true
+        });
+    });
+    </script>
 
     {% if page.id == "Calendar" %}
         {% include calendar.html %}

@@ -2,7 +2,32 @@
 layout: default
 ---
 
-<div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</div>
+
+    {% if page.image %}
+        <section class="section-image">
+            <img src="{{ site.baseurl }}/public/images/{{ page.image }}" alt="" />
+        </section>
+
+    {% endif %}
+
+    <div class="content">
+    {{ content }}
+
+    {% if page.include_tag %}
+        <section class="projects">
+        {% for post in site.tags[page.include_tag] %}
+          {% if forloop.index <= 9 %}
+            {% include post_link.html %}
+          {% endif %}
+        {% endfor %}
+
+        <a href="{{ site.baseurl }}/tag/{{ page.include_tag }}" class="see-all">See all > </a>
+        </section>
+    {% endif %}
+
+    </div>
+
+
+
+

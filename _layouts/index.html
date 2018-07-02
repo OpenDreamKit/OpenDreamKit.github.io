@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<section class="slider top-slider">
+    <div class="flexslider">
+        <ul class="slides">
+            {% assign slider_pages = site.pages | concat: site.tagpages | where: "slider", true | sort:"slider_order" %}
+            {% for p in slider_pages %}
+                    <li>
+                        <img src="{{ site.baseurl }}/public/images/{{ p.image }}" alt="" />
+                        <div class="slide-description">
+                            <h2><a href="{{ p.url }}" >{{ p.slider_heading }}</a></h2>
+                            <p>{{ p.slider_sentence }}</p>
+                        </div>
+                    </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+
+<div class ="content">
+
+{% capture my-include %}{% include intro.md %}{% endcapture %}
+{{ my-include | markdownify }}
+
+<div class="flex" >
+<div class="left-index" >
+    <section class="projects">
+        <h2 class="title-section">Project activities</h2>
+
+        {% for post in site.tags['front-page'] %}
+          {% if forloop.index <= 9 %}
+            {% include post_link.html %}
+          {% endif %}
+        {% endfor %}
+
+
+        <a href="#" class="see-all">See all projects activities > </a>
+
+    </section>
+    {% assign events = site.data.events.InternalEvents | sort:"start" | reverse %}
+    <section class="events">
+        <h2 class="title-section">Events</h2>
+        <ul class="event-list">
+            {% for event in events %}
+                {% if forloop.index <= 5 %}
+                    <li class="event-item">
+                        <div class="event-date">{{ event.start | date_to_string }}</div>
+                        <div class="event-description">
+                            <p>{% if event.url %}<a href="{{ event.url }}" >{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+                            {% if event.location %}({{event.location}}){% endif %}</p>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+        <a href="#" class="see-all">See all events > </a>
+    </section>
+
+</div>
+
+<aside class="twitter">
+    <h2 class="title-section title-section-twitter">Our latest tweets</h2>
+    <div class="twitter-wrapper" >
+        <a data-chrome="noheader" data-tweet-limit="3" class="twitter-timeline" href="https://twitter.com/OpenDreamKit?ref_src=twsrc%5Etfw">Our latest tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</aside>
+</div>
+
+
+{{ content }}
+
+</div>

@@ -39,13 +39,19 @@ collections:
 # Custom vars
 version:             0.3.0
 repository:          OpenDreamKit/OpenDreamKit.github.io
-bootstrap:           bootstrap-3.3.7-dist
+bootstrap:           bootstrap-custom
 tagfolder:           tag
 menu:
-    - title: 'The Project'
-      folder: 'project'
-    - title: 'The People'
-      folder: 'people'
-    - title: 'Events and Activities'
-      folder: 'events_activities'
+    - title: 'About'
+      link: '/about/'
+    - title: 'Project'
+      slug: 'project'
+    - title: 'People'
+      slug: 'people'
+    - title: 'Values'
+      slug: 'values'
+    - title: 'Events'
+      slug: 'events'
+    - title: 'Blog'
+      link: '/tag/blogpost'
 

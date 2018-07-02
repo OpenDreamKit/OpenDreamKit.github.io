@@ -1,22 +1,7 @@
 ---
-layout: default
+layout: index
 title: Home
 ---
-
-
-{% include intro.md %}
-
-[Read more...](project/about)
-
-## Recent activities
-
-{% for post in site.tags['front-page'] %}
-  {% if forloop.index <= 5 %}
-    {% include post_link.html %}
-  {% endif %}
-{% endfor %}
-
-[See all activites](/events_activities/project_activities/)
 
 
 *The project was labelled by the [Free and Open Source Software Work Group of the Systematic Cluster](http://www.systematic-paris-region.org/en/get-info-topics/free-and-open-source-software).*
