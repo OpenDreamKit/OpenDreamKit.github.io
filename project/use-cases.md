@@ -14,7 +14,7 @@ slider_order: 1
     {% include post_link.html %}
 {% endfor %}
 
-## Upcoming use cases
+## Upcoming use case descriptions
 
 - Publishing live talk slides with SageMath + Jupyter + Rise + binder
 
