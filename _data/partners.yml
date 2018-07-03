@@ -1,5 +1,5 @@
 sites:
-  - name: 1-Université Paris-Sud
+  - name: 01-Université Paris-Sud
     logo: Paris-Sud-Saclay.jpg
     homepage: 'http://www.u-psud.fr'
     members:
@@ -37,7 +37,7 @@ sites:
         homepage: 'https://kwarc.info/people/frabe/'
         github: florian-rabe
         
-  - name: 2-Université de Bordeaux
+  - name: 02-Université de Bordeaux
     logo: Universite-de-Bordeaux_static.svg
     homepage: 'https://www.u-bordeaux.fr/'
     members:
@@ -56,7 +56,7 @@ sites:
       - name: Vincent Klein
       - name: Sébastien Labbé
         homepage: "http://www.slabbe.org/"
-  - name: 3-Université Grenoble Alpes
+  - name: 03-Université Grenoble Alpes
     logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
     members:
@@ -71,7 +71,7 @@ sites:
         github: jgdumas
       - name: Hongguang Zhu
         github: ZHG2017
-  - name: 4-University of Kaiserslautern
+  - name: 04-University of Kaiserslautern
     logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
     members:
@@ -88,7 +88,7 @@ sites:
       - name: Dr Alexander Kruppa
       - name: Dr. Remi Imbach
       - name: Daniel Schultz
-  - name: 5-University of Oxford
+  - name: 05-University of Oxford
     logo: ox_brand.png
     homepage: 'http://www.ox.ac.uk'
     members:
@@ -103,7 +103,7 @@ sites:
 
       # TODO: reinsert Ursula, with status: retired
 
-  - name: 6-University of Sheffield
+  - name: 06-University of Sheffield
     logo: sheffield_logo.gif
     homepage: 'http://www.sheffield.ac.uk/'
     members:
@@ -124,7 +124,7 @@ sites:
         homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
         github: lawrennd
         # status: left
-  - name: 7-University of Silesia
+  - name: 07-University of Silesia
     logo: US.png
     homepage: 'http://english.us.edu.pl/'
     members:
@@ -138,7 +138,7 @@ sites:
       - name: Jan Aksamit
         homepage: 'http://www.researchgate.net/profile/Jan_Aksamit'
         status: deceased
-  - name: 8-University of Southampton
+  - name: -University of Southampton
     logo: University-of-Southampton.png
     homepage: 'http://www.southampton.ac.uk'
     members:
@@ -155,7 +155,7 @@ sites:
       - name: Marijan Beg 
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         github: mb1a15
-  - name: 9-University of St Andrews
+  - name: 08-University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
     members:
@@ -186,7 +186,7 @@ sites:
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
         github: m-iancu
-  - name: 10-Université de Versailles – Saint-Quentin-en-Yvelines
+  - name: 09-Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
     members:
@@ -201,7 +201,7 @@ sites:
       - name: Nicolas Gama
         homepage: 'http://gama.nicolas.free.fr/'
         github: ngama75
-  - name: 11-University of Warwick
+  - name: 10-University of Warwick
     logo: UofW.png
     homepage: 'http://www2.warwick.ac.uk/'
     members:
@@ -223,7 +223,7 @@ sites:
         twitter: 'podehaye'
         github: pdehaye
         status: left
-  - name: 12-Logilab
+  - name: 11-Logilab
     logo: logilab.png
     homepage: 'https://www.logilab.fr'
     twitter: 'logilab'
@@ -244,7 +244,7 @@ sites:
       - name: Serge Guelton
         homepage: 'http://serge.liyun.free.fr/serge/index.html'
         github: serge-sans-paille
-  - name: 13-Simula Research Laboratory
+  - name: 12-Simula Research Laboratory
     logo: simula.png
     homepage: 'https://www.simula.no'
     members:
@@ -263,14 +263,14 @@ sites:
         github: martinal
         status: left
       - name: Vidar Tonaas Fauske
-  - name: 14-Universiteit Gent
+  - name: 13-Universiteit Gent
     logo: universiteit_gent.gif
     homepage: 'http://www.ugent.be/en'
     members:
       - name: Jeroen Demeyer
         homepage: 'http://cage.ugent.be/~jdemeyer/'
         github: jdemeyer
-  - name: 15-European XFEL
+  - name: 14-European XFEL
     logo: xfel-png.png
     homepage: 'http://www.xfel.eu/en/'
     members:
@@ -284,7 +284,7 @@ sites:
       - name: Marijan Beg 
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         github: mb1a15
-  - name: 16-FAU Universität Erlangen-Nürnberg
+  - name: 15-FAU Universität Erlangen-Nürnberg
     logo: FAU-logo.png
     homepage: 'https://www.fau.de/'
     members:
