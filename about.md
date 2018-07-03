@@ -27,8 +27,8 @@ OpenDreamKit has also advanced the [Jupyter Notebook](http://jupyter.org/) Ecosy
  * [See our presentation for developers](/about-developers/)
 
 
-The project involves about 50 people spread over 16 sites
-in Europe, with a total budget of about 7.6 million euros. The largest
+The project involves about 50 people spread over 15 sites
+in Europe, with a total budget of about 7.4 million euros. The largest
 portion of that will be devoted to employing an average of 11
 researchers and developers working full time on the
 project. Additionally, the participants will contribute the equivalent
