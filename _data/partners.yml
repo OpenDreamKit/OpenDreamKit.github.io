@@ -262,6 +262,8 @@ sites:
       - name: Jeroen Demeyer
         homepage: 'http://cage.ugent.be/~jdemeyer/'
         github: jdemeyer
+        roles:
+          - site-leader
   - name: 14-European XFEL
     logo: xfel-png.png
     homepage: 'http://www.xfel.eu/en/'
@@ -287,8 +289,6 @@ sites:
          - wp6-leader
         github: kohlhase
       - name: Florian Rabe
-        roles:
-         - site-leader
         homepage: 'https://kwarc.info/people/frabe/'
         github: florian-rabe
       - name: Dennis Müller
