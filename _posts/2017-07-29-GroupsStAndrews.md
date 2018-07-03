@@ -5,7 +5,7 @@ title: OpenDreamKit at Groups St Andrews in Birmingham
 tags:
     - blogpost
     - GAP
-    - conference 
+    - workshop 
     - math-in-the-middle
 ---
 

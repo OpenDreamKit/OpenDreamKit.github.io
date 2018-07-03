@@ -14,16 +14,19 @@ layout: default
     <div class="content">
     {{ content }}
 
-    {% if page.include_tag %}
+    {% if page.tag %}
         <section class="projects">
-        {% for post in site.tags[page.include_tag] %}
-          {% if forloop.index <= 9 %}
+        {% for post in site.tags[page.tag] %}
             {% include post_link.html %}
-          {% endif %}
         {% endfor %}
-
-        <a href="{{ site.baseurl }}/tag/{{ page.include_tag }}" class="see-all">See all > </a>
         </section>
+    {% endif %}
+
+    {% if page.extra_content %}
+        {% capture extra_content %}
+            {% include {{ page.extra_content }} %}
+        {% endcapture %}
+        {{ extra_content | markdownify }}
     {% endif %}
 
     </div>

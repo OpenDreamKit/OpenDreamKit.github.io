@@ -8,7 +8,7 @@ tagline:             'Open Digital Research Environment Toolkit for the Advancem
 description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> - <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
 url:                 http://opendreamkit.org
 baseurl:             ''
-paginate:            10
+paginate:            18
 paginate_path:       "/news/page:num/"
 blog_path:           "/news/"
 future:              True

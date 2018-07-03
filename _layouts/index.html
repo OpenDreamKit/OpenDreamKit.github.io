@@ -36,7 +36,7 @@ layout: default
         {% endfor %}
 
 
-        <a href="#" class="see-all">See all projects activities > </a>
+        <a href="{{ site.baseurl }}/project/project_activities/" class="see-all">See all projects activities > </a>
 
     </section>
     {% assign events = site.data.events.InternalEvents | sort:"start" | reverse %}
@@ -55,7 +55,7 @@ layout: default
                 {% endif %}
             {% endfor %}
         </ul>
-        <a href="#" class="see-all">See all events > </a>
+        <a href="{{ site.baseurl }}/events/all-events/" class="see-all">See all events > </a>
     </section>
 
 </div>

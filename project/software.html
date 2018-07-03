@@ -3,7 +3,7 @@ layout: page
 title: Software and components
 menu_order: 3
 slider: True
-slider_order: 2
+slider_order: 3
 slider_heading: Software we contribute to
 slider_sentence: OpenDreamKit supports the development of several several open source software projects
 image: software.png
@@ -11,7 +11,14 @@ menu: project
 source: _data/software.yml
 ---
 
+<p>
+OpenDreamKit is built on the principle of supporting, improving, and integrating various software components already in use by the mathematical research and education communities. We contribute to software involved in mathematical research and education at all levels, which can be assembled as components in different combinations to serve a variety of use cases. See below a collection of software OpenDreamKit has contributed to and details about our contributions. These contributions mostly fit in two broad categories: mathematical research software and general purpose e-infrastructure software such as user interfaces.
+</p>
+
+<div class="flex" >
+<div class="left-index" >
 <div id="softwares" >
+    <h2 class="title-section">Our main software</h2>
     {% assign softwares = site.data.software | sort:"name" %}
     {% for soft in softwares %}
         <div class="software" >
@@ -39,3 +46,15 @@ source: _data/software.yml
         </div>
     {% endfor %}
 </div>
+</div>
+<aside class="side-index">
+    <section class="projects">
+        <h2 class="title-section">Latest releases</h2>
+
+        {% for post in site.tags['release'] %}
+            {% include post_link.html %}
+        {% endfor %}
+
+
+    </section>
+</aside>

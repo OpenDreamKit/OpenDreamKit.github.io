@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Press releases
-menu_order: 3
-redirect_from: "/follow/"
+menu_order: 6
+menu: project
+redirect_from: "/events_activities/press_release/"
 ---
 
 * 18 Jun 2015, CNRS [Projet européen sur les logiciels libres de mathématiques](http://www.cnrs.fr/CNRS-Hebdo/aquitaine/lettre.php?numero=664#actu13784)

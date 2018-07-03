@@ -6,7 +6,7 @@ location: CIRM, Luminy, France
 dates: February 11th-15th of 2019
 image: cirm.jpg
 tags:
-    - conference
+    - workshop
     - front-page
     - dissemination
 ---

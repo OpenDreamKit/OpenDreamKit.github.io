@@ -2,5 +2,7 @@
 layout: tagpage
 tag: talk
 class: event
-title: Talk
+title: Talks
+menu: events
+menu_order: 3
 ---

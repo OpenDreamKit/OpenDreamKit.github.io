@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Project Activites
+title: Project Activity
 alltags: True
-menu_order: 1
+menu_order: 2
+menu: project
+redirect_from: "/events_activities/project_activities/"
 ---
+
+Find below <strong>ALL</strong> updates on our recent activity: this includes events, technichal updates, blog posts and more...
 
 {% comment %}
 Project activities are generated through the /_posts/ folder
@@ -24,12 +28,14 @@ Project activities are generated through the /_posts/ folder
 
 <h2>Most recent activites</h2>
 
-{% for post in site.posts %}
-    {% if forloop.index < 5 %}
+<section class="projects">
+    {% for post in site.posts %}
+    {% if forloop.index < 19 %}
     {% include post_link.html %}
     {% endif %}
 {% endfor %}
+</section>
 
-<a href="{{ site.blog_path}}">See all</a>
+<a href="{{ site.baseurl }}/news/page2/">See more</a>
 
 

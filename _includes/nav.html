@@ -62,7 +62,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ node.title }}<span class="caret"></span></a>
                             <ul class="dropdown-menu" >
                                 {% for sub in sorted_pages %}
-                                    <li {% if sub.id == page.id %} class="active" {% endif %}><a href="{{ sub.url }}">{% if sub.menu_title %}{{ sub.menu_title }}{% else %}{{ sub.title }}{% endif %}</a></li>
+                                    <li><a href="{{ sub.url }}">{% if sub.menu_title %}{{ sub.menu_title }}{% else %}{{ sub.title }}{% endif %}</a></li>
                                 {% endfor %}
                             </ul>
                         </li>
