@@ -12,6 +12,7 @@ tags:
     - user-interface
     - teaching
     - cloud
+image: binder.png
 ---
 
 # About this document
