@@ -59,16 +59,15 @@ We have used CoCalc in Sheffield for a number of classes (e.g. Biomedical scienc
 
 ## The implementation
 Thanks to `nbformat` it is possible to convert the notebooks into other formats, such as .pdf, .tex, .py, .html, .md and even reveal.js slides. On the other hand, it is possible to now perform regression tests on the notebooks thanks to the ODK developed tool [nbval](https://github.com/computationalmodelling/nbval), and finally, GitHub supports and serves static websites generated using Jekyll.
-
 Thus we worked on developing a readily usable Jekyll template specifically designed for university course modules and with Jupyter notebooks as the main source of content.
-<img src="{{site.url}}{{site.baseurl}}/assets/Jekyll.PNG">
-<br>
+<br> <br>
+<img src="{{site.url}}{{site.baseurl}}/assets/Jekyll.PNG" style="margin:10px 0; border:1px solid #b5b5b5;">
+<br><br>
 It would then be possible to convert the notebooks to `.md` or `.html` and then add the `.yaml` header needed by Jekyll to render it within the posts. In order to remove the manual burden we developed a python package [nbjekyll](https://github.com/trallard/nbjekyll) that uses nbformat to convert the notebook to a Jekyll post.
 By calling nbjekyll within the filesystem containing a Jekyll blog it will find the notebooks and convert them into Jekyll ready .md files with the appropriate front-matter needed, export the images (if any) within the notebook and correctly update the paths in the .md files so that they point to the images in the site.
 
-<img src="{{site.url}}{{site.baseurl}}/assets/Jekyll-2.PNG">
+<img src="{{site.url}}{{site.baseurl}}/assets/Jekyll-2.PNG" style="margin: 10px 0; border: 1px solid #b5b5b5;">
 <br>
-
 
 In addition, when doing the conversion, `nbjekyll` uses nbval under the hood to perform a sanity check on the notebook. By doing so a badge is added to indicate if the tests on the notebook were successful of if there were any problems encountered during the testing phase.
 
