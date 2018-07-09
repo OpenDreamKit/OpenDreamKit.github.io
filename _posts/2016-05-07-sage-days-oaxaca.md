@@ -6,7 +6,7 @@ author: Vincent Delecroix
 date: 2016/05/07
 redirect_from: "/activities/2016-05-07-sage-days-oaxaca/"
 tags:
-    - conference
+    - workshop
     - sagemath
 ---
 

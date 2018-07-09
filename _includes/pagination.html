@@ -1,5 +1,6 @@
 <nav aria-label="Page navigation">
   <ul class="pagination">
+    {% assign firstpage = '/project/project_activities/' %}
     {% if paginator.previous_page %}
     <li>
       <a href="{{ site.baseurl }}{{paginator.previous_page_path}}" aria-label="Previous">
@@ -14,7 +15,7 @@
     </li>
     {% endif %}
     {% if paginator.page > 4 %}
-        <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: 'page:num/', '' }}">1</a></li>
+        <li><a href="{{ site.baseurl }}{{ firstpage }}">1</a></li>
         {% if paginator.page > 5 %}
         <li class="disabled" ><a href="#" >...</a></li>
         {% endif %}
@@ -25,7 +26,7 @@
         {% if p > 0 and p <= paginator.total_pages %}
             <li {% if p == paginator.page %} class="active" {% endif %}>
             {% if p == 1 %}
-                <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: 'page:num/', '' }}">1</a>
+                <a href="{{ site.baseurl }}{{ firstpage }}">1</a>
             {% else %}
                 <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', p }}">{{ p }}</a>
             {% endif %}

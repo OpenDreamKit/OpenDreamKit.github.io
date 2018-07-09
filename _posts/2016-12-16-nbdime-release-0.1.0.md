@@ -9,6 +9,7 @@ tags:
     - release
     - nbdime
     - reproducibility
+    - open-science
 ---
 
 nbdime 0.1.0 has been released, implementing tools for diffing and merging Jupyter notebooks

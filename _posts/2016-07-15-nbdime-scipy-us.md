@@ -11,6 +11,7 @@ tags:
     - jupyter
     - nbdime
     - reproducibility
+    - open-science
 ---
 
 Talk to be presented at SciPy US, July 2016. Presentation to be linked when available.

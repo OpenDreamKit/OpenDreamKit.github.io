@@ -1,6 +1,6 @@
 ---
-layout: default
-title: News
+layout: page
+title: Project Activity
 source: _posts/
 ---
 
@@ -9,10 +9,11 @@ source: _posts/
   directory, taking the existing files as examples.
 {% endcomment %}
 
-<div class="posts">
+
+<section class="projects">
   {% for post in paginator.posts %}
     {% include post_link.html %}
   {% endfor %}
-</div>
+</section>
 
 {% include pagination.html %}

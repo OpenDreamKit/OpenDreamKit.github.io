@@ -44,9 +44,11 @@ period: Reporting period from March 2017 to June 2018
 ## Achievements
 
 
+* Major achievements with regard to introducing parallelism into polynomial computations in Singular are included under work in progress below.
+* Extensions for ThebeLab to prepare for an interactive manual for GAP and Singular
+* Updates for the Jupyter kernel for Singular, in particular to allow for a simplified use within the Debian/Ubuntu-Package of Singular
+* Integration of Jupyter kernel for Singular into CoCalc.
 
-
---
 ## Work in progress
 
 * [D 5.13 Parallelise the Singular sparse polynomial multiplication algorithms and provide parallel versions of the Singular sparse polynomial division and GCD algorithms.](https://github.com/OpenDreamKit/OpenDreamKit/issues/111)
@@ -95,10 +97,17 @@ computing libraries, for instance CGAL.
 ---
 ## Workshops and dissemination activities
 
+- Part of the Organization of the [Jupyter in GAP and other CAS workshopt](http://gapdays.de/gap-jupyter-days2018), June 4th-9th, St. Andrews, Scotland
+- Participation to the [Workshop on interfacing low level libraries with (math) software](https://github.com/OpenDreamKit/OpenDreamKit/issues/251),
+  April 24-28 , 2018, Cernay
+- Participation to the [Jupyter Widgets Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), January 23-26 of 2018, south of Paris
+- Participation to ODK's [Workshop on live structured documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211), October 16-20 of 2017, Oslo
+- Organization of the [Antic Workshop and coding sprint](https://github.com/Nemocas/Nemo.jl/wiki/OSCAR-:-Antic-Workshop--and--coding-sprint), July 31 - August 4 of 2017, Kaiserslautern
+
 
 --
 ## Other
 
-
+- Work on LibGAP collaborating with the DFG-TRR 195
 
 </section> 

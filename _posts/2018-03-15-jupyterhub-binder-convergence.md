@@ -12,6 +12,7 @@ tags:
     - user-interface
     - teaching
     - cloud
+image: jupyterhub-binderhub.svg
 ---
 
 # About this document

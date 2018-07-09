@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Reports
-menu_order: 4
+menu_order: 5
+menu: project
+redirect_from: "/events_activities/reports/"
 ---
+
+We are required to write reports on our activities in order for the European commission to evaluate our work. All our reports are public along with the related discussions and work. You can find them on our github page.
 
 ## Deliverable reports
 

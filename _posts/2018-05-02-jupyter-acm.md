@@ -6,6 +6,7 @@ tags:
     - blogpost
     - front-page
     - jupyter
+image: jupyter+acm.png
 ---
 
 [Project Jupyter has been awarded](https://blog.jupyter.org/jupyter-receives-the-acm-software-system-award-d433b0dfe3a2)

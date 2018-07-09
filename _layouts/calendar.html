@@ -1,0 +1,93 @@
+---
+layout: page
+---
+
+
+{{ content }}
+
+
+<div class="flex" >
+<div class="left-index" >
+    <section class="projects">
+        <h2 class="title-section">Workshops and conferences</h2>
+
+        {% for post in site.tags['workshop'] %}
+          {% if forloop.index <= 9 %}
+            {% include post_link.html %}
+          {% endif %}
+        {% endfor %}
+
+
+        <a href="#" class="see-all">See all workshops > </a>
+
+    </section>
+    <section class="projects">
+        <h2 class="title-section">Project meetings</h2>
+
+        {% for post in site.tags['project-meeting'] %}
+          {% if forloop.index <= 9 %}
+            {% include post_link.html %}
+          {% endif %}
+        {% endfor %}
+
+
+        <a href="#" class="see-all">See all project meetings > </a>
+
+    </section>
+    <section class="projects">
+        <h2 class="title-section">Project Reviews</h2>
+
+        {% for post in site.tags['project-review'] %}
+          {% if forloop.index <= 9 %}
+            {% include post_link.html %}
+          {% endif %}
+        {% endfor %}
+
+
+        <a href="#" class="see-all">See all project reviews > </a>
+
+    </section>
+
+</div>
+<aside class="side-index">
+    <div id="calendar"></div>
+
+    <a href="{{ site.baseurl }}/calendar.ics" >ICAL</a>
+
+    {% assign events = site.data.events.InternalEvents | sort:"start" | reverse %}
+    <section class="events">
+        <h2 class="title-section">ODK Events</h2>
+        <ul class="event-list">
+            {% for event in events %}
+                {% if forloop.index <= 5 %}
+                    <li class="event-item">
+                        <div class="event-date">{{ event.start | date_to_string }}</div>
+                        <div class="event-description">
+                            <p>{% if event.url %}<a href="{{ event.url }}" >{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+                            {% if event.location %}({{event.location}}){% endif %}</p>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+    {% assign events = site.data.events.ExternalEvents | sort:"start" | reverse %}
+    <section class="events">
+        <h2 class="title-section">External Events</h2>
+        <ul class="event-list">
+            {% for event in events %}
+                {% if forloop.index <= 5 %}
+                    <li class="event-item">
+                        <div class="event-date">{{ event.start | date_to_string }}</div>
+                        <div class="event-description">
+                            <p>{% if event.url %}<a href="{{ event.url }}" >{{ event.title }}</a>{% else %}{{ event.title }}{% endif %}
+                            {% if event.location %}({{event.location}}){% endif %}</p>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </section>
+</aside>
+</div>
+

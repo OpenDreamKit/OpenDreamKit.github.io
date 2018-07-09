@@ -2,6 +2,7 @@
 layout: post
 author: Viviane Pons
 title: Report on WomenInSage
+image: womenInSage/group_photo_head.jpg
 tags:
     - blogpost
     - workshop
@@ -15,8 +16,6 @@ Last January, Viviane Pons, Jessica Striker and Jennifer Balakrishnan organized
  the first [WomenInSage](https://wiki.sagemath.org/days82)
  event in Europe with OpenDreamKit. 20 women spent a week together coding and learning in a rented
 house in the Paris area.
-
-![Group picture](/public/images/womenInSage/group_photo.jpg){:class="img-responsive"}
 
 # The Workshop
 

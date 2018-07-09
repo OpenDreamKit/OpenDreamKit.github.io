@@ -22,6 +22,7 @@ period: Reporting period from March 2017 to June 2018
 ---
 ## Hiring
 
+* Julian Rüth that works on SageMath packaging and continuous integration.
 
 ---
 ## Achievements
@@ -37,6 +38,13 @@ version can use post-processing plugins written in javascript or in
 C++ compiled with WebAssembly. See
 https://hg.logilab.org/review/scivijs
 
+New version of simulagora.com virtual research environment that allows
+users to prepare customized virtual machines embedding a set of softwares
+and to deploy "tools" that can be described as micro web applications
+that require very little development skills to set up, but make it easy
+to make available complex simulations to users.
+
+Packaging of SageMath 8.2 in Conda
 
 --
 ## Work in progress
@@ -66,6 +74,12 @@ Participation to ODK's [Workshop on live structured
 documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211)
 October 16-20 of 2017, Oslo
 
+Library for exporting code samples from Sphinx documents into a set of Jupyter
+notebooks and for integrating back the code outputs computed by Jupyter into
+the Sphinx documents.
+
+Packaging of Sage and related libraries in Conda and Debian, trying to set
+up a continuous integration process.
 
 --
 ## Other

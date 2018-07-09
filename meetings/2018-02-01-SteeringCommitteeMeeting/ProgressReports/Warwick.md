@@ -30,10 +30,11 @@ Thanks to joint funding from Warwick's Research Technology Platform in
 Scientific Computing, Chris's post is permanent, and he is also
 leading a new team of RSEs at Warwick in addition to ODK work.  In
 June, Chris was joined by Heather Ratcliffe, also with joint funding,
-and since then Chris and Heather have each been devoting 30% of their
+and since then Chris and Heather have each been devoting 35% of their
 time to ODK work.  Both are working on the LMFDB side of WP6, under
 the direction of John Cremona, and since September 2017 are also
-collaborating with Warwick LMFDB postdoc David Lowry-Duda.
+collaborating with Warwick LMFDB postdoc David Lowry-Duda, who is not
+ODK-funded.
 
 ---
 ## Achievements
@@ -65,13 +66,19 @@ interface.  The first collections to be treated will be Elliptic
 Curves over Q and Number Fields which have the advantage of there
 already existing well-developed Sage classes for such objects,
 something which is not the case for many of objects stored in the
-LMFDB collections.  In the first half of 2018 a group from Warwick
-plans to visit Erlangen to learn more about the MitM interface.
+LMFDB collections.  Since early 2018 there have been regular online
+meetings (via conference calls) between the Warwick and Erlangen
+groups at which the Warwick team has learned more about the MitM
+interface and reciprocally, the MitM developers have learned more
+about the requirements for an interface with the LMFDB.  This has
+resulted in a draft document concerning Types and codecs, a detailed
+mathematical Use Case, as well as some other less detailed possible
+future use cases.
 
 ---
 ## Workshops and dissemination activities
 
-The June LMFDB workshop was an opportunity to introduce Chris and
+The June 2017 LMFDB workshop was an opportunity to introduce Chris and
 Heather to a wider group of LMFDB developers.  Their ODK-funded work
 on the inventory is already in daily use by LMFDB developers.
 
@@ -81,8 +88,7 @@ on the inventory is already in daily use by LMFDB developers.
 A new Simons Collaboration on Arithmetic Geometry, Number Theory, and
 Computation (https://icerm.brown.edu/simonscollaboration/) started in
 the northeast US in July 2017, with LMFDB development as one of its
-aims.  John Cremona is an Affiliated Scientist with this collaboration
-and will represent ODK at its first biannual conference on algorithmic
-number theory at MIT.
+aims.  John Cremona is an Affiliated Scientist with this
+collaboration, and he will represent ODK at its first biannual
+conference on algorithmic number theory at MIT in August 2018.
 
-</section>

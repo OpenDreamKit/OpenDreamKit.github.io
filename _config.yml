@@ -8,7 +8,7 @@ tagline:             'Open Digital Research Environment Toolkit for the Advancem
 description:         'A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a> - <a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures">European Research Infrastructures</a> Work Programme'
 url:                 http://opendreamkit.org
 baseurl:             ''
-paginate:            10
+paginate:            18
 paginate_path:       "/news/page:num/"
 blog_path:           "/news/"
 future:              True
@@ -39,13 +39,19 @@ collections:
 # Custom vars
 version:             0.3.0
 repository:          OpenDreamKit/OpenDreamKit.github.io
-bootstrap:           bootstrap-3.3.7-dist
+bootstrap:           bootstrap-custom
 tagfolder:           tag
 menu:
-    - title: 'The Project'
-      folder: 'project'
-    - title: 'The People'
-      folder: 'people'
-    - title: 'Events and Activities'
-      folder: 'events_activities'
+    - title: 'About'
+      link: '/about/'
+    - title: 'Project'
+      slug: 'project'
+    - title: 'People'
+      slug: 'people'
+    - title: 'Values'
+      slug: 'values'
+    - title: 'Events'
+      slug: 'events'
+    - title: 'Blog'
+      link: '/tag/blogpost'
 

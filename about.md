@@ -3,17 +3,32 @@ layout: page
 title: What is OpenDreamKit
 menu_title: About
 menu_order: 1
-redirect_from: "/about/"
+redirect_from: "/project/about/"
+image: jupyter.jpg
+slider: True
+slider_heading: What is OpenDreamKit
+slider_sentence: OpenDreamKit supports better science through better e-infrastructure for computational science.
+slider_order: 1
 ---
+
+OpenDreamKit is a project that brings together a range of projects and associate software to create and strengthen virtual research environments. The most widely used research environment is the Jupyter Notebook from which computational research and data processing can be directed. The OpenDreamKit project provides interfaces to well established research codes and tools so that they can be used seamlessly and combined from within a Jupyter Notebook.
+
+OpenDreamKit also supports open source research codes directly by investing into structural improvements and new features to not only connect all of these tools but also enrich them, and make them more sustainable.
+
+More concretely, the tools brought together in the OpenDreamKit project include mathematical software packages such as [SageMath](http://www.sagemath.org/), [GAP](http://www.gap-system.org/), [PARI](http://pari.math.u-bordeaux.fr/), [Singular](https://www.singular.uni-kl.de/), but also simulation tools from materials science such as [OOMMF](http://joommf.github.io/). [Visit our Software page to know more](/project/software/).
+
+OpenDreamKit has also advanced the [Jupyter Notebook](http://jupyter.org/) Ecosystem, for example through providing tools to support [reproducibility in computational science](/tag/reproducibility), effectively [comparing and merging notebooks](/2016/12/16/nbdime-release-0.1.0/), and providing interactive 3D visualisation within the notebook.
+
+
+
+**Want to know more?**
 
  * [See our presentation for mathematicians](/about-mathematicians/)
  * [See our presentation for developers](/about-developers/)
 
-{% include intro.md %}
 
-
-The project involves about 50 people spread over 16 sites
-in Europe, with a total budget of about 7.6 million euros. The largest
+The project involves about 50 people spread over 15 sites
+in Europe, with a total budget of about 7.4 million euros. The largest
 portion of that will be devoted to employing an average of 11
 researchers and developers working full time on the
 project. Additionally, the participants will contribute the equivalent
@@ -21,10 +36,13 @@ of six other people working full time.
 
 ## Grant agreement
 
+OpenDreamKit is a
+[Horizon 2020](https://ec.europa.eu/programmes/horizon2020/)
+European [Research Infrastructure](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures)
+project (<a href="http://cordis.europa.eu/project/rcn/198334_en.html">#676541</a>) that will run from Sept. 2015 to August 2019. Here are the documents form the binding contract between the consortium and the European Union. 3 amendments to the Grant were necessary since September 2015 to follow the evolution of partners forming the consortium and of the workplan.
+
 - [Part 1: Description of Action: Workpackages, tasks, deliverables](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex1-Description_of_the_action-01032018.pdf)
 - [Part 2: Objectives, workplan, description of participants, budgets](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/Proposal/GA-Annex2-Workplan-01032018.pdf)
-
-The above documents form the binding contract between the consortium and the European Union. 3 amendments to the Grant were necessary since September 2015 to follow the evolution of partners forming the consortium and of the workplan.
 
 The [github repository](https://github.com/OpenDreamKit/OpenDreamKit/milestones) for the project shows the advancements of the work accomplished in regards with the Grant agreement
 

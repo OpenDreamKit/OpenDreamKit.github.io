@@ -1,7 +1,8 @@
 ---
 title: Job openings
-menu_order: 3
+menu_order: 4
 layout: page
+menu: people
 redirect_from: "/joinus/"
 ---
 

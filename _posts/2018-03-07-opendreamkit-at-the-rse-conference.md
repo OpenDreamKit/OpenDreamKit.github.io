@@ -8,7 +8,6 @@ tags:
     - jupyter
     - workshop
     - nbdime
-    - conference
     - teaching
 ---
 # Open Dream Kit presence at the second RSE conference

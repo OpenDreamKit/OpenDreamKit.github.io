@@ -1,6 +1,40 @@
+    <header class="header">
+        <!--Logo et taglines (projet fondé par...) Note : rajouté le logo ODK avec le txt en bonne couleur-->
 
-<!-- Navigation -->
-<nav class="navbar navbar-default  navbar-fixed-top">
+        <section class="header-top wrapper">
+            <div class="site-heading">
+                <img src="{{ site.baseurl }}/public/logos/odk_logo.png" class="logo" alt="logo ODK">
+                <h1 class="title-main"><a href="/index.html" title="Open Digital Research Environment Toolkit for the Advancement of Mathematics">OpenDreamKit</a></h1>
+            </div>
+            <div class="site-description">
+                <div>
+                <h2 class="title-sub">A project funded by the <a href="https://ec.europa.eu/programmes/horizon2020/">Horizon 2020</a></h2>
+                <p class="baseline"><a href="https://ec.europa.eu/programmes/horizon2020/en/h2020-section/european-research-infrastructures-including-e-infrastructures" >European Research Infrastructures Work Program</a></p>
+                </div>
+                <div class="europe-logo" >
+                    <img class="img-responsive" src="{{ site.baseurl }}/public/logos/Flag_of_Europe.svg" alt="Flag of Europe" />
+                </div>
+            </div>
+        </section>
+
+        <!--Menu-->
+
+
+<!--
+        <nav class="main-nav wrapper">
+            <a class="" href="#" >The Project</a>
+            <a class="" href="#" >Reproductibility</a>
+            <a class="" href="#" >Teaching</a>
+            <a class="" href="Page/diversity.html" >Diversity</a>
+            <a class="" href="#">Events</a>
+            <a class="" href="#" >Blog</a>
+            <a class="" href="#">People</a>
+            <a class="" href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FOpenDreamKit%2FOpenDreamKit.github.io%2Fedit%2Fmaster%2Findex.md" role="button" data-toggle="collapse" href="#collapseExample8" aria-expanded="false" aria-controls="collapseExample">EDIT WITH GITHUB</a>
+
+        </nav>
+    -->
+    <!-- Navigation -->
+<nav class="navbar navbar-default main-nav wrapper">
     <div class="container" >
 
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -11,12 +45,8 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="{{ site.baseurl }}/">OpenDreamKit</a>
         </div>
 
-{% assign url_parts = page.url | split: '/' %}
-{% assign url_parts_size = url_parts | size %}
-{% assign base_url = url_parts | last %}
 {% assign sorted_pages = site.pages | sort:"menu_order" %}
 
 
@@ -24,27 +54,24 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-left">
                 {% for node in site.menu %}
-                    <li class="dropdown" >
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ node.title }}<span class="caret"></span></a>
-                        <ul class="dropdown-menu" >
-                            {% for sub in sorted_pages %}
-
-                                {% assign sub_parts = sub.url | split: '/' %}
-                                {% assign sub_url = sub_parts | last %}
-                                {% assign sub_folder = sub_parts[1] %}
-                                {% if sub_folder == node.folder %}
-                                    <li {% if sub_url == base_url %} class="active" {% endif %}><a href="{{ sub.url }}">{% if sub.menu_title %}{{ sub.menu_title }}{% else %}{{ sub.title }}{% endif %}</a></li>
-                                {% endif %}
-                            {% endfor %}
-                        </ul>
-                    </li>
+                    {% if node.link %}
+                        <li><a href="{{ site.baseurl }}{{ node.link }}">{{ node.title }}</a></li>
+                    {% else %}
+                        {% assign sorted_pages = site.pages | concat: site.tagpages | where: "menu", node.slug | sort:"menu_order" %}
+                        <li class="dropdown" >
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ node.title }}<span class="caret"></span></a>
+                            <ul class="dropdown-menu" >
+                                {% for sub in sorted_pages %}
+                                    <li><a href="{{ sub.url }}">{% if sub.menu_title %}{{ sub.menu_title }}{% else %}{{ sub.title }}{% endif %}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                    {% endif %}
                 {% endfor %}
-                <li><a href="{{ site.baseurl }}/tag/blogpost">Blog</a></li>
             </ul>
 
 
             <ul class="nav navbar-nav navbar-right" >
-                    <li><a href="#contact">Contact</a></li>
                     <li>
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick links<span class="caret"></span></a>
                                 <ul class="dropdown-menu" >
@@ -70,4 +97,4 @@
     </div>
 </nav>
 
-
+    </header>
