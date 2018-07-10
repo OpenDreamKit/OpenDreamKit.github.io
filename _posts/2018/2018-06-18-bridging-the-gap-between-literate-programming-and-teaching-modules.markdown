@@ -38,7 +38,7 @@ the classroom.
 ## Scenario
 Most universities in the UK have an institutional learning platform commonly used
 by lecturers to share materials with students.
-Such a platform only allows for upload and rendering of documents in .pdf, .txt,
+Such a platform only allows for upload and rendering of static documents in .pdf, .txt,
 and .docx formats (among others). As science becomes more computationally driven, there is a greater need to increase the data and computational literacy of
 our students.
 Several lecturers and professors at the University of Sheffield wanted to migrate
@@ -56,8 +56,16 @@ The main problem with solution 1. is the duplicate point of access for both stud
 and the people running the class increasing the maintenance burden.
 We have used CoCalc in Sheffield for a number of classes (e.g. Biomedical sciences, scalable machine learning) with great success in the past. But in that case only those enrolled in the course can access the materials so unless the materials are in a service like GitHub or GitLab they cannot be publicly distributed.
 
+We finally decided to go for solution #3: leverage the use of other open source solutions and develop a tool that could equally be used by highly literate developers and lecturers with minimal GitHub knowledge.
 
-## The implementation
+## Time and expertise required
+Assuming that the researcher is familiar with the Jupyter notebook and with GitHub, installing the Python package is as simple as doing `pip install nbjekyll` and the template can be readily forked or imported from GitHub ()[https://github.com/trallard/Modules-template](https://github.com/trallard/Modules-template)). Once this is done the publishing part should take only a few minutes. The notebooks can then be added or modified as `nbjekyll` will take care of the testing, converting and appropriate formatting of the books inside the repository.
+
+A detailed guide on how to get started and how to convert the notebooks into Jekyll ready documents can be found on the Modules template documentation website: [http://bitsandchips.me/Modules-template-docs/](http://bitsandchips.me/Modules-template-docs/)
+
+The template enables the use of more advanced features such as embedding of reveal.js slides and linking to Microsoft Azure notebooks. All of which are also detailed in [http://bitsandchips.me/Modules-template-docs/advanced](http://bitsandchips.me/Modules-template-docs/advanced)
+
+## The implementation: technical bits
 Thanks to `nbformat` it is possible to convert the notebooks into other formats, such as .pdf, .tex, .py, .html, .md and even reveal.js slides. On the other hand, it is possible to now perform regression tests on the notebooks thanks to the ODK developed tool [nbval](https://github.com/computationalmodelling/nbval), and finally, GitHub supports and serves static websites generated using Jekyll.
 Thus we worked on developing a readily usable Jekyll template specifically designed for university course modules and with Jupyter notebooks as the main source of content.
 <br> <br>
@@ -76,10 +84,6 @@ Finally, as the whole site is intended to be used in conjunction with GitHub (or
 Finally, if the notebooks are hosted in Microsoft Azure, the author can indicate this in the `_config.yml` file and a cloud button will be added to the site so that the repository is imported as an Azure library and the notebooks can be accessed directly from the course site. This gives the advantage that the students can then clone the library for the course to  their own Azure account and can start working on the notebooks without the need to install any packages locally.
 
 
-## Time and expertise required
-Assuming that the researcher is familiar with the notebooks and with GitHub, installing the Python package is as simple as doing `pip install nbjekyll` and the template can be readily forked or imported from GitHub. Once this is done the publishing part should take only a few minutes. The notebooks can then be added or modified as `nbjekyll` will take care of the testing, converting and appropriate formatting of the books inside the repository.
-
-A detailed guide on how to get started up to some advanced features of the module and the conversion package can be found at [http://bitsandchips.me/Modules-template-docs/](http://bitsandchips.me/Modules-template-docs/)
 
 ## To Do
 - Support for the user to use [binder](http://mybinder.org/) shall the materials not be deposited in a Microsoft Azure library
@@ -90,4 +94,4 @@ A detailed guide on how to get started up to some advanced features of the modul
 - Development of the Modules-template for jekyll
 - Support to ongoing courses at the University of Sheffield and case study on the technology
 - Creation of nbjekyll (avaiable from PyPI)
-- Development of [nbval](https://github.com/computationalmodelling/nbval) which faciliates the testing of Jupyter notebooks (note this uses pytest)
+- Development of [nbval](https://github.com/computationalmodelling/nbval) which faciliates the testing of Jupyter notebooks (note this works as a plugin for pytest)
