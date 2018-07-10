@@ -9,7 +9,7 @@ meno_order: 1
 image: open-science.png
 slider: True
 slider_heading: Open Science and Reproducibility
-slider_sentence: OpenDreamKit support reproducibility in computational science
+slider_sentence: OpenDreamKit supports reproducibility in computational science
 slider_order: 4
 ---
 
