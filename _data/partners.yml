@@ -292,7 +292,9 @@ sites:
         homepage: 'https://kwarc.info/people/tpollinger'
         
   - name: 15- University of Leeds
-      - logo: leeds-logo.jpg
+    logo: leeds-logo.jpg
+    homepage: https://www.leeds.ac.uk/
+    members:
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
         github: mikecroucher
