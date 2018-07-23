@@ -105,20 +105,13 @@ sites:
 
       # TODO: reinsert Ursula, with status: retired
 
-  - name: 06-University of Sheffield
+  - name: University of Sheffield (Left the consortium)
     logo: sheffield_logo.gif
     homepage: 'http://www.sheffield.ac.uk/'
     members:
-      - name: Michael Croucher
-        homepage: 'http://www.walkingrandomly.com/?page_id=2'
-        github: mikecroucher
-        roles:
-          - site-leader
       - name: Guy Brown
         homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
         github: guyjbrown
-      - name: Tania R. Allard
-        github:
       - name: William Furnass
         homepage: 'https://www.sheffield.ac.uk/civil/staff/research/furnassw'
         github: willfurnass
@@ -126,7 +119,7 @@ sites:
         homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
         github: lawrennd
         # status: left
-  - name: 07-University of Silesia
+  - name: 06-University of Silesia
     logo: US.png
     homepage: 'http://english.us.edu.pl/'
     members:
@@ -148,7 +141,7 @@ sites:
         homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
         github: IanHawke
       - name: Marijan Beg 
-  - name: 08-University of St Andrews
+  - name: 07-University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
     members:
@@ -174,7 +167,7 @@ sites:
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
         github: m-iancu
-  - name: 09-Université de Versailles – Saint-Quentin-en-Yvelines
+  - name: 08-Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
     homepage: 'http://www.uvsq.fr'
     members:
@@ -189,7 +182,7 @@ sites:
       - name: Nicolas Gama
         homepage: 'http://gama.nicolas.free.fr/'
         github: ngama75
-  - name: 10-University of Warwick
+  - name: 09-University of Warwick
     logo: UofW.png
     homepage: 'http://www2.warwick.ac.uk/'
     members:
@@ -211,7 +204,7 @@ sites:
         twitter: 'podehaye'
         github: pdehaye
         status: left
-  - name: 11-Logilab
+  - name: 10-Logilab
     logo: logilab.png
     homepage: 'https://www.logilab.fr'
     twitter: 'logilab'
@@ -233,7 +226,7 @@ sites:
         github: fcayre
         status: left    
 
-  - name: 12-Simula Research Laboratory
+  - name: 11-Simula Research Laboratory
     logo: simula.png
     homepage: 'https://www.simula.no'
     members:
@@ -253,7 +246,7 @@ sites:
         github: hplgit
         status: deceased
 
-  - name: 13-Universiteit Gent
+  - name: 12-Universiteit Gent
     logo: universiteit_gent.gif
     homepage: 'http://www.ugent.be/en'
     members:
@@ -262,7 +255,7 @@ sites:
         github: jdemeyer
         roles:
           - site-leader
-  - name: 14-European XFEL
+  - name: 13-European XFEL
     logo: xfel-png.png
     homepage: 'http://www.xfel.eu/en/'
     members:
@@ -276,7 +269,7 @@ sites:
       - name: Marijan Beg 
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         github: mb1a15
-  - name: 15-FAU Universität Erlangen-Nürnberg
+  - name: 14-FAU Universität Erlangen-Nürnberg
     logo: FAU-logo.png
     homepage: 'https://www.fau.de/'
     members:
@@ -297,6 +290,20 @@ sites:
         github: tkw1536
       - name: Theresa Pollinger
         homepage: 'https://kwarc.info/people/tpollinger'
+        
+  - name: 15- University of Leeds
+    logo: leeds-logo.jpg
+    homepage: https://www.leeds.ac.uk/
+    members:
+      - name: Michael Croucher
+        homepage: 'http://www.walkingrandomly.com/?page_id=2'
+        github: mikecroucher
+        roles:
+          - site-leader
+      - name: Tania R. Allard
+        github:
+     
+
 
 partners:
   - name: CNRS
