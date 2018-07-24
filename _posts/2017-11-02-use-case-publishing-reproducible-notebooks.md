@@ -2,7 +2,7 @@
 layout: post
 author: Nicolas M. Thiéry
 title: Publishing reproducible logbooks
-picture: use-cases-binder-logbook.png
+image: use-cases-binder-logbook.png
 tags:
     - use-case
     - best-practice

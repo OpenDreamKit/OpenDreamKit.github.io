@@ -2,7 +2,7 @@
 layout: post
 author: Nicolas M. Thiéry
 title: Live online slides with SageMath, Jupyter notebooks, RISE and Binder
-picture: use-cases-sage-jupyter-binder-rise2.png
+image: use-cases-sage-jupyter-binder-rise2.png
 tags:
     - use-case
     - front-page
