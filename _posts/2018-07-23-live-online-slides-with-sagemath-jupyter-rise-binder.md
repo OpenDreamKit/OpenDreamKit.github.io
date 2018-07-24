@@ -29,19 +29,15 @@ or Singular.
 
 - [Computing huge subspaces of polynomials: Symmetries to the rescue!](https://github.com/nthiery/harmonic-modules/blob/master/talk.ipynb),
   Nicolas M. Thiéry
-
-  [GitHub repository](https://github.com/nthiery/harmonic-modules)
-
-  [Live slides](https://mybinder.org/v2/gh/nthiery/harmonic-modules/master?filepath=talk.ipynb)
+  ([GitHub repository](https://github.com/nthiery/harmonic-modules),
+   [Live slides](https://mybinder.org/v2/gh/nthiery/harmonic-modules/master?filepath=talk.ipynb))
 
   [ ![Live slides with SageMath, Jupyter, and RISE](/public/images/use-cases-sage-jupyter-binder-rise.png){:class="small-screenshot"} ](/public/images/use-cases-sage-jupyter-binder-rise.png)
 
 - [The Rise contact involution on Tamari Intervals](https://github.com/VivianePons/public-notebooks/blob/master/TamariIntervalPosets/2018_ICERM_Presentation.ipynb),
   Viviane Pons
-
-  [GitHub repository](https://github.com/VivianePons/public-notebooks/)
-
-  [Live slides](https://mybinder.org/v2/gh/VivianePons/public-notebooks/master?filepath=TamariIntervalPosets/2018_ICERM_Presentation.ipynb)
+  ([GitHub repository](https://github.com/VivianePons/public-notebooks/)
+   [Live slides](https://mybinder.org/v2/gh/VivianePons/public-notebooks/master?filepath=TamariIntervalPosets/2018_ICERM_Presentation.ipynb))
 
   [ ![Live slides with SageMath, Jupyter, and RISE](/public/images/use-cases-sage-jupyter-binder-rise2.png){:class="small-screenshot"} ](/public/images/use-cases-sage-jupyter-binder-rise2.png)
 
@@ -142,6 +138,39 @@ containing the Jupyter extensions and the notebook, and then copy this
 image around between it's various machines (that building the image,
 that storing them, and those running them).
 
+## Alternatives
+
+Instead of publishing on Binder, one may author the slides on
+[cocalc](http://cocalc.com), and use its publish feature.
+(TODO: double check that RISE works on cocalc).
+
+Instead of using a Jupyter notebook, one may author in HTML (or some
+format that can be converted to HTML), and use
+[ThebeLab](https://github.com/minrk/thebelab) or
+[SageCell][http://sagecell.sagemath.org/]to enable live computations.
+
+## Advantages and drawbacks
+
+Traditionally, most mathematicians author their slides using
+LaTeX+Beamer, and display and publish them in PDF format.
+
+- Authoring slides with Jupyter+RISE tends to be more lightweight
+
+- LaTeX+Beamer gives fine control on the layout for authoring complex
+  slides; some fine control can be achieved with Jupyter+RISE, using
+  explicit html+css, but this is not as convenient.
+
+- One may include live computations
+
+- One may easily include multimedia documents
+
+- One may edit the slides on the fly
+
+- The semantic structure tends to get lost in PDF files, which goes in
+  the way of accessibility. On the other hand, HTML based documents
+  tend to support well web-based accessibility tools like screen
+  readers.
+
 ## To do
 
 - Estimate the number of instances;
@@ -149,6 +178,16 @@ that storing them, and those running them).
 
 ## Time and expertise required
 
+Assuming Viviane is familiar with Jupyter, writing her first slides
+using RISE will take a few minutes and mastering it a few hours.
+
+Assuming Viviane is familiar with version control and Jupyter (basic
+lab skills taught at [Software
+Carpentry](http://software-carpentry.org/), and the required software
+required is packaged (conda, debian, docker container, ...), the
+publishing part could take two hours the first time, and minutes later
+on (typically by having a preconfigured repository where one stores
+all of one's presentations)..
 
 ## What's new since OpenDreamKit started
 
