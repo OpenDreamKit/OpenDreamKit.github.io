@@ -5,6 +5,7 @@ title: Publishing reproducible logbooks
 image: use-cases-binder-logbook.png
 tags:
     - use-case
+    - front-page
     - best-practice
     - open-science
     - reproducibility
