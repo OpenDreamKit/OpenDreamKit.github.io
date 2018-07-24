@@ -27,19 +27,19 @@ or Singular.
 
 ## Some instances
 
+- [The Rise contact involution on Tamari Intervals](https://github.com/VivianePons/public-notebooks/blob/master/TamariIntervalPosets/2018_ICERM_Presentation.ipynb),
+  Viviane Pons
+  ([GitHub repository](https://github.com/VivianePons/public-notebooks/),
+   [Live slides](https://mybinder.org/v2/gh/VivianePons/public-notebooks/master?filepath=TamariIntervalPosets/2018_ICERM_Presentation.ipynb))
+
+  [ ![Live slides with SageMath, Jupyter, and RISE](/public/images/use-cases-sage-jupyter-binder-rise2.png){:class="small-screenshot"} ](/public/images/use-cases-sage-jupyter-binder-rise2.png)
+
 - [Computing huge subspaces of polynomials: Symmetries to the rescue!](https://github.com/nthiery/harmonic-modules/blob/master/talk.ipynb),
   Nicolas M. Thiéry
   ([GitHub repository](https://github.com/nthiery/harmonic-modules),
    [Live slides](https://mybinder.org/v2/gh/nthiery/harmonic-modules/master?filepath=talk.ipynb))
 
   [ ![Live slides with SageMath, Jupyter, and RISE](/public/images/use-cases-sage-jupyter-binder-rise.png){:class="small-screenshot"} ](/public/images/use-cases-sage-jupyter-binder-rise.png)
-
-- [The Rise contact involution on Tamari Intervals](https://github.com/VivianePons/public-notebooks/blob/master/TamariIntervalPosets/2018_ICERM_Presentation.ipynb),
-  Viviane Pons
-  ([GitHub repository](https://github.com/VivianePons/public-notebooks/)
-   [Live slides](https://mybinder.org/v2/gh/VivianePons/public-notebooks/master?filepath=TamariIntervalPosets/2018_ICERM_Presentation.ipynb))
-
-  [ ![Live slides with SageMath, Jupyter, and RISE](/public/images/use-cases-sage-jupyter-binder-rise2.png){:class="small-screenshot"} ](/public/images/use-cases-sage-jupyter-binder-rise2.png)
 
 ## Suggestion of solution
 
