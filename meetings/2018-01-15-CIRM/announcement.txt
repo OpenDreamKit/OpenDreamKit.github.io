@@ -1,0 +1,30 @@
+    Calcul Mathématique Libre  /  Free Computational Mathematics
+    CIRM, Luminy (near Marseille), France
+    February 11th-15th of 2019
+
+    https://conferences.cirm-math.fr/1978.html
+
+This community building and training conference aims to bring together
+users and developers of (open source) (pure) mathematics software,
+including GAP, Linbox, MPIR, Pari/GP, SageMath, or Singular. Following
+a long trend of highly productive workshops within the various
+communities (e.g. the Sage-Days series), this conference will consist
+of keynote talks and hands on tutorials with a focus on experimental
+research and computational and development best practices; and plenty
+of free time for interactions and collaborative work.
+
+This conference is organized by the H2020 European project
+OpenDreamKit, of which it will be the main public closing event.
+
+Keynote speakers:
+
+- Marie-Françoise Roy (Université de Rennes 1)
+  A historical perspective on contributions of researchers and teachers to (open source) mathematical software
+- Max Horn (Justus-Liebig-Universität Gießen)
+  Collaborative software development in a large system (GAP)
+- Fernando Perez (Berkeley Institute for Data Science, California) 
+  Scientific computing, user interfaces, and community building
+- Anne Schilling (UC Davis California)
+  Impact of computer assisted experimentation in combinatorics
+- Joris Van Der Hoeven (Ecole Polytechnique)
+  General purpose mathematical software design
