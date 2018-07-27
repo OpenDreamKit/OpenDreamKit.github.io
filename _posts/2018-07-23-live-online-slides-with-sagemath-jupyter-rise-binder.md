@@ -67,19 +67,33 @@ https://github.com/nthiery/harmonic-modules as running example.
 ### Installation
 
 Install Jupyter's [RISE](http://rise.readthedocs.io/) extension in Sage.
-From the terminal, and assuming the Sage command is available as `sage`:
+From the terminal:
 
     sage -pip install RISE
     echo "jupyter-nbextension install rise --py --sys-prefix" | sage -sh
     echo "jupyter-nbextension enable rise --py --sys-prefix"  | sage -sh
 
-The two lines above have a bit of additional complexity because they
-require accessing `pip` and `jupyter` from the Sage distribution; in
-general, one would just do:
+Notes:
 
-    pip install RISE
-    jupyter-nbextension install rise --py --sys-prefix
-    jupyter-nbextension enable rise --py --sys-prefix
+- The instructions above assume that the Sage command is available as
+  `sage`; otherwise adapt the command accordingly.
+
+- The instructions above assume that you have write access to the Sage
+  installation.
+
+- The instructions above have a bit of additional complexity because
+  they require accessing `pip` and `jupyter` from the Sage
+  distribution; in general, one would just do:
+
+        pip install RISE
+        jupyter-nbextension install rise --py --sys-prefix
+        jupyter-nbextension enable rise --py --sys-prefix
+
+- The first instruction may fail complaining about OpenSSL. This will
+  happen when Sage has not been compiled with SSL support which is
+  needed for the pip package manager which, alas, happens too often.
+  The [installation instructions](https://doc.sagemath.org/html/en/installation/source.html#section-notebook-ssl)
+  may help fix that.
 
 ### Authoring and showing slides
 
