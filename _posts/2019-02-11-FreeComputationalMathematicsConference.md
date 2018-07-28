@@ -30,5 +30,3 @@ it will be the main public closing event.
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
 ## More information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
-
-More information and registration on the [CIRM website](https://conferences.cirm-math.fr/1978.html)
