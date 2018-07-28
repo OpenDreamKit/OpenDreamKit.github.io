@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 'June 2018 Steering committee meeting: Progress reports for the Period January-June 2018'
+tags:
+    - project-meeting
 ---
 
 Brief yearly progress reports for all sites.
