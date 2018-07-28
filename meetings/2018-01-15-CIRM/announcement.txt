@@ -6,8 +6,8 @@
 
 This community building and training conference aims to bring together
 users and developers of (open source) (pure) mathematics software,
-including GAP, Linbox, MPIR, Pari/GP, SageMath, or Singular. Following
-a long trend of highly productive workshops within the various
+like GAP, Linbox, MPIR, Pari/GP, SageMath, or Singular. Following a
+long trend of highly productive workshops within the various
 communities (e.g. the Sage-Days series), this conference will consist
 of keynote talks and hands on tutorials with a focus on experimental
 research and computational and development best practices; and plenty
