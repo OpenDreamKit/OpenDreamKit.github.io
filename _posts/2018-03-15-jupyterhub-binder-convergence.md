@@ -134,17 +134,11 @@ binder's main page:
 The form consists of:
 
 - The usual binder items:
-
     - the description of the computing environment: a repo-to-docker-style git repo+branch+...
-
     - the file/url to open on startup
-
     - ...
-
     - a UI to get a URL/badge referencing the machine
-
 - Persistence and access options:
-
     - server_name: name to give to the server
 
       If server_name is not specified, create a random server name?
@@ -164,7 +158,6 @@ The form consists of:
       alternatively
 
     - credentials: whether to pass the user credentials into the container (as environment variable, or file)
-
     - resources scaling (optional): memory, number of processors,
       duration (time or time of inactivity after which the server will
       be automatically stopped / destroyed)
@@ -174,19 +167,15 @@ The form consists of:
 - If a notebook server with the given name already exists and the
    parameters are not changed (or not set): connect to that server,
    restarting it if needed
-
 - If the parameters have been changed, update the existing server when
   possible? Or should the user just delete the server?
-
 - Otherwise, create and launch
 
 ## Behavior upon following a server URL/badge:
 
 -  Display the authentication page (if not yet authenticated)
-
 -  Display a security confirmation dialog as above (if origin is not within the
-    jupyterhub), with a description of the configuration and origin.
-
+   jupyterhub), with a description of the configuration and origin.
 -  As above after clicking "Launch"
 
 # Some use cases
@@ -194,11 +183,9 @@ The form consists of:
 ## Local binder (better name? [Binder@home?])
 
 Scenarios:
-
 - Luc, a researcher, discovered a nice computing environment
   on Binder. Maybe a notebook demonstrating an interesting workflow to
   analyze data. He wants to use it more intensively on his own data.
-
 - Lucy has found a notebook & binder environment published with a
   paper, and she wants to re-execute the notebook to reproduce the
   published results and start her research in the field. However, no
@@ -218,13 +205,10 @@ time.
 ## Easy sharing of computational environments
 
 Scenarios:
-
 - Sarah, a power user, is using some specialized stack of software on
   a daily basis; maybe she authored some of it. She wants her
   colleagues in her lab to try out that software.
-
 - Paul organizes a training session for his colleagues.
-
 - Alice has authored notebooks that she wants to share with her
   colleagues. Maybe the notebooks automatize some complicated
   processes and present them in the form of interactive web
@@ -256,10 +240,8 @@ Scenario: Alice and Bob want to collaborate on some data analysis.
 Setup:
 
 They create a shared volume. Then either:
-
 - They set up each their own notebook server, and let them share the
   same volume.
-
 - Alice sets up a single server, with Bob as collaborator. Within the
   server, they are considered as the same user.
 
@@ -327,30 +309,22 @@ There already exists an [LTI authenticator for Jupyter](https://github.com/jupyt
 A malicious image description, image, or collaborator can:
 
 - Take any action within the image being built or within the notebook server
-
 - Waste computing resources (cpu/memory);
-
 - With internet: connect to any website, without specific priviledges
   (e.g. participate to a DOS attack); abuse computing resources, e.g.
   for bitcoining. The image building almost certainly needs internet
   access.
-
 - With persistent storage and internet access: access and leak
   information from the storage; e.g. private information from the user;
-
 - With read-write persistent storage: corrupt the storage (e.g. the user's home directory)
-
 - With credentials: take any action on behalf of the user in any
   service that use the same authentication.
 
 # Implementation status
 
 Most of the features are already there. Here are some of the missing steps:
-
 - Extending binder's form as described above;
-
 - Implementing the logic to mount shared volumes;
-
 - Instructions / scripts for setting up a local docker registry;
 
   The current Binder installation tutorial assumes that a docker
@@ -379,17 +353,14 @@ do such provisioning from which to get inspiration, like
 ## Redirection
 
 The main form could contain an additional item:
-
 - URL input / dropdown menu to choose another jupyterhub instances to
   redirect to.
 
 Use cases:
-
 -   A user finds a nice image on binder; he wants to customize it to
     run it on his institution's jupyterhub; possibly adding persistent
     storage to it. Or reciprocally: a user wants to share on binder a
     local image of his.
-
 -   An institution wants to advertise other jupyterhub instances; this
     could e.g. be used by a single entry point for federating a
     collection of instances (e.g. all French academic JupyterHub's).
