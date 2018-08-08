@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Try our software
-menu_title: Try
 menu_order: 1
+layout: page
+menu: try
+menu_title: Try
 redirect_from: "/try/"
 ---
 
@@ -11,22 +12,15 @@ redirect_from: "/try/"
 
 <!-- Setup a basic two-column box setting, static this time :) -->
 
+{% for try in site.data.try %}
+
 <div>
     <div class="static_try_block">
-        <img class="static_try_block_image" src="{{ site.baseurl }}/try/thumbnails/sage.png"/>
+        <a href="{{ try.binder_url }}">
+        <img class="static_try_block_image" src="{{ site.baseurl }}{{ try.thumbnail }}"/>
         <br/>
-        <span><h2><a href="http://mybinder.org">Try SageMath</a></h2></span>
+        <span><h2>Try {{ try.name }}</h2></span>
+        </a>
     </div>
 
-    <div class="static_try_block">
-        <img class="static_try_block_image" src="{{ site.baseurl }}/try/thumbnails/sage.png"/>
-        <br/>
-        <span><h2><a href="http://mybinder.org">Try SageMath</a></h2></span>
-    </div>
-
-    <div class="static_try_block">
-        <img class="static_try_block_image" src="{{ site.baseurl }}/try/thumbnails/sage.png"/>
-        <br/>
-        <span><h2><a href="http://mybinder.org">Try SageMath</a></h2></span>
-    </div>
-</div>
+{% endfor %}

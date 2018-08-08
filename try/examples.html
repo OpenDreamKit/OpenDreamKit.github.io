@@ -1,8 +1,10 @@
 ---
-layout: page
 title: Example notebooks from OpenDreamKit
-menu_title: Examples
 menu_order: 2
+layout: page
+menu: try
+menu_title: Examples
+redirect_from: "/try/examples"
 ---
 
 <span>Click on one of the examples below to open the example <a href="http://jupyter.org">Jupyter</a> notebook statically. 
@@ -12,9 +14,13 @@ menu_order: 2
 <!-- Setup a basic two-column box setting, static this time :) -->
 
 <div id="example_gallery">
-    {% for post in site.categories.try %}
+    {% for post in site.data.examples %}
     <div class="static_try_block">
-        <a href="{{ post.url }}">
+        {% if post.binderrepo_url != null %}
+            <a href="{{ post.binderrepo_url }}">
+        {% else %}
+            <a href="https://mybinder.org/v2/gh/{{ post.repository }}/master?filepath={{ post.filename }}.ipynb">
+        {% endif %}
 
         {% if post.thumbnail_url != null %}
             <img class="static_try_block_image" src="{{ post.thumbnail_url }}"/>
@@ -24,16 +30,9 @@ menu_order: 2
 
         <div>{{ post.title }}</div>
         <div>{{ post.author }}</div>
+        <img src="https://mybinder.org/badge.svg" alt="Run on Binder"/>
         </a>
-        {% if post.binderrepo_url != null %}
-            <a href="{{ post. binderrepo_url }}">
-            <img src="https://mybinder.org/badge.svg" alt="Run on Binder"/>
-            </a>
-        {% else %}
-            <a href="https://mybinder.org/v2/gh/{{ post.repository }}/master?filepath={{ post.filename }}.ipynb">
-            <img src="https://mybinder.org/badge.svg" alt="Run on Binder"/>
-            </a>
-        {% endif %}
+ 
     </div>
     {% endfor %}
 </div>
