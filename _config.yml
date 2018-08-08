@@ -55,4 +55,4 @@ menu:
     - title: 'Blog'
       link: '/tag/blogpost'
     - title: 'Try'
-      folder: 'try'
+      slug: 'try'

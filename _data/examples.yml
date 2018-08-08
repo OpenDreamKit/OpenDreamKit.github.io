@@ -1,0 +1,19 @@
+- title: Example notebooks from OpenDreamKit
+  author: Sebastian Gutsche
+  repository: oscar-system/OSCARBinder
+  filename: Singular
+  thumbnail: singular.png
+
+- layout: tryexample
+  title: Example notebooks from OpenDreamKit
+  author: Sebastian Gutsche
+  notebook_url: https://nbviewer.jupyter.org/github/oscar-system/OSCARBinder/blob/master/Singular.ipynb
+  binderrepo_url: https://mybinder.org/v2/gh/oscar-system/OSCARBinder/master?filepath=Singular.ipynb
+  thumbnail: singular.png
+
+- layout: tryexample
+  title: Example notebooks from OpenDreamKit
+  author: Sebastian Gutsche
+  repository: oscar-system/OSCARBinder
+  filename: Singular
+  thumbnail: singular.png
