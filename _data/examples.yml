@@ -1,19 +1,16 @@
-- title: Example notebooks from OpenDreamKit
+- title: Example notebook for Singular
   author: Sebastian Gutsche
-  repository: oscar-system/OSCARBinder
-  filename: Singular
-  thumbnail: singular.png
+  repository: sebasguts/SingularBinderDemo
+  filename: brnoeth
+  thumbnail: SingularLogo.png
 
-- layout: tryexample
-  title: Example notebooks from OpenDreamKit
+- title: Example notebook for Singular
   author: Sebastian Gutsche
-  notebook_url: https://nbviewer.jupyter.org/github/oscar-system/OSCARBinder/blob/master/Singular.ipynb
-  binderrepo_url: https://mybinder.org/v2/gh/oscar-system/OSCARBinder/master?filepath=Singular.ipynb
-  thumbnail: singular.png
+  binderrepo_url: https://mybinder.org/v2/gh/sebasguts/SingularBinderDemo/master?filepath=brnoeth.ipynb
+  thumbnail: SingularLogo.png
 
-- layout: tryexample
-  title: Example notebooks from OpenDreamKit
+- title: Example notebook for Singular
   author: Sebastian Gutsche
-  repository: oscar-system/OSCARBinder
-  filename: Singular
-  thumbnail: singular.png
+  repository: sebasguts/SingularBinderDemo
+  filename: brnoeth
+  thumbnail: SingularLogo.png
