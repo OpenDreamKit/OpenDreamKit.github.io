@@ -1,11 +1,11 @@
 - name: SageMath
-  binder_url: http://mybinder.org
+  binder_url: https://beta.mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=index.ipynb
   thumbnail: /try/thumbnails/sage.png
 
-- name: SageMath
-  binder_url: http://mybinder.org
-  thumbnail: /try/thumbnails/sage.png
+- name: GAP
+  binder_url: https://mybinder.org/v2/gh/gap-system/gap-docker-binder/master
+  thumbnail: /try/thumbnails/GAPLogo.png
 
-- name: SageMath
-  binder_url: http://mybinder.org
-  thumbnail: /try/thumbnails/sage.png
+- name: Singular
+  binder_url: https://mybinder.org/v2/gh/sebasguts/SingularBinderDemo/master?filepath=brnoeth.ipynb
+  thumbnail: /try/thumbnails/SingularLogo.png
