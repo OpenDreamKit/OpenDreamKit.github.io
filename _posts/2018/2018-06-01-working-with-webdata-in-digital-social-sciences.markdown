@@ -16,12 +16,12 @@ OpenDreamkit is highly involved in dissemination activities and the introduction
 of researchers and educators to the Jupyter ecosystem. This is not only limited
 to researchers within the physical sciences and mathematics. Over the last couple
 of months at Sheffield and now at Leeds, we have been working with some
-digital scientists from the [Research Methods Institue](https://www.sheffield.ac.uk/smi)
+digital scientists from the [Research Methods Institute](https://www.sheffield.ac.uk/smi)
 to develop some teaching materials around the collection and use of Web Data.
 
 Both, Binder and the Jupyter notebook have played an integral part in the development
 and delivery of this series of workshops. The use of these technologies not only
-makes it easier to share research and educational materials but if used appropriately
+makes it easier to share research and educational materials but, if used appropriately,
 they can serve as valuable pedagogical tools.
 
 At the moment all of the materials are focused on Python as the programming language
