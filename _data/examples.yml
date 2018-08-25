@@ -1,0 +1,16 @@
+- title: Example notebook for Singular
+  author: Sebastian Gutsche
+  repository: sebasguts/SingularBinderDemo
+  filename: brnoeth
+  thumbnail: SingularLogo.png
+
+- title: Example notebook for Singular
+  author: Sebastian Gutsche
+  binderrepo_url: https://mybinder.org/v2/gh/sebasguts/SingularBinderDemo/master?filepath=brnoeth.ipynb
+  thumbnail: SingularLogo.png
+
+- title: Example notebook for Singular
+  author: Sebastian Gutsche
+  repository: sebasguts/SingularBinderDemo
+  filename: brnoeth
+  thumbnail: SingularLogo.png

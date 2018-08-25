@@ -13,7 +13,7 @@ Each post needs some specific parameters:
  * **author** the author of the post (you don't want to push yourself forward? Just write *the ODK team* or whatever you like)
  * **date** the date *YYYY/MM/DD*
  * **redirect_from** not needed for new posts, this is just the redirect link from old activities pages on the former site
- * **tags** a list of tag. The first tag is the *type* of activity (talk, blogpost, workshop, etc). The available tags are in the folder */_tagpages/* you can create news tags by adding a page there and then adding the tag to your post.
+ * **tags** a list of tag. The first tag is the *type* of activity (talk, blogpost, workshop, etc). The available tags are in the folder */_tagpages/*; you can create news tags by adding a page there and then adding the tag to your post; it's nice to include a short paragraph in the tag page stating how OpenDreamKit relates to that tag (see the other tag pages for examples).
 
 After you have written a blog post
 ----------------------------------
