@@ -1,4 +1,7 @@
-# Participant list for the [workshop on Low level interfaces with libraries]( https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )
+---
+layout: page
+title: "Participant list for the [workshop on Low level interfaces with libraries]( https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )"
+---
 
 - [Nicolas M. Thiéry](http://Nicolas.Thiery.name),  [SageMath](http://sagemath.org) developer
   [Laboratoire de Recherche en Informatique](http://www.lri.fr), [Université Paris Sud](http://www.u-psud.fr)

@@ -1,4 +1,7 @@
-# Projects list for the [workshop on Low level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )
+---
+layout: page
+title: "Project and progress reports for the [workshop on Low level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )"
+---
 
 Desired format: for each project that was worked on during the workshop, please include 1-3 paragraphs
 about what the project was about and what was achieved. You may want to mention the impact and, if
