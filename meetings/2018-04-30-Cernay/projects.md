@@ -1,7 +1,12 @@
 ---
 layout: page
-title: "Project and progress reports for the [workshop on Low level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )"
+title: "Workshop on Low level interfaces with libraries: Project and progress reports"
 ---
+
+During the [workshop on Low level interfaces with
+libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 ),
+we maintained on this page a list of projects and progress reports on
+them.
 
 Desired format: for each project that was worked on during the workshop, please include 1-3 paragraphs
 about what the project was about and what was achieved. You may want to mention the impact and, if

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Program for the [workshop on Low level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )"
+title: "Workshop on Low level interfaces with libraries: program"
 ---
 
-The program was constructed on the fly according to the participants
+This was the program for the
+[workshop on Low level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251 )
+It was constructed on the fly according to the participants
 wishes and project evolutions. Roughly speaking, the plan was to have
 brief show-and tell sessions early in the week to kick start
 discussions. The rest of the time was be devoted to brainstorms,
