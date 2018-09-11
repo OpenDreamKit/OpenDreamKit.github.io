@@ -21,3 +21,5 @@
 - A community wanting to deploy a dedicated VRE (e.g. JOOMMF's VRE)
 
 - WP6 use case: multi-system math calculations with the Math-in-the-Middle
+
+- authoring interactive books
