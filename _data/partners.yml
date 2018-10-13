@@ -71,6 +71,8 @@ sites:
         github: jgdumas
       - name: Hongguang Zhu
         github: ZHG2017
+      - name: Alexis Breust
+        github: Breush
   - name: 04-University of Kaiserslautern
     logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
