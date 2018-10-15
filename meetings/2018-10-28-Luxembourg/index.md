@@ -26,11 +26,12 @@ did not reserve any rooms so you should do this reasonably soon.
 ## Sunday and Wednesday
 
 Sunday and Wednesday we will be meeting in the hotel. To order coffee
-breaks and lunch, we need you to indicate your presence by Oct. 17 at
-https://framadate.org/Q4xKIHMcYtstrhej
+breaks and lunch, we need you to indicate your presence by Oct. 17 on
+[this poll](https://framadate.org/Q4xKIHMcYtstrhej).
 
 ## Monday and Tuesday
 
 On Monday and Tuesday, a room will be provided for us in the EU
 building in the center of Luxembourg: EUFO building, 10, rue Robert
 Stumper, L-2557, room: 0170.
+
