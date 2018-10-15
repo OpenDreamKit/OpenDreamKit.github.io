@@ -242,7 +242,7 @@ configure the container:
     volumes:                         # Give access to Docker socket.
       - /var/run/docker.sock:/var/run/docker.sock
     environment:                     # Env variables passed to the Hub process.
-      DOCKER_JUPYTER_CONTAINER: jupyterlab_img
+      DOCKER_JUPYTER_IMAGE: jupyterlab_img
       DOCKER_NETWORK_NAME: ${COMPOSE_PROJECT_NAME}_default
       HUB_IP: jupyterhub_hub
     labels:                          # Traefik configuration.
@@ -258,8 +258,10 @@ Here's some highlights from the compose configuration:
 - We set some environment variables for the Hub process, they will be
   used in the Hub configuration file `jupyterhub_config.py`:
 
-  - `DOCKER_JUPYTER_CONTAINER` is the name of the container for the
-    single-user servers (see [below](#the-jupyter-notebook-servers)).
+  - `DOCKER_JUPYTER_IMAGE` is the name of the Docker image for the
+    single-user servers; this must match the image configured in the
+    `jupyterlab` section of `docker-compose.yml` (see
+    [below](#the-jupyter-notebook-servers)).
 
   - `DOCKER_NETWORK_NAME` is the name of the Docker network used by
     the services; normally, this network gets an automatic name from
@@ -311,25 +313,25 @@ single user servers must use the same version of JupyterHub.
 Next to `Dockerfile`, we have `jupyterhub_config.py` to configure the
 Hub.  This plain Python file contains many different sections.  We
 start with the configuration of the *spawner*: we use the class
-`DockerSpawner` that spawns single-user servers in a separate Docker
-container.  We see that we use here the environment variables that we
-have set in `docker-compose.yml`:
+`DockerSpawner` to spawn single-user servers in a separate Docker
+container.  We use here the environment variables that we have set in
+`docker-compose.yml`:
 
 ```python
 import os
 
 c.JupyterHub.spawner_class = 'dockerspawner.DockerSpawner'
-c.DockerSpawner.image = os.environ['DOCKER_JUPYTER_CONTAINER']
+c.DockerSpawner.image = os.environ['DOCKER_JUPYTER_IMAGE']
 c.DockerSpawner.network_name = os.environ['DOCKER_NETWORK_NAME']
 c.JupyterHub.hub_ip = os.environ['HUB_IP']
 ```
 
 Optionally, we may want to stop the single-user servers after a
-certain amount of idle time.  To this end, we register a JupyterHub
-*service* as follows:
+certain amount of idle time.  Following [this
+example](https://github.com/jupyterhub/jupyterhub/blob/master/examples/cull-idle),
+we register a JupyterHub *service* like this:
 
 ```python
-# See https://github.com/jupyterhub/jupyterhub/blob/master/examples/cull-idle
 c.JupyterHub.services = [
     {
         'name': 'cull_idle',
@@ -366,10 +368,10 @@ Other preconfigured third party services are documented
 [here](https://github.com/jupyterhub/oauthenticator).  In principle,
 any OAuth2 server can be used as third party authentication server.
 If you are lucky enough to have such a server in your institution[^1],
-you can use it like thus:
+you can use it like this:
 
 [^1]: If you are unlucky like me, you have neither an OAuht2, nor an
-	LDAP server.  Instead, you may have access to some old
+	LDAP server.  Instead, you may have access to some stinky
 	University-world central authentication service such as [Jasig's
 	CAS](https://www.apereo.org/projects/cas).  In this case, you may
 	be interested in [this project of
@@ -402,7 +404,7 @@ class MyOAuthAuthenticator(GenericOAuthenticator):
 c.JupyterHub.authenticator_class = MyOAuthAuthenticator
 ```
 
-**TODO: this conf is longer than needed; report bugs and simplify.**
+**TODO: this conf is longer than necessary; report bugs and simplify.**
 
 Alternatively, your institution may have an LDAP server, in which case
 you can use the `LDAPAuthenticator` with the configuration described
@@ -419,23 +421,182 @@ c.JupyterHub.authenticator_class = 'ldapauthenticator.LDAPAuthenticator'
 
 ## The Jupyter notebook servers
 
+The last component of our setup is the single-user Jupyter server.
+This is the more versatile and configurable part, as it defines the
+environment where your users are going to work.
+
+The simplest way to get started, is to use one of the pre-packaged
+[Jupyter Docker
+stacks](https://jupyter-docker-stacks.readthedocs.io/en/latest/).
+This only requires one line in `docker-compose.yml`:
+
 ```yaml
   jupyterlab:
-    build:
-      context: jupyterlab
-      target: jupyterlab_img
+    image: jupyterlab/scipy-notebook:1145fb1198b2
     command: echo
 ```
 
+The extra line `command: echo` is there so that, when Docker compose
+starts the service, it terminates immediately.  Indeed this image is
+meant to be loaded by the Hub, not by compose. Do not forget to edit
+the `jupyterhub` section of `docker-compose.yml`, so that the
+`DOCKER_JUPYTER_IMAGE` env variable matches this one.
+
+```yaml
+  jupyterhub:
+    environment:
+      DOCKER_JUPYTER_IMAGE: jupyterlab/scipy-notebook:1145fb1198b2
+```
+
+Alternatively, you can use any of OpenDreamKit's pre-built images:
+**TODO: we need to consolidate these images, and test with JupyterHub.**
+
+Finally, you can build your own image: the only requirement is that it
+contains the `jupyterhub` Python package (and possibly some Jupyter
+kernels, to make it interesting).  I recommend starting from one of
+the Jupyter Docker stacks images: create a file
+`jupyterlab/Dockerfile` with, e.g., the following contents:
+
+```docker
+FROM jupyter/scipy-notebook:1145fb1198b2
+
+RUN conda install --quiet --yes \
+    'r-base=3.4.1' \
+    'r-irkernel=0.8*'&& \
+    conda clean -tipsy
+```
+
+then modify `docker-compose.yml` as follows:
+
+```yaml
+  jupyterlab:
+    build: jupyterlab
+    image: jupyterlab_img
+    command: echo
+```
+
+It is recommended that you test your image alone, before starting
+JupyterHub.  You can do so by building it with compose:
+
+```bash
+docker-compose build jupyterlab
+```
+
+then running a test server (adapt the ports to your configuration),
+with:
+
+```bash
+docker run --rm -p 8888:8888 jupyterlab_img
+```
+
+and copying in your browser the URL printed on the console (something
+like <http://127.0.0.1:8888/?token=012...>).  You can stop the test
+server hitting `Ctrl-C`.
+
+If everything works normally, you can try out the excellent JupyterLab
+interface by replacing <http://127.0.0.1:8888/user/.../tree> with
+<http://127.0.0.1:8888/user/.../lab>.  You will not be disappointed,
+[JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) is a game
+changer: it transforms the old notebook interface in a full featured
+IDE, with multiple split views, file explorer, Jupyter notebooks, and
+much more, in a single browser window. 
+
+If you want to user JupyterLab as the default interface for your
+JupyterHub users, configure the Hub by adding this line to
+`jupyterhub-config.py`:
+
 ```python
-# Redirect to JupyterLab, instead of the old Jupyter notebook
+# Redirect to JupyterLab, instead of the plain Jupyter notebook
 c.Spawner.default_url = '/lab'
 ```
 
 
+## Running!
+
+You are now ready to test your JupyterHub server. As superuser, or as
+a user of the `docker` group, run
+
+```
+docker-compose build
+docker-compose up
+```
+
+The JupyterHub server loads up and, if all is configured properly,
+starts waiting for connections.  Test that authentication and starting
+up single-user servers works properly, try playing with some
+notebooks. When you are satisfied you can stop the server by hitting
+`Ctrl-C`.
+
+Be sure to read the documentation to [Docker
+compose](https://docs.docker.com/compose/), and
+[JupyterHub](https://jupyterhub.readthedocs.io/) before going into
+production.  Customize the setup to your liking, then, when you are
+ready to put the server online for good, launch it with
+
+```
+docker-compose up -d
+```
+
+You can stop and destroy the server with
+
+```
+docker-compose down
+```
+
+Note that single-user servers are not destroyed when they are
+terminated: when a user returns JupyterHub will look for a Docker
+container named `jupyter-`*`username`*, and will restart it with all
+its data.  This means that, even if you update the JupyterLab image,
+returning users will not see the changes until you destroy their old
+containers. You can list all containers, including inactive ones, with
+
+```
+docker ps -a
+```
+
+and you can remove them individually with `docker rm`. To remove all
+containers at once (after the JupyterHub server has been stopped), you
+can run a command like this:
+
+```
+docker rm $(docker ps -qa -f "name=jupyter-")
+```
+
+Be wary that this command destroys all data associated with the users,
+including their work. Use with care!
+
+
 ## Data persistence
 
+With this configuration, our JupyterHub server is not persistent: all
+user data is irremediably lost when the containers are destroyed.
+This may be acceptable for some use cases, however it is not what is
+typically wanted.
+
+Using [Docker volumes](https://docs.docker.com/storage/volumes/), we
+can make storage permanent.  Two kinds of data need to be stored: the
+Hub data, containing information on administrators and existing users,
+and the user's data for the single-user servers.
+
+To persist the Hub data, simply modify `docker-compose.yml` by adding
+a volume and mounting it inside the `jupyterhub` service:
+
+```yaml
+services:
+  jupyterhub:
+    volumes:
+      - jupyterhub_data:/srv/jupyterhub
+
+volumes:
+  jupyterhub_data:
+```
+
+The Hub takes care of handling volumes for the single-user servers.
+We can configure data persistence by adding these lines to
+`jupyterhub-config.py`:
+
 ```python
+import os
 # user data persistence
 # see https://github.com/jupyterhub/dockerspawner#data-persistence-and-dockerspawner
 notebook_dir = os.environ.get('DOCKER_NOTEBOOK_DIR') or '/home/jovyan'
@@ -443,5 +604,67 @@ c.DockerSpawner.notebook_dir = notebook_dir
 c.DockerSpawner.volumes = { 'jupyterhub-user-{username}': notebook_dir }
 ```
 
+This way, even if we update the `jupyterlab` image and destroy the
+associated containers, the user data will not be lost.
+
+Note that the level of control on the user data is rather minimal in
+this configuration.  For example it is not possible to enforce
+per-user disk quotas.  It would be interesting to explore more
+advanced uses of Docker volumes enabling complex usage patterns.
+
+
 ## Block networking
 
+In contexts where you do not trust your users, it may be useful to
+restrict networking from inside single-user containers.  Indeed,
+single-user servers are full fledged Unix servers, and can potentially
+be used as relay nodes in network attacks.
+
+A simple way to restrict networking is to ban any connection to the
+outside world from single-user servers, letting them only communicate
+with the Hub. This is easily accomplished using the [internal
+flag](https://docs.docker.com/v17.09/engine/userguide/networking/work-with-networks/)
+for Docker networks. Edit `docker-compose.yml` like this:
+
+```yaml
+services:
+  jupyterhub:
+    environment:
+      DOCKER_NETWORK_NAME: ${COMPOSE_PROJECT_NAME}_jupyter
+    networks:
+      - jupyter
+
+  reverse-proxy:
+    networks:
+      - default
+      - jupyter
+
+networks:
+  jupyter:
+    internal: true
+```
+
+More complex filtering can be achieved with iptables.
+
+
+## Conclusion
+
+We have described a full setup for a JupyterHub + Jupyter/JupyterLab
+server targeted to a medium sized institution, with external
+authentication and containerized components.
+
+This setup can reasonably run on a personal computer, but is really
+ideal for powerful servers, such as those found in research labs at
+many universities.
+
+Thanks to Docker compose, the whole configuration fits in a few
+hundred lines, and is very easy to maintain and replicate.
+
+We have been running an experiment for one year already, using a
+similar setup to teach a class in University of Versailles.  Since
+September 2018 we are now running a larger scale deployment, used in
+several classes. You can find the complete current configuration at
+<https://github.com/defeo/jupyterhub-docker>.
+
+For comments, questions and suggestions, feel free to [contact
+me](https://defeo.lu/) directly.
