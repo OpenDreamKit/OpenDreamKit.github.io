@@ -119,18 +119,18 @@ services:
   # Configuration for Hub+Proxy
   jupyterhub:
     ...
-  
+
   # Configuration for reverse proxy
   reverse-proxy:
     ...
-	
+
   # Configuration for the single-user servers
   jupyterlab:
     ...
-	
+
 volumes:
   ...
-  
+
 networks:
   ...
 ```
