@@ -6,6 +6,7 @@ tags:
     - project-meeting
     - management
     - project-review
+    - front-page
 ---
 
 At the occasion of the second
