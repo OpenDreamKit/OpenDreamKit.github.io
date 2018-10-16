@@ -111,6 +111,10 @@ InternalEvents:
     - title: Steering committee
       start: 2018-06-21
       end: 2018-06-21
+    - title: Review meeting in Luxemburg
+      start: 2018-10-28
+      end: 2018-10-31
+      url: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/
       
 ExternalEvents:
     - title: International Congress on Mathematical Software (ICMS 2018)

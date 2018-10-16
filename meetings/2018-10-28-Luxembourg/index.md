@@ -4,7 +4,7 @@ title: OpenDreamKit annual project meeting
 ---
 
 OpenDreamKit’s annual project meeting is taking place in Luxembourg,
-from Monday 28th of October to Wednesday 31st.
+from Sunday 28th of October to Wednesday 31st.
 
 # Agenda
 
