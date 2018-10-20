@@ -60,7 +60,7 @@ deliv:
       page: '46', short: Active/Structured Documents Requirements and existing Solutions,
       status: delivered, title: Active/Structured Documents Requirements and existing
         Solutions}
-    cfd-vis: {dissem: PU, due: '36', issue: '88', label: D4.14, lead: SR, nature: OTHER,
+    cfd-vis: {dissem: PU, due: 36, issue: '88', label: D4.14, lead: SR, nature: OTHER,
       page: '47', short: Computational Fluid dynamics visualisation in web notebook,
       status: canceled, title: Computational Fluid dynamics visualisation in web notebook}
     ipython-advanced-interacts: {dissem: PU, due: '36', issue: '90', label: D4.16,
@@ -69,19 +69,16 @@ deliv:
       status: submitted, title: Exploratory support for semantic-aware interactive
         widgets providing views on objects represented and or in databases}
     ipython-kernel-sage: {dissem: PU, due: '12', issue: '94', label: D4.5, lead: PS,
-      nature: DEM, page: '47', short: unhbox voidb@x hbox Sage notebook / unhbox voidb@x
-        hbox Jupyter notebook convergence, status: delivered, title: unhbox voidb@x
-        hbox Sage notebook / unhbox voidb@x hbox Jupyter notebook convergence}
+      nature: DEM, page: '47', short: '  Sage notebook /   Jupyter notebook convergence',
+      status: delivered, title: '  Sage notebook /   Jupyter notebook convergence'}
     ipython-kernels: {dissem: PU, due: '24', issue: '96', label: D4.7, lead: PS, nature: OTHER,
-      page: '47', short: 'Full featured unhbox voidb@x hbox Jupyter interface for
-        GAP, unhbox voidb@x hbox PARI/GP, Singular', status: submitted, title: 'Full
-        featured unhbox voidb@x hbox Jupyter interface for GAP, unhbox voidb@x hbox
-        PARI/GP, Singular'}
+      page: '47', short: 'Full featured   Jupyter interface for GAP,   PARI/GP, Singular',
+      status: submitted, title: 'Full featured   Jupyter interface for GAP,   PARI/GP,
+        Singular'}
     ipython-kernels-basic: {dissem: PU, due: '12', issue: '93', label: D4.4, lead: PS,
-      nature: OTHER, page: '46', short: 'Basic unhbox voidb@x hbox Jupyter interface
-        for GAP, unhbox voidb@x hbox PARI/GP, unhbox voidb@x hbox Sage, Singular',
-      status: delivered, title: 'Basic unhbox voidb@x hbox Jupyter interface for GAP,
-        unhbox voidb@x hbox PARI/GP, unhbox voidb@x hbox Sage, Singular'}
+      nature: OTHER, page: '46', short: 'Basic   Jupyter interface for GAP,   PARI/GP,   Sage,
+        Singular', status: delivered, title: 'Basic   Jupyter interface for GAP,   PARI/GP,   Sage,
+        Singular'}
     jupyter-collab: {dissem: PU, due: '12', issue: '95', label: D4.6, lead: SR, nature: OTHER,
       page: '47', short: Tools for collaborating on notebooks via version-control,
       status: delivered, title: Tools for collaborating on notebooks via version-control}
@@ -100,65 +97,59 @@ deliv:
         of Active Documents in MathHub.info', status: delivered, title: 'Distributed,
         Collaborative, Versioned Editing of Active Documents in MathHub.info'}
     pari-python-lib1: {dissem: PU, due: '18', issue: '83', label: D4.1, lead: UB,
-      nature: OTHER, page: '46', short: Python/Cython bindings for unhbox voidb@x
-        hbox PARI and its integration in Sage, status: delivered, title: Python/Cython
-        bindings for unhbox voidb@x hbox PARI and its integration in Sage}
+      nature: OTHER, page: '46', short: Python/Cython bindings for   PARI and its
+        integration in Sage, status: delivered, title: Python/Cython bindings for   PARI
+        and its integration in Sage}
     pari-python-lib2: {dissem: PU, due: '36', issue: '84', label: D4.10, lead: UB,
-      nature: OTHER, page: '47', short: Second version of the unhbox voidb@x hbox
-        PARI Python/Cython bindings, status: submitted, title: Second version of the
-        unhbox voidb@x hbox PARI Python/Cython bindings}
+      nature: OTHER, page: '47', short: Second version of the   PARI Python/Cython
+        bindings, status: submitted, title: Second version of the   PARI Python/Cython
+        bindings}
     sage-sphinx: {dissem: PU, due: '24', issue: '87', label: D4.13, lead: UG, nature: OTHER,
-      page: '47', short: Refactorisation of unhbox voidb@x hbox Sage's unhbox voidb@x
-        hbox Sphinx documentation system, status: submitted, title: Refactorisation
-        of unhbox voidb@x hbox Sage's unhbox voidb@x hbox Sphinx documentation system}
+      page: '47', short: Refactorisation of   Sage's   Sphinx documentation system,
+      status: submitted, title: Refactorisation of   Sage's   Sphinx documentation
+        system}
     vis3d: {dissem: PU, due: '36', issue: '86', label: D4.12, lead: SR, nature: OTHER,
-      page: '47', short: 'unhbox voidb@x hbox Jupyter extension for 3D visualisation,
-        demonstrated with computational fluid dynamics', status: submitted, title: 'unhbox
-        voidb@x hbox Jupyter extension for 3D visualisation, demonstrated with computational
-        fluid dynamics'}
+      page: '47', short: '  Jupyter extension for 3D visualisation, demonstrated with
+        computational fluid dynamics', status: submitted, title: '  Jupyter extension
+        for 3D visualisation, demonstrated with computational fluid dynamics'}
   component-architecture:
     hpc-configure: {dissem: PU, due: '48', issue: '60', label: D3.11, lead: UJF, nature: OTHER,
-      page: '42', short: HPC enabled unhbox voidb@x hbox Sage distribution, title: HPC
-        enabled unhbox voidb@x hbox Sage distribution}
+      page: '42', short: HPC enabled   Sage distribution, title: HPC enabled   Sage
+        distribution}
     multiplatform-buildbot: {dissem: PP, due: '36', issue: '67', label: D3.8, lead: UV,
       nature: DEM, page: '41', short: Continuous integration platform for multi-platform
         build/test., status: submitted, title: Continuous integration platform for
         multi-platform build/test.}
     personal-smc: {dissem: PU, due: '24', issue: '63', label: D3.4, lead: PS, nature: OTHER,
-      page: '41', short: 'emph  Personal unhbox voidb@x hbox SageMathCloud : single
-        user version of unhbox voidb@x hbox SageMathCloud distributed with unhbox
-        voidb@x hbox Sage.', status: canceled, title: 'emph  Personal unhbox voidb@x
-        hbox SageMathCloud : single user version of unhbox voidb@x hbox SageMathCloud
-        distributed with unhbox voidb@x hbox Sage.'}
+      page: '41', short: '  Personal   SageMathCloud : single user version of   SageMathCloud
+        distributed with   Sage.', status: canceled, title: '  Personal   SageMathCloud
+        : single user version of   SageMathCloud distributed with   Sage.'}
     portability-cygwin: {dissem: PU, due: '24', issue: '66', label: D3.7, lead: PS,
-      nature: OTHER, page: '41', short: One-click install unhbox voidb@x hbox Sage
-        distribution for Windows with Cygwin 32bits and 64bits, status: submitted,
-      title: One-click install unhbox voidb@x hbox Sage distribution for Windows with
-        Cygwin 32bits and 64bits}
+      nature: OTHER, page: '41', short: One-click install   Sage distribution for
+        Windows with Cygwin 32bits and 64bits, status: submitted, title: One-click
+        install   Sage distribution for Windows with Cygwin 32bits and 64bits}
     sage-distribution: {dissem: PU, due: '48', issue: '59', label: D3.10, lead: UV,
       nature: OTHER, page: '42', short: Packaging components and user-contributed
         code for major Linux distributions, title: Packaging components and user-contributed
         code for major Linux distributions}
     sage-repository: {dissem: PU, due: '24', issue: '65', label: D3.6, lead: UV, nature: OTHER,
-      page: '41', short: 'Open package repository for unhbox voidb@x hbox Sage ',
-      status: canceled, title: 'Open package repository for unhbox voidb@x hbox Sage '}
+      page: '41', short: 'Open package repository for   Sage ', status: canceled,
+      title: 'Open package repository for   Sage '}
     scscp-sage: {dissem: PU, due: '12', issue: '62', label: D3.3, lead: SA, nature: OTHER,
       page: '41', short: 'Support for the SCSCP interface protocol in all relevant
-        components (unhbox voidb@x hbox Sage, unhbox voidb@x hbox GAP, etc.) distribution',
-      status: delivered, title: 'Support for the SCSCP interface protocol in all relevant
-        components (unhbox voidb@x hbox Sage, unhbox voidb@x hbox GAP, etc.) distribution'}
+        components (  Sage,   GAP, etc.) distribution', status: delivered, title: 'Support
+        for the SCSCP interface protocol in all relevant components (  Sage,   GAP,
+        etc.) distribution'}
     semantic-interface-sage-gap: {dissem: PU, due: '36', issue: '68', label: D3.9,
-      lead: PS, nature: OTHER, page: '42', short: Semantic-aware unhbox voidb@x hbox
-        Sage interface to unhbox voidb@x hbox GAP., status: canceled, title: Semantic-aware
-        unhbox voidb@x hbox Sage interface to unhbox voidb@x hbox GAP.}
+      lead: PS, nature: OTHER, page: '42', short: Semantic-aware   Sage interface
+        to   GAP., status: canceled, title: Semantic-aware   Sage interface to   GAP.}
     smc-documentation: {dissem: PU, due: '18', issue: '61', label: D3.2, lead: PS,
-      nature: R, page: '41', short: Understand and document unhbox voidb@x hbox SageMathCloud
-        backend code., status: delivered, title: Understand and document unhbox voidb@x
-        hbox SageMathCloud backend code.}
+      nature: R, page: '41', short: Understand and document   SageMathCloud backend
+        code., status: delivered, title: Understand and document   SageMathCloud backend
+        code.}
     smc-trac: {dissem: PU, due: '24', issue: '64', label: D3.5, lead: UV, nature: OTHER,
-      page: '41', short: Integration between unhbox voidb@x hbox SageMathCloud and
-        unhbox voidb@x hbox Sage's TRAC server, status: submitted, title: Integration
-        between unhbox voidb@x hbox SageMathCloud and unhbox voidb@x hbox Sage's TRAC
+      page: '41', short: Integration between   SageMathCloud and   Sage's TRAC server,
+      status: submitted, title: Integration between   SageMathCloud and   Sage's TRAC
         server}
     virtual-machines: {dissem: PU, due: '6', issue: '58', label: D3.1, lead: UV, nature: OTHER,
       page: '41', short: Virtual images and containers, status: delivered, title: Virtual
@@ -231,11 +222,10 @@ deliv:
         workshops, dissemination and training activities, year 4'}
   dksbases:
     conv: {dissem: PU, due: '24', issue: '138', label: D6.4, lead: ZH, nature: DEC,
-      page: '54', short: 'Conversion of existing and new Databases (unhbox voidb@x
-        hbox LMFDB, OEIS, unhbox voidb@x hbox FindStat ) to unified interoperable
-        System', status: canceled, title: 'Conversion of existing and new Databases
-        (unhbox voidb@x hbox LMFDB, OEIS, unhbox voidb@x hbox FindStat ) to unified
-        interoperable System'}
+      page: '54', short: 'Conversion of existing and new Databases (  LMFDB, OEIS,   FindStat
+        ) to unified interoperable System', status: canceled, title: 'Conversion of
+        existing and new Databases (  LMFDB, OEIS,   FindStat ) to unified interoperable
+        System'}
     design: {dissem: PU, due: '12', issue: '136', label: D6.2, lead: JU, nature: R,
       page: '54', short: Initial ensuremath  mathcal  DKS base Design (including base
         survey and Requirements Workshop Report), status: delivered, title: Initial
@@ -247,15 +237,12 @@ deliv:
       title: Design of Triform (DKS) Theories (Specification / RNC Sche-ma / Examples)
         and Implementation of Triform Theories in the MMT API}
     lfmint: {dissem: PU, due: '48', issue: '135', label: D6.11, lead: FAU, nature: R,
-      page: '54', short: 'unhbox voidb@x hbox LMFDB Integration of Algorithms, Data
-        and Presentation', status: canceled, title: 'unhbox voidb@x hbox LMFDB Integration
-        of Algorithms, Data and Presentation'}
+      page: '54', short: '  LMFDB Integration of Algorithms, Data and Presentation',
+      status: canceled, title: '  LMFDB Integration of Algorithms, Data and Presentation'}
     lfmverif: {dissem: PU, due: '36', issue: '142', label: D6.8, lead: FAU, nature: OTHER,
-      page: '54', short: 'Curated Math-in-the-Middle Ontology and Alignments for unhbox
-        voidb@x hbox GAP / unhbox voidb@x hbox Sage / unhbox voidb@x hbox LMFDB ',
-      status: submitted, title: 'Curated Math-in-the-Middle Ontology and Alignments
-        for unhbox voidb@x hbox GAP / unhbox voidb@x hbox Sage / unhbox voidb@x hbox
-        LMFDB '}
+      page: '54', short: 'Curated Math-in-the-Middle Ontology and Alignments for   GAP
+        /   Sage /   LMFDB ', status: submitted, title: 'Curated Math-in-the-Middle
+        Ontology and Alignments for   GAP /   Sage /   LMFDB '}
     mws: {dissem: PU, due: '9', issue: '133', label: D6.1, lead: JU, nature: OTHER,
       page: '54', short: Full-text Search (Formulae + Keywords) over LaTeX-based Documents
         (e.g. the arXiv subset), status: delivered, title: Full-text Search (Formulae
@@ -268,17 +255,15 @@ deliv:
         CAS Modules and Notebooks, status: canceled, title: Full-text search (Formulae
         + Keywords) over CAS Modules and Notebooks}
     persistent-memoization: {dissem: PU, due: '42', issue: '143', label: D6.9, lead: SA,
-      nature: OTHER, page: '54', short: 'Shared persistent Memoisation Library for
-        unhbox voidb@x hbox Python /unhbox voidb@x hbox Sage ', title: 'Shared persistent
-        Memoisation Library for unhbox voidb@x hbox Python /unhbox voidb@x hbox Sage '}
+      nature: OTHER, page: '54', short: 'Shared persistent Memoisation Library for   Python
+        /  Sage ', title: 'Shared persistent Memoisation Library for   Python /  Sage '}
     psfoundation: {dissem: PU, due: '24', issue: '139', label: D6.5, lead: FAU, nature: OTHER,
       page: '54', short: GAP/SAGE/LMFDB Interface Theories and Alignment in OMDoc/MMT
         for System Interoperability, status: submitted, title: GAP/SAGE/LMFDB Interface
         Theories and Alignment in OMDoc/MMT for System Interoperability}
     pssem: {dissem: PU, due: '36', issue: '141', label: D6.7, lead: FAU, nature: OTHER,
-      page: '54', short: unhbox voidb@x hbox GAP /unhbox voidb@x hbox Sage Interface
-        Views OMDoc/MMT, status: canceled, title: unhbox voidb@x hbox GAP /unhbox
-        voidb@x hbox Sage Interface Views OMDoc/MMT}
+      page: '54', short: '  GAP /  Sage Interface Views OMDoc/MMT', status: canceled,
+      title: '  GAP /  Sage Interface Views OMDoc/MMT'}
   hpc:
     FFT: {blog: 'https://wbhart.blogspot.fr/2017/02/parallelising-integer-and-polynomial.html',
       dissem: PU, due: '18', issue: '120', label: D5.7, lead: UK, nature: DEM, page: '50',
@@ -290,20 +275,18 @@ deliv:
         assembly primitives for SIMD processor instructions (e.g. AVX, etc.), especially
         in the FFT butterflies.'}
     GAP-HPC-report: {dissem: PU, due: '48', issue: '113', label: D5.15, lead: SA,
-      nature: R, page: '51', short: Final report and evaluation of all the unhbox
-        voidb@x hbox GAP developments., title: Final report and evaluation of all
-        the unhbox voidb@x hbox GAP developments.}
+      nature: R, page: '51', short: Final report and evaluation of all the   GAP developments.,
+      title: Final report and evaluation of all the   GAP developments.}
     LinBox-DSL: {dissem: PU, due: '24', issue: '122', label: D5.9, lead: UJF, nature: R,
-      page: '50', short: 'Library design and domain specific language exposing unhbox
-        voidb@x hbox LinBox parallel features to unhbox voidb@x hbox Sage ', status: canceled,
-      title: 'Library design and domain specific language exposing unhbox voidb@x
-        hbox LinBox parallel features to unhbox voidb@x hbox Sage '}
+      page: '50', short: 'Library design and domain specific language exposing   LinBox
+        parallel features to   Sage ', status: canceled, title: 'Library design and
+        domain specific language exposing   LinBox parallel features to   Sage '}
     LinBox-algo: {dissem: PU, due: '36', issue: '110', label: D5.12, lead: UJF, nature: DEM,
       page: '51', short: Exact linear algebra algorithms and implementations. Library
-        maintenance and close integration in mathematical software for unhbox voidb@x
-        hbox LinBox library, status: submitted, title: Exact linear algebra algorithms
-        and implementations. Library maintenance and close integration in mathematical
-        software for unhbox voidb@x hbox LinBox library}
+        maintenance and close integration in mathematical software for   LinBox library,
+      status: submitted, title: Exact linear algebra algorithms and implementations.
+        Library maintenance and close integration in mathematical software for   LinBox
+        library}
     LinBox-distributed: {dissem: PU, due: '48', issue: '112', label: D5.14, lead: UJF,
       nature: DEM, page: '51', short: 'Implementations of exact linear algebra algorithms
         on distributed memory et heterogenous architectures: clusters and accelerators.
@@ -314,10 +297,10 @@ deliv:
     MPIRsuperoptimiser: {blog: 'https://wbhart.blogspot.fr/2017/02/assembly-superoptimisation-in-mpir.html',
       dissem: PU, due: '18', issue: '118', label: D5.5, lead: UK, nature: DEM, page: '50',
       short: Write an assembly superoptimiser supporting AVX and upcoming Intel processor
-        extensions for the unhbox voidb@x hbox MPIR library and optimise MPIR for
-        modern processors., status: delivered, title: Write an assembly superoptimiser
-        supporting AVX and upcoming Intel processor extensions for the unhbox voidb@x
-        hbox MPIR library and optimise MPIR for modern processors.}
+        extensions for the   MPIR library and optimise MPIR for modern processors.,
+      status: delivered, title: Write an assembly superoptimiser supporting AVX and
+        upcoming Intel processor extensions for the   MPIR library and optimise MPIR
+        for modern processors.}
     QS-linalg: {blog: 'https://wbhart.blogspot.fr/2017/02/integer-factorisation-in-flint.html',
       dissem: PU, due: '18', issue: '119', label: D5.6, lead: UK, nature: DEM, page: '50',
       short: Parallelise the relation sieving component of the Quadratic Sieve and
@@ -327,52 +310,43 @@ deliv:
         version of Block-Wiederman linear algebra over GF2 and implement large prime
         variants}
     SGE-jupyter: {dissem: PU, due: '12', issue: '116', label: D5.3, lead: USH, nature: OTHER,
-      page: '50', short: Sun Grid Engine support for Project unhbox voidb@x hbox Jupyter
-        Hub, status: delivered, title: Sun Grid Engine support for Project unhbox
-        voidb@x hbox Jupyter Hub}
+      page: '50', short: Sun Grid Engine support for Project   Jupyter Hub, status: delivered,
+      title: Sun Grid Engine support for Project   Jupyter Hub}
     cython-pythran-cilk: {dissem: PU, due: '24', issue: '121', label: D5.8, lead: PS,
-      nature: DEM, page: '50', short: 'Explore the possibility to interface smoothly
-        unhbox voidb@x hbox Pythran, unhbox voidb@x hbox Cython and Cilk++.', status: canceled,
-      title: 'Explore the possibility to interface smoothly unhbox voidb@x hbox Pythran,
-        unhbox voidb@x hbox Cython and Cilk++.'}
+      nature: DEM, page: '50', short: 'Explore the possibility to interface smoothly   Pythran,   Cython
+        and Cilk++.', status: canceled, title: 'Explore the possibility to interface
+        smoothly   Pythran,   Cython and Cilk++.'}
     pari-hpc1: {dissem: PU, due: '24', issue: '108', label: D5.10, lead: UB, nature: DEM,
-      page: '51', short: 'Devise a generic parallelisation engine for unhbox voidb@x
-        hbox PARI and use it to prototype selected functions (integer factorisation,
-        discrete logarithm, modular polynomials)', status: canceled, title: 'Devise
-        a generic parallelisation engine for unhbox voidb@x hbox PARI and use it to
-        prototype selected functions (integer factorisation, discrete logarithm, modular
-        polynomials)'}
+      page: '51', short: 'Devise a generic parallelisation engine for   PARI and use
+        it to prototype selected functions (integer factorisation, discrete logarithm,
+        modular polynomials)', status: canceled, title: 'Devise a generic parallelisation
+        engine for   PARI and use it to prototype selected functions (integer factorisation,
+        discrete logarithm, modular polynomials)'}
     pari-hpc2: {dissem: PU, due: '48', issue: '114', label: D5.16, lead: UB, nature: DEM,
-      page: '51', short: 'unhbox voidb@x hbox PARI suite release (unhbox voidb@x hbox
-        libpari, unhbox voidb@x hbox GP and unhbox voidb@x hbox GP2C ) that fully
-        support parallelisation allowing individual implementations to scale gracefully
-        between single core / multicore / massively parallel machines.', title: 'unhbox
-        voidb@x hbox PARI suite release (unhbox voidb@x hbox libpari, unhbox voidb@x
-        hbox GP and unhbox voidb@x hbox GP2C ) that fully support parallelisation
-        allowing individual implementations to scale gracefully between single core
-        / multicore / massively parallel machines.'}
+      page: '51', short: '  PARI suite release (  libpari,   GP and   GP2C ) that
+        fully support parallelisation allowing individual implementations to scale
+        gracefully between single core / multicore / massively parallel machines.',
+      title: '  PARI suite release (  libpari,   GP and   GP2C ) that fully support
+        parallelisation allowing individual implementations to scale gracefully between
+        single core / multicore / massively parallel machines.'}
     pythran-sage: {dissem: PU, due: '18', issue: '115', label: D5.2, lead: UJF, nature: DEM,
-      page: '50', short: 'Facility to compile unhbox voidb@x hbox Pythran compliant
-        user kernels and unhbox voidb@x hbox Sage code and automatically take advantage
-        of multi-cores and SIMD instruction units in unhbox voidb@x hbox Cython ',
-      status: delivered, title: 'Facility to compile unhbox voidb@x hbox Pythran compliant
-        user kernels and unhbox voidb@x hbox Sage code and automatically take advantage
-        of multi-cores and SIMD instruction units in unhbox voidb@x hbox Cython '}
+      page: '50', short: 'Facility to compile   Pythran compliant user kernels and   Sage
+        code and automatically take advantage of multi-cores and SIMD instruction
+        units in   Cython ', status: delivered, title: 'Facility to compile   Pythran
+        compliant user kernels and   Sage code and automatically take advantage of
+        multi-cores and SIMD instruction units in   Cython '}
     pythran-typing: {dissem: PU, due: '18', issue: '117', label: D5.4, lead: LL, nature: DEM,
-      page: '50', short: Make unhbox voidb@x hbox Pythran typing better to improve
-        error information., status: delivered, title: Make unhbox voidb@x hbox Pythran
-        typing better to improve error information.}
+      page: '50', short: Make   Pythran typing better to improve error information.,
+      status: delivered, title: Make   Pythran typing better to improve error information.}
     sage-HPCcombi: {dissem: PU, due: '36', issue: '109', label: D5.11, lead: UB, nature: DEM,
-      page: '51', short: Refactor and Optimise the existing combinatorics unhbox voidb@x
-        hbox Sage code using the new developed unhbox voidb@x hbox Pythran and unhbox
-        voidb@x hbox Cython features., status: submitted, title: Refactor and Optimise
-        the existing combinatorics unhbox voidb@x hbox Sage code using the new developed
-        unhbox voidb@x hbox Pythran and unhbox voidb@x hbox Cython features.}
+      page: '51', short: Refactor and Optimise the existing combinatorics   Sage code
+        using the new developed   Pythran and   Cython features., status: submitted,
+      title: Refactor and Optimise the existing combinatorics   Sage code using the
+        new developed   Pythran and   Cython features.}
     sage-paral-tree: {dissem: PU, due: '3', issue: '107', label: D5.1, lead: PS, nature: DEM,
       page: '50', short: 'Turn the Python prototypes for tree exploration into production
-        code, integrate to unhbox voidb@x hbox Sage.', status: delivered, title: 'Turn
-        the Python prototypes for tree exploration into production code, integrate
-        to unhbox voidb@x hbox Sage.'}
+        code, integrate to   Sage.', status: delivered, title: 'Turn the Python prototypes
+        for tree exploration into production code, integrate to   Sage.'}
     singular-polyarith: {dissem: PU, due: '48', issue: '111', label: D5.13, lead: UK,
       nature: DEM, page: '51', short: Parallelise the Singular sparse polynomial multiplication
         algorithms and provide parallel versions of the Singular sparse polynomial
@@ -503,15 +477,15 @@ mile:
   UI-vre-prototype: {delivs: 'dissem@ibook2,dissem@ibook1,UI@jupyter-live-collab,UI@ipython-advanced-interacts',
     description: ' User story: a group of mathematical researchers with access to
       common computational resources, such as a shared lab computer or cloud servers,
-      shall be able to deploy a prototype VRE with unhbox voidb@x hbox JupyterHub,
-      integrating OpenDreamKit components. The Jupyter kernels for mathematical software
-      developed as part of OpenDreamKit make computational mathematical components
-      accessible in a unhbox voidb@x hbox Jupyter environment, enabling a Jupyter-based
-      deployment of the relevant tools for the researchers. The process of working
-      on notebooks is greatly improved by review tools developed as part of WP4, enabling
-      researchers to collaborate to some degree in a shared computational environment. ',
-    label: M6, month: '36', title: Prototype VRE for mathematical researchers, verif: Completed
-      all corresponding deliverables; public online demonstrator.}
+      shall be able to deploy a prototype VRE with   JupyterHub, integrating OpenDreamKit
+      components. The Jupyter kernels for mathematical software developed as part
+      of OpenDreamKit make computational mathematical components accessible in a   Jupyter
+      environment, enabling a Jupyter-based deployment of the relevant tools for the
+      researchers. The process of working on notebooks is greatly improved by review
+      tools developed as part of WP4, enabling researchers to collaborate to some
+      degree in a shared computational environment. ', label: M6, month: '36', title: Prototype
+      VRE for mathematical researchers, verif: Completed all corresponding deliverables;
+      public online demonstrator.}
   component-architecture-distribution: {delivs: component-architecture@multiplatform-buildbot,
     description: 'User story: users shall be able to easily install ODK''s computational
       components on the three major platforms (Windows, Mac, Linux) via their standard
@@ -539,15 +513,14 @@ mile:
   hpc-prototype: {delivs: 'hpc@sage-HPCcombi,hpc@LinBox-algo', description: ' User
       story: Astrid wants to run compute intensive routines involving both dense linear
       algebra and combinatorics. She has access through a JupyterHub-based VRE to
-      a high end multi-core machine which includes a vanilla unhbox voidb@x hbox Sage
-      installation. She automatically benefits from the HPC features of the underlying
-      specialized libraries (unhbox voidb@x hbox LinBox, ...). This is a proof of
-      concept of the overall framework to integrate the HPC advances of specialized
-      libraries into a general purpose VRE. It will prepare the final integration
-      of a broader set of such parallel features for the end of the project.  ', label: M8,
-    month: '36', title: Seamless use of parallel computing architecture in the VRE
-      (proof of concept), verif: Completed all corresponding deliverables; public
-      online demonstrator.}
+      a high end multi-core machine which includes a vanilla   Sage installation.
+      She automatically benefits from the HPC features of the underlying specialized
+      libraries (  LinBox, ...). This is a proof of concept of the overall framework
+      to integrate the HPC advances of specialized libraries into a general purpose
+      VRE. It will prepare the final integration of a broader set of such parallel
+      features for the end of the project.  ', label: M8, month: '36', title: Seamless
+      use of parallel computing architecture in the VRE (proof of concept), verif: Completed
+      all corresponding deliverables; public online demonstrator.}
   proto1: {delivs: 'management@imp1,dissem@short-course,dissem@datascience-course,dissem@workshops-2,dissem@ils-tool,component-architecture@personal-smc,component-architecture@smc-trac,component-architecture@sage-repository,component-architecture@portability-cygwin,UI@ipython-kernels-basic,UI@jupyter-test,UI@adcomp,UI@pari-python-lib2,UI@jupyter-import,UI@sage-sphinx,hpc@MPIRsuperoptimiser,hpc@QS-linalg,hpc@FFT,hpc@cython-pythran-cilk,hpc@LinBox-DSL,dksbases@dkstheories,dksbases@psfoundation,social-aspects@social-datareport,social-aspects@social-tracaddon,social-aspects@jupyter-comment',
     description: 'By this milestone we will have constructed first fully functional
       interface implementations and released enhanced versions of OpenDreamKit components,
@@ -618,11 +591,10 @@ task:
       number: '13', page: '46', partners: 'SR,PS,USO', title: 'Demonstrator: micromagnetic
         VRE notebooks', wphases: 19-25}
     pari-python: {PM: '16', issue: '80', label: TT4.12, lead: UB, number: '12', page: '46',
-      partners: 'UB,UG', title: 'Python/Cython bindings for unhbox voidb@x hbox PARI ',
-      wphases: 0-48}
+      partners: 'UB,UG', title: 'Python/Cython bindings for   PARI ', wphases: 0-48}
     sage-sphinx: {PM: '6', issue: '72', label: TT4.4, lead: PS, number: '4', page: '44',
-      partners: 'SR,UV,UG', title: Refactor unhbox voidb@x hbox Sage's unhbox voidb@x
-        hbox Sphinx documentation system, wphases: 0-36}
+      partners: 'SR,UV,UG', title: Refactor   Sage's   Sphinx documentation system,
+      wphases: 0-36}
     structdocs: {PM: '22', issue: '74', label: TT4.6, lead: JU, number: '6', page: '44',
       partners: 'SR,USH,LL,FAU', title: Structured documents, wphases: 0-24}
     vis3d: {PM: '13', issue: '76', label: TT4.8, lead: SR, number: '8', page: '45',
@@ -633,8 +605,8 @@ task:
       page: '40', partners: SA, title: Component architecture for High Performance
         Computing and Parallelism, wphases: 36-48}
     extract-smc: {PM: '10', issue: '55', label: TT3.6, lead: PS, number: '6', page: '41',
-      partners: 'UV,UG', title: Document and modularise unhbox voidb@x hbox SageMathCloud's
-        codebase, wphases: 0-24}
+      partners: 'UV,UG', title: Document and modularise   SageMathCloud's codebase,
+      wphases: 0-24}
     interface-systems: {PM: '22', issue: '51', label: TT3.2, lead: PS, number: '2',
       page: '39', partners: 'UV,UO,SA,UG', title: Interfaces between systems, wphases: 0-36}
     mod-packaging: {PM: '28', issue: '52', label: TT3.3, lead: UV, number: '3', page: '40',
@@ -680,8 +652,7 @@ task:
       partners: '', title: Training and training portal, wphases: '0-48!.1,0-1'}
   dksbases:
     data-LMFDB: {PM: '24', issue: '130', label: TT6.8, lead: JU, number: '8', page: '53',
-      partners: 'ZH,UW', title: unhbox voidb@x hbox LMFDB Case Study (Triformal Theories),
-      wphases: '12-24!.25,24-48!.7'}
+      partners: 'ZH,UW', title: '  LMFDB Case Study (Triformal Theories)', wphases: '12-24!.25,24-48!.7'}
     data-OEIS: {PM: '6', issue: '128', label: TT6.6, lead: FAU, number: '6', page: '53',
       partners: JU, title: OEIS Case Study (Coverage and automated Import), wphases: 12-18}
     data-assessment: {PM: '4', issue: '123', label: TT6.1, lead: ZH, number: '1',
@@ -710,12 +681,11 @@ task:
     hpc-gap: {PM: '18', issue: '100', label: TT5.2, lead: SA, number: '2', page: '48',
       partners: '', title: GAP, wphases: 0-48!0.375}
     hpc-jupyter: {PM: '12', issue: '106', label: TT5.8, lead: USH, number: '8', page: '50',
-      partners: '', title: Sun Grid Engine Integration in Project unhbox voidb@x hbox
-        Jupyter Hub, wphases: 0-12}
+      partners: '', title: Sun Grid Engine Integration in Project   Jupyter Hub, wphases: 0-12}
     hpc-linbox: {PM: '40', issue: '101', label: TT5.3, lead: UJF, number: '3', page: '49',
       partners: '', title: Linbox, wphases: '3-48!0.37,12-36'}
     hpc-mpir: {PM: '13', issue: '103', label: TT5.5, lead: UK, number: '5', page: '49',
-      partners: '', title: 'unhbox voidb@x hbox MPIR ', wphases: 6-18}
+      partners: '', title: '  MPIR ', wphases: 6-18}
     hpc-pari: {PM: '20', issue: '99', label: TT5.1, lead: UB, number: '1', page: '48',
       partners: '', title: PARI, wphases: 0-48!0.5}
     hpc-singular: {PM: '47', issue: '102', label: TT5.4, lead: UK, number: '4', page: '49',
