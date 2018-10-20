@@ -8,13 +8,19 @@ redirect_from: "/events_activities/reports/"
 
 We are required to write reports on our activities in order for the European commission to evaluate our work. All our reports are public along with the related discussions and work. You can find them on our github page.
 
-## Deliverable reports
+## Reporting Period 1
 
-{% include deliverables.html %}
+* [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/files/953012/ReportsReportingPeriod1.zip)
+* [Technical report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/ReportingPeriod_1/Technical_Report/report-final.pdf)
 
-## Technical report for Reporting Period 1
+{% include deliverables.html begin=1 end=18 %}
 
-* [Report](https://github.com/OpenDreamKit/OpenDreamKit/files/953012/ReportsReportingPeriod1.zip)
+## Reporting Period 2
+
+* [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/releases/download/RP2/ReportsReportingPeriod2.zip)
+* [Technical report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/ReportingPeriod_1/Technical_Report/report-final.pdf)
+
+{% include deliverables.html begin=19 end=36 %}
 
 ## Workshops and meetings minutes
 

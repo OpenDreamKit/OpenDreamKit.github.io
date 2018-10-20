@@ -8,7 +8,8 @@
     {% assign wp = wp_dict[1] %}
     {% for deliv_dict in wp %}
     {% assign deliv = deliv_dict[1] %}
-    {% if deliv.status" %}
+    {% assign due = deliv.due | plus: 0 %}
+    {% if deliv.status and deliv.status != "canceled" and due >= include.begin and due <= include.end %}
         |<li data-sort="{{ deliv.label }}" ><a href="https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP{{ wpnum}}/{{ deliv.label }}/report-final.pdf" >Report</a> for <a href="https://github.com/OpenDreamKit/OpenDreamKit/issues/{{ deliv.issue}}">{{ deliv.label }}</a> due M{{ deliv.due }}: {{ deliv.short }}. {% if deliv.blog %} <a href="{{ deliv.blog }}" >Read more...</a>{% endif %}</li>
     {% endif %}
     {% endfor %}
@@ -17,6 +18,7 @@
 
 {% assign delivs = delivs_str | split:"|" %}
 {% assign delivs_sorted = delivs | sort %}
+
 <ul>
     {{ delivs_sorted }}
 </ul>
