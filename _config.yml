@@ -19,7 +19,7 @@ plugins_dir:
 plugins:
   - jekyll-paginate
 
-exclude: ['public/*.md', 'public/*.html', '_tagpages/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc']
+exclude: ['public/*.md', 'public/*.html', '_tagpages/README.md', '*.synctex.gz', '*.aux', '*.nav', '*.out', '*.snm', '*.tex', '*.log', '*.toc', 'vendor']
 
 
 # About/contact
