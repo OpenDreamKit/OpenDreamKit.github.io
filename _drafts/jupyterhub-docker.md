@@ -597,6 +597,11 @@ volumes:
   jupyterhub_data:
 ```
 
+Be careful with this configuration: if you update
+`jupyterhub_config.py` and rebuild the `jupyterhub` service, the
+contents will not be updated inside the volume, unless you destroy it
+first with `docker volume rm`.
+
 The Hub takes care of handling volumes for the single-user servers.
 We can configure data persistence by adding these lines to
 `jupyterhub-config.py`:
@@ -637,13 +642,12 @@ services:
   jupyterhub:
     environment:
       DOCKER_NETWORK_NAME: ${COMPOSE_PROJECT_NAME}_jupyter
+      HUB_IP: jupyterhub_hub
     networks:
-      - jupyter
-
-  reverse-proxy:
-    networks:
-      - default
-      - jupyter
+      default:
+      jupyter:
+        aliases:
+          - jupyterhub_hub
 
 networks:
   jupyter:
