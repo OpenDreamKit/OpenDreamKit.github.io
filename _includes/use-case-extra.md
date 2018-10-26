@@ -1,8 +1,6 @@
 
 ## Upcoming use case descriptions
 
-- Publishing live talk slides with SageMath + Jupyter + Rise + binder
-
 - A group of coauthors wanting to collaborate on code/paper/...
 
 - A lab wanting to provide remote access to its computing resources
