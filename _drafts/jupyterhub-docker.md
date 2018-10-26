@@ -26,9 +26,13 @@ your university's or your company's cloud.
 Not all clouds are born equal, though. The [official JupyterHub
 documentation](https://zero-to-jupyterhub.readthedocs.io/en/stable/)
 targets very large clouds with multiple nodes, managed through
-[Kubernetes](https://kubernetes.io/). This kind of deployment is
+[Kubernetes](https://kubernetes.io/).[^2] This kind of deployment is
 adapted for very large structures, such as universities, large
 companies etc.
+
+[^2]: See also
+    <https://blog.jupyter.org/how-to-deploy-jupyterhub-with-kubernetes-on-openstack-f8f6120d4b1>
+    for a Kubernetes deployment of JupyterHub on OpenStack.
 
 ["The littlest
 JupyterHub"](https://the-littlest-jupyterhub.readthedocs.io/en/latest/)
@@ -342,7 +346,11 @@ c.JupyterHub.services = [
 ```
 
 For a complete list of all available configuration options, you can
-**TODO: what?**.
+run the following command (answer `y` to the question):
+
+```
+docker-compose run --rm jupyterhub jupyterhub --generate-config -f /dev/stdout
+```
 
 
 ### Authentication
@@ -403,8 +411,6 @@ class MyOAuthAuthenticator(GenericOAuthenticator):
 
 c.JupyterHub.authenticator_class = MyOAuthAuthenticator
 ```
-
-**TODO: this conf is longer than necessary; report bugs and simplify.**
 
 Alternatively, your institution may have an LDAP server, in which case
 you can use the `LDAPAuthenticator` with the configuration described
@@ -591,6 +597,11 @@ volumes:
   jupyterhub_data:
 ```
 
+Be careful with this configuration: if you update
+`jupyterhub_config.py` and rebuild the `jupyterhub` service, the
+contents will not be updated inside the volume, unless you destroy it
+first with `docker volume rm`.
+
 The Hub takes care of handling volumes for the single-user servers.
 We can configure data persistence by adding these lines to
 `jupyterhub-config.py`:
@@ -631,13 +642,12 @@ services:
   jupyterhub:
     environment:
       DOCKER_NETWORK_NAME: ${COMPOSE_PROJECT_NAME}_jupyter
+      HUB_IP: jupyterhub_hub
     networks:
-      - jupyter
-
-  reverse-proxy:
-    networks:
-      - default
-      - jupyter
+      default:
+      jupyter:
+        aliases:
+          - jupyterhub_hub
 
 networks:
   jupyter:
