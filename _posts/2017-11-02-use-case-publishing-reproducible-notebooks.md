@@ -2,7 +2,7 @@
 layout: post
 author: Nicolas M. Thiéry
 title: Publishing reproducible logbooks
-image: use-cases-binder-logbook.png
+image: use-cases-binder-logbook-scenario.png
 tags:
     - use-case
     - front-page
@@ -15,26 +15,32 @@ tags:
 
 ## Scenario
 
-Jane has written a (math) paper based on experimentations. She would
-like anyone to be able to reproduce her calculations.
+Jane has written a (math) paper based on her experimentats. She would
+like anyone to be able to reproduce, check, and improve her calculations.
 
 [ ![a binder logbook screenshot](/public/images/use-cases-binder-logbook.png){:class="small-screenshot"} ](/public/images/use-cases-binder-logbook.png)
 
 ## Suggestion of solution
 
-1.  Describe the experimentation as [Jupyter notebooks](http://jupyter.org),
-    mixing prose, code, and outputs (think of them as logbooks);
+[ ![picture of the suggested solution](/public/images/use-cases-binder-logbook-solution.png){:class="small-screenshot"} ](/public/images/use-cases-binder-logbook-solution.png)
 
-2.  Publish them on a public repository (e.g. on
-    [GitHub](https://github.com));
 
-3.  Make that repository [Binder-ready](/tag/binder) by describing the
-    software stack required; for details, see the
+1.  She describes the experiments as [Jupyter notebooks](http://jupyter.org),
+    mixing prose, code, visualization, together with resources: source
+    code, data, media (think of them as logbooks);
+
+2.  She publishes them on a publicly hosted repository
+    (e.g. on [GitHub](https://github.com), ...);
+
+3.  She makes that repository [Binder-ready](/tag/binder) by describing the
+    software required to run the notebooks; for details, see the
     [Binder documentation](https://mybinder.readthedocs.io/en/latest/using.html#preparing-a-repository-for-binder);
 
 4.  Bonus: make the paper itself active
 
-    To do: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?.
+<!-- TODO: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?.!-->
+<!-- TODO: publicity, indexing, referencement !-->
+<!-- The logbook is stored by software heritage !-->
 
 <!-- If executing the examples requires a non-trivial install/build step,
 also consider
