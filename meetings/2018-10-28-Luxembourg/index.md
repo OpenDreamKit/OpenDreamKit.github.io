@@ -9,7 +9,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 # Agenda
 
-## Sunday 28th ([hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
+## Sunday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
 - Morning: informal sprints
 - 14:00-19:00:
@@ -29,9 +29,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 [Project Review](ProjectReview)
 
-Location: EUFO building
-
-## Wednesday 31st ([hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
+## Wednesday 31st ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
 Sprints and brainstorms:
 
