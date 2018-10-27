@@ -1,19 +1,6 @@
 ﻿---
 layout: page
-title: Minutes for the February 2018 (virtual) Steering Committee meeting
+title: Minutes for the October 2018 Steering Committee meeting
 ---
 
-## Participants
-
-
-
-## Site reports
-
-
-### Headline achievements
-
-
-### Reports
-
-
-### Other... file to update
+See: https://hackmd.io/gVYtXO2BSG2PWwSXaoHSNg#

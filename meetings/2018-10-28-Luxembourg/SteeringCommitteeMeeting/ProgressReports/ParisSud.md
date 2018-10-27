@@ -4,7 +4,7 @@ title: "Progress report for Université Paris-Sud"
 theme: white
 transition: none
 author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}
@@ -17,17 +17,32 @@ period: Reporting period from March 2017 to January 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
+- Unused funding from Jacobsuni was not yet transferred to UPSUD. 
 
 --
 ## Hiring
 
-### 1 postdoc on WP6
+### One Project Manager on WP1 and WP2
+
+UPSUD is hiring a new project manager following the departure of B. Pilorget.
+
+### One postdoc on WP6
 
 UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe as Postdoc. He will be working half-time on WP6 and WP4. Florian will be spending the other half of his time at FAU with Pr. Kohlhase working on the same thematics.
+
+### One Research Software Engineer
+
+Using left overs from Florian's half post-doc and other planned
+positions, UPSUD has hired Odile Benassy as Research Software Engineer
+early June until the end of the project. She will be working on the
+technical/Jupyter side of Florian's tasks in WP4 and WP6, and in
+particular [T4.5 dynamic documentation and exploration system](https://github.com/OpenDreamKit/OpenDreamKit/issues/73)
 
 ### Three part-time trainees on Communication
 
 Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them are on their second year of Master's degree in digital communciation.Half of their time is spent in a company, the other half is spent working on two academic projects with their teacher. OpenDreamKit is one of this projects. Monitored by B. Pilorget and V. Pons their work focuses on: writing a communication plan, developing the website towards end-users, and creating media (videos, articles, interview etc.) to help us communicate and disseminate outside our communities.
+
+The main outcome of their work will be a 3 minute-long explanatory video of ODK and Jupyter.
 
 --
 ## Achievements
@@ -35,8 +50,7 @@ Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them are on th
 ### 1st Review
 
 The [review of the first Reporting Period (18 months)](http://opendreamkit.org/meetings/2017-04-26-ProjectReviewPresentations/)
-
-was organized in Brussels by Paris Sud on the 26th of April 2017. All
+was organized in Brussels by UPSUD on the 26th of April 2017. All
 in all the work due for M18 was done and the overall
 feedback was very positive from our Project Officer and reviewers. See
 Nicolas Thiéry's
@@ -45,7 +59,7 @@ for more information.
 
 ### 2nd amendment
 
-This amendment catered for the respective move of Michael Kohlhase and
+This amendment catered for the move of Michael Kohlhase and
 Hans Fangohr and their respective teams to new institutions. This led
 to the addition of to locations (FAU and XFEL) respectively and the
 termination of Southampton.
@@ -57,7 +71,7 @@ revisions to our work plan, based on our latest vision of the project
 and its landscape, in order to maximize the effectiveness and impact
 of our resources.
 
-UPSud led the process, getting work package and site leaders involved,
+UPSUD led the process, getting work package and site leaders involved,
 as well as our advisory board. Our proposals were accepted with very
 minor changes by the reviewers and implemented in a third amendment to
 the grant agreement:
@@ -65,7 +79,8 @@ the grant agreement:
 - new milestones were added, Key Performance Indicators were modified
 - Objective 6 (social studies) canceled
 - T7.4 integrated in T2.8
-- T7.1, T7.2 and T7.3 cancelled and related resources were transfered in favour of T2.6, T3.3, T3.3 and T5.7
+- T7.1, T7.2 and T7.3 cancelled and related resources were transferred
+  in favour of T2.6, T3.3, T3.3 and T5.7
 - Remaining work on WP7 moved to other work packages
 - Consolidation of deliverables to reduce their number
 
@@ -77,10 +92,18 @@ All changes were implemented in the [github repository](https://github.com/OpenD
 The amendment is fully complete with the signature of the
 Commission. 
 
+### 4th amendment
+
+A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
+
+### 
+
 --
 ## Work in progress
 
 ### OpenDreamKit and EOSC
+
+UPDATE BY NICOLAS???
 
 * Strategy: last November, N. Thiéry, B. Pilorget, and H. Fangohr
   participated to two events in Brussels dedicated to the the future
@@ -100,6 +123,13 @@ Commission.
   the success of this joint work and of the need of the EOSC
   post-2020, the collaboration could be extended.
 
+### Numfocus Europe
+
+- Nicolas participated to Sylvain Corlay's effort in setting up
+  Numfocus Europe (to be announced officially soon), an umbrella
+  association whose mission is to make it easier in Europe for
+  companies to financially support open source computational software.
+
 ### Portability and build system for SageMath
 
 - Finalization of Cygwin's port of SageMath [https://github.com/OpenDreamKit/OpenDreamKit/issues/66].
@@ -108,15 +138,32 @@ Commission.
 
 ### Misc technical achievements
 
-- Work on WP4: enabling binder and ThebeLab for SageMath, for live
-  documentation, reproducible notebooks, etc.
+- WP3:
 
-- Work on WP5: HPC for combinatorics
+  - Python 3 support, build system, and continuous integration for
+    SageMath (in collaboration with Logilab)
 
-### Communication strategy
+- WP4:
 
-The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
+  - Enabling binder and ThebeLab for SageMath, for live documentation, reproducible notebooks, etc
+    (close to final integration); contributions to ThebeLab.
+
+  - Jupyter Widgets for combinatorics objects and dynamic
+    documentation and exploration.
+
+  - Heavy contributions to xeus-cling, a C++ kernel for Jupyter
+
+- WP5: HPC for combinatorics
+
+- WP6: OpenMath serialization for SageMath & Python based on Python's
+  native serialization ("pickling")
+
+### Communication strategy 
+
+- The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
 Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics](https://pluquetelisabeth.typeform.com/to/uTnjIQ) and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
+
+- UPSUD paid for the services of a professional videographer who will lead and film interviews of key OpenDreamKit actors at the XFEL. these interviews will hopefully allow the addition of great communication and dissemiantion content on the website.
 
 --
 ## Workshops and dissemination activities
@@ -128,6 +175,26 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 - Coorganization of a [Jupyter Widgets Workshop](https://github.com/OpenDreamKit/OpenDreamKit/issues/246), January 23-26 of 2018, south of Paris.
 - Participation to ODK's [Workshop on live structured documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211) October 16-20 of 2017, Oslo
 - Organization of a WP6 meeting, November 6-8 of 2017
+- Organisation of a [Workshop on interfacing low level libraries with (math) software](https://github.com/OpenDreamKit/OpenDreamKit/issues/251)
+  April 24-28 , 2018, Cernay. 25 participants from all horizons,
+  including QuantStack, Google, Root, High Energy physics, ...
+- Organization of a winter school on Software Tools for Mathematics (Mexico) - Jan 2018, 40 participants
+- Participation to the [Jupyter in GAP and other CAS]() workshop in St Andrews, June 4th-9th.
+- Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
+- Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
+- Sage at [combinatorics scool ECCO](http://ecco2018.combinatoria.co/) (Colombia) - June 2018
+
+- Lead the organization of ODK's main dissemination event targeted
+  toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
+  [CIRM](https://www.fr-cirm-math.fr/). Amenities reserved, main speakers invited, announcements to be made soon.
+
+  Confirmed speakers:
+
+  - Marie-Françoise Roy
+  - Max Horn
+  - Fernando Perez
+  - Anne Schilling
+  - Joris Van Der Hoeven
 
 --
 ### Sage and OpenDreamKit dissemination:
@@ -140,26 +207,8 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 ## ODK Use Cases
 
 For the first time this year, we used a *Jupyter Hub* and
-the newly developed *Cling C++ kernel* in our 300 students
+the newly developed *Cling C++ kernel* in our 300 student
 [introductory programming course](http://nicolas.thiery.name/Enseignement/Info111/)
 at Paris Sud. This was the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
 through many bug reports and feature requests.
-
---
-## Upcoming workshops
-
-- Organisation of a [Workshop on low-level interfaces with libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251),
-  March 13-17, 2017, Cernay; planning for 20 participants
-
-- Lead the organization of ODK's main dissemination event targeted
-  toward mathematicians: the conference *Calcul Mathematique Libre* will be organized from Feb 11 to Feb 15, 2019 at
-  [CIRM](https://www.fr-cirm-math.fr/). Amenities reserved, main speakers invited, announcements to be made soon.
-
-  Confirmed speakers:
-
-  - Marie-Françoise Roy
-  - Max Horn
-  - Fernando Perez
-  - Anne Schilling
-  - Joris Van Der Hoeven

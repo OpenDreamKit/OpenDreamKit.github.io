@@ -4,7 +4,7 @@ title: "Progress report for St Andrews"
 theme: white
 transition: none
 author: Steve Linton
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}
@@ -26,7 +26,7 @@ period: Reporting period from March 2017 to January 2018
 ---
 ## Achievements
 
-- numerous contributions to GAP included in three minor releases (4.8.7-4.8.9), and the beta version of the next major release of GAP 4.9 (WP3)
+- numerous contributions to GAP included in three minor releases (4.8.7-4.8.10), and the next major release of GAP 4.9 (WP3)
 
 - regular maintenance and extending of the nomenclature of Docker containers for GAP (WP3,WP4)
 
@@ -54,12 +54,18 @@ period: Reporting period from March 2017 to January 2018
 
 - Paper "New refiners for permutation group search" and implementation (Markus, Chris Jefferson and Rebecca Waldecker)
 
+- Paper "Minimal and Canonical Images" and implementation (Markus, Eliza Jonauskyte, Chris Jefferson and Rebecca Waldecker)
+
+- Paper "Constructing Majorana Representations" (Markus and Madeleine Whybrow)
+
+- Paper "Francy - An Interactive Discrete Mathematics Framework for GAP" (Markus and Manuel Martins)
+
+- Paper "Experimenting with braces" (Alexander, Agata Smoktunowicz and Leandro Vendramin)
+
 ---
 ## Work in progress
 
-- Ongoing GAP developments in the areas relevant to WP3-WP6)
-
-- Impact Acceleration Account grant application for a project to use Jupyter GAP interface in teaching
+- Ongoing GAP developments in the areas relevant to WP3-WP6
 
 - GAP Syntax Tree Work and Optimiser, Pragmas
 
@@ -73,7 +79,13 @@ period: Reporting period from March 2017 to January 2018
 
 - p-adic solutions to systems of equations over the rationals using meataxe64 (as a package)
 
-- Anticipated sabbatical of Nathan Carter (Bentley University, USA) in 2018-2019 to work on topics related to WP6
+- Chinese remaindering to solve equations over the rationals using meataxe64 (Markus and Kirill Rodrigues (intern)) 
+
+- A new approach to proving hyperbolicity GAP package anatph (Markus, Colva Roney-Dougal, Derek Holt, close to submission), I am working on a better version of the algorithm
+
+- Solving equations over the free group using constraint methods (Markus, Daphne Bogosian (Student), Peter Nightingale)
+
+- Sabbatical of Nathan Carter (Bentley University, USA) for a year, starting from August 2018 to work on topics related to WP6
 
 ---
 ## Workshops and dissemination activities
@@ -98,15 +110,20 @@ period: Reporting period from March 2017 to January 2018
 
 - Nikolaus conference 2017 (Aachen, 8-9 December 2017, www.math.rwth-aachen.de/Nikolaus2017/) - Markus
 
-Future events:
-
 - "Jupyter in GAP and other CAS" workshop (June 4th - June 8th 2018, University of St Andrews, http://gapdays.de/gap-jupyter-days2018/)
+
+
+Future events:
 
 - Demonstrating Jupyter GAP interface at the 20th Postgraduate Group Theory Conference (St Andrews, 17-20th July, 2018, https://en-gb.facebook.com/pgtc2018/)
 
-- Markus sent two session proposals to the International Congress on Mathematical Software (ICMS 2018, University of Notre Dame, 24-27 July 2018, http://icms-conference.org/2018/), one for interoperability in mathematical software, one for permutation group search methods
+- Two sessions at the International Congress on Mathematical Software (ICMS 2018, University of Notre Dame, 24-27 July 2018, http://icms-conference.org/2018/), one on interoperability in mathematical software, one on backtrack search methods in group theory and combinatorics)
 
-- Proposal for a workshop on dependent types in mathematical software at 11th Conference on Intelligent Computer Mathematics (CICM 2018, August 13-17, 2018, RISC, Hagenberg, https://www.cicm-conference.org/2018/cicm.php), to be submitted in February 2018
+- Accepted workshop "Computer Algebra in the Age of Types (CAAT)" 11th Conference on Intelligent Computer Mathematics (CICM 2018, August 13-17, 2018, RISC, Hagenberg, https://www.cicm-conference.org/2018/cicm.php), 
+
+- GAP Days Fall 2018 in Siegen (Markus)
+
+- Tentatively planned GAP Days in Halle (Saale) as an outreach event to potential users and students (Markus) 
 
 ## Other
 
@@ -115,5 +132,3 @@ Collaboration/synergy with other projects:
 - CoDiMa (CCP in Computational Discrete Mathematics, http://www.codima.ac.uk/) is a EPSRC-funded community building project centred around GAP and SageMath. It enhances dissemination of OpenDreamKit results in the UK through its traning events and research visits programme
 
 - Symbolic Tools in Mathematics and their Application (https://www.computeralgebra.de/sfb/) is a new DFG-funded project which develops a computer algebra system called OSCAR (Open Source Computer Algebra Resource) which is based on GAP, Singular, Polymake and ANTIC systems
-
-</section>

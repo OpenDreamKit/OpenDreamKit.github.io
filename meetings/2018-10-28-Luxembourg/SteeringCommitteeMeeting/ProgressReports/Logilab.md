@@ -4,7 +4,7 @@ title: "Progress report for Logilab"
 theme: white
 transition: none
 author: Olivier Cayrol
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}
@@ -40,9 +40,9 @@ https://hg.logilab.org/review/scivijs
 
 New version of simulagora.com virtual research environment that allows
 users to prepare customized virtual machines embedding a set of softwares
-and to deploy "tools" that can be described as micro web applications that
-require very little development skills to set up, but make it easy to make
-available complex simulations to users.
+and to deploy "tools" that can be described as micro web applications
+that require very little development skills to set up, but make it easy
+to make available complex simulations to users.
 
 Packaging of SageMath 8.2 in Conda
 
@@ -60,8 +60,12 @@ Library for exporting code samples from Sphinx documents into a set of
 Jupyter notebooks and for integrating back the code outputs computed
 by Jupyter into the Sphinx documents.
 
-Packaging of Sage and related libraries in Conda and Debian, trying to set
-up a continuous integration process.
+Simulagora.com virtual research environment has been under heavy development
+since the summer 2017 and a new version will be online in March 2018. This will
+showcase virtual desktops available from a web browser and collaboration
+workflows based on "tools" that can be described as micro web applications that
+require very little development skills to set up, but make it easy to make
+available complex simulations to users.
 
 ---
 ## Workshops and dissemination activities
@@ -70,6 +74,12 @@ Participation to ODK's [Workshop on live structured
 documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211)
 October 16-20 of 2017, Oslo
 
+Library for exporting code samples from Sphinx documents into a set of Jupyter
+notebooks and for integrating back the code outputs computed by Jupyter into
+the Sphinx documents.
+
+Packaging of Sage and related libraries in Conda and Debian, trying to set
+up a continuous integration process.
 
 --
 ## Other

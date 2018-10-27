@@ -1,23 +1,48 @@
 ---
 layout: page
-title: OpenDreamKit annual project meeting
+title: OpenDreamKit project meeting, October 2018
 ---
 
-OpenDreamKit’s annual project meeting is taking place in Luxembourg,
-from Sunday 28th of October to Wednesday 31st.
+At the occasion of its second formal review by the EU Commission,
+OpenDreamKit will have a project meeting in Luxembourg, from Sunday
+28th of October to Wednesday 31st.
 
 # Agenda
 
-- Sunday morning: informal sprints
-- Sunday afternoon: rehearsals of the presentations
-- Monday morning: more rehearsals
-- Monday afternoon: steering committee meeting
-- Tuesday: [Project Review](ProjectReview)
-- Wednesday: sprints and brainstorms
+## Sunday 28th ([hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
+
+- Morning: informal sprints
+- 14:00-19:00:
+  - KPI brainstorm
+  - Rehearsals of the Micromagnetics case study and all workpackage
+    presentations, in the order given in the
+    [agenda](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/).
+
+## Monday 29th (EUFO building)
+
+- 9:30-16:00: Rehearsals of all demos and presentations, following the timing of the
+  [agenda](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/).
+- 17:30:
+  [Steering Committee Meeting](SteeringCommiteeMeeting/)
+
+## Tuesday 30th (EUFO building)
+
+[Project Review](ProjectReview)
+
+Location: EUFO building
+
+## Wednesday 31st ([hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
+
+Sprints and brainstorms:
+
+- Future funding
+- 3D visualization
+- Upcoming deliverables
+- ...
 
 # Accomodation and venue
 
-We picked the 
+We picked the
 [hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml).
 It has reasonably priced rooms, which can also be shared with 2-3
 people. Please book and pay your rooms and breakfast yourselves. We

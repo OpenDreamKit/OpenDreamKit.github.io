@@ -4,7 +4,7 @@ title: "Progress report for Ghent University"
 theme: white
 transition: none
 author: Jeroen Demeyer
-period: Reporting period from March 2017 to January 2018
+period: Reporting period from March 2017 to June 2018
 ---
 
 # {{ page.title }}
@@ -69,11 +69,23 @@ period: Reporting period from March 2017 to January 2018
   forward to make cypari2 more efficient. This is work towards
   [D4.10](https://github.com/OpenDreamKit/OpenDreamKit/issues/84)
 
+- Two Python Enhancement Proposals (PEPs) have been drafted:
+  [PEP 579](https://www.python.org/dev/peps/pep-0579/) and
+  [PEP 580](https://www.python.org/dev/peps/pep-0580/).
+  These are proposals for changes to the official implementation
+  of the Python language.
+  They are about changing the inner workings of functions/methods
+  implemented in C and are meant to improve the support of Cython functions.
+  In particular, Cython functions would no longer have worse performance
+  than built-in functions.
+  There is still work to do for actually implementing PEP 580
+  and getting it accepted.
+
 ---
 ## Workshops and dissemination activities
 
 - Attended several OpenDreamKit workshops such as the first ODK review meeting,
-  the PARI/GP atelier and the Jupyter widgets workshop.
+  the PARI/GP atelier, the Jupyter widgets workshop and the workshop on low-level interfaces.
 
 - Wrote [blogpost](http://opendreamkit.org/2017/06/09/CythonSphinx/)
   on how to generate documentation for Cython projects.
