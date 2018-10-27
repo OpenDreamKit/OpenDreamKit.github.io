@@ -15,15 +15,15 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 - 14:00-19:00:
   - KPI brainstorm
   - Rehearsals of the Micromagnetics case study and all workpackage
-    presentations, in the order given in the
-    [agenda](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/).
+    presentations, in the order given in the project review
+    [agenda](ProjectReview#agenda).
 
 ## Monday 29th (EUFO building)
 
 - 9:30-16:00: Rehearsals of all demos and presentations, following the timing of the
-  [agenda](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/).
+  project review agenda [agenda](ProjectReview#agenda).
 - 17:30:
-  [Steering Committee Meeting](SteeringCommiteeMeeting/)
+  [Steering Committee Meeting](SteeringCommitteeMeeting/)
 
 ## Tuesday 30th (EUFO building)
 
