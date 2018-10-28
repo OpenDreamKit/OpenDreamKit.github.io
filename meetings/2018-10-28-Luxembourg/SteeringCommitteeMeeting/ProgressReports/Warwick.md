@@ -20,7 +20,8 @@ period: Reporting period from March 2017 to June 2018
 The Warwick team's financial position is tracked by administrative
 staff at the Warwick Mathematics Institute, who also maintain
 time-sheets for the ODK-funded staff at Warwick.  The team's current
-financial position is on track.
+financial position is within budget, with a predicted small
+under-spend.
 
 ---
 ## Hiring
@@ -65,8 +66,13 @@ interface.  The first collections to be treated will be Elliptic
 Curves over Q and Number Fields which have the advantage of there
 already existing well-developed Sage classes for such objects,
 something which is not the case for many of objects stored in the
-LMFDB collections.  In the first half of 2018 a group from Warwick
-plans to visit Erlangen to learn more about the MitM interface.
+LMFDB collections.  Numerous meetings have taken place between members
+of the Warwick and Erlangen teams, all through video-conference links
+(resulting in a saving from the team's travel budget).  The Warwick
+team has learned about the MitM interface from Erlangen and in turn
+has aided them in developing a MitM interface to parts of the LMFDB.
+This collaboration has focused on a developing a number of Use Cases
+to illustrate the effectiveness of the MitM for LMFDB users.
 
 ---
 ## Workshops and dissemination activities
@@ -82,7 +88,7 @@ A new Simons Collaboration on Arithmetic Geometry, Number Theory, and
 Computation (https://icerm.brown.edu/simonscollaboration/) started in
 the northeast US in July 2017, with LMFDB development as one of its
 aims.  John Cremona is an Affiliated Scientist with this collaboration
-and will represent ODK at its first biannual conference on algorithmic
-number theory at MIT.
+and represented ODK at its first biannual conference on algorithmic
+number theory at MIT in August 2018.
 
 </section>
