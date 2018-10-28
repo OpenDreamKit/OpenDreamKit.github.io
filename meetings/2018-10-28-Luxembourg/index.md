@@ -12,7 +12,8 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 ## Sunday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
 - Morning: informal sprints
-- 14:00-19:00:
+- 13:00-14:00: Lunch
+- 14:00-19:00: [PAD](https://hackmd.io/XjNXoStPRmy8T_KSrRrfhw#) for taking notes
   - KPI brainstorm
   - Rehearsals of the Micromagnetics case study and all workpackage
     presentations, in the order given in the project review
@@ -29,6 +30,8 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 [Project Review](ProjectReview)
 
+~19:00: social dinner
+
 ## Wednesday 31st ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
 Sprints and brainstorms:
@@ -37,6 +40,7 @@ Sprints and brainstorms:
 - 3D visualization
 - Upcoming deliverables
 - ...
+- 13:00-14:00: Lunch
 
 # Accomodation and venue
 
