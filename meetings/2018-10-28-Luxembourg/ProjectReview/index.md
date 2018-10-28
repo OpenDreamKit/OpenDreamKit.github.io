@@ -3,9 +3,10 @@ layout: page
 title: OpenDreamKit M36 Formal Review
 ---
 
-On October 30th, OpenDreamKit will underwent its second formal review
-by the European Commission. We will presented the achievements of the
-second 18 months of the project
+On October 30th, OpenDreamKit will undergo its second formal review
+by the European Commission. We will present the achievements of the
+second 18 months of the project.
+
 <!-- including [30 deliverables](https://github.com/OpenDreamKit/OpenDreamKit/issues?q=label%3AReportingPeriod2).!-->
 
 ## Agenda
