@@ -4,9 +4,9 @@ author: Luca De Feo
 title: Deploying a containerized JupyterHub server with Docker
 image: jupyterhub.png
 tags:
-  - blogpost
+#  - blogpost
+#  - front-page
   - blogpost-technical
-  - front-page
   - jupyter
   - teaching
   - cloud
