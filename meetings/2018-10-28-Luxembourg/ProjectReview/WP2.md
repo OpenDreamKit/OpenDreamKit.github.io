@@ -105,7 +105,8 @@ TODO
 ---
 ## Impact: The RSE community
 
-* The term 'Research Software Engineer' refers to the people in research who are roughly in the middle of the continuum of 'Software Engineer' and 'Researcher' (RSE_slide1.png)
+* The term 'Research Software Engineer' refers to the people in research who are roughly in the middle of the continuum of 'Software Engineer' and 'Researcher' (rse_slide1.png)
+* Prior to 2012, [The Software Sustainability Institute](https://www.software.ac.uk/), conducted a study of academic job adverts and discovered that there were 192 different job titles for what we now call 'Research Software Engineer' (rse_slide2.png)
 
 
 
