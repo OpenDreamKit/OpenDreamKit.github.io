@@ -4,9 +4,9 @@ author: Luca De Feo
 title: Deploying a containerized JupyterHub server with Docker
 image: jupyterhub.png
 tags:
-  - blogpost
+#  - blogpost
+#  - front-page
   - blogpost-technical
-  - front-page
   - jupyter
   - teaching
   - cloud
@@ -454,8 +454,7 @@ the `jupyterhub` section of `docker-compose.yml`, so that the
       DOCKER_JUPYTER_IMAGE: jupyterlab/scipy-notebook:1145fb1198b2
 ```
 
-Alternatively, you can use any of OpenDreamKit's pre-built images:
-**TODO: we need to consolidate these images, and test with JupyterHub.**
+Alternatively, you can use any of [OpenDreamKit's pre-built images](#todo).
 
 Finally, you can build your own image: the only requirement is that it
 contains the `jupyterhub` Python package (and possibly some Jupyter
@@ -648,6 +647,8 @@ services:
       jupyter:
         aliases:
           - jupyterhub_hub
+    labels:
+      - "traefik.docker.network=${COMPOSE_PROJECT_NAME}_default"
 
 networks:
   jupyter:
