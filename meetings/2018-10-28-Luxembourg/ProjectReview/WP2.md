@@ -106,7 +106,10 @@ TODO
 ## Impact: The RSE community
 
 * The term 'Research Software Engineer' refers to the people in research who are roughly in the middle of the continuum of 'Software Engineer' and 'Researcher' (rse_slide1.png)
-* Prior to 2012, [The Software Sustainability Institute](https://www.software.ac.uk/), conducted a study of academic job adverts and discovered that there were 192 different job titles for what we now call 'Research Software Engineer' (rse_slide2.png)
+* Prior to 2012, [The Software Sustainability Institute](https://www.software.ac.uk/), conducted a study of academic job adverts and discovered that there were 194 different job titles for what we now call 'Research Software Engineer' (rse_slide2.png)
+* This made it difficult to progress a career within academia. Everybody called 'what we do' something different. No chance to get promoted. Not enough research to get promoted as a researcher. Not enough I.T./Computing to be promoted as a software engineer.  Thus, the SSI came up with the term 'Research Software Engineer' and campaigned for this group of people.
+* By 2015, there were a small number of central 'Research Software Engineering Groups' within UK Universities with Sheffield being among the first (Ref: RSE State of the Nation: https://zenodo.org/record/495360#.W9Yg5hP7TOQ).  OpenDreamKit was one of the first projects that demonstrated that funders would support RSEs on major grants -- this improved credibility of the new role a great deal and helped secure its future.
+
 
 
 
