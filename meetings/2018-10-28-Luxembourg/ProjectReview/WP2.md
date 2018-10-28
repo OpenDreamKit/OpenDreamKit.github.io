@@ -105,7 +105,7 @@ TODO
 ---
 ## Impact: The RSE community
 
-Waiting on Mike's slides
+* The term 'Research Software Engineer' refers to the people in research who are roughly in the middle of the continuum of 'Software Engineer' and 'Researcher' (RSE_slide1.png)
 
 
 
