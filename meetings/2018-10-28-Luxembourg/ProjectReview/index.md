@@ -23,7 +23,7 @@ second 18 months of the project.
 - 10:20 Coffee break, with demonstrators and posters
 
 - 11:00 Achievements, by work package, session 1
-    - WP3: Component Architecture, Luca De Feo
+    - [WP3: Component Architecture](WP3/), [Luca De Feo](https://defeo.lu/)
     - WP5: High Performance Mathematical Computing, Clément Pernet
     - WP4: User Interfaces, Benjamin Ragan-Kelley, Vidar Fauske
 - 13:00 Lunch in the premises, with demonstrators and posters
