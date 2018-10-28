@@ -40,8 +40,10 @@ How do we want them? **Flexible**, **Portable**, **Modular**,
 - Import *data from LMFDB* at the *GAP command line*.
 - Run commands on *remote Singular server* from a *GAP client* through
   *MMT mediator*.
-- Deploy *SageMath virtual machines* on Windows machines in *Microsoft
-  Azure cloud*.
+- Deploy a *JupyterHub* server for teaching mathematics in a
+  university department.
+- Deploy a *Jupyter* server at national level (e.g.: French CNRS
+  infrastrcture, EGI, ...)
 - Deploy a computational mathematics software stack on a *HPC
   cluster*, controlled through *Jupyter notebooks*.
 
