@@ -104,6 +104,11 @@ InternalEvents:
       start: 2019-02-11
       end: 2019-02-16
       url: http://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
+    - title: Jupyter in GAP and other CAS
+      start: 2018-06-04
+      end: 2018-06-10
+      url: https://www.gapdays.de/gap-jupyter-days2018/
+      location: St Andrews, UK
     - title: Dissemination project meeting 
       start: 2018-06-20
       end: 2018-06-23
