@@ -32,13 +32,13 @@ Warwick.
 - getting a first prototype of the new [MathHub System](http://mathhub.info) based on the
   [React.JS](http://reactjs.org) working and online. This Drupal-based system incurred too
   heavy maintenance load and was too inflexible.
-- fully integrated Jupyter into [MathHub[(http://mathhub.info) 
+- fully integrated Jupyter into [MathHub](http://mathhub.info) 
 - first prototype of TGview3D, a virtual-reality viewer for OMDoc/MMT theory graphs.
 
 ---
 ## Work in progress
 - Further Development of [MathHub](http://mathhub.info) based on the
-- Connecting PARIGP to MathHub for extended GAP-based MitM use cases.
+- Connecting PARI/GP to the MitM interoperability framework for extended GAP-based MitM use cases.
 - generating Jupyter Notebooks for OMDoc/MMT theories and Documents.
 - LURCH-based editing front-end for OMDoc/MMT (in collaboration with Nathan Carter on
 Sabbatical in St. Andrews)
