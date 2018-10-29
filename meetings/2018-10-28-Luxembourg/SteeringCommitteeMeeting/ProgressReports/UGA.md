@@ -88,6 +88,3 @@ period: Reporting period from March 2017 to June 2018
 --
 ## Other
 
-
-
-</section>
