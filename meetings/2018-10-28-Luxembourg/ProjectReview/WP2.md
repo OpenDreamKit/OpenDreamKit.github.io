@@ -52,8 +52,14 @@ From all over the world
 ![](../WP2-twitter.png)
 
 --
-* Around 9 new followers per months
-* TODO Add more twitter data
+Many OpenDreamKit people are already active twitter users.
+
+![](../WP2-twitter-people.png)
+
+--
+
+27 new followers for october (usually, around 10)
+![](../WP2-oct-tweet.png)
 
 ---
 ### Trying to do more...
