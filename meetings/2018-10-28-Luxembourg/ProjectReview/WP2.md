@@ -24,7 +24,7 @@ This workpackage is the **link** between the work we do at OpenDreamKit and the 
 ---
 ## Online communication (T2.1)
 
-How to communicate about our achievement?
+How to communicate about our achievements?
 
 
 ---
@@ -33,7 +33,7 @@ How to communicate about our achievement?
 ![](../WP2-website.png)
 
 --
-The website design is the result of a collaboration between **3 students in "Web culture and careers"** and the OpenDreamKit team.
+The website design is the result of a collaboration between **3 master students in "Web culture and careers"** and the OpenDreamKit team.
 
 --
 
@@ -58,26 +58,31 @@ Many OpenDreamKit people are already active twitter users.
 
 --
 
-27 new followers for october (usually, around 10)
+27 new followers for October (usually, around 10)
 ![](../WP2-oct-tweet.png)
 
 ---
 ### Trying to do more...
 
-New Youtube chanel: 
-* publishing 6 interview videos, 
-* an explainer video in preparation
+New YouTube channel: 
+* posted 6 interview videos
+* preparing an explainer video
 
 ![](../WP2-youtube.png)
 
 
 ---
+## Delivering tools for dissemination
+
+--
 ## Planetaryum 
 (T2.10, D2.7)
 
-TODO
+Allows easy creation of *Jupyter Notebooks galleries*
 
----
+![](../WP2-planetaryum.png)
+
+--
 ## Interactive book 
 (T2.9 D2.8)
 
@@ -89,7 +94,7 @@ TODO
 ## OpenDreamKit and Teaching 
 (T2.6)
 
-* Around **1200 students** every year, (both undergrads and master students)
+* Around **1200 students** every year, (both undergrads and master students) and **300** engineers and researchers
 * **Many subject**s: Computer algebra, calculus, combinatorics, algorithmic, programming, physics, biomedical sciences
 * **Many tools**: Jupyter, Jupyter-Hub, Jupyter-Lab, SageMath, CoCalc
 
@@ -99,54 +104,119 @@ TODO
 
 Over the last two years OpenDreamKit has been involved in more than 50 events
 
-* 13 development workshop
-* 17 training workshops or sessions
+* 13 development workshops
+* 22 training workshops or sessions
 * 9 community building workshops
 * 6 research workshops
 
 ---
 ### Training
 
-**22 different events** adding to more than **500 trainees**. 
+**22 different events** adding to more than **700 trainees**. 
 
-![](../WP2-training.jpg)
+![](../WP2-training.jpg) ![](../WP2-training2.jpg) ![](../WP2-training3.jpg)
 
 --
 ### Training
 
-* 5 JOOMF sessions at different conferences
-* 4 organzed by the Sheffield / Leeds team
-* Also specific training on GAP and PARI/GP
-* MathExp, (Saint-Flour, France, May 2018)
-* 5 SageDays
+* 5 JOOMMF sessions at different conferences
+* 4 organised by the Sheffield / Leeds team
+* Specific training on GAP and PARI/GP
+* MathExp, Saint-Flour, France, May 2018
+* 5 Sage Days
 
 --
 ### Software Carpentry
 
-* 6 certified trainers
-* 2 instructor trainers
-* workshops organization
-* GAP and SageMath lessons
+* 6 certified instructors: Tania Allard, Alex Konovalov, Samuel Lelière, Erik Bray, Michael Torpey, Mike Croucher
+* 2 instructor trainers:  Tania Allard, Alex Konovalov
+* workshop organisation
+* GAP and SageMath contributed lessons
 
 
 ---
 ### Diversity
 
-* Developed training materials and provided training for over 130 women in the last 12 months at Sheffield and Manchester in partnership with [CodeFirstGirls](https://www.codefirstgirls.org.uk/). Early blog post at https://rse.shef.ac.uk/blog/sheffield-code-firstgirls/
-* Tania Allard participated in the [Diversity and Inclusion in Scientific Computing](https://numfocus.org/programs/diversity-inclusion) unconference by direct invite of [NUMFOCUS](https://numfocus.org/)
+![](../WP2-diversity.jpg)
+
+--
+**Women in Sage**
+
+* Organised by OpenDreamKit in Paris January 2017
+* Another event (independent of ODK) in Montreal in June 2018
+* Next ODK one: Spring/Summer 2019 in Crete
+
+--
+**Women in computing**
+
+
+* Developed training materials and provided training for over 130 women in the last 12 months at Sheffield and Manchester in partnership with [CodeFirstGirls](https://www.codefirstgirls.org.uk/). 
+* Tania Allard participated in the [Diversity and Inclusion in Scientific Computing](https://numfocus.org/programs/diversity-inclusion) unconference by direct invite of [NumFOCUS](https://numfocus.org/)
 * Tania Allard was diversity chair for the 2017 International Research Software Engineering conference.
 
+
+--
+**Work in developing countries**
+
+Events in Algeria, Morocco, Rwanda, Mexico and Colombia
+
+![](../WP2-Colombia.jpg)
+
 ---
-## Impact: The RSE community
+## Impact: The Research Software Engineers community
 
-* The term 'Research Software Engineer' refers to the people in research who are roughly in the middle of the continuum of 'Software Engineer' and 'Researcher' [rse_slide1.png](./rse_slide1.png)
-* Prior to 2012, [The Software Sustainability Institute](https://www.software.ac.uk/), conducted a study of academic job adverts and discovered that there were 194 different job titles for what we now call 'Research Software Engineer' [rse_slide2.png](./rse_slide2.png)
-* This made it difficult to progress a career within academia. Everybody called something different. No chance to get promoted. Not enough research to get promoted as a researcher. Not enough I.T./Computing to be promoted as a software engineer.  Thus, the SSI came up with the term 'Research Software Engineer' and campaigned for this group of people.  For a more detailed history of the RSE movement, see the presentation by Simon Hettrick on [rse_slide3.png](./rse_slide3.png)
-* By 2015, there were a small number of central 'Research Software Engineering Groups' within UK Universities with Sheffield being among the first (Ref: RSE State of the Nation: https://zenodo.org/record/495360#.W9Yg5hP7TOQ).  OpenDreamKit was one of the first projects that demonstrated that funders would support RSEs on major grants -- this improved credibility of the new role a great deal and helped secure its future at Sheffield. Other large grants quickly followed such as Out of Our Minds (linguistics) and two EPSRC-funded fellowships. [rse_slide4.png](./rse_slide4.png)
-* Part of the ODK dissemination strategy was to expicitly target this emerging community. If you get the people who advise researchers, your reach is enhanced compared to targetting researchers directly. We developed and delivered a workshop on using Jupyter notebooks for reproducible research for the 2nd international RSE conference (200+ attendees). This focused on ODK-developed enhancements such as nbdime and nbval. The workshop was one of the most popular across the entire conference and, as such, we were asked to deliver it twice in order to meet demand. The only workshop that was more popular was Microsoft Azure who were giving away free credits!! Workshop materials at https://github.com/trallard/JNB_reproducible and blog post at RSE Sheffield https://rse.shef.ac.uk/blog/a-successful-2nd-rse-conference/ which was reposted in the Software Carpentries Blog https://software-carpentry.org/blog/2018/01/rse-conf-repost.html.  **Slide shows attendees of the conference** [rse_slide5.jpg](./rse_slide5.jpg)
-* Another workshop on reproducible analysis in Python: was developed for PyCon 2018, the premier international Python conference.  The workshop was first delivered in PyCon 2018 to over 60 attendees from all over the world. All the materials are licensed under CC-BY and can be found at https://github.com/trallard/ReproduciblePython and are also shared using binder. As a follow up for this workshop Tania Allard has been invited to give a talk about reproducibility in data pipelines at the RAPIDS conference in London. **Continue talking over slide 5**
-* The RSE community is now thriving with central RSE groups in many of the top UK Universities. The UK Association of RSEs (https://rse.ac.uk/) has around 1000 members and became an independent, formal society with full charitable status in 2018.  ODK member Tania Allard was one of the signatories to this historic document for RSE thanks to her position as elected member of the RSE committee  https://twitter.com/sjh5000/status/1007639883165454336 [rse_slide6.png](rse_slide6.png)
+![](../rse_slide1.png)
 
+--
+
+[Software Sustainability Institute](https://www.software.ac.uk/) 2012 study found
+
+
+![](../rse_slide2.png)
+
+--
+As a consequence
+
+* Difficult to progress career in Academia
+* No promotion
+* Not enough research -- not enough IT/Computing
+
+**The SSI came up with "Research Software Engineers" (RSE) and campaigned for this group**
+
+--
+More details: Simon Hettrick's presentation
+
+![](../rse_slide3.png)
+
+--
+2015: Sheffield among the first to have a *Research Software Engineering Group* in UK
+
+![](../rse_slide4.png)
+
+--
+ODK at the **2nd international RSE conference**: 
+
+*Using Jupyter notebooks for reproducible research*
+
+![](../rse_slide5.jpg)
+
+--
+**Now**
+
+![](../rse_slide6.png)
+
+---
+## Conclusion
+
+* **We have worked on our online communication**
+  * new website
+  * 6475 visits in 2018
+  * 452 followers on Twitter
+  * Video interviews and explainer material
+* **We have been part of 50 events**
+  * 22 training to 500 trainees
+  * focus on Diversity
+* **We have had a tremendous impact on the UK RSE community** 
 
 
 
