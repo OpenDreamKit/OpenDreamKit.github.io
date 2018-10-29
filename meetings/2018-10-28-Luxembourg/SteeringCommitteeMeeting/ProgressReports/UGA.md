@@ -53,7 +53,7 @@ period: Reporting period from March 2017 to June 2018
     - improving build system
 
 * Integration of these latest releases in SageMath:
-  + [https://trac.sagemath.org/ticket/24214]
+  + [trac](https://trac.sagemath.org/ticket/24214)
   + fixing several long lasting bugs
   + speeding-up end-user routines: e.g. the characteristic polynomial of a dense matrix over a modular finite field.
 
@@ -67,23 +67,21 @@ period: Reporting period from March 2017 to June 2018
 
 * Prototypical MPI-distributed rational solver. 
 
---
+---
 ## Work in progress
 * In collaboration with V. Delecroix (CNRS partner)
   + Further exposition of LinBox routines in SageMath.
   + Consolidation and improvement of the rational system solver in LinBox
   + setup a working jupyterhub VRE using multithreaded matrix multiplication on a 32 cores server for Milestone 8 demo
 * MPI version of the Chinese remainder based rational solver
-* 
 * DSL for exposing parallel features
 
 ---
 ## Workshops and dissemination activities
 
-* LinBox development Days, Camaret sur Aigues, 13-15/12/2017
-
+* LinBox development Days, Camaret sur Aigues, 2017-12-13/15
+* LinBox development Days, Grignan, 2018-06-20/22
 * 3 one-day online development meeting: March 31st, May 31st, Oct 4th
-
 * 1 HPC workshop to happen in winter 2019
 --
 ## Other
