@@ -2,6 +2,7 @@
 layout: post
 author: Michael Kohlhase
 title: "New OMDoc/MTT tutorial for mathematicians"
+image: mmt-elalg.png
 tags:
     - dksbases
     - open-science
