@@ -136,15 +136,19 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 ### Portability and build system for SageMath
 
 - Finalization of Cygwin's port of SageMath [https://github.com/OpenDreamKit/OpenDreamKit/issues/66].
-  See Erik's [blog post](http://opendreamkit.org/2017/10/11/SageWindows/).
-  Report to be finished and submitted soon.
+  See Erik's [blog post](http://opendreamkit.org/2017/10/11/SageWindows/), and
+  the report for Deliverable [D3.7](https://github.com/OpenDreamKit/OpenDreamKit/issues/66),
+  submitted in August 2018.
 
 ### Misc technical achievements
 
 - WP3:
 
-  - Python 3 support, build system, and continuous integration for
-    SageMath (in collaboration with Logilab)
+  - Contributions to Python 3 support for SageMath
+  - [D3.8: Continuous integration platform for multi-platform build/test](https://github.com/OpenDreamKit/OpenDreamKit/issues/67),
+    submitted August 2018, in collaboration with Logilab.
+  - [D3.5: Better integration between forges (Gitlab, github) and SageMath's development workflow](https://github.com/OpenDreamKit/OpenDreamKit/issues/64),
+    submitted August 2018
 
 - WP4:
 
@@ -156,7 +160,8 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 
   - Heavy contributions to xeus-cling, a C++ kernel for Jupyter
 
-- WP5: HPC for combinatorics
+- WP5: Contributions to [D5.11: Refactor and Optimise the existing combinatorics Sage code using the new developed Pythran and Cython features](https://github.com/OpenDreamKit/OpenDreamKit/issues/109),
+  submitted August 2018
 
 - WP6: OpenMath serialization for SageMath & Python based on Python's
   native serialization ("pickling")
