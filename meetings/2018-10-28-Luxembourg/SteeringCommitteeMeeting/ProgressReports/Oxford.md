@@ -58,7 +58,3 @@ He helps with using Sage in teaching at Oxford's Mathematical Institute.
 
 --
 ## Other
-
-
-
-</section>

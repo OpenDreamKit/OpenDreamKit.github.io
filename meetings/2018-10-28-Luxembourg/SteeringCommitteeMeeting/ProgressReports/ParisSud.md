@@ -18,13 +18,15 @@ period: Reporting period from March 2017 to October 2018
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
 - Unused funding from Jacobsuni has been transferred back to UPSUD and is being transferred to FAU. 
+- UPSud has been supervising the technical and financial reports for
+  Reporting Period 2, as well as all deliverables for RP2.
 
 --
 ## Hiring
 
 ### One Project Manager on WP1 and WP2
 
-UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had 2 unsuccesful runs of interviews since April 2018, we are running a third one now and hope to hire somebody soon.
+UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had two unsuccessful runs of interviews since April 2018; we are running a third one now and hope to hire somebody soon.
 
 ### One postdoc on WP6
 
@@ -229,9 +231,9 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 --
 ## ODK Use Cases
 
-For the first time this year, we used a *Jupyter Hub* and
-the newly developed *Cling C++ kernel* in our 300 student
+Since Fall 2017, we are using a *Jupyter Hub* and
+the newly developed *Cling C++ kernel* in our 400 student
 [introductory programming course](http://nicolas.thiery.name/Enseignement/Info111/)
-at Paris Sud. This was the occasion to test those technologies both
+at Paris Sud. This is the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
 through many bug reports and feature requests.
