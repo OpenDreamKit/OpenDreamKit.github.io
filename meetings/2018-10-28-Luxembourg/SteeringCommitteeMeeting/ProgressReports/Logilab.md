@@ -18,7 +18,7 @@ period: Reporting period from March 2017 to October 2018
 
 ## Finance and administration
 
-* underspending for travel by planning on using the budget to do more work
+* underspending for travel but planning on using the budget to do more work
 
 ---
 ## Hiring
