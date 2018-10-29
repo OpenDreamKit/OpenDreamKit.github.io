@@ -34,7 +34,8 @@ Warwick.
   heavy maintenance load and was too inflexible.
 - fully integrated Jupyter into [MathHub[(http://mathhub.info) 
 - first prototype of TGview3D, a virtual-reality viewer for OMDoc/MMT theory graphs.
---
+
+---
 ## Work in progress
 - Further Development of [MathHub](http://mathhub.info) based on the
 - Connecting PARIGP to MathHub for extended GAP-based MitM use cases.
