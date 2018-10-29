@@ -32,7 +32,7 @@ second 18 months of the project.
 
 - 14:30 Achievements, by Work Package, session 2
     - WP1: Project management, Nicolas M. Thiéry (~10 minutes)
-    - WP6: Data/Knowledge/Software-Bases, Michael Kohlhase (~30 minutes)
+    - [WP6: Data/Knowledge/Software-Bases](WP6.pdf), [Michael Kohlhase](http://kwarc.info/kohlhase) (~30 minutes)
     - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), Viviane Pons (~30 minutes)
       - The impact of ODK on the RSE community, Tania Alard, [Mike Croucher](https://github.com/mikecroucher)
 - 15:45 Wrap up, Nicolas M. Thiéry
