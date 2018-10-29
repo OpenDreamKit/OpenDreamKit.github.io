@@ -53,17 +53,14 @@ period: Reporting period from March 2017 to June 2018
     - improving build system
 
 * Integration of these latest releases in SageMath:
-  + [trac](https://trac.sagemath.org/ticket/24214)
+  + [trac #24214](https://trac.sagemath.org/ticket/24214)
   + fixing several long lasting bugs
   + speeding-up end-user routines: e.g. the characteristic polynomial of a dense matrix over a modular finite field.
 
-* A new recursive algorithm for the symmetric indefinite triangular factorization revealing the rank profile matrix (article submitted and implementation available upstream in fflas-ffpack)
-
-* New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (article at ISSAC'17, and extended version submitted to J. of Symbolic Computation).
-
-* New interactive certificates for linear algebra over univariate polynomials
-
-* New protocols secure multiparty matrix multiplication based on Strassen's algorithm (submitted)
+* [ISSAC'18] A new recursive algorithm for the symmetric indefinite triangular factorization revealing the rank profile matrix (article submitted and implementation available upstream in fflas-ffpack)
+* [ISSAC'17] New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (extended version submitted to J. of Symbolic Computation).
+* [submitted paper] New interactive certificates for linear algebra over univariate polynomials
+* [submitted paper] New protocols secure multiparty matrix multiplication based on Strassen's algorithm
 
 * Prototypical MPI-distributed rational solver. 
 
@@ -83,6 +80,7 @@ period: Reporting period from March 2017 to June 2018
 * LinBox development Days, Grignan, 2018-06-20/22
 * 3 one-day online development meeting: March 31st, May 31st, Oct 4th
 * 1 HPC workshop to happen in winter 2019
---
+
+---
 ## Other
 

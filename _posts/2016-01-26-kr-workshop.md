@@ -6,6 +6,7 @@ title: St. Andrews Workshop explored "Math-in-the-Middle" Paradigm for Integrati
 tags:
     - blogpost
     - math-in-the-middle
+    - dksbases
 ---
 The OpenDreamKit Team held a workshop on knowledge representation to synchronize views and
 start coding for Work Package WP6
