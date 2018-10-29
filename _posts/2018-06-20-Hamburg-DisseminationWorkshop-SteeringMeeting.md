@@ -179,7 +179,7 @@ You can book any hotel you want, but three probably the closest hotels to the ve
 - [Pension Wulff](http://www.wulff-pension.de) (0.5 km)
 - [Hotel Blankenese](http://www.hotel-blankenese.de/) (2.0 km)
 
-For further information about the possible hotels recommended by European XFEL, please check this [pdf](hotels_list.pdf). Please note that prices in the document can be outdated.
+For further information about the possible hotels recommended by European XFEL, please check this [pdf](#). Please note that prices in the document can be outdated.
 
 # Public transport
 
