@@ -37,6 +37,7 @@ Warwick.
   heavy maintenance load and was too inflexible.
 - fully integrated Jupyter into [MathHub](http://mathhub.info) 
 - first prototype of TGview3D, a virtual-reality viewer for OMDoc/MMT theory graphs.
+- [Release 13 of MMT](https://github.com/UniFormal/MMT/releases/tag/v13.0.0)
 
 ---
 ## Work in progress
