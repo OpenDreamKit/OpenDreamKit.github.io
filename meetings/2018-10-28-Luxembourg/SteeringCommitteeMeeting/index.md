@@ -9,7 +9,7 @@ Hotel city
 
 1 Rue de Strasbourg / Coin Avenue de la Liberté, BP 2126, 1021 Luxembourg
 +352 29 11 22
-[http://cityhotel.lu]
+[cityhotel.lu](http://cityhotel.lu)
 
 
 **Content**
