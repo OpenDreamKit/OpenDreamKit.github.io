@@ -12,7 +12,7 @@ The slides below (taken from our previous June meeting) are to be updated:
 
 - [Université Paris Sud](ParisSud)
 - [CNRS](CNRS)
-- [Jacobs University Bremen with FAU Erlangen-Nürnberg](JacU-FAU)
+- [FAU Erlangen-Nürnberg](JacU-FAU)
 - [Université Grenoble-Alpes](UGA)
 - [University of Kaiserslautern](Kaiserslautern)
 - [Oxford](Oxford)
