@@ -28,13 +28,13 @@ No hiring in Versailles.
   - Due M24.
   - Various failed iterations (with CNRS).
   - Started new iteration in May, need 1 more week to finalize,
-	delivered in Aug.
+	delivered in Aug: <https://github.com/OpenDreamKit/planetaryum>.
 
 - Work on JupyterHub deployments
 
 ## Plans for RP3
 
-- More work on Planetaryum, JupyterHub extensions.
+- More work on [Planetaryum](https://github.com/OpenDreamKit/planetaryum), and various JupyterHub extensions.
 - [D3.10: Packaging components and user-contributed code for major
   Linux
   distributions](https://github.com/OpenDreamKit/OpenDreamKit/issues/59)
