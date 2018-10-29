@@ -4,7 +4,7 @@ title: "Progress report for Université Paris-Sud"
 theme: white
 transition: none
 author: Viviane Pons, Benoît Pilorget, and Nicolas M. Thiéry
-period: Reporting period from March 2017 to June 2018
+period: Reporting period from March 2017 to October 2018
 ---
 
 # {{ page.title }}
@@ -17,14 +17,14 @@ period: Reporting period from March 2017 to June 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
-- Unused funding from Jacobsuni was not yet transferred to UPSUD. 
+- Unused funding from Jacobsuni has been transferred back to UPSUD ad is being transferred to FAU. 
 
 --
 ## Hiring
 
 ### One Project Manager on WP1 and WP2
 
-UPSUD is hiring a new project manager following the departure of B. Pilorget.
+UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had 2 unsuccesful runs of interviews since April 2018, we are running a third one now and hope to hire somebody soon.
 
 ### One postdoc on WP6
 
@@ -32,17 +32,17 @@ UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe
 
 ### One Research Software Engineer
 
-Using left overs from Florian's half post-doc and other planned
+Using leftovers from Florian's half post-doc and other planned
 positions, UPSUD has hired Odile Benassy as Research Software Engineer
-early June until the end of the project. She will be working on the
+early June until the end of the project. She is working on the
 technical/Jupyter side of Florian's tasks in WP4 and WP6, and in
 particular [T4.5 dynamic documentation and exploration system](https://github.com/OpenDreamKit/OpenDreamKit/issues/73)
 
 ### Three part-time trainees on Communication
 
-Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them are on their second year of Master's degree in digital communciation.Half of their time is spent in a company, the other half is spent working on two academic projects with their teacher. OpenDreamKit is one of this projects. Monitored by B. Pilorget and V. Pons their work focuses on: writing a communication plan, developing the website towards end-users, and creating media (videos, articles, interview etc.) to help us communicate and disseminate outside our communities.
+Elisabeth Pluquet, Jeannette Nwedeck, Dilan Kocabey. The three of them were on their second year of Master's degree in digital communciation.Half of their time was spent in a company, the other half was spent working on two academic projects with their teacher. OpenDreamKit was one of this projects. Monitored by B. Pilorget and V. Pons their work focused on: writing a communication plan, developing the website towards end-users, and creating media (videos, articles, interview etc.) to help us communicate and disseminate outside our communities.
 
-The main outcome of their work will be a 3 minute-long explanatory video of ODK and Jupyter.
+The main outcome of their work has been a new design for the website and some directions for video interviews.
 
 --
 ## Achievements
@@ -95,8 +95,6 @@ Commission.
 ### 4th amendment
 
 A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
-
-### 
 
 --
 ## Work in progress

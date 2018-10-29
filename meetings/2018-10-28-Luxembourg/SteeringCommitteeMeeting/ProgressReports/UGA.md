@@ -57,13 +57,10 @@ period: Reporting period from March 2017 to June 2018
   + fixing several long lasting bugs
   + speeding-up end-user routines: e.g. the characteristic polynomial of a dense matrix over a modular finite field.
 
-* A new recursive algorithm for the symmetric indefinite triangular factorization revealing the rank profile matrix (article submitted and implementation available upstream in fflas-ffpack)
-
-* New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (article at ISSAC'17, and extended version submitted to J. of Symbolic Computation).
-
-* New interactive certificates for linear algebra over univariate polynomials
-
-* New protocols secure multiparty matrix multiplication based on Strassen's algorithm (submitted)
+* [ISSAC'18] A new recursive algorithm for the symmetric indefinite triangular factorization revealing the rank profile matrix (article submitted and implementation available upstream in fflas-ffpack)
+* [ISSAC'17] New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (extended version submitted to J. of Symbolic Computation).
+* [submitted paper] New interactive certificates for linear algebra over univariate polynomials
+* [submitted paper] New protocols secure multiparty matrix multiplication based on Strassen's algorithm
 
 * Prototypical MPI-distributed rational solver. 
 

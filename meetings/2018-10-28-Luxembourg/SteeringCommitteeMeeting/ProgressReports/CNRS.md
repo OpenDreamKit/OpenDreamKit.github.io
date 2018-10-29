@@ -22,26 +22,21 @@ period: Reporting period from March 2017 to June 2018
 * CNRS financial report came quite late (5 days before the review!)
 
 ---
-## Hiring
-
-none
-
----
 ## Achievements
 
-* (T5.3) working on cleaner linbox integration in Sage, see
+* (T5.3) cleaner linbox integration in Sage in collaboration with Grenoble, see
   [Sage trac ticket 22872](https://trac.sagemath.org/ticket/22872)
   [25257](https://trac.sagemath.org/ticket/25257),
   [25353](https://trac.sagemath.org/ticket/25353),
   [24544](https://trac.sagemath.org/ticket/24544).
 
-* (D5.11) Combinatorics
+* (D5.11) Combinatorics including [pplpy](https://gitlab.com/videlec/pplpy) (see
+  [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
+  integration) and [e-antic](https://github.com/videlec/e-antic) (that will be used
+  in the next Normaliz release)
 
 * (not directly in the Proposal) finalization of upstream work on
-   [gmpy2](https://github.com/aleaxit/gmpy) and Python standalone
-   interface to [pplpy](https://gitlab.com/videlec/pplpy) (see
-  [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
-  integration)
+   [gmpy2](https://github.com/aleaxit/gmpy) but a component of pplpy
 
 * (not directly in the Proposal) [Sage thursdays](https://wiki.sagemath.org/thursdaysbdx):
   On (most) Thursday mornings we gather to work on SageMath and related projects
