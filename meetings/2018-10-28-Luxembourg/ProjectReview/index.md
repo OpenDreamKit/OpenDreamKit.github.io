@@ -27,7 +27,7 @@ second 18 months of the project.
 - 11:00 Achievements, by work package, session 1
     - WP4: User Interfaces, Benjamin Ragan-Kelley, Vidar Fauske
     - [WP3: Component Architecture](WP3/), [Luca De Feo](https://defeo.lu/)
-    - WP5: High Performance Mathematical Computing, Clément Pernet
+    - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/ReportingPeriod_2/WP5/WP5.pdf), Clément Pernet
 - 13:00 Lunch in the premises, with demonstrators and posters
 
 - 14:00 Achievements, by Work Package, session 2
