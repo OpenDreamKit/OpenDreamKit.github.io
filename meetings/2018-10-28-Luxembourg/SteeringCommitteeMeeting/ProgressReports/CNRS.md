@@ -35,13 +35,13 @@ none
   [25353](https://trac.sagemath.org/ticket/25353),
   [24544](https://trac.sagemath.org/ticket/24544).
 
+* (D5.11) Combinatorics
+
 * (not directly in the Proposal) finalization of upstream work on
    [gmpy2](https://github.com/aleaxit/gmpy) and Python standalone
    interface to [pplpy](https://gitlab.com/videlec/pplpy) (see
   [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
   integration)
-
-* (D5.11) Combinatorics
 
 ---
 ## Work in progress 
@@ -52,7 +52,7 @@ none
 * (not directly in the Proposal) cysignals port on native Windows
   [PR 76](https://github.com/sagemath/cysignals/pull/76).
 
-* Python3 support in SageMath
+* (not directly in the Proposal) Python3 support in SageMath
 ---
 ## Workshops and dissemination activities
 
