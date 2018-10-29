@@ -158,10 +158,23 @@ UPDATE BY NICOLAS???
 
 ### Communication strategy 
 
-- The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
-Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics](https://pluquetelisabeth.typeform.com/to/uTnjIQ) and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
+- Following the work of our student trainees. We have been able to put the new website up. 
+ We used the workshop of June 2018 in Hamburg to gather feedback and new content from
+ the group. 
+ 
+- UPSUD paid for the services of a professional videographer (Boris from Hellomaelie) who 
+ has lead and film interviews of key OpenDreamKit actors at the XFEL meeting in Hambug 
+ in June 2018. The interviews were edited over the sum and we obtained 6 short videos
+ on OpenDreamKit thematics: What is OpenDreamKit?, maths and computers, open-source,
+ collaboration, Jupyter, and the future of open-source math software development. 
+ We have just released them on the newly created Youtube channel for OpenDreamKit and have
+ started advertising them on our twitter feed and on our website.
+ 
+-The creation of a 2 minutes motion graphic explainer video with Pix Videos in on the way, 
+ based on the sketches created by Juliette Belin from Logilab.
 
-- UPSUD paid for the services of a professional videographer who will lead and film interviews of key OpenDreamKit actors at the XFEL. these interviews will hopefully allow the addition of great communication and dissemiantion content on the website.
+
+
 
 --
 ## Workshops and dissemination activities
@@ -181,6 +194,8 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 - Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
 - Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
 - Sage at [combinatorics scool ECCO](http://ecco2018.combinatoria.co/) (Colombia) - June 2018
+- Participation as invited speakers to [SageDAys@Icerm](https://icerm.brown.edu/topical_workshops/tw18-1-sage/) (Providence, US) - July 2018
+- Opening keynote from Viviane Pons at [PyConFr](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/) (Lille, France) - October 2018
 
 - Lead the organization of ODK's main dissemination event targeted
   toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
