@@ -4,7 +4,8 @@ title: What is OpenDreamKit
 menu_title: About
 menu_order: 1
 redirect_from: "/project/about/"
-image: jupyter.jpg
+youtube: CL3A7UQmWKE
+image: what-is-opendreamkit.png
 slider: True
 slider_heading: What is OpenDreamKit
 slider_sentence: OpenDreamKit supports better science through better e-infrastructure for computational science.

@@ -11,7 +11,7 @@ second 18 months of the project.
 
 ## Agenda
 
-[PAD](https://hackmd.io/XjNXoStPRmy8T_KSrRrfhw#) for taking notes
+[PAD](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA) for taking notes
 
 - 9:00 Welcome
    - Overview of the day by Project Officer
@@ -24,16 +24,16 @@ second 18 months of the project.
 
 - 10:20 Coffee break, with demonstrators and posters
 
-- 11:00 Achievements, by work package, session 1
-    - WP4: User Interfaces, Benjamin Ragan-Kelley, Vidar Fauske
-    - [WP3: Component Architecture](WP3/), [Luca De Feo](https://defeo.lu/)
-    - WP5: High Performance Mathematical Computing, Clément Pernet
+- 11:20 Achievements, by work package, session 1
+    - WP4: User Interfaces, Benjamin Ragan-Kelley, Vidar Fauske (~30 minutes)
+    - [WP3: Component Architecture](WP3/), [Luca De Feo](https://defeo.lu/) (~30 minutes)
+    - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/ReportingPeriod_2/WP5/WP5.pdf), Clément Pernet (~30 minutes)
 - 13:00 Lunch in the premises, with demonstrators and posters
 
-- 14:00 Achievements, by Work Package, session 2
-    - WP1: Project management, Nicolas M. Thiéry
-    - WP6: Data/Knowledge/Software-Bases, Michael Kohlhase
-    - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), Viviane Pons
+- 14:30 Achievements, by Work Package, session 2
+    - WP1: Project management, Nicolas M. Thiéry (~10 minutes)
+    - [WP6: Data/Knowledge/Software-Bases](WP6.pdf), [Michael Kohlhase](http://kwarc.info/kohlhase) (~30 minutes)
+    - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), Viviane Pons (~30 minutes)
       - The impact of ODK on the RSE community, Tania Alard, [Mike Croucher](https://github.com/mikecroucher)
 - 15:45 Wrap up, Nicolas M. Thiéry
 - 16:00 Assessment preparation by Reviewers and the Project Officer

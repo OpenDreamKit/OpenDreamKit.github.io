@@ -1,0 +1,92 @@
+\documentclass[mh,sectocframes]{mikoslides}
+%\documentclass[mh,notes]{mikoslides}
+\def\sage{SageMath\xspace}
+\input{localpaths}
+\libinput{preamble}
+\usetheme{ODK}
+\usepackage{lstqmtjson}
+\title[ODK WP6]{OpenDreamKit Work Package 6\\Data/Knowledge/Software-Bases}
+\author[Kohlhase]{Michael Kohlhase\\FAU Erlangen-N\"urnberg\\\url{http://kwarc.info/kohlhase}}
+\date[Second ODK Review, Oct. '18]{Second OpenDreamKit Review, Luxembourg, October  30. 2018}
+
+\begin{document}
+\frame\maketitle
+\begin{omgroup}{Introduction}
+  \mhinputref{ODK/en/WP6-concl2}
+  \mhinputref{ODK/en/DKS-bases}
+  \mhinputref{ODK/en/WP6-workshops1}
+\end{omgroup}
+
+\begin{omgroup}{Mathematical Use Cases}
+  \mhinputref{ODK/en/jane-use-case}
+  \mhinputref{odk/en/lmfdb-usecase}
+\end{omgroup}
+
+\begin{omgroup}{Realizing MitM Interoperability\\ -- The Computational Group Theory Case Study -- }
+  \mhinputref{mmt/en/cgt-mmt-surface}
+  \mhinputref{ODK/en/MitM-cgt}
+  \mhinputref{ODK/en/MitM-graph}
+  \mhinputref{ODK/en/mitm-jane}
+  \mhinputref{ODK/en/MitM-distributed-cgt}
+  \mhinputref{ODK/en/mitm-john}
+\end{omgroup}
+
+\begin{frame}
+  \frametitle{MitM-based   Integration centers around the MitM Ontology}
+  \begin{center}
+    If you are Really interested in the Graphs\\[2ex]
+    \red{\huge\href{https://github.com/UniFormal/TGView3D/releases/download/v1.0-beta.1/shortVersion.mp4}{interact
+        with them in 3D}} \mhcgraphics[width=5cm]{ODK/PIC/vr-hand}
+  \end{center}
+\end{frame}
+
+\begin{omgroup}{MitM InterOperability for Mathematical Databases}
+  \mhinputref{odk/en/lmfdb-oeis}
+  \mhinputref{odk/en/lmfdb-usecase}
+  \mhinputref{odk/en/MitM-MKB}
+  \mhinputref{ODK/en/codec-transgroup}
+  \mhinputref{ODK/en/codecs}
+  \mhinputref{ODK/en/codec-ops}
+  \mhinputref{ODK/en/codecop-ex}
+  \mhinputref{ODK/en/vt-arch}
+  \mhinputref{ODK/en/vt-query}
+  \mhinputref{ODK/en/hecke-sage}
+\end{omgroup}
+
+\begin{omgroup}{Jupyter Integration into MathHub}
+  \mhinputref{mathhub/en/nutshell2}
+  \mhinputref{mathhub/en/mathhub-new}
+\end{omgroup}
+
+\begin{frame}
+  \frametitle{KPIs and Deliverables for WP6}
+  \begin{itemize}
+  \item MitM-connected Systems: four (\blue{GAP, Sage, LMFDB}, \green{Singular})\lec{See D6.5}
+  \item MitM Ontology: \Ednote{MK: numbers from D6.8}\lec{See D6.8}
+  \item MitM System API Theories: GAP, Sage, LMFDB, Singular \Ednote{MK: numbers from D6.8}
+  \item Multi-Site involvement of Researchers \lec{Mobility of Researchers}
+    \begin{itemize}
+    \item PD. Dr. Florian Rabe (Joint appointment UPSud/FAU)
+    \item Felix Schmoll Summer Internship (From JacU to St.Andrews)
+    \item Prof. Nathan Carter (Bentley Univ.) in St. Andrews (Sabbatical) 
+    \end{itemize}
+  \item Heavy interest by the theorem proving community about MitM Ontology
+  \end{itemize}
+\end{frame}
+
+\mhinputref{ODK/en/WP6-concl2}
+\libinput{post}
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+
+%  LocalWords:  maketitle frametitle itemize omtext mhcgraphics Interop resizebox qquad
+%  LocalWords:  mhtikzinput 4.5cm,angle kwarc hspace 5.5cm,angle mhgraphics emph lec geq
+%  LocalWords:  mathcal lstinline cdbase lstlisting gap:is_cyclic lmfdb:query lstset odk
+%  LocalWords:  db:transitive_group cmhtikzinput transitivegroupaction transitivegroup
+%  LocalWords:  transitivegroups onlyenv hline MogoDB mathescape vfill noindent noinden
+%  LocalWords:  hfill sf,language mhinputref mathhub sf,morekeywords textbr omgroup
+%  LocalWords:  Realizing Jupyter MitM-connected Ednote libinput
