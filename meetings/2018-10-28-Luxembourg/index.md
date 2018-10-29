@@ -7,6 +7,8 @@ At the occasion of its second formal review by the EU Commission,
 OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 28th of October to Wednesday 31st.
 
+[List of participants](https://framadate.org/Q4xKIHMcYtstrhej)
+
 # Agenda
 
 ## Sunday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
