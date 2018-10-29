@@ -18,13 +18,14 @@ period: Reporting period from March 2017 to October 2018
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
 - Unused funding from Jacobsuni has been transferred back to UPSUD ad is being transferred to FAU. 
+- UPSud has been coordinating the financial reports for Reporting Period 2
 
 --
 ## Hiring
 
 ### One Project Manager on WP1 and WP2
 
-UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had 2 unsuccesful runs of interviews since April 2018, we are running a third one now and hope to hire somebody soon.
+UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had two unsuccessful runs of interviews since April 2018; we are running a third one now and hope to hire somebody soon.
 
 ### One postdoc on WP6
 
