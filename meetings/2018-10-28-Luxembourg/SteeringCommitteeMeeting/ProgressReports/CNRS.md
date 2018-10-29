@@ -52,19 +52,19 @@ period: Reporting period from March 2017 to June 2018
 ## Workshops and dissemination activities
 
 * [8th Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2017b/)
-  2017, June 19-23, Clermont-Ferrand (France)
+  2017 June 19-23, Clermont-Ferrand (France)
 * [Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2017c/)
-  2017, November 22-23, Oujda (Marocco)
-* [10th Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2018/)
-   2018, Janyary 15-19, Besançon (France)
-* [11th Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2018b/)
-  2017, April 16-17, Rome (Italy)
+  2017 November 22-23, Oujda (Marocco)
 * [Sage days 86](https://wiki.sagemath.org/days86)
   2017 April 17-21, Montreal, Canada 
-* [PARI/GP atelier](https://pari.math.u-bordeaux.fr/Events/PARI2018/)
-  2018 January 15-19, Besançon (France), 40 participants.
+* [Sage days 88](https://wiki.sagemath.org/days88)
+  2017 August 21-25, Minneapolis (Minnesota)
+* [10th Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2018/)
+  2018 Janyary 15-19, Besançon (France)
 * [Sage days 93](https://wiki.sagemath.org/days93)
   2018 February 19-March 4, Olot (Span), 10 participants.
+* [11th Atelier PARI/GP](http://pari.math.u-bordeaux.fr/Events/PARI2018b/)
+  2018 April 16-17, Rome (Italy)
 * [Math-Exp spring school](https://mathexp2018.sciencesconf.org/)
   2018 May 21-June 1, St Flour (France), 30 participants.
 * [EJCIM course](https://ejcim2018.sciencesconf.org/)
