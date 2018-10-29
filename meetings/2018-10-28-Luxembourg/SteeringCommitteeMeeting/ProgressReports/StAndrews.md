@@ -18,7 +18,7 @@ period: Reporting period from March 2017 to October 2018
 
 - Participated in the OpenDreamKit midterm review (April 2017, Brussels)
 
-- Participated in the 2nd OpenDreamKit midterm review (October 2019, Luxembourg)
+- Participated in the 2nd OpenDreamKit midterm review (October 2018, Luxembourg)
 
 ---
 ## Hiring
