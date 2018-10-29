@@ -48,10 +48,10 @@ https://github.com/nthiery/harmonic-modules as running example.
 
 ### Components involved
 
-- [SageMath](http://sagemath.org) (Sage for short) is a Python based
+- [SageMath](https://sagemath.org) (Sage for short) is a Python based
   general purpose system for computational mathematics.
 
-- [Jupyter](jupyter.org) is a web application for authoring and
+- [Jupyter](https://jupyter.org) is a web application for authoring and
   sharing documents that contain live code, equations, visualizations
   and narrative text.
 

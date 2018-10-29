@@ -51,4 +51,4 @@ No hiring was done during this period.
 - Participated in Jupyter Widgets workshop in Paris, January 2018
 - Participated in JupyterDay Paris, March 2018
 - Participated in Jupyter Team meeting, June 2018
-- Presented (Jupyter but not ODK) at SciPy, JupyterCon, Summery 2018
+- Presented (Jupyter but not ODK) at SciPy in Austin, July 2018, then at JupyterCon in New York City, August 2018

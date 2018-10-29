@@ -18,15 +18,18 @@ period: Reporting period from March 2017 to October 2018
 
 - Participated in the OpenDreamKit midterm review (April 2017, Brussels)
 
-- Participated in the 2nd OpenDreamKit midterm review (October 2019, Luxembourg)
+- Participated in the 2nd OpenDreamKit midterm review (October 2018, Luxembourg)
 
 ---
 ## Hiring
 
 - Nathan Carter and Michael Torpey started to work for OpenDreamKit on casual contracts
 
+- Markus switched to another project and will continue to work on ODK on a
+  very small part-time amount of hours
+
 - We are expecting some further developments on the hiring side shortly and are
-  going to advertise a position of a programmer very soon
+  going to advertise a position of a programmer very soon to fill in this vacancy
 
 ---
 ## Achievements
