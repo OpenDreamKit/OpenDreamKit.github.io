@@ -28,7 +28,8 @@ period: Reporting period from March 2017 to June 2018
   [25257](https://trac.sagemath.org/ticket/25257),
   [25353](https://trac.sagemath.org/ticket/25353),
   [24544](https://trac.sagemath.org/ticket/24544).
-* (D5.11) Combinatorics including [pplpy](https://gitlab.com/videlec/pplpy) (see
+* [D5.11](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/WP5/D5.11/report-final.pdf)
+  Combinatorics including [pplpy](https://gitlab.com/videlec/pplpy) (see
   [Sage trac ticket 23042](https://trac.sagemath.org/ticket/23024) for Sage
   integration) and [e-antic](https://github.com/videlec/e-antic) (that will be used
   in the next Normaliz release)

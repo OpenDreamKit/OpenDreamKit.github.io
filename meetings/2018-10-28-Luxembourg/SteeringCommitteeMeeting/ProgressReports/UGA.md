@@ -53,7 +53,7 @@ period: Reporting period from March 2017 to June 2018
     - improving build system
 
 * Integration of these latest releases in SageMath:
-  + [trac](https://trac.sagemath.org/ticket/24214)
+  + [trac #24214](https://trac.sagemath.org/ticket/24214)
   + fixing several long lasting bugs
   + speeding-up end-user routines: e.g. the characteristic polynomial of a dense matrix over a modular finite field.
 
@@ -80,6 +80,7 @@ period: Reporting period from March 2017 to June 2018
 * LinBox development Days, Grignan, 2018-06-20/22
 * 3 one-day online development meeting: March 31st, May 31st, Oct 4th
 * 1 HPC workshop to happen in winter 2019
---
+
+---
 ## Other
 
