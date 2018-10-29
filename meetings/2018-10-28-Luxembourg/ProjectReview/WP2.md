@@ -100,7 +100,9 @@ TODO: add some numbers
 ---
 ### Diversity
 
-TODO
+* Developed training materials and provided training for over 130 women in the last 12 months at Sheffield and Manchester in partnership with [CodeFirstGirls](https://www.codefirstgirls.org.uk/). Early blog post at https://rse.shef.ac.uk/blog/sheffield-code-firstgirls/
+* Tania Allard participated in the [Diversity and Inclusion in Scientific Computing](https://numfocus.org/programs/diversity-inclusion) unconference by direct invite of [NUMFOCUS](https://numfocus.org/)
+* Tania Allard was diversity chair for the 2017 International Research Software Engineering conference.
 
 ---
 ## Impact: The RSE community
