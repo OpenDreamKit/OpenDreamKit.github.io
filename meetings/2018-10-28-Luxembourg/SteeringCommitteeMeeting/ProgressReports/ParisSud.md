@@ -17,8 +17,9 @@ period: Reporting period from March 2017 to October 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
-- Unused funding from Jacobsuni has been transferred back to UPSUD ad is being transferred to FAU. 
-- UPSud has been coordinating the financial reports for Reporting Period 2
+- Unused funding from Jacobsuni has been transferred back to UPSUD and is being transferred to FAU. 
+- UPSud has been supervising the technical and financial reports for
+  Reporting Period 2, as well as all deliverables for RP2.
 
 --
 ## Hiring
