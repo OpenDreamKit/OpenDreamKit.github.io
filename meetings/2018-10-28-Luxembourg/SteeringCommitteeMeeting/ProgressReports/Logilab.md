@@ -30,14 +30,13 @@ period: Reporting period from March 2017 to October 2018
 
 Publication of a new version of the Pythran library that allows to
 compile Python code into HPC-optimized high performance code. See
-http://serge-sans-paille.github.io/pythran-stories/toward-a-simpler-and-faster-pythran-compiler.html
+[Toward a simpler and faster Pythran compiler](http://serge-sans-paille.github.io/pythran-stories/toward-a-simpler-and-faster-pythran-compiler.html)
 
 Publication of a new version of the SciViJS library for
 post-processing and visualizing 3D datasets with a full javascript
 library that can be used inside or outside Jupyter notebooks. This
 version can use post-processing plugins written in javascript or in
-C++ compiled with WebAssembly. See
-https://hg.logilab.org/review/scivijs
+C++ compiled with WebAssembly. See [Scivijs](https://hg.logilab.org/review/scivijs)
 
 New version of simulagora.com virtual research environment that allows
 users to prepare customized virtual machines embedding a set of softwares
