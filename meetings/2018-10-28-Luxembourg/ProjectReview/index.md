@@ -38,7 +38,6 @@ second 18 months of the project.
     - WP1: Project management, Nicolas M. Thiéry (~10 min)
     - [WP6: Data/Knowledge/Software-Bases](WP6.pdf), by [Michael Kohlhase](http://kwarc.info/kohlhase) (~30 min)
     - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), by Viviane Pons (~30 min)
-      - The impact of ODK on the RSE community, by Tania Alard and [Mike Croucher](https://github.com/mikecroucher)
 - 15:45 Wrap up, by Nicolas M. Thiéry
 - 16:00 Assessment preparation by Reviewers and the Project Officer
 
