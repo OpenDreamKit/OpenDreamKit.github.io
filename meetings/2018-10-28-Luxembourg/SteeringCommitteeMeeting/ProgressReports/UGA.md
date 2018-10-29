@@ -17,7 +17,8 @@ period: Reporting period from March 2017 to June 2018
 
 ## Finance and administration
 
-
+* under usage of resources
+* overusage of PMs declared (estimated 32 instead of 25)
 
 ---
 ## Hiring
@@ -26,6 +27,11 @@ period: Reporting period from March 2017 to June 2018
   * 1 September 2017 -- 30 August 2019
   * Formerly research assistant at Univ. of Sherbrooke, QC, Canada.
   * Working on distributed code for LinBox (D5.14)
+* Alexis Breust, research engineer 100%
+  * 1 September 2018 -- 30 August 2019
+  * Previously: video game dev, LinBox research engineer
+  * Working on distributed code for LinBox (D5.14)
+
 ---
 ## Achievements
 
@@ -55,13 +61,20 @@ period: Reporting period from March 2017 to June 2018
 
 * New protocols for the probabilistic interractive certification of the signature, the determinant and the rank profile matrix (article at ISSAC'17, and extended version submitted to J. of Symbolic Computation).
 
+* New interactive certificates for linear algebra over univariate polynomials
+
+* New protocols secure multiparty matrix multiplication based on Strassen's algorithm (submitted)
+
+* Prototypical MPI-distributed rational solver. 
+
 --
 ## Work in progress
 * In collaboration with V. Delecroix (CNRS partner)
   + Further exposition of LinBox routines in SageMath.
   + Consolidation and improvement of the rational system solver in LinBox
-
+  + setup a working jupyterhub VRE using multithreaded matrix multiplication on a 32 cores server for Milestone 8 demo
 * MPI version of the Chinese remainder based rational solver
+* 
 * DSL for exposing parallel features
 
 ---
@@ -71,9 +84,7 @@ period: Reporting period from March 2017 to June 2018
 
 * 3 one-day online development meeting: March 31st, May 31st, Oct 4th
 
+* 1 HPC workshop to happen in winter 2019
 --
 ## Other
 
-
-
-</section>
