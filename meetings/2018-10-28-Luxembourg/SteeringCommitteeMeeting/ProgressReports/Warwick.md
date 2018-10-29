@@ -4,7 +4,7 @@ title: "Progress report for University of Warwick"
 theme: white
 transition: none
 author: John Cremona
-period: Reporting period from March 2017 to June 2018
+period: Reporting period from March 2017 to October 2018
 ---
 
 # {{ page.title }}
@@ -20,7 +20,8 @@ period: Reporting period from March 2017 to June 2018
 The Warwick team's financial position is tracked by administrative
 staff at the Warwick Mathematics Institute, who also maintain
 time-sheets for the ODK-funded staff at Warwick.  The team's current
-financial position is on track.
+financial position is within budget, with a predicted small
+under-spend.
 
 ---
 ## Hiring
@@ -55,7 +56,7 @@ database, the existence of this inventory has already revealed some
 inconsistencies in certain LMFDB collections which are now able to be
 addressed.
 
---
+---
 ## Work in progress
 
 Since January 2018 work has started on designing a second-generation
@@ -65,8 +66,13 @@ interface.  The first collections to be treated will be Elliptic
 Curves over Q and Number Fields which have the advantage of there
 already existing well-developed Sage classes for such objects,
 something which is not the case for many of objects stored in the
-LMFDB collections.  In the first half of 2018 a group from Warwick
-plans to visit Erlangen to learn more about the MitM interface.
+LMFDB collections.  Numerous meetings have taken place between members
+of the Warwick and Erlangen teams, all through video-conference links
+(resulting in a saving from the team's travel budget).  The Warwick
+team has learned about the MitM interface from Erlangen and in turn
+has aided them in developing a MitM interface to parts of the LMFDB.
+This collaboration has focused on a developing a number of Use Cases
+to illustrate the effectiveness of the MitM for LMFDB users.
 
 ---
 ## Workshops and dissemination activities
@@ -75,14 +81,12 @@ The June LMFDB workshop was an opportunity to introduce Chris and
 Heather to a wider group of LMFDB developers.  Their ODK-funded work
 on the inventory is already in daily use by LMFDB developers.
 
---
+---
 ## Other
 
 A new Simons Collaboration on Arithmetic Geometry, Number Theory, and
 Computation (https://icerm.brown.edu/simonscollaboration/) started in
 the northeast US in July 2017, with LMFDB development as one of its
 aims.  John Cremona is an Affiliated Scientist with this collaboration
-and will represent ODK at its first biannual conference on algorithmic
-number theory at MIT.
-
-</section>
+and represented ODK at its first biannual conference on algorithmic
+number theory at MIT in August 2018.

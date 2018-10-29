@@ -277,9 +277,26 @@ h1, h2, h3, h4{
     width: 100%;
 }
 
+.section-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
 .section-image img {
     width:100%;
     height: auto;
+}
+
+.section-video iframe, .section-video object, .section-video embed{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 /************/

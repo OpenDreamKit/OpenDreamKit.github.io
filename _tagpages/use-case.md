@@ -6,7 +6,7 @@ class: keyword
 slider: True
 slider_heading: Use Cases and Success Stories
 slider_sentence: What can we do for you
-image: math.png
+image: use-cases-binder-logbook-scenario.png
 menu: project
 menu_order: 1
 slider_order: 2

@@ -15,7 +15,7 @@ tags:
 
 ## Scenario
 
-Jane has written a (math) paper based on her experimentats. She would
+Jane has written a (math) paper based on her experiments. She would
 like anyone to be able to reproduce, check, and improve her calculations.
 
 [ ![a binder logbook screenshot](/public/images/use-cases-binder-logbook.png){:class="small-screenshot"} ](/public/images/use-cases-binder-logbook.png)
@@ -34,18 +34,8 @@ like anyone to be able to reproduce, check, and improve her calculations.
 
 3.  She makes that repository [Binder-ready](/tag/binder) by describing the
     software required to run the notebooks; for details, see the
-    [Binder documentation](https://mybinder.readthedocs.io/en/latest/using.html#preparing-a-repository-for-binder);
-
-4.  Bonus: make the paper itself active
-
-<!-- TODO: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?.!-->
-<!-- TODO: publicity, indexing, referencement !-->
-<!-- The logbook is stored by software heritage !-->
-
-<!-- If executing the examples requires a non-trivial install/build step,
-also consider
-[using a `Dockerfile`](http://mybinder.readthedocs.io/en/latest/dockerfile.html),
-and auto-building the Docker image on <https://hub.docker.com/>. !-->
+    [Binder documentation](https://mybinder.readthedocs.io/en/latest/using.html#preparing-a-repository-for-binder),
+    and check the configuration of the examples below.
 
 ## Some instances
 
@@ -57,6 +47,29 @@ and auto-building the Docker image on <https://hub.docker.com/>. !-->
 - [The 0-Rook monoid and its representation theory](https://github.com/hivert/Jupyter-Notebooks),
   Hivert and Gay
   [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hivert/Jupyter-Notebooks/master?filepath=rook-0.ipynb)
+
+## Discussion
+
+By publishing the log books and resources on a publicly hosted
+repository, Jane also guarantees their long term archival thanks
+to the [Software Heritage](http://softwareheritage.org/) project.
+
+The proposed solution takes care of many of the basic hurdles for
+reproducibility, especially if following the recommended best
+practices (like pinpointing the versions of the dependencies). Full
+reproducibility however is intrinsically hard and many aspects are not
+tackled, like numerical instability, long term availability of
+software or long term backward compatibility of software and hardware.
+Also, only relatively lightweight calculations are covered.
+Nevertheless this hopefully covers the 20% of Pareto's principle.
+
+<!--  Bonus: make the paper itself active !-->
+<!-- TODO: explore using e.g. [latexml](https://dlmf.nist.gov/LaTeXML/)+[thebe](https://github.com/minrk/thebelab)?.!-->
+<!-- TODO: publicity, indexing, referencement !-->
+<!-- If executing the examples requires a non-trivial install/build step,
+also consider
+[using a `Dockerfile`](http://mybinder.readthedocs.io/en/latest/dockerfile.html),
+and auto-building the Docker image on <https://hub.docker.com/>. !-->
 
 ## To do
 

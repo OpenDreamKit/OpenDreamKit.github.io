@@ -4,7 +4,7 @@ title: "Progress report for Logilab"
 theme: white
 transition: none
 author: Olivier Cayrol
-period: Reporting period from March 2017 to June 2018
+period: Reporting period from March 2017 to October 2018
 ---
 
 # {{ page.title }}
@@ -44,7 +44,8 @@ and to deploy "tools" that can be described as micro web applications
 that require very little development skills to set up, but make it easy
 to make available complex simulations to users.
 
-Packaging of SageMath 8.2 in Conda
+Packaging of SageMath 8.2 and 8.3 in Conda, Debian and Docker. Setting up a
+continuous integration process to ease the packaging of new versions.
 
 --
 ## Work in progress
@@ -56,16 +57,12 @@ HPC-optimized code.
 Integration of Pythran into Cython in order to use Pythran optimized
 code for some computational operations (NumPy or standard library).
 
+JupyterLab extension for interacting with a set of training exercises.
+
 Library for exporting code samples from Sphinx documents into a set of
 Jupyter notebooks and for integrating back the code outputs computed
 by Jupyter into the Sphinx documents.
 
-Simulagora.com virtual research environment has been under heavy development
-since the summer 2017 and a new version will be online in March 2018. This will
-showcase virtual desktops available from a web browser and collaboration
-workflows based on "tools" that can be described as micro web applications that
-require very little development skills to set up, but make it easy to make
-available complex simulations to users.
 
 ---
 ## Workshops and dissemination activities
@@ -74,16 +71,12 @@ Participation to ODK's [Workshop on live structured
 documents](https://github.com/OpenDreamKit/OpenDreamKit/issues/211)
 October 16-20 of 2017, Oslo
 
-Library for exporting code samples from Sphinx documents into a set of Jupyter
-notebooks and for integrating back the code outputs computed by Jupyter into
-the Sphinx documents.
+Participation to ODK's [Workshop on interfacing (math) software
+with low level libraries](https://github.com/OpenDreamKit/OpenDreamKit/issues/251)
+April 30-May 4 of 2018, Cernay
 
-Packaging of Sage and related libraries in Conda and Debian, trying to set
-up a continuous integration process.
+Comic strips illustrating the ODK use cases.
+
 
 --
 ## Other
-
-
-
-</section>
