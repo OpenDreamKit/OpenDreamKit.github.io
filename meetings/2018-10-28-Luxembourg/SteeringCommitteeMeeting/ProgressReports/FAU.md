@@ -20,7 +20,7 @@ period: Reporting period from July 2018 to  October 2018
 
 - under usage of resources
 -  overusage of PMs declared (we have hired student research assistants, but had to
-   declare them as "researchers")
+   declare them as "researchers"; OKed by Nicolas)
 
 ---
 ## Hiring
