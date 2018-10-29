@@ -34,16 +34,16 @@ No hiring in Versailles.
 
 ## Plans for RP3
 
-- More work on Planetaryum, JupyterHub extensions.
+- More work on [Planetaryum](https://github.com/OpenDreamKit/planetaryum)
+  a JupyterHub extensions to display galleries of notebooks.
 - [D3.10: Packaging components and user-contributed code for major
-  Linux
-  distributions](https://github.com/OpenDreamKit/OpenDreamKit/issues/59)
+  Linux distributions](https://github.com/OpenDreamKit/OpenDreamKit/issues/59)
   - Conda SageMath package
   - Python 3 SageMath support
   - PyPI SageMath packages
 
 ## Workshops and dissemination activities
 
-- Participated to atelier PARI/GP (Jan 2018, Besançon).
+- Participated to workshop PARI/GP (Jan 2018, Besançon).
 - Organising JNCF 2019 (Feb 2019, Marseille, "satellite" to
   OpenDreamKit workshop :)
