@@ -80,7 +80,3 @@ Comic strips illustrating the ODK use cases.
 
 --
 ## Other
-
-
-
-</section>

@@ -52,6 +52,3 @@ No hiring was done during this period.
 - Participated in JupyterDay Paris, March 2018
 - Participated in Jupyter Team meeting, June 2018
 - Presented (Jupyter but not ODK) at SciPy, JupyterCon, Summery 2018
-
-
-</section>

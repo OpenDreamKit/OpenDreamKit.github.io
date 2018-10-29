@@ -90,5 +90,3 @@ the northeast US in July 2017, with LMFDB development as one of its
 aims.  John Cremona is an Affiliated Scientist with this collaboration
 and represented ODK at its first biannual conference on algorithmic
 number theory at MIT in August 2018.
-
-
