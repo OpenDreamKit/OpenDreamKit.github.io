@@ -229,9 +229,9 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 --
 ## ODK Use Cases
 
-For the first time this year, we used a *Jupyter Hub* and
-the newly developed *Cling C++ kernel* in our 300 student
+Since Fall 2017, we are using a *Jupyter Hub* and
+the newly developed *Cling C++ kernel* in our 400 student
 [introductory programming course](http://nicolas.thiery.name/Enseignement/Info111/)
-at Paris Sud. This was the occasion to test those technologies both
+at Paris Sud. This is the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
 through many bug reports and feature requests.
