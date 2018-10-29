@@ -18,6 +18,7 @@ period: Reporting period from March 2017 to October 2018
 
 ## Finance and administration
 
+* underspending for travel by planning on using the budget to do more work
 
 ---
 ## Hiring
@@ -77,6 +78,3 @@ April 30-May 4 of 2018, Cernay
 
 Comic strips illustrating the ODK use cases.
 
-
---
-## Other
