@@ -24,7 +24,7 @@ period: Reporting period from July 2018 to  October 2018
 
 ---
 ## Hiring
-We have hired one researchers on a full position half-positions:
+We have hired one researcher on a full position:
 - Dr. Katja Bercic on November 1. 2018. to work on a general infrastructure on
   mathematical data bases using the MitM virtual theories framework.
   
@@ -32,9 +32,9 @@ We have hired one researchers on a full position half-positions:
 ## Achievements
 - getting the WP6 use cases to work in collaboration with St. Andrews, UPSud, and
 Warwick.
-- getting a first prototype of the new [MathHub System](http://mathhub.info) based on the
-  [React.JS](http://reactjs.org) working and online. This Drupal-based system incurred too
-  heavy maintenance load and was too inflexible.
+- first prototype of the new [MathHub](http://mathhub.info) system based Drupal and 
+  [React.JS](http://reactjs.org). This system was working and online, but incurred too
+  heavy maintenance load and was not flexible enough.
 - fully integrated Jupyter into [MathHub](http://mathhub.info) 
 - first prototype of TGview3D, a virtual-reality viewer for OMDoc/MMT theory graphs.
 - [Release 13 of MMT](https://github.com/UniFormal/MMT/releases/tag/v13.0.0)
