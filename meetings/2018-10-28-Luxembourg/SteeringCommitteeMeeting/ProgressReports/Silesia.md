@@ -23,12 +23,16 @@ period: Reporting period from March 2017 to October 2018
 ---
 ## Hiring
 
-dr Jolanta Marzec, was hired  and has finished  the Linear Algebra demonstrator (http://visual.icse.us.edu.pl/LA)
+dr Jolanta Marzec, was hired  and has been finishing  the Linear Algebra demonstrator (http://visual.icse.us.edu.pl/LA)
 
 ---
 ## Achievements
 
-K3D-jupyter 
+The visualization package K3D-jupyter has undergone following changes: 
+
+ - polishing existing features, performance optimalization
+ - CFD analysis module.
+ - Volumetric rendering method for data on regular grids  has been developed.
  - project was ported to ipywidgets 7, 
  - last version is (v 2.4.18), 
  - API is  stable
@@ -44,15 +48,11 @@ K3D-jupyter
 ---
 ## Work in progress
 
-K3d-jupyter widget is under final stage of development which includes:
-
- - polishing existing features, performance optimalization
- - CFD analysis module.
- - There have been significant improvement in volumetric rendering
 
 There has been done work on demonstrator  "Problems in Physics".
+Demonstrator Linear Algebra  and Nonlinear processes in Biology are in final  stage of development.
 
-Demonstrator Linear Algebra  and Nonlinear processes in Biology are in last stage of development.
+There is an ongoing effort on development of documentation and tutorials for K3D-jupyter engaging student intern. The software has been deployed in jupyterhub environment for students of University of Silesia. There are planned dissemination workshops popularizing its application in e.g. physics courses and computer graphics courses.
 
 ---
 ## Workshops and dissemination activities
