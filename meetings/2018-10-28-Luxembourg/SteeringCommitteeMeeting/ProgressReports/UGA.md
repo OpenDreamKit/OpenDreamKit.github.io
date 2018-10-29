@@ -31,6 +31,7 @@ period: Reporting period from March 2017 to June 2018
   * 1 September 2018 -- 30 August 2019
   * Previously: video game dev, LinBox research engineer
   * Working on distributed code for LinBox (D5.14)
+
 ---
 ## Achievements
 
@@ -65,6 +66,7 @@ period: Reporting period from March 2017 to June 2018
 * New protocols secure multiparty matrix multiplication based on Strassen's algorithm (submitted)
 
 * Prototypical MPI-distributed rational solver. 
+
 --
 ## Work in progress
 * In collaboration with V. Delecroix (CNRS partner)
