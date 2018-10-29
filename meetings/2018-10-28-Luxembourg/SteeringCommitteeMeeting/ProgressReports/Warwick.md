@@ -56,7 +56,7 @@ database, the existence of this inventory has already revealed some
 inconsistencies in certain LMFDB collections which are now able to be
 addressed.
 
---
+---
 ## Work in progress
 
 Since January 2018 work has started on designing a second-generation
@@ -81,7 +81,7 @@ The June LMFDB workshop was an opportunity to introduce Chris and
 Heather to a wider group of LMFDB developers.  Their ODK-funded work
 on the inventory is already in daily use by LMFDB developers.
 
---
+---
 ## Other
 
 A new Simons Collaboration on Arithmetic Geometry, Number Theory, and
@@ -91,4 +91,4 @@ aims.  John Cremona is an Affiliated Scientist with this collaboration
 and represented ODK at its first biannual conference on algorithmic
 number theory at MIT in August 2018.
 
-</section>
+

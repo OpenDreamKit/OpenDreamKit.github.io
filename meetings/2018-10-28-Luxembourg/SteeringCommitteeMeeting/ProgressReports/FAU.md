@@ -37,7 +37,7 @@ Warwick.
 
 ---
 ## Work in progress
-- Further Development of [MathHub](http://mathhub.info) based on the
+- Further Development of [MathHub](http://mathhub.info) to reach feature-completeness. 
 - Connecting PARI/GP to the MitM interoperability framework for extended GAP-based MitM use cases.
 - generating Jupyter Notebooks for OMDoc/MMT theories and Documents.
 - LURCH-based editing front-end for OMDoc/MMT (in collaboration with Nathan Carter on
