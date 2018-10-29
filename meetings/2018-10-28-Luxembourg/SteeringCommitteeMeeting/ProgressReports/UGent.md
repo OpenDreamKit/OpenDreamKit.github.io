@@ -64,7 +64,7 @@ period: Reporting period from March 2017 to October 2018
   was not supported before.
   This fits in [T3.1](https://github.com/OpenDreamKit/OpenDreamKit/issues/50).
 
---
+---
 ## Work in progress
 
 - Major steps have been taken to port SageMath to Python 3.
@@ -90,5 +90,3 @@ period: Reporting period from March 2017 to October 2018
 
 - Wrote [blogpost](http://opendreamkit.org/2017/06/09/CythonSphinx/)
   on how to generate documentation for Cython projects.
-
-</section>
