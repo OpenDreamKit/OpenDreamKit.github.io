@@ -23,35 +23,24 @@ No hiring in Versailles.
 
 ## Achievements
 
-Nothing very important since the review.
+- [D2.7: Community-curated indexing tool (open source)](https://github.com/OpenDreamKit/OpenDreamKit/issues/47)
+  
+  - Due M24.
+  - Various failed iterations (with CNRS).
+  - Started new iteration in May, need 1 more week to finalize,
+	delivered in Aug.
 
+- Work on JupyterHub deployments
 
-## Work in progress
+## Plans for RP3
 
-[D2.7: Community-curated indexing tool (open source)](https://github.com/OpenDreamKit/OpenDreamKit/issues/47)
-
-- Due M24.
-- Various failed iterations (with CNRS).
-- Started new iteration in May, need 1 more week to finalize, will
-  deliver July 9.
-
-[D3.7: One-click install Sage distribution for Windows with Cygwin 32bits and 64bits](https://github.com/OpenDreamKit/OpenDreamKit/issues/66)
-
-- This has been done by Erik almost one year ago.
-- Deliverable lost in grant amendment, will write on June 28.
-
-
-## Upcoming deliverables
-[D3.8: Continuous integration platform for multi-platform build/test](https://github.com/OpenDreamKit/OpenDreamKit/issues/67)
-
-- Lot of work (on GitLab) has been done by J Rüth.
-- Work is very promising, but timing is bad: will need all the month
-  of August to finalize deliverable (and it will be rushed, I bet).
-
-[D3.5: Integration between SageMathCloud and Sage 's TRAC server](https://github.com/OpenDreamKit/OpenDreamKit/issues/64)
-
-- This work has mostly got intertwined with D3.8.
-- Will discuss resolution with Erik, deliver on July 9 (hopefully).
+- More work on Planetaryum, JupyterHub extensions.
+- [D3.10: Packaging components and user-contributed code for major
+  Linux
+  distributions](https://github.com/OpenDreamKit/OpenDreamKit/issues/59)
+  - Conda SageMath package
+  - Python 3 SageMath support
+  - PyPI SageMath packages
 
 ## Workshops and dissemination activities
 
