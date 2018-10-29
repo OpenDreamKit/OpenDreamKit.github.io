@@ -64,8 +64,12 @@ Many OpenDreamKit people are already active twitter users.
 ---
 ### Trying to do more...
 
-* Publishing 6 interview videos
-* Publishing 
+New Youtube chanel: 
+* publishing 6 interview videos, 
+* an explainer video in preparation
+
+![](../WP2-youtube.png)
+
 
 ---
 ## Planetaryum 
@@ -85,7 +89,9 @@ TODO
 ## OpenDreamKit and Teaching 
 (T2.6)
 
-TODO
+* Around **1200 students** every year, (both undergrads and master students)
+* **Many subject**s: Computer algebra, calculus, combinatorics, algorithmic, programming, physics, biomedical sciences
+* **Many tools**: Jupyter, Jupyter-Hub, Jupyter-Lab, SageMath, CoCalc
 
 ---
 ## Workshops, Training, Dissemination 
@@ -101,7 +107,27 @@ Over the last two years OpenDreamKit has been involved in more than 50 events
 ---
 ### Training
 
-TODO: add some numbers
+**22 different events** adding to more than **500 trainees**. 
+
+![](../WP2-training.jpg)
+
+--
+### Training
+
+* 5 JOOMF sessions at different conferences
+* 4 organzed by the Sheffield / Leeds team
+* Also specific training on GAP and PARI/GP
+* MathExp, (Saint-Flour, France, May 2018)
+* 5 SageDays
+
+--
+### Software Carpentry
+
+* 6 certified trainers
+* 2 instructor trainers
+* workshops organization
+* GAP and SageMath lessons
+
 
 ---
 ### Diversity
