@@ -101,8 +101,6 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 
 ### OpenDreamKit and EOSC
 
-UPDATE BY NICOLAS???
-
 * Strategy: last November, N. Thiéry, B. Pilorget, and H. Fangohr
   participated to two events in Brussels dedicated to the the future
   European Open Science Cloud (EOSC). We aimed at understanding this
@@ -113,20 +111,27 @@ UPDATE BY NICOLAS???
   welcome to express their interest or disinterest in this project.
 
 * Partnership with EGI (main stakeholder of the EOSC): there is an
-  ongoing collaboration between EGI and OpenDreamKit for the
+  ongoing collaboration between EGI and OpenDreamKit to deploy
   JupyterHub and BinderHub-based EGI services. Proofs of concepts for
-  both have been deployed by Enol Fernandez from EG. To proceed
-  further, a Technology Provider Agreement must be signed between EGI
-  and OpenDreamKit/Jupyter developers in the next weeks. Depending on
-  the success of this joint work and of the need of the EOSC
-  post-2020, the collaboration could be extended.
+  both have been deployed by Enol Fernandez from EGI. Both parties are
+  very satisfied with the collaboration and want to strengthen it. A
+  Technology Provider Agreement was signed between EGI and Simula, on
+  behalfF of OpenDreamKit/Jupyter developers. Joint applications to
+  upcoming EOSC calls, and in particular
+  [INFRAEOSC-02-2019](http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-02-2019.html)
 
 ### Numfocus Europe
 
 - Nicolas participated to Sylvain Corlay's effort in setting up
-  Numfocus Europe (to be announced officially soon), an umbrella
+  NumFOCUS Europe (to be announced officially soon), an umbrella
   association whose mission is to make it easier in Europe for
   companies to financially support open source computational software.
+
+### Advocacy for open science and open source software in French institutions
+
+- Nicolas was invited to join the «Libre and Open Source Software»
+  group of a recently created Committee for Open Science of the French
+  Ministry for research.
 
 ### Portability and build system for SageMath
 
