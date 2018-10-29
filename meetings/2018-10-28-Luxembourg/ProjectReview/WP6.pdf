@@ -58,22 +58,7 @@
   \mhinputref{mathhub/en/mathhub-new}
 \end{omgroup}
 
-\begin{frame}
-  \frametitle{KPIs and Deliverables for WP6}
-  \begin{itemize}
-  \item MitM-connected Systems: four (\blue{GAP, Sage, LMFDB}, \green{Singular})\lec{See D6.5}
-  \item MitM Ontology: \Ednote{MK: numbers from D6.8}\lec{See D6.8}
-  \item MitM System API Theories: GAP, Sage, LMFDB, Singular \Ednote{MK: numbers from D6.8}
-  \item Multi-Site involvement of Researchers \lec{Mobility of Researchers}
-    \begin{itemize}
-    \item PD. Dr. Florian Rabe (Joint appointment UPSud/FAU)
-    \item Felix Schmoll Summer Internship (From JacU to St.Andrews)
-    \item Prof. Nathan Carter (Bentley Univ.) in St. Andrews (Sabbatical) 
-    \end{itemize}
-  \item Heavy interest by the theorem proving community about MitM Ontology
-  \end{itemize}
-\end{frame}
-
+\mhinputref{ODK/en/WP6-KPIs2}
 \mhinputref{ODK/en/WP6-concl2}
 \libinput{post}
 \end{document}
