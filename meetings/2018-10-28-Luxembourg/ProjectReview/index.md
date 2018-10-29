@@ -19,7 +19,7 @@ second 18 months of the project.
    - [Brief overview of the project](overview-final.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
 - 9:30 Some context: case studies, impact
-    - Science and Open Source: what do we learn from each other?
+    - [Science and Open Source: what do we learn from each other?](PyconFr_Keynote.pdf)
       by [Viviane Pons](https://github.com/VivianePons),
       based on her [PyConFr invited talk](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/)
       (~25 min)
