@@ -16,7 +16,7 @@ second 18 months of the project.
 - 9:00 Welcome
    - Overview of the day by Project Officer
    - Go around the table
-   - [Brief overview of the project](overview-final.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
+   - [Some highlights on OpenDreamKit](overview-latest.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
 - 9:30 Some context: case studies, impact
     - Science and Open Source: what do we learn from each other?
@@ -37,7 +37,7 @@ second 18 months of the project.
 - 14:30 Achievements, by work package, session 2
     - [WP6: Data/Knowledge/Software-Bases](WP6.pdf), by [Michael Kohlhase](http://kwarc.info/kohlhase) (~30 min)
     - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), by Viviane Pons (~30 min)
-- 15:45 Wrap up, by Nicolas M. Thiéry
+- 15:45 [Wrap up](wrapup-latest.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
 
 - 17:00 Feedback and discussion with reviewers
