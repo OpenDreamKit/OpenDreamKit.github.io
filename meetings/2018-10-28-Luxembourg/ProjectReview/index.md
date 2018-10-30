@@ -23,7 +23,7 @@ second 18 months of the project.
       by [Viviane Pons](https://github.com/VivianePons),
       based on her [PyConFr invited talk](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/)
       (~25 min)
-    - Case study: Micromagnetics, by Beg Marijan (~25 min)
+    - [Case study: Micromagnetics](marijan-beg-talk.pdf), by Beg Marijan (~25 min)
 
 - 10:20 Coffee break, with demonstrators and posters
 
