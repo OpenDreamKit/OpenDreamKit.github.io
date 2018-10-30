@@ -29,7 +29,7 @@ second 18 months of the project.
 
 - 11:20 Achievements, by work package, session 1
     - [WP4: User Interfaces](wp4.pdf), by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
-    - [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/master?filepath=meetings%2F2018-10-28-Luxembourg%2FProjectReview%2FWP3.ipynb), by [Luca De Feo](https://defeo.lu/) (~30 min)
+    - [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/rp2-wp3-binder-presentation?filepath=meetings%2F2018-10-28-Luxembourg%2FProjectReview%2FWP3.ipynb), by [Luca De Feo](https://defeo.lu/) (~30 min)
     - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_2/WP5/WP5.pdf),
       by Clément Pernet (~30 min)
 - 13:00 Lunch in the premises, with demonstrators and posters
