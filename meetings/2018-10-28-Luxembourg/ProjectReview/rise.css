@@ -1,0 +1,5 @@
+body.rise-enabled {
+    background: no-repeat top right;
+    background-color: #fff;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../../../public/images/banner.png);
+}
