@@ -1,9 +1,9 @@
-- name: SageMath
+- name: SageMath (and PARI/GP)
   binder_url: https://beta.mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=index.ipynb
   thumbnail: /try/thumbnails/sage.png
 
 - name: GAP
-  binder_url: https://mybinder.org/v2/gh/gap-system/gap-docker-binder/master
+  binder_url: https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master
   thumbnail: /try/thumbnails/GAPLogo.png
 
 - name: Singular

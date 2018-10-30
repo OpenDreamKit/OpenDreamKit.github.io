@@ -14,4 +14,6 @@ Hotel city
 
 **Content**
 
+[Progress Reports](ProgressReports/)
+
 See the [PAD](https://hackmd.io/gVYtXO2BSG2PWwSXaoHSNg#).

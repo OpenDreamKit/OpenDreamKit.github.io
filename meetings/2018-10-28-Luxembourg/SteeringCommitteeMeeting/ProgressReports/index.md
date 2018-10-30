@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: Progress report for the Period January-Oct 2018
+title: Progress report for the Period March 2017-Oct 2018
 ---
 
 Brief progress reports for all sites.
@@ -12,7 +12,7 @@ The slides below (taken from our previous June meeting) are to be updated:
 
 - [Université Paris Sud](ParisSud)
 - [CNRS](CNRS)
-- [Jacobs University Bremen with FAU Erlangen-Nürnberg](JacU-FAU)
+- [FAU Erlangen-Nürnberg](FAU)
 - [Université Grenoble-Alpes](UGA)
 - [University of Kaiserslautern](Kaiserslautern)
 - [Oxford](Oxford)

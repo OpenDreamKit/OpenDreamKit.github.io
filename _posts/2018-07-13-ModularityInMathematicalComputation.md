@@ -15,6 +15,7 @@ compilation: pandoc 2018-07-13-ModularityInMathematicalComputation.md -t beamer 
 tags:
     - component-architecture
     - talk
+    - dksbases
 ---
 
 # Modularity and composability in Mathematical Computation

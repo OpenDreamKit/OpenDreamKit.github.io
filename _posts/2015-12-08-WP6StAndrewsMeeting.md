@@ -7,6 +7,7 @@ title: Knowledge representation in mathematical software and databases & Steerin
 tags:
     - workshop
     - project-meeting
+    - dksbases
 ---
 
 This workshop is taking place at the University of St Andrews, UK. It will be preceded by the [First Joint GAP-Sage Days](http://gapdays.de/gap-sage-days2016/) (GAP Coding sprint on Jan 13-16, 2016 & GAP-SageMath Workshop on Jan 18-22, 2016) which are taking place in St Andrews as well, but require separate registration.
