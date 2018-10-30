@@ -28,7 +28,7 @@ second 18 months of the project.
 - 10:20 Coffee break, with demonstrators and posters
 
 - 11:20 Achievements, by work package, session 1
-    - WP4: User Interfaces, by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
+    - [WP4: User Interfaces](wp4.pdf), by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
     - [WP3: Component Architecture](WP3/), by [Luca De Feo](https://defeo.lu/) (~30 min)
     - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_2/WP5/WP5.pdf),
       by Clément Pernet (~30 min)
