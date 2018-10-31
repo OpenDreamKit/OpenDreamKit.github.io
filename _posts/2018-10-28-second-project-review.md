@@ -7,11 +7,12 @@ tags:
     - management
     - project-review
     - front-page
+image: rp2-meeting.jpg
 ---
 
 At the occasion of the second
 [formal review](/meetings/2018-10-28-Luxembourg/ProjectReview/)
-by the EU commission, twenty OpenDreamKit participants will meet late
+by the EU commission, twenty OpenDreamKit participants met late
 October 2018 in Luxembourg for two days of rehearsals and internal
 project meeting, one day of formal review, and one day of coding
 sprints. [Read More](/meetings/2018-10-28-Luxembourg/).

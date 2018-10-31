@@ -1,4 +1,4 @@
-- name: SageMath, GAP, PARI/GP, Singular
+- name: SageMath (and PARI/GP)
   binder_url: https://beta.mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=index.ipynb
   thumbnail: /try/thumbnails/sage.png
 

@@ -11,7 +11,7 @@ second 18 months of the project.
 
 ## Agenda
 
-[PAD](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA) for taking notes
+[PAD](https://hackmd.io/p48KpjlIR4mEoW0ZYToytg) for taking notes
 
 - 9:00 Welcome
    - Overview of the day by Project Officer
@@ -23,13 +23,13 @@ second 18 months of the project.
       by [Viviane Pons](https://github.com/VivianePons),
       based on her [PyConFr invited talk](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/)
       (~25 min)
-    - Case study: Micromagnetics, by Beg Marijan (~25 min)
+    - [Case study: Micromagnetics](marijan-beg-talk.pdf), by Beg Marijan (~25 min)
 
 - 10:20 Coffee break, with demonstrators and posters
 
 - 11:20 Achievements, by work package, session 1
-    - WP4: User Interfaces, by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
-    - [WP3: Component Architecture](WP3/), by [Luca De Feo](https://defeo.lu/) (~30 min)
+    - [WP4: User Interfaces](wp4.pdf), by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
+    - [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/rp2-wp3-binder-presentation?filepath=meetings%2F2018-10-28-Luxembourg%2FProjectReview%2FWP3.ipynb), by [Luca De Feo](https://defeo.lu/) (~30 min)
     - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_2/WP5/WP5.pdf),
       by Clément Pernet (~30 min)
 - 13:00 Lunch in the premises, with demonstrators and posters

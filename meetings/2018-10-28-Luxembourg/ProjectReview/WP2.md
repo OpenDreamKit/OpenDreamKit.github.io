@@ -214,7 +214,7 @@ ODK at the **2nd international RSE conference**:
   * 452 followers on Twitter
   * Video interviews and explainer material
 * **We have been part of 50 events**
-  * 22 training to 500 trainees
+  * 22 training to 700 trainees
   * focus on Diversity
 * **We have had a tremendous impact on the UK RSE community** 
 
