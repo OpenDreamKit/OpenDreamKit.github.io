@@ -36,6 +36,8 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 ## Wednesday 31st ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
+[PAD for discussions](https://hackmd.io/19XqGFczRbePkUlF4J7VsA#)
+
 Sprints and brainstorms:
 
 - Future funding
