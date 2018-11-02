@@ -292,6 +292,9 @@ sites:
         github: tkw1536
       - name: Theresa Pollinger
         homepage: 'https://kwarc.info/people/tpollinger'
+      - name: Katja Berčič
+        homepage: 'https://kwarc.info/people/kbercic'
+        github: katjabercic
         
   - name: 15- University of Leeds
     logo: leeds-logo.jpg
