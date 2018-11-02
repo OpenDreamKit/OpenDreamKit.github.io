@@ -336,7 +336,6 @@ h1, h2, h3, h4{
 .item-project h3{
     font-size: 14px;
     margin: 0;
-
 }
 
 .item-project a{
@@ -353,7 +352,9 @@ h1, h2, h3, h4{
     height: auto;
 }
 
-
+.item-project-filler {
+    flex-grow: 1;
+}
 
 /************/
 /**Events**/

@@ -1,8 +1,9 @@
 
 <article class="item item-project">
     {% if post.image %}
-        <a href="{{ post.url }}"><img src="{{ site.baseurl }}/public/images/{{ post.image }}" alt=""></a>
+      <a href="{{ post.url }}"><img src="{{ site.baseurl }}/public/images/{{ post.image }}" alt=""></a>
     {% endif %}
+    <div class="item-project-filler"></div>
     <h3>{{ post.title }} {{ post.subtile }}</h3>
     <a href="{{ post.url }}">Learn more ></a>
 </article>
