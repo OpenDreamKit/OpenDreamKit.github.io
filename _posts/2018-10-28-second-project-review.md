@@ -24,7 +24,7 @@ we had one day of
 which all came up as quite a show.
 
 Up to a legitimate complain about our financial reports being
-delivered very late by our administrations and some minor points,
+delivered very late by our administrations and some other minor points,
 **the feedback was once again very positive**, with language such as
 "very good technical work", "very good sustainability plan", "very
 good management work considering difficulty of managing large project
