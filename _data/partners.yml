@@ -154,7 +154,7 @@ sites:
           - site-leader
         github: stevelinton
       - name: Alexander Konovalov
-        homepage: 'http://blogs.cs.st-andrews.ac.uk/alexk/'
+        homepage: 'https://alex-konovalov.github.io/'
         github: alex-konovalov
       - name: Markus Pfeiffer
         homepage: 'http://www.morphism.de/~markusp/'
