@@ -8,6 +8,7 @@ redirect_from: "/events_activities/reports/"
 
 We are required to write reports on our activities in order for the European commission to evaluate our work. All our reports are public along with the related discussions and work. You can find them on our github page.
 
+<a name="reporting-period-1"/>
 ## Reporting Period 1 (September 2015-February 2017)
 
 * [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/files/953012/ReportsReportingPeriod1.zip)
@@ -15,6 +16,7 @@ We are required to write reports on our activities in order for the European com
 
 {% include deliverables.html begin=1 end=18 %}
 
+<a name="reporting-period-2"/>
 ## Reporting Period 2 (March 2017-August 2018)
 
 * [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/releases/download/RP2/ReportsReportingPeriod2.zip)
@@ -22,6 +24,7 @@ We are required to write reports on our activities in order for the European com
 
 {% include deliverables.html begin=19 end=36 %}
 
+<a name="reporting-period-3"/>
 ## Reporting Period 3 (September 2018-August 2019)
 
 ## Workshops and meetings minutes
