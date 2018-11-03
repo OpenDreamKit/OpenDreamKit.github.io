@@ -16,7 +16,7 @@ and new project officers. About twenty five of us came to Luxembourg to
 present our achievements during the second period of the project
 (March 2017 to August 2018), including
 [18 deliverables](https://github.com/OpenDreamKit/OpenDreamKit/issues?utf8=%E2%9C%93&q=is%3Aissue+label%3Adeliverable+label%3AReportingPeriod2+).
-See our [reports](project/reports/#reporting-period-2).
+See our [reports](/project/reports/#reporting-period-2).
 
 After
 [two days of rehearsals](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/),
