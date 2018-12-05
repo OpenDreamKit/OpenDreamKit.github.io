@@ -15,7 +15,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 - Morning: informal sprints
 - 13:00-14:00: Lunch
-- 14:00-19:00: [Pad for notes](https://hackmd.io/XjNXoStPRmy8T_KSrRrfhw)
+- 14:00-19:00: [Notes](NotesSunday)
   - KPI brainstorm
   - Rehearse the Micromagnetics case study and all workpackage
     presentations, in the order given in the project review
