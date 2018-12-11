@@ -30,7 +30,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 ## Tuesday 30th (EUFO building)
 
-[Project Review](ProjectReview) --- [Pad for notes](https://hackmd.io/p48KpjlIR4mEoW0ZYToytg)
+[Project Review](ProjectReview) --- [Notes](Notes Tuesday)
 
 ~19:00: social dinner
 
