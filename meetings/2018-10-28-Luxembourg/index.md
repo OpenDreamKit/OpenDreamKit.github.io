@@ -30,7 +30,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 ## Tuesday 30th (EUFO building)
 
-[Project Review](ProjectReview) --- [Notes](Notes Tuesday)
+[Project Review](ProjectReview) --- [Notes](NotesTuesday)
 
 ~19:00: social dinner
 
