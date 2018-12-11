@@ -15,10 +15,10 @@ Review the KPI from our [2017 work plan revisions](https://github.com/OpenDreamK
 
 KPIs (= key performance indicators) are some measurable ways to evaluate our work.
 
-At the M18 review we presented the then current state of our KPIs.
+At the M18 review we presented the current state of our KPIs.
 It needed improving! Need more data collection...
 
-Aim 1: improve the productivity of researchers in purerere mathematics
+Aim 1: improve the productivity of researchers in pure mathematics
 
 We need more blog posts of stories.
 
