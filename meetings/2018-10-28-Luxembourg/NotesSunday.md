@@ -5,8 +5,8 @@ title: Project review preparation, Sun 2018-10-28
 ---
 
 This is the old pad for Sunday.
-**Please use instead the [Pad for Monday](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA)**.
-Also remove material that is not relevant anymore here.
+**Please use instead the [Pad for Monday](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/NotesMonday/)**.
+
 
 
 ## KPIs
