@@ -24,7 +24,7 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 ## Monday 29th (EUFO building)
 
 - 9:30-16:00: Rehearse all demos and presentations, following the timing of the
-  project review [agenda](ProjectReview#agenda). [Pad for notes](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA)
+  project review [agenda](ProjectReview#agenda).[Notes](NotesMonday) [Pad for notes](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA)
 - 17:30:
   [Steering Committee Meeting](SteeringCommitteeMeeting/)
 
