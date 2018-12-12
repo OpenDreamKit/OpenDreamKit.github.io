@@ -4,7 +4,7 @@ tags: OpenDreamKit, meeting
 title: Project review rehearsal, Mon 2018-10-29
 ---
 
-**Tuesday pad**: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/NotesTuesday/
+See [Tuesday pad](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/NotesTuesday/)**.
 
 
 
