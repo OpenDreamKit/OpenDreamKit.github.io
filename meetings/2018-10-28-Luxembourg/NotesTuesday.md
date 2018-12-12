@@ -9,8 +9,7 @@ OpenDreamKit Project Review
 
 ## Tuesday 30 October 2018
 
-Agenda: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/
-
+**See [Agenda](https://opendreamkit.org/meetings/2018-10-28-Luxembourg/ProjectReview/)**.
 
 ## Reviewer feedback and unanswered questions
 
