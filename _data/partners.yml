@@ -9,11 +9,11 @@ sites:
           - project-coordinator
           - wp1-leader
         github: nthiery
-      - name: Benoît Pilorget
-        homepage: 'https://fr.linkedin.com/pub/beno%C3%AEt-pilorget/84/5b3/430'
+      - name: Izabela Faguet
+        homepage: 'https://fr.linkedin.com/in/izabela-faguet-a5214814b'
         roles:
           - project-manager
-        github: bpilorget
+        github: IzabelaFaguet
       - name: Viviane Pons
         homepage: 'https://www.lri.fr/~pons/'
         github: VivianePons
@@ -43,6 +43,7 @@ sites:
     members:
       - name: Vincent Delecroix
         homepage: 'http://www.labri.fr/perso/vdelecro/'
+        email: 'vincent.delecroix@labri.fr' 
         roles:
           - site-leader
         github: videlec
