@@ -258,7 +258,7 @@ sites:
         email: 'david.douard@logilab.fr'
       - name: Serge Guelton
         homepage: 'http://serge.liyun.free.fr/serge/index.html'
-        email: 'serge.guelton@telecom-bretagne.eu
+        email: 'serge.guelton@telecom-bretagne.eu'
         github: serge-sans-paille
       - name: Julien Cristau
         homepage: 'https://www.logilab.org/blogentry/854624'
