@@ -49,60 +49,76 @@ sites:
         github: videlec
       - name: Karim Belabas
         homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
+        email: 'Karim.Belabas math.u-bordeaux.fr'
         github: KBelabas
       - name: Bill Allombert
         homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
+        email: 'Bill.Allombert@math.u-bordeaux.fr'
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
+        email: 'boussica(at)labri.fr'
       - name: Vincent Klein
+        email: 'vincent.kleinarobaselabri.fr'
       - name: Sébastien Labbé
         homepage: "http://www.slabbe.org/"
+        email: 'sebastien.labbe@labri.fr'
   - name: 03-Université Grenoble Alpes
     logo: logo-uga.png
     homepage: 'https://www.ujf-grenoble.fr'
     members:
       - name: Clément Pernet
         homepage: 'http://ljk.imag.fr/membres/Clement.Pernet'
+        email: 'clement.pernet@univ-grenoble-alpes.fr'
         roles:
           - site-leader
           - wp5-leader
         github: ClementPernet
       - name: Jean-Guillaume Dumas
         homepage: 'http://www-ljk.imag.fr/membres/Jean-Guillaume.Dumas/'
+        email: 'Jean-Guillaume.Dumas@univ-grenoble-alpes.fr'
         github: jgdumas
       - name: Hongguang Zhu
+        email: 'zhuhongguang2014@gmail.com'
         github: ZHG2017
       - name: Alexis Breust
+        email: 'alexis.breust@univ-grenoble-alpes.fr'
         github: Breush
   - name: 04-University of Kaiserslautern
     logo: Kaiserslautern logo.png
     homepage: 'http://www.uni-kl.de/startseite/'
     members:
       - name: Prof. Dr. Wolfram Decker
-        homepage: 'http://www.mathematik.uni-kl.de/agag/mitglieder/professoren/prof-dr-wolfram-decker/'
+        homepage: 'https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/'
+        email: 'decker@mathematik.uni-kl.de'
         github: wdecker
         roles:
          - site-leader
       - name: Dr Anders Jensen
         homepage: 'http://home.math.au.dk/jensen/'
+        email: 'jensen@imf.au.dk'
       - name: Alex Best
         homepage: 'https://alexjbest.github.io/'
+        email: 'alexjbest@gmail.com'
         github: alexjbest
       - name: Dr Alexander Kruppa
       - name: Dr. Remi Imbach
+        email: 'imbach@mathematik.uni-kl.de'
       - name: Daniel Schultz
+        email: 'schultz@mathematik.uni-kl.de'
   - name: 05-University of Oxford
     logo: ox_brand.png
     homepage: 'http://www.ox.ac.uk'
     members:
       - name: Dmitrii Pasechnik
         homepage: 'https://www.cs.ox.ac.uk/people/dmitrii.pasechnik/'
+        email: 'dmitrii.pasechnik@cs.ox.ac.uk'
         roles:
           - site-leader
           - wp7-leader
         github: dimpase 
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
+        email: 'elkind@cs.ox.ac.uk'
       - name: Ursula Martin (retired)
 
 
@@ -114,12 +130,15 @@ sites:
     members:
       - name: Guy Brown
         homepage: 'http://staffwww.dcs.shef.ac.uk/people/G.Brown/'
+        email: 'g.j.brown@sheffield.ac.uk'
         github: guyjbrown
       - name: William Furnass
-        homepage: 'https://www.sheffield.ac.uk/civil/staff/research/furnassw'
+        homepage: 'https://www.sheffield.ac.uk/dcs/people/research-staff/wfunrass/profile'
+        email: 'w.furnass@sheffield.ac.uk'
         github: willfurnass
       - name: Neil Lawrence
-        homepage: 'https://www.sheffield.ac.uk/neuroscience/staff/lawrence'
+        homepage: 'https://www.sheffield.ac.uk/dcs/people/academic/nlawrence'
+        email: 'n.lawrence@sheffield.ac.uk'
         github: lawrennd
         # status: left
   - name: 06-University of Silesia
@@ -128,11 +147,13 @@ sites:
     members:
       - name: Marcin Kostur
         homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/25-dr-hab-prof-us-marcin-kostur'
+        email: 'marcin.kostur@us.edu.pl'
         roles:
           - site-leader
         github: marcinofulus
       - name: Jerzy Łuczka
         homepage: 'http://zft.us.edu.pl/index.php/people/13-staff/5-prof-dr-hab-jerzy-luczka-head'
+        email: 'jerzy.luczka@us.edu.pl'
       - name: Jan Aksamit
         homepage: 'http://www.researchgate.net/profile/Jan_Aksamit'
         status: deceased
@@ -142,23 +163,28 @@ sites:
     members:
       - name: Ian Hawke
         homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
+        email: 'i.hawke@soton.ac.uk'
         github: IanHawke
       - name: Marijan Beg 
+        email: 'm.beg@soton.ac.uk'
   - name: 07-University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
     members:
       - name: Steve Linton
         homepage: 'https://www.cs.st-andrews.ac.uk/directory/person?id=sal'
+        email: 'sl4@st-andrews.ac.uk'
         roles:
           - project-deputy
           - site-leader
         github: stevelinton
       - name: Alexander Konovalov
         homepage: 'https://alex-konovalov.github.io/'
+        email: 'alexander.konovalov@st-andrews.ac.uk'
         github: alex-konovalov
       - name: Markus Pfeiffer
         homepage: 'http://www.morphism.de/~markusp/'
+        email: 'markus.pfeiffer@st-andrews.ac.uk'
         github: markuspf
   - name: Jacobs University Bremen (Left the consortium)
     logo: jacobs-logo.png
@@ -166,9 +192,11 @@ sites:
     members:
       - name: Christian Maeder
         homepage: 'http://www.informatik.uni-bremen.de/~maeder/index_e.html'
+        email: 'c.maeder@jacobs-university.de'
         github: cmaeder
       - name: Mihnea Iancu
         homepage: 'http://www.jacobs-university.de/directory/miancu'
+        email: 'm.iancu@jacobs-university.de'
         github: m-iancu
   - name: 08-Université de Versailles – Saint-Quentin-en-Yvelines
     logo: uvsq.jpg
@@ -176,6 +204,7 @@ sites:
     members:
       - name: Luca De Feo
         homepage: 'http://defeo.lu/'
+        email: 'luca.de-feo@uvsq.fr'
         roles:
           - site-leader
           - wp3-leader
@@ -184,6 +213,7 @@ sites:
         orcid:  0000-0002-9321-0773
       - name: Nicolas Gama
         homepage: 'http://gama.nicolas.free.fr/'
+        email: 'nicolas.gama@gmail.com'
         github: ngama75
   - name: 09-University of Warwick
     logo: UofW.png
@@ -191,17 +221,23 @@ sites:
     members:
       - name: John E. Cremona
         homepage: 'http://homepages.warwick.ac.uk/staff/J.E.Cremona/'
+        email: 'J.E.Cremona@warwick.ac.uk'
         roles:
           - site-leader
         github: JohnCremona
       - name: Chris Brady
+        homepage: 'https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/pastmembers/bradyc/'
+        email: 'C.S.Brady@Warwick.ac.uk'
       - name: Heather Ratcliffe
+        homepage: 'https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/pastmembers/ratcliffe/'
+        email: 'h.ratcliffe{@}warwick.ac.uk'
   - name: Universität Zurich (Left the consortium)
     logo: University_of_Zurich_Logo.svg
     homepage: 'http://www.uzh.ch'
     members:
       - name: Paul-Olivier Dehaye
         homepage: 'http://user.math.uzh.ch/dehaye/'
+        email: 'pdehaye@math.ethz.ch'
         roles:
           - site-leader
         twitter: 'podehaye'
@@ -214,18 +250,23 @@ sites:
     members:
       - name: Olivier Cayrol
         homepage: 'https://www.logilab.fr/card/olivier.cayrol'
+        email: 'Olivier.Cayrol@logilab.fr'
         roles:
           - site-leader
       - name: David Douard
         homepage: 'https://www.logilab.fr/id/david.douard'
+        email: 'david.douard@logilab.fr'
       - name: Serge Guelton
         homepage: 'http://serge.liyun.free.fr/serge/index.html'
+        email: 'serge.guelton@telecom-bretagne.eu
         github: serge-sans-paille
       - name: Julien Cristau
         homepage: 'https://www.logilab.org/blogentry/854624'
+        email: 'julien.cristau@logilab.fr'
         status: left
       - name: Florent Cayré
         homepage: 'https://www.logilab.fr/card/florent.cayre'
+        email: 'florent.cayre@logilab.fr'
         github: fcayre
         status: left    
 
@@ -234,14 +275,19 @@ sites:
     homepage: 'https://www.simula.no'
     members:
       - name: Min Ragan-Kelley
+        homepage: 'https://www.simula.no/people/benjaminrk'
+        email: 'benjaminrk@simula.no'        
         twitter: 'minrk'
         github: minrk
         roles:
           - site-leader
           - wp4-leader
       - name: Vidar Tonaas Fauske
+        homepage: 'https://www.simula.no/people/vidar'
+        email: 'vidar@simula.no'
       - name: Martin Sandve Alnæs
         homepage: 'https://www.simula.no/people/martinal'
+        email: 'martinal@simula.no'
         github: martinal
         status: left
       - name: Hans Petter Langtangen
@@ -255,6 +301,7 @@ sites:
     members:
       - name: Jeroen Demeyer
         homepage: 'http://cage.ugent.be/~jdemeyer/'
+        email: 'jdemeyer@cage.ugent.be'
         github: jdemeyer
         roles:
           - site-leader
@@ -264,13 +311,15 @@ sites:
     members:
       - name: Hans Fangohr
         homepage: 'http://www.southampton.ac.uk/~fangohr'
+        email: 'hans.fangohr@xfel.eu'
         twitter: ProfCompMod
+        github: fangohr
         roles:
           - site-leader
-          - qr-board-leader
-        github: fangohr
+          - qr-board-leader        
       - name: Marijan Beg 
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
+        email: 'marijan.beg@xfel.eu'
         github: mb1a15
   - name: 14-FAU Universität Erlangen-Nürnberg
     logo: FAU-logo.png
@@ -278,23 +327,29 @@ sites:
     members:
       - name: Michael Kohlhase
         homepage: 'https://kwarc.info/people/mkohlhase'
+        email: 'michael.kohlhase@fau.de'
         roles:
          - site-leader
          - wp6-leader
         github: kohlhase
       - name: Florian Rabe
         homepage: 'https://kwarc.info/people/frabe/'
+        email: 'Florian.Rabe@lri.fr'
         github: florian-rabe
       - name: Dennis Müller
         homepage: 'https://kwarc.info/people/dmueller'
+        email: 'd.mueller@kwarc.info'
         github: Jazzpirate
       - name: Tom Wiesing
         homepage: 'https://kwarc.info/people/twiesing'
+        email: 'tom.wiesing@fau.de'
         github: tkw1536
       - name: Theresa Pollinger
         homepage: 'https://kwarc.info/people/tpollinger'
+        email: 'theresa.pollinger@fau.de'
       - name: Katja Berčič
         homepage: 'https://kwarc.info/people/kbercic'
+        email: 'katja.bercic@kwarc.info'
         github: katjabercic
         
   - name: 15- University of Leeds
@@ -303,11 +358,12 @@ sites:
     members:
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
+        email: 'FirstInitial.Surname@Leeds.ac.uk'       
         github: mikecroucher
         roles:
           - site-leader
-      - name: Tania R. Allard
-        github:
+      - name: Tania R. Allard    
+        github: trallard
      
 
 
