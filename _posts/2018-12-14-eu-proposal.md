@@ -28,6 +28,12 @@ tags:
 
 1.  Good luck and more reading
 
+Note:
+
+This is a talk I delivered at a meeting organized by platform Wiskunde
+Netherlands, NWO, and Yellow Research to encourage Dutch
+mathematicians to apply for EU funding.
+
 ---
 
 ## OpenDreamKit (2015-2019)
