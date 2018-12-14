@@ -53,7 +53,10 @@
 
     .reveal h1 { font-size: 2em; text-transform: none}
     .reveal h2 { font-size: 1.5em; text-transform: none}
-    .reveal h3 { font-size: 1em; text-transform: none}
+    .reveal h3 { font-size: 1.2em; text-transform: none}
+    .reveal h4 { font-size: 1em; text-transform: none}
+</style>
+
 </style>
 
     <!--link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" /-->
@@ -83,7 +86,9 @@
       Reveal.initialize({
         controls: true,
         progress: true,
-        history: false,
+        history: true,
+        height: "95%",
+        width: "95%",
         center: false,
         {%if page.transition %}
           transition: '{{page.transition}}',
