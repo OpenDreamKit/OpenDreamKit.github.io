@@ -1,6 +1,6 @@
 ---
 layout: slides_wp
-title: "The making of OpenDreamKit"
+title: "On the making of OpenDreamKit"
 
 theme: white
 transition: none
@@ -18,13 +18,15 @@ tags:
 
 ## Plan
 
-### OpenDreamKit?
+1.  OpenDreamKit?
 
-### The making of: brief history (from coordinator's perspective)
+1.  The making of: brief history (from coordinator's perspective)
 
-### The making of: approach
+1.  The making of: approach
 
-### To run or not to run for a EU project?
+1.  To run or not to run for a EU project?
+
+1.  Good luck and more reading
 
 ---
 
@@ -51,7 +53,7 @@ tags:
 ---
 ## The making of: for me it all started there
 
-<center><img src="/meetings/2015-09-02-Kickoff/Pictures/haut2.jpg" alt="just a nice picture" width="60%"/></center>
+<center><img src="/public/images/haut2.jpg" alt="just a nice picture" width="60%"/></center>
 
 Note:
 - Since 20 years, I am doing research in algebraic combinatorics. And
@@ -77,7 +79,7 @@ Note:
 
 ## What really got me started
 
-{% include vspace.html length="20%" %}
+{% include vspace.html length="15%" %}
 
 **A question of Bruce Westbury at [FPSAC 2013](http://fpsac.org) in Paris:**
 <center>
@@ -88,12 +90,16 @@ Note:
 
 ## Timeline
 
-**Before 2014:** Basic idea: seek funding for
+**Before 2014:**
+
+Basic idea: seek funding for
 
 - A couple full time developers
 - Community building
 
 Several unlucky attempts: ANR, ...
+
+{% include vspace.html %}
 
 **Early 2014:** Our EU office suggests a call
 
@@ -106,14 +112,16 @@ Several unlucky attempts: ANR, ...
 ----
 ## Detailed timeline
 
-## January to August 2014
+### January to August 2014
 
 - Seek information on the H2020 Programm
 - Reach the broad community
 - First five page draft
 - Choice of a potential call
 
-## September 2014
+{% include vspace.html %}
+
+### September 2014
 
 - Meeting with 12 potential participants
 - Analyze the needs
@@ -122,7 +130,7 @@ Several unlucky attempts: ANR, ...
 
 ----
 
-## October 2014 to January 2015
+### October 2014 to January 2015
 
 - Writing
 - Reconfiguration of work packages
@@ -130,11 +138,15 @@ Several unlucky attempts: ANR, ...
 - Extension of the consortium consortium
 - Writing, writing, writing, ...
 
-## May 2015 to August 2015
+{% include vspace.html %}
+
+### May 2015 to August 2015
 
 - Acceptation, Préparation, Launch
 
-## September 2015
+{% include vspace.html %}
+
+### September 2015
 
 - Kickoff
 
@@ -182,13 +194,17 @@ Several unlucky attempts: ANR, ...
 - to jointly define the vision of the project
 - to do what they think is right (they know better)
 
+{% include vspace.html %}
+
 #### Enable
 
 - What's the status of the proposal?
 - What remains to do?
 - How can they help?
 
-#### Run forward and pray ... and be thankful
+{% include vspace.html %}
+
+#### Smile, run forward, and hope ... and be thankful
 
 <center>[When it works video](https://www.youtube.com/watch?v=kM9zcfRtOqo)</center>
 
@@ -238,6 +254,7 @@ Forget about: Word, Dropbox, ...
 - Get good collaborative tools instead.
 
 {% include vspace.html %}
+{% include vspace.html %}
 
 #### Get a few good counselors!
 
@@ -272,11 +289,19 @@ Forget about: Word, Dropbox, ...
 
 ### Benefits
 
+{% include vspace.html %}
+
 - Means to achieve what you care about: funding, manpower
+
+{% include vspace.html %}
 
 - Opportunities to grow your skills, your network, your vision
 
+{% include vspace.html %}
+
 - An amazing human experience
+
+{% include vspace.html length="10%" %}
 
 - Incidentally: not bad for your career
 
@@ -284,9 +309,6 @@ Forget about: Word, Dropbox, ...
 
 ----
 ## To run or not to run for a EU project?
-
-- Do you have a dream?<br>Something you care enough about to sacrifice a
-  good chunk of your life, of your research?
 
 - What are the needs of your community?<br>
   Can funding actually help?
@@ -296,6 +318,13 @@ Forget about: Word, Dropbox, ...
 - Do you have good administrative support?
 
 - Do you have experience coordinating people?
+
+{% include vspace.html %}
+
+- Do you have a dream?<br>Something you care enough about to devote a
+  good chunk of your life? of your research?
+
+{% include vspace.html %}
 
 - Are you ready for an adventure?
 
@@ -309,7 +338,7 @@ Forget about: Word, Dropbox, ...
 
 - You will be entrusted funds **by the citizen** and **for your community**
 
-- You won't own them, but be responsible for their optimal use
+- You won't own them, but be responsible for their best use
 
 <center><img src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" width="10%" alt="OpenDreamKit"/></center>
 
