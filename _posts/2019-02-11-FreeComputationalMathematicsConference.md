@@ -29,4 +29,20 @@ it will be the main public closing event.
 
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
-## More information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
+The first phase of preregistration ended on January 7th, but we still
+have a dozen spots left which will be filled on a first come first
+serve basis.
+
+## Funding
+
+OpenDreamKit will cover the local expenses for all participants and
+the travel expenses of some participants, with priority given to
+students and participants from developing countries. You can apply for
+such funding upon preregistration; CV and similar information will
+help us make an informed decision.
+
+## Schedule
+
+Coming soon!
+
+## Additional information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
