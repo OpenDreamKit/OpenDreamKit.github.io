@@ -29,8 +29,9 @@ it will be the main public closing event.
 
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
-The first phase of preregistration ended on January 7th, but we still
-have a dozen spots left which will be filled on a first come first
+The first phase of preregistration ended on January 7th. We may have
+some additional spots, in which case we will reopen the
+preregistration on Tuesday 15th and fill them on a first come first
 serve basis.
 
 ## Funding
