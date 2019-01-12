@@ -29,4 +29,6 @@ it will be the main public closing event.
 
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
+Preregistration was closed early January. We may have some additional spots in which case we will reopen the preregistration on Tuesday 15th.
+
 ## More information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
