@@ -32,7 +32,7 @@ it will be the main public closing event.
 [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 officially ended on January 7th. However, we may have
 some additional spots, which we will fill on a first come first
-serve basis. Please preregister.
+serve basis. If you are insterested, please keep preregistering.
 
 ## Funding
 
