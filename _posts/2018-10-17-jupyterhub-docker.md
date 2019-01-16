@@ -50,7 +50,7 @@ delegated authentication and containerized environments, based on
 underused in your organization's racks, chances are you will find this
 deployment to your liking.
 
-The set-up described in this tutorial has been deployed at [Univeristy
+The set-up described in this tutorial has been deployed at [University
 of Versailles](http://www.uvsq.fr/) for the whole faculty of science.
 It is used both for teaching and research. You can find the full
 configuration scripts here:
