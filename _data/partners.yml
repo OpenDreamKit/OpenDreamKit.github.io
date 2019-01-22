@@ -186,7 +186,11 @@ sites:
         homepage: 'http://www.morphism.de/~markusp/'
         email: 'markus.pfeiffer@st-andrews.ac.uk'
         github: markuspf
-  - name: Jacobs University Bremen (Left the consortium)
+      - name: Michael Torpey
+        homepage: 'http://www-groups.mcs.st-andrews.ac.uk/~mct25/'
+        email: 'mct25@st-andrews.ac.uk'
+        github: mtorpey
+- name: Jacobs University Bremen (Left the consortium)
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'
     members:
