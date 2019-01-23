@@ -39,7 +39,7 @@ sites:
       - name: Odile Bénassy
         homepage: 'https://www.lri.fr/membre.php?mb=2529'
         github: zerline
-        
+
   - name: 02-Université de Bordeaux
     logo: Universite-de-Bordeaux_static.svg
     homepage: 'https://www.u-bordeaux.fr/'
