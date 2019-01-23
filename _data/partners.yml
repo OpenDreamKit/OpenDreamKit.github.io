@@ -1,4 +1,3 @@
---- 
 sites: 
   - name: 01-Université Paris-Sud
     logo: Paris-Sud-Saclay.jpg
@@ -193,7 +192,7 @@ sites:
         homepage: 'http://www-groups.mcs.st-andrews.ac.uk/~mct25/'
         email: 'mct25@st-andrews.ac.uk'
         github: mtorpey
-- name: Jacobs University Bremen (Left the consortium)
+  - name: Jacobs University Bremen (Left the consortium)
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'
     members:
