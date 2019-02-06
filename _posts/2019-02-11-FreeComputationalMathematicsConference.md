@@ -42,8 +42,6 @@ students and participants from developing countries. You can apply for
 such funding upon preregistration; CV and similar information will
 help us make an informed decision.
 
-## Schedule
-
-Coming soon!
+## [Schedule](https://hackmd.io/zkXWN_cwTjy46dyBSJKaug?view#)
 
 ## Additional information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
