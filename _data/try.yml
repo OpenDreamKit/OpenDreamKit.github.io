@@ -1,10 +1,14 @@
-- name: SageMath (and PARI/GP)
-  binder_url: https://beta.mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=index.ipynb
-  thumbnail: /try/thumbnails/sage.png
-
 - name: GAP
   binder_url: https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master
   thumbnail: /try/thumbnails/GAPLogo.png
+
+- name: PARI/GP
+  binder_url: https://beta.mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=demo-pari.ipynb
+  thumbnail: /try/thumbnails/PARI-GP.svg
+  
+- name: SageMath
+  binder_url: https://mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=index.ipyn
+  thumbnail: /try/thumbnails/sage.png
 
 - name: Singular
   binder_url: https://mybinder.org/v2/gh/sebasguts/SingularBinderDemo/master?filepath=brnoeth.ipynb
