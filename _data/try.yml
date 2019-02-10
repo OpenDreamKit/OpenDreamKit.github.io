@@ -1,6 +1,6 @@
 - name: Python
   binder_url: https://mybinder.org/v2/gh/ipython/ipython/master?filepath=examples/Notebook/Index.ipynb
-  thumbnail: Python-logo-notext.svg
+  thumbnail: /try/thumbnails/Python-logo-notext.svg
 
 - name: GAP
   binder_url: https://mybinder.org/v2/gh/gap-system/try-gap-in-jupyter/master
