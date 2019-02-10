@@ -1,4 +1,4 @@
-sites:
+sites: 
   - name: 01-Université Paris-Sud
     logo: Paris-Sud-Saclay.jpg
     homepage: 'http://www.u-psud.fr'
@@ -36,7 +36,9 @@ sites:
       - name: Florian Rabe
         homepage: 'https://kwarc.info/people/frabe/'
         github: florian-rabe
-        
+      - name: Odile Bénassy
+        homepage: 'https://www.lri.fr/membre.php?mb=2529'
+        github: zerline
   - name: 02-Université de Bordeaux
     logo: Universite-de-Bordeaux_static.svg
     homepage: 'https://www.u-bordeaux.fr/'
@@ -186,6 +188,10 @@ sites:
         homepage: 'http://www.morphism.de/~markusp/'
         email: 'markus.pfeiffer@st-andrews.ac.uk'
         github: markuspf
+      - name: Michael Torpey
+        homepage: 'http://www-groups.mcs.st-andrews.ac.uk/~mct25/'
+        email: 'mct25@st-andrews.ac.uk'
+        github: mtorpey
   - name: Jacobs University Bremen (Left the consortium)
     logo: jacobs-logo.png
     homepage: 'http://www.jacobs-university.de/'

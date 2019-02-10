@@ -2,7 +2,7 @@
 layout: post
 
 author: Paris-Sud
-title: Research Software Engineer position opening at Université Paris-Sud (tentativelly filled)
+title: Research Software Engineer position opening at Université Paris-Sud (filled)
 tags:
     - job-opening
     - jupyter

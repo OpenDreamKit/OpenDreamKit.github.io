@@ -8,25 +8,23 @@ redirect_from: "/joinus/"
 
 Due to the highly technical aspects of this project, a large focus is
 on hiring a dozen full time developers across Europe. We will post
-informal information here, and add links to the official job offers as
-they get formalized.
+informal information here, with links to the official job offers.
 
 # Université Paris Sud, Orsay:
 
 - [A research software engineer position](http://opendreamkit.org/2018/02/21/position-paris-sud/)
-  starting Spring 2018
+  starting Spring 2018 (filled)
 
 # Université Grenoble Alpes, France
 
--
-  [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/)
-  starting early 2017 for two years (1 year renewable).
+- [A full time developper or research software engineer position](http://opendreamkit.org/2016/07/09/position-grenoble/)
+  starting early 2017 for two years (one year renewable) (filled)
 
 # University of Warwick, UK
 
 - [A full-time research software engineer
   position](http://opendreamkit.org/2016/12/22/RSE-position-warwick/)
-  starting early in 2017,(filled)
+  starting early in 2017 (filled)
 
 # University of Sheffield, United Kingdom
 

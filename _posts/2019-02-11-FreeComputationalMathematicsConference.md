@@ -29,10 +29,10 @@ it will be the main public closing event.
 
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
-The first phase of preregistration ended on January 7th. We may have
-some additional spots, in which case we will reopen the
-preregistration on Tuesday 15th and fill them on a first come first
-serve basis.
+[Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
+officially ended on January 7th. However, we may have
+some additional spots, which we will fill on a first come first
+serve basis. If you are insterested, please keep preregistering.
 
 ## Funding
 
@@ -42,8 +42,6 @@ students and participants from developing countries. You can apply for
 such funding upon preregistration; CV and similar information will
 help us make an informed decision.
 
-## Schedule
-
-Coming soon!
+## [Schedule](https://hackmd.io/zkXWN_cwTjy46dyBSJKaug?view#)
 
 ## Additional information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
