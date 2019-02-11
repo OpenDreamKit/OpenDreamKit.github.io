@@ -11,7 +11,7 @@
   thumbnail: /try/thumbnails/PARI-GP.svg
 
 - name: SageMath
-  binder_url: https://mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=start-here.ipynb
+  binder_url: https://mybinder.org/v2/gh/sagemath/sage-binder-env/master?filepath=sage-start-here.ipynb
   thumbnail: /try/thumbnails/sage.png
 
 - name: Singular
