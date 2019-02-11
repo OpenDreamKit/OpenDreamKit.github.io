@@ -9,8 +9,8 @@
   thumbnail: /try/thumbnails/GAPLogo.png
 
 - name: Try PARI/GP
-  repo: sagemath/sage-binder-env
-  file: demo-pari.ipynb
+  repo: jdemeyer/pari_introduction
+  file: index.ipynb
   thumbnail: /try/thumbnails/PARI-GP.svg
 
 - name: Try SageMath
