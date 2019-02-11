@@ -1,5 +1,5 @@
 - name: Python
-  binder_url: https://mybinder.org/v2/gh/ipython/ipython/master?filepath=examples/Notebook/Index.ipynb
+  binder_url: https://mybinder.org/v2/gh/ipython/ipython/master?filepath=examples/IPython%20Kernel/Index.ipynb
   thumbnail: /try/thumbnails/Python-logo-notext.svg
 
 - name: GAP
