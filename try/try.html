@@ -16,10 +16,11 @@ redirect_from: "/try/"
 
 <div>
     <div class="static_try_block">
-        <a href="{{ try.binder_url }}">
+        <a href="https://mybinder.org/v2/gh/{{ try.repo }}/master?filepath={{ try.file }}">
         <img class="static_try_block_image" src="{{ site.baseurl }}{{ try.thumbnail }}"/>
         <br/>
         <span><h2>Try {{ try.name }}</h2></span>
+        <span><a href="https://github.com/{{ try.repo }}/blob/{{ try.file }}">Download notebook</a></span>
         </a>
     </div>
 
