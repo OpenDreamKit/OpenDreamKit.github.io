@@ -1,24 +1,24 @@
-- name: Python
-  repo: ipython/ipython
-  file: examples/IPython%20Kernel/Index.ipynb
+- name: Try Python and learn Jupyter
+  repo: ipython/ipython-in-depth
+  file: binder/Index.ipynb
   thumbnail: /try/thumbnails/Python-logo-notext.svg
 
-- name: GAP
+- name: Try GAP
   repo: gap-system/try-gap-in-jupyter
   file: notebooks/NewNotebook.ipynb
   thumbnail: /try/thumbnails/GAPLogo.png
 
-- name: PARI/GP
+- name: Try PARI/GP
   repo: sagemath/sage-binder-env
   file: demo-pari.ipynb
   thumbnail: /try/thumbnails/PARI-GP.svg
 
-- name: SageMath
+- name: Try SageMath
   repo: sagemath/sage-binder-env
   file: sage-start-here.ipynb
   thumbnail: /try/thumbnails/sage.png
 
-- name: Singular
+- name: Try Singular
   repo: sebasguts/SingularBinderDemo
   file: brnoeth.ipynb
   thumbnail: /try/thumbnails/SingularLogo.png
