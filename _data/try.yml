@@ -1,5 +1,5 @@
 - name: Try Python and learn Jupyter
-  repo: ipython/ipython-in-depth
+  repo: OpenDreamKit/ipython-in-depth
   file: binder/Index.ipynb
   thumbnail: /try/thumbnails/Python-logo-notext.svg
 
