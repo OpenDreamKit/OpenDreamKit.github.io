@@ -3,7 +3,6 @@ layout: tagpage
 tag: future-funding
 title: Future funding
 class: keyword
-image: diversity.jpg
 ---
 
 

@@ -3,7 +3,6 @@ layout: tagpage
 tag: sustainability
 title: Sustainability
 class: keyword
-image: diversity.jpg
 ---
 
 One critical task for OpenDreamKit is to support the long term
