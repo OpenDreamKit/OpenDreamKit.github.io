@@ -1,7 +1,7 @@
 ---
 layout: tagpage
 tag: sustainability
-title: Future funding
+title: Sustainability
 class: keyword
 image: diversity.jpg
 ---
