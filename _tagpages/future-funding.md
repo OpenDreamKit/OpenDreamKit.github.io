@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-tag: future_funding
+tag: future-funding
 title: Future funding
 class: keyword
 image: diversity.jpg
