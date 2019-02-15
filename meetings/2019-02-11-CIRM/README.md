@@ -1,4 +1,4 @@
-﻿# Conference Calcul Mathematique Libre 2019
+# Conference Calcul Mathematique Libre 2019
 
 This directory holds public information about the large conference
 "Calcul Mathematique Libre" that we will tentatively organize at CIRM
