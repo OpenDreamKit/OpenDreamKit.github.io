@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 595.2" style="enable-background:new 0 0 841.9 595.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{font-family:'Purisa-Bold';}
+	.st2{font-size:12px;}
+	.st3{fill:#EC5776;}
+	.st4{font-size:5px;}
+</style>
+<image style="display:none;overflow:visible;" width="3508" height="2480" xlink:href="reproducible_logbook_v2.png"  transform="matrix(0.24 0 0 0.24 0 0)">
+</image>
+<rect x="130.4" y="15.9" class="st0" width="234.9" height="35.4"/>
+<text transform="matrix(1 0 0 1 130.3894 27.7297)"><tspan x="0" y="0" class="st1 st2">jane has written a paper</tspan><tspan x="0" y="12" class="st1 st2">based on her experiments.</tspan></text>
+<rect x="285.2" y="215.7" class="st0" width="246.9" height="52.3"/>
+<text transform="matrix(1 0 0 1 285.1578 227.5507)"><tspan x="0" y="0" class="st1 st2">She would like </tspan><tspan x="130.1" y="0" class="st3 st1 st2">anyone</tspan><tspan x="186.5" y="0" class="st1 st2"> to be</tspan><tspan x="0" y="15" class="st1 st2">able to </tspan><tspan x="69.6" y="15" class="st3 st1 st2">reproduce</tspan><tspan x="147.1" y="15" class="st1 st2">, </tspan><tspan x="160.9" y="15" class="st3 st1 st2">check</tspan><tspan x="205.7" y="15" class="st1 st2"> and</tspan><tspan x="0" y="30" class="st3 st1 st2">improve her calculations</tspan></text>
+<rect x="21.3" y="332.9" class="st0" width="157.5" height="52.3"/>
+<text transform="matrix(1 0 0 1 21.3052 344.666)"><tspan x="0" y="0" class="st1 st2">She </tspan><tspan x="31.5" y="0" class="st3 st1 st2">publishes</tspan><tspan x="105.6" y="0" class="st1 st2"> them</tspan><tspan x="0" y="15" class="st1 st2">on a </tspan><tspan x="44.4" y="15" class="st3 st1 st2">publicly</tspan><tspan x="0" y="30" class="st3 st1 st2">hosted repository</tspan></text>
+<rect x="249" y="328.9" class="st0" width="303.7" height="52.3"/>
+<text transform="matrix(1 0 0 1 249.0473 340.7402)"><tspan x="0" y="0" class="st1 st2">she makes that repository </tspan><tspan x="223.7" y="0" class="st3 st1 st2">binder-</tspan><tspan x="0" y="15" class="st3 st1 st2">ready</tspan><tspan x="45.9" y="15" class="st1 st2"> by describing the softwares</tspan><tspan x="0" y="30" class="st1 st2">required to run the notebook</tspan></text>
+<rect x="389.8" y="422.7" class="st0" width="123.1" height="19.4"/>
+<text transform="matrix(1 0 0 1 389.7946 434.4981)" class="st1 st2">configuration</text>
+<rect x="392.6" y="469.8" class="st0" width="123.1" height="19.4"/>
+<text transform="matrix(1 0 0 1 392.6473 481.6244)" class="st1 st2">notebook</text>
+<rect x="393.6" y="538.5" class="st0" width="123.1" height="19.4"/>
+<text transform="matrix(1 0 0 1 393.6473 550.3507)" class="st1 st2">resources</text>
+<rect x="602" y="491.2" class="st0" width="232.6" height="35.5"/>
+<text transform="matrix(1 0 0 1 602.0262 503.056)"><tspan x="0" y="0" class="st1 st2">everyone can now run and</tspan><tspan x="0" y="15" class="st1 st2">reproduce her computations</tspan></text>
+<rect x="644.5" y="32.1" class="st0" width="167.4" height="30.8"/>
+<text transform="matrix(1 0 0 1 644.5372 43.8871)"><tspan x="0" y="0" class="st1 st2">she describes the</tspan><tspan x="0" y="15" class="st1 st2">experiments as a</tspan></text>
+<rect x="680.8" y="75.4" class="st0" width="167.4" height="30.8"/>
+<text transform="matrix(1 0 0 1 680.8109 87.245)"><tspan x="0" y="0" class="st3 st1 st2">notebook</tspan><tspan x="72.7" y="0" class="st1 st2">, mixing</tspan></text>
+<rect x="651.8" y="108.3" class="st0" width="167.4" height="54.1"/>
+<text transform="matrix(1 0 0 1 651.8104 120.0665)"><tspan x="0" y="0" class="st1 st2">prose</tspan><tspan x="0" y="15" class="st1 st2">code &amp;</tspan><tspan x="0" y="30" class="st1 st2">visualization</tspan></text>
+<rect x="709.4" y="169.2" class="st0" width="167.4" height="19"/>
+<text transform="matrix(1 0 0 1 709.4315 181.0029)" class="st1 st2">and resources:</text>
+<rect x="726.2" y="190.4" class="st0" width="167.4" height="50.5"/>
+<text transform="matrix(1 0 0 1 726.1678 202.1718)"><tspan x="0" y="0" class="st1 st2">source code,</tspan><tspan x="0" y="15" class="st1 st2">data,</tspan><tspan x="0" y="30" class="st1 st2">media</tspan><tspan x="45.6" y="30" class="st1 st4">...</tspan></text>
+</svg>
