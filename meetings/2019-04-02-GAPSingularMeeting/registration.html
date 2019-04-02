@@ -1,0 +1,177 @@
+---
+layout: page
+title: Registration
+registration_state: open
+form_api_token: 98683a337b36c70e30164e2fc7b3f659
+email: gutsche@mathematik.uni-siegen.de
+---
+
+<style>
+
+.form-field {
+ padding-bottom: 1em;
+}
+
+.form-field-req {
+    color: red;
+}
+
+.form-field-title {
+  font-weight: bold;
+}
+
+.form-field-description {
+  color: gray;
+  font-size: 85%;
+}
+</style>
+
+<script type="text/javascript" src="date-input-polyfill.dist.js" async></script>
+
+{% case page.registration_state %}
+{% when 'notyet' %}
+<p class="message">Registration will be open starting from the 1st of April, 2019</p>
+
+{% when 'closed' %}
+<p class="message">Registration is closed.</p>
+
+{% when 'open' %}
+<p class="message">Registration is open.</p>
+
+<p>
+You can use this form to register for the GAP Singular meeting.
+</p>
+
+<p>
+If you any questions
+regarding registration or in general, feel free to
+<a href="mailto:{{page.email}}">contact us via email</a>.
+</p>
+<form action="https://getsimpleform.com/messages?form_api_token={{page.form_api_token}}" method="post">
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="name">Name <span class="form-field-req">*</span></label>
+  </div>
+  <input type="text" size="60" maxlength="80" name="name" autofocus required />
+  <!-- autofocus with fallback for older browsers -->
+  <script>
+    if (!("autofocus" in document.createElement("input"))) {
+      document.getElementById("q").focus();
+    }
+  </script>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="email">Email <span class="form-field-req">*</span></label>
+  </div>
+  <input type="email" size="60" maxlength="80" name="email" required />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="affiliation">Affiliation</label>
+  </div>
+  <div class="form-field-description">
+    Please enter the name of your home university, institute etc., if any. 
+  </div>
+  <input type="text" size="60" maxlength="80" name="affiliation" />
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="arrival_date">Arrival date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please enter the day of your arrival (we will start Thursday, August 15, 10 am).
+  </div>
+  <input type="date" lang="en" id="arrival_date" name="arrival_date" value="2019-08-14" required>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="departure_date">Departure date <span class="form-field-req">*</span></label> 
+  </div>
+  <div class="form-field-description">
+    Please enter the day of your departure (we will finish Friday, August 23, at noon).
+  </div>
+    <input type="date" lang="en" id="departure_date" name="departure_date" value="2019-08-23" required>
+</div>
+
+<div class="form-field">
+    <div class="form-field-title">
+      <label for="school">School</label> 
+    </div>
+    <div class="form-field-description">
+      Please check if you want to participate in the school
+    </div>
+        <input type="radio" id="school-yes" name="School" value="school-yes" checked>
+        <label for="school-yes"> Yes</label>
+        <input type="radio" id="school-no" name="School" value="school-no">
+        <label for="vi"> No</label>
+  </div>
+  
+
+<div class="form-field">
+    <div class="form-field-title">
+      <label for="departure_date">Workshop</label> 
+    </div>
+    <div class="form-field-description">
+      Please select in which workshop you want to participate. You can leave this empty
+      if you are not sure yet.
+    </div>
+    <select name="workshop" id="workshop" required>
+      <option value="Empty" selected="selected"></option>
+      <option value="WS1 Jupyter">Visualizations in Jupyter</option>
+      <option value="WS2 CAP">CAP Days</option>
+      <option value="WS3 GAP">GAP Days</option>
+      <option value="WS4 Singular">Singular Meeting</option>
+    </select>
+</div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="accommodation">Accommodation</label>
+  </div>
+  <div class="form-field-description">
+    Please check if you want to be accomodated in the PfalzAkademie at no charge.
+    If you have a preference with whom to share a room, you can also mention it in the comments.
+  </div>
+  <input type="radio" id="accom-yes" name="accom" value="accom-yes" checked>
+  <label for="accom-yes"> Yes</label>
+  <input type="radio" id="accom-no" name="accom" value="accom-no">
+  <label for="vi"> No</label>
+</div>
+
+<div class="form-field">
+    <div class="form-field-title">
+      <label for="presentation">Talk</label>
+    </div>
+    <div class="form-field-description">
+      If you want to give a talk at the conference part of the meeting, please give a title here.
+      If you want to give a talk, but you are not sure about what yet, please just type in "yes".
+    </div>
+    <textarea name="talk" rows="1" cols="60"></textarea>
+  </div>
+
+<div class="form-field">
+  <div class="form-field-title">
+    <label for="presentation">Comments</label>
+  </div>
+  <div class="form-field-description">
+    Here you can add any comments, questions or wishes
+    regarding the workshop. For example, if you do not like to
+    be placed in a double room, please mention it here.
+  </div>
+  <textarea name="comments" rows="10" cols="60"></textarea>
+</div>
+
+<input type='hidden' name='redirect_to' value='{{ site.url }}{{ site.baseurl }}/thank-you' />
+
+<div class="form-field">
+  <input type="submit" value="Register!" />
+</div>
+
+</form>
+{% endcase %}
