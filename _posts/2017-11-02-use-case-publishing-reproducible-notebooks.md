@@ -18,11 +18,9 @@ tags:
 Jane has written a (math) paper based on her experiments. She would
 like anyone to be able to reproduce, check, and improve her calculations.
 
-[ ![a binder logbook screenshot](/public/images/use-cases/reproducible_logbook_example.png){:class="small-screenshot"} ](/public/images/use-cases/reproducible_logbook_example.png)
-
 ## Suggestion of solution
 
-[ ![picture of the suggested solution](/public/images/use-cases/reproducible_logbook.png){:class="small-screenshot"} ](/public/images/use-cases/reproducible_logbook.png)
+[ ![picture of the suggested solution](/public/images/use-cases/reproducible_logbook.png)](/public/images/use-cases/reproducible_logbook.png)
 
 
 1.  She describes the experiments as [Jupyter notebooks](http://jupyter.org),
@@ -43,6 +41,7 @@ like anyone to be able to reproduce, check, and improve her calculations.
   Ludovic Brieulle, Luca De Feo, Javad Doliskani, Jean-Pierre Flori and Éric Schost,
   [arXiv:1705.01221 [cs.SC]](https://arxiv.org/abs/1705.01221)
   [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/defeo/ffisom/master?filepath=notebooks)
+  [ ![a binder logbook screenshot](/public/images/use-cases/reproducible_logbook_example.png){:class="small-screenshot"} ](/public/images/use-cases/reproducible_logbook_example.png)
 
 - [The 0-Rook monoid and its representation theory](https://github.com/hivert/Jupyter-Notebooks),
   Hivert and Gay
