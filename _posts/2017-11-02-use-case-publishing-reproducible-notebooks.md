@@ -40,7 +40,7 @@ like anyone to be able to reproduce, check, and improve her calculations.
 - [Computing isomorphisms and embeddings of finite fields](https://github.com/defeo/ffisom),
   Ludovic Brieulle, Luca De Feo, Javad Doliskani, Jean-Pierre Flori and Éric Schost,
   [arXiv:1705.01221 [cs.SC]](https://arxiv.org/abs/1705.01221)
-  [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/defeo/ffisom/master?filepath=notebooks)
+  [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/defeo/ffisom/master?filepath=notebooks)<br>
   [ ![a binder logbook screenshot](/public/images/use-cases/reproducible_logbook_example.png){:class="small-screenshot"} ](/public/images/use-cases/reproducible_logbook_example.png)
 
 - [The 0-Rook monoid and its representation theory](https://github.com/hivert/Jupyter-Notebooks),
