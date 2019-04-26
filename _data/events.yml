@@ -125,6 +125,10 @@ InternalEvents:
       start: 2018-10-28
       end: 2018-10-31
       url: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/
+    - title: Sage days 100, Bonn (Germany)
+      start: 2019-07-22
+      end: 2019-07-27
+      url: https://wiki.sagemath.org/days100
       
 ExternalEvents:
     - title: International Congress on Mathematical Software (ICMS 2018)
