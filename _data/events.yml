@@ -136,7 +136,7 @@ InternalEvents:
       start: 2019-07-22
       end: 2019-07-27
       url: https://wiki.sagemath.org/days100
-    - title: Sage-GAP Days 101, Cernay (France): packaging, portability, documentation tools
+    - title: "Sage-GAP Days 101, Cernay (France): packaging, portability, documentation tools"
       start: 2019-06-17
       end: 2019-06-21
       url: https://wiki.sagemath.org/days101
