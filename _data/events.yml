@@ -125,11 +125,37 @@ InternalEvents:
       start: 2018-10-28
       end: 2018-10-31
       url: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/
-    - title: Sage days 100, Bonn (Germany)
+    - title: Free computational mathematics -- Calcul mathématique libre
+      start: 2019-02-11
+      end: 2019-02-15
+      url: https://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
+    - title: Sage Days 98 -- Women in Sage, Archanes (Crete)
+      start: 2019-04-08
+      start: 2019-04-12
+    - title: Sage Days 100, Bonn (Germany)
       start: 2019-07-22
       end: 2019-07-27
       url: https://wiki.sagemath.org/days100
-      
+    - title: Sage-GAP Days 101, Cernay (France): packaging, portability, documentation tools
+      start: 2019-06-17
+      end: 2019-06-21
+      url: https://wiki.sagemath.org/days101
+    - title: Free and Practical Software for Algebraic Combinatorics 2019, Ljubljana (Slovenia)
+      start: 2019-07-08
+      end: 2019-07-12
+      url: https://wiki.sagemath.org/fpsac19
+    - title: Sage Days 102, Ibadan (Nigeria)
+      start: 2019-07-15
+      end: 2019-07-19
+      url: https://wiki.sagemath.org/days102
+    - title: Workshop on Data in Mathematics, Cernay (France)
+      start: 2019-08-17
+      end: 2019-08-21
+      url: https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/
+    - title: OpenDreamKit final reports sprint, Cernay (France)
+      start: 2019-08-26
+      end: 2019-08-30
+
 ExternalEvents:
     - title: International Congress on Mathematical Software (ICMS 2018)
       location: University of Notre Dame
