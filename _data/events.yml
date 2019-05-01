@@ -152,6 +152,10 @@ InternalEvents:
       start: 2019-08-17
       end: 2019-08-21
       url: https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/
+    - title: GAP Singular Meeting and School, Lambrecht (Germany)
+      start: 2019-08-15
+      end: 2019-08-23
+      url: https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/
     - title: OpenDreamKit final reports sprint, Cernay (France)
       start: 2019-08-26
       end: 2019-08-30
