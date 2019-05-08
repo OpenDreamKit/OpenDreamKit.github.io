@@ -26,3 +26,15 @@ and indicate the days you plan to attend at the [workshop FramaDate poll](https:
 
 OpenDreamKit will cover the local expenses for all participants and
 the travel expenses of most to all participants.
+
+## Participants
+
+We are excited to announce the following (tentatively) confirmed attendees:
+* Odile Bénassy
+* E. Madison Bray
+* Gabe Cunningham
+* Jukka Kohonen
+* Dimitri Leemans
+* Samuel Lelièvre
+* Florian Rabe
+* (Katja Berčič)
