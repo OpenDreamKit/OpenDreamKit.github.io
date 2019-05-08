@@ -6,7 +6,7 @@ participants:
   affiliation: RWTH Aachen University
 
 - name: Christian Eder
-  affiliation: University of Kaiserslautern
+  affiliation: University of Leipzig
 
 - name: Claus Fieker
   affiliation: University of Kaiserslautern
