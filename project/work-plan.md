@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work plan
-menu_order: 4
+menu_order: 5
 menu: project
 ---
 

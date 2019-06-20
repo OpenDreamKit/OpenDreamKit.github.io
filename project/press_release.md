@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Press releases
-menu_order: 6
+menu_order: 7
 menu: project
 redirect_from: "/events_activities/press_release/"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reports
-menu_order: 5
+menu_order: 6
 menu: project
 redirect_from: "/events_activities/reports/"
 ---
