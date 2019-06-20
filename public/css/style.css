@@ -722,6 +722,13 @@ a.badge:focus {
     }
 }
 
+#tagcloud_block {
+    padding-bottom: 1ex;
+    margin: 1ex 0;
+    border-top: solid thin #ddd;
+    border-bottom: solid thin #ddd;
+}
+
 svg.icon, img.icon {
     max-height: 0.8em;
     max-width: 0.9em;
@@ -1228,4 +1235,16 @@ table th[class*="col-"] {
     text-align: center;
     width: 200px;
     height: 200px;
+}
+
+/* Collapse stuff */
+
+[data-toggle="collapse"]::after {
+    content: " ▴";
+}
+[data-toggle="collapse"][aria-expanded="true"]::after {
+    content: " ▾";
+}
+a[data-toggle="collapse"] {
+    color: inherit
 }

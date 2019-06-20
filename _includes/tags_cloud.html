@@ -1,0 +1,12 @@
+<div id="tagcloud_block">
+
+  <h3><a class="" href="#tagcloud" role="button" data-toggle="collapse" aria-expanded="{{ tags_expanded }}" aria-controls="tagcloud">Select by tag</a></h3>
+
+  {% include tags_module.html %}
+
+  <div class="tagcloud collapse {% if tags_expanded %}in{% endif %}" id="tagcloud">
+    <span class="tag" ><a class="btn btn-default" href="{{ site.blog_path}}">All activites <span class="badge">{{ site.posts.size }}</span></a></span>
+    {{ tagscontent }}
+  </div>
+
+</div>

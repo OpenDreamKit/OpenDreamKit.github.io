@@ -13,18 +13,9 @@ Find below <strong>ALL</strong> updates on our recent activity: this includes ev
 Project activities are generated through the /_posts/ folder
 {% endcomment %}
 
-<h2>By tag</h2>
-
-
-
 {% assign with_post_numbers = true %}
-{% include tags_module.html %}
-
-<div class="tagcloud" >
-    <span class="tag" ><a class="btn btn-default" href="{{ site.blog_path}}">All activites <span class="badge">{{ site.posts.size }}</span></a></span>
-{{ tagscontent }}
-</div>
-
+{% assign tags_expanded = true %}
+{% include tags_cloud.html %}
 
 <h2>Most recent activites</h2>
 
