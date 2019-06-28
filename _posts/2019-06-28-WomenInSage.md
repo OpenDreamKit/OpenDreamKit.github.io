@@ -87,8 +87,7 @@ This also was an occasion to start projects and form more research and developme
 ![Have you started (or carried on) any project that could lead to more research and development in the future? I have started things and will try to follow up: 44.4%. I have started things and will definitely follow up: 38.9%. Nothing: 11.1%. carrying on things that should be follow up: 5.6%](/public/images/womenInSage2/projects.png){:class="img-responsive"}
 
 All of this happened in a very casual and welcoming atmosphere. We used the common
-rooms of the house to work. We cooked international, vegetarian friendly meals (some
-participants had brought food and recipes from their home countries). We got to know
+room of the main house to work. We cooked international, vegetarian friendly meals using delicious ingredients from Crete. We took nice walks around the village and perfect ice-creams. We got to know
 each other and shared more than code. All participants agreed that it was a very 
 positive experience. 
 
