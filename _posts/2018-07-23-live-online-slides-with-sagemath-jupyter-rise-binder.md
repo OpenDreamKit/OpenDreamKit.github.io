@@ -70,8 +70,6 @@ Install Jupyter's [RISE](http://rise.readthedocs.io/) extension in Sage.
 From the terminal:
 
     sage -pip install RISE
-    echo "jupyter-nbextension install rise --py --sys-prefix" | sage -sh
-    echo "jupyter-nbextension enable rise --py --sys-prefix"  | sage -sh
 
 Notes:
 
@@ -86,8 +84,6 @@ Notes:
   distribution; in general, one would just do:
 
         pip install RISE
-        jupyter-nbextension install rise --py --sys-prefix
-        jupyter-nbextension enable rise --py --sys-prefix
 
 - The first instruction may fail complaining about OpenSSL. This will
   happen when Sage has not been compiled with SSL support which is
