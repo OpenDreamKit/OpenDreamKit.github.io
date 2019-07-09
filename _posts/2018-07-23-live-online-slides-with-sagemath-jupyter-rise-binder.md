@@ -127,26 +127,67 @@ they won't be able to modify and run the examples.
 
 Add the notebook to a public git repository, for example on github.
 
+#### Specifying software dependencies
+
 Add metadata to that git repository to specify the software required
 to run the computations. For SageMath, you can add the following
-[Dockerfile](https://github.com/nthiery/harmonic-modules/blob/master/Dockerfile)
-at the root of the repository.
+`Dockerfile` at the root of the repository:
+
+    FROM sagemath/sagemath:8.7
+
+    # Make sure the contents of the repository is in ${HOME}
+    COPY --chown=sage:sage . ${HOME}
+
+#### Specifying additional software dependencies (optional)
+
+The sagemath base docker image contains the required software needed
+to be compatible with binder. If the notebook uses additional software
+in addition to SageMath, they need to be specified as well in the
+Dockerfile. For example, if you are using RISE slides, add this line:
+
+    RUN sage -pip install RISE
+
+In general a Python package available from [pypi](https://pypi.org/)
+can be installed with:
+
+    RUN sage -pip install <package name>
+
+Sage packages can be installed with:
+
+    RUN sage -i <package name>
+
+Debian/Ubuntu packages can be installed with:
+
+    RUN apt-get update && apt-get install -y <package name>
+
+Hence, to have dot2tex graphics, you would use:
+
+    RUN apt-get update && apt-get install -y graphviz
+    RUN sage -pip install dot2tex
+
+See also the section
+[Preparing your docker file](https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html#preparing-your-dockerfile)
+from the [binder documentation](https://mybinder.readthedocs.io/).
+
+#### Accessing the notebook in Binder
 
 Go to [mybinder.org](https://mybinder.org)`, specify the address of
 the git repository (here https://github.com/nthiery/harmonic-modules/
 ) and the name of the file (here `talk.ipynb`). Click launch, and
 voilà!
 
-You can get from the binder page a URL to access directly the live
-slides.
-
 Note: the SageMath docker image is relatively big. Therefore the first
-times the slides are accessed, or if it has not been accessed in a
+time the slides are accessed, or if it has not been accessed in a
 while, Binder will typically take a couple minutes to launch: it
 indeed needs to fetch the base SageMath image, build the new image
 containing the Jupyter extensions and the notebook, and then copy this
 image around between it's various machines (that building the image,
 that storing them, and those running them).
+
+#### Publishing the Binder link
+
+From Binder's main page, you can get a URL to access directly the live
+notebook, or even a badge to copy-paste in your web page.
 
 ## Alternatives
 
