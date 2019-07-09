@@ -14,8 +14,8 @@
   thumbnail: /try/thumbnails/PARI-GP.svg
 
 - name: Try SageMath
-  repo: sagemath/sage-binder-env
-  file: sage-start-here.ipynb
+  repo: sagemath/more-sagemath-tutorials
+  file: tutorial-sage-start-here.ipynb
   thumbnail: /try/thumbnails/sage.png
 
 - name: Try Singular
