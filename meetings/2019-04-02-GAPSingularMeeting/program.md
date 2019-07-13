@@ -162,7 +162,6 @@ derive these structures on Freyd categories from corresponding
 structures of the underlying additive category. I will elaborate on
 these developments.
 </details>
-10:30 - 11:00: Coffee break
 <details>
 <summary>
 11:00 - 11:30: Wilf Wilson: Searching in permutation groups with directed graphs
