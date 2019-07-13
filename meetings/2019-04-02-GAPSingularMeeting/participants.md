@@ -15,6 +15,9 @@ participants:
 - name: Thomas Breuer
   affiliation: RWTH Aachen University
 
+- name: Laura Brustenga 
+  affiliation: Universitat Autònoma de Barcelona
+
 - name: Christian Eder
   affiliation: University of Leipzig
 
@@ -44,6 +47,9 @@ participants:
 - name: Sebastian Posur
   affiliation: University of Siegen
 
+- name: Daniel Rademacher 
+  affiliation: RWTH Aachen University
+
 - name: Iryna Raievska
   affiliation: Institute of Mathematics of NAS of Ukraine
 
@@ -65,6 +71,9 @@ participants:
 - name: Sandeep Singh
   affiliation: Akal university
 
+- name: Anna Sucker 
+  affiliation: RWTH Aachen University
+
 - name: Andreas Steenpaß
   affiliation: University of Kaiserslautern
 
@@ -79,6 +88,9 @@ participants:
 
 - name: Wilf Wilson
   affiliation: University of Halle
+
+- name: Lucas Wollenhaupt 
+  affiliation: RWTH Aachen University
 
 - name: Fabian Zickgraf
   affiliation: University of Siegen
