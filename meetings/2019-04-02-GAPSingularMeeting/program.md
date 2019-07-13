@@ -24,7 +24,7 @@ summary::after {
 
 # Detailed Schedule
 
-## School
+## School (August 15 - August 17)
 
 The school is meant for beginners in computer algebra,
 to learn about the capabilities of the CAS GAP and Singular.
@@ -37,7 +37,7 @@ The sessions are:
 
 <details>
 <summary>
-Thursday: Best practices software development (Max Horn)
+August 15, 14:00 - 17:00: Best practices software development (Max Horn)
 </summary>
 In this course, you will learn about some best practices in (mathematical) software development: We will discuss the importance of, and how to do, source code version control and issue tracking. There will be practical demonstrations using the git version control system, and GitHub for collaborative work, and a set of exercises to train these skills.
 </details>
@@ -45,7 +45,7 @@ In this course, you will learn about some best practices in (mathematical) softw
 
 <details>
 <summary>
-Thursday: GAP for beginners (Michael Torpey)
+August 15, 19:00 - 20:30, and August 16, 9:30 - 11:00: GAP for beginners (Michael Torpey)
 </summary>
 This lesson gives an introduction to GAP. It is centered around a common task of
 searching in the Small Groups Library for interesting examples and counterexamples,
@@ -64,7 +64,7 @@ comprehensive search and extending the system by adding new attributes.On this p
 
 <details>
 <summary>
-Friday: Advanced Topics in GAP (Thomas Breuer)
+August 16, 11:30 - 13:00, and 14:00 - 15:30: Advanced Topics in GAP (Thomas Breuer)
 </summary>
 Motivated by a mathematical question,
 we will develop GAP functions for answering
@@ -77,7 +77,7 @@ and extend GAP's capabilities in special situations.
 
 <details>
 <summary>
-Friday: Singular for beginners (Christian Eder, Andreas Steenpaß, Isabel Stenger)
+August 16, 16:00 - 19:00: Singular for beginners (Christian Eder, Andreas Steenpaß, Isabel Stenger)
 </summary>
 We will give an introduction to Singular starting from the very first line
 of code, and show how it can be used for theoretical research. On the
@@ -88,20 +88,7 @@ such as writing a Singular library for their own research.
 
 <details>
 <summary>
-Saturday: CAP: Categories, algorithms, programming (Sebastian Posur)
-</summary>
-The CAP Days school provides a gentle introduction to the basic notions of category theory
-and their realization in CAP (categories, algorithms, programming), a software project for constructive category theory written in GAP.
-We learn how to compute with finite dimensional vector spaces and finitely presented modules
-using the unifying language of abelian categories, and write generic algorithms
-that work in arbitrary abelian categories, e.g., for the intersection of subobjects.
-You may test and play with CAP's categorical language by running
-Jupyter notebooks interactively in Binder: <a href="https://mybinder.org/v2/gh/sebastianpos/cap-aachen2018/master">click here to launch Binder.</a>
-</details>
-
-<details>
-<summary>
-Saturday: Parallel modular algorithms in Singular (Christian Eder, Andreas Steenpaß, Isabel Stenger)
+August 17, 9:30 - 12:30: Parallel modular algorithms in Singular (Christian Eder, Andreas Steenpaß, Isabel Stenger)
 </summary>
 Modular algorithms are an important tool for tackling research problems in
 computational algebra whenever coefficient swell is an issue. At the same
@@ -122,7 +109,24 @@ computations for example, we often face the problems how the modular results
 can be recombined and how correctness of the final result can be ensured. 
 </details>
 
-## Mini conference
+<details>
+<summary>
+August 17, 14:00 - 17:00: CAP: Categories, algorithms, programming (Sebastian Posur)
+</summary>
+The CAP Days school provides a gentle introduction to the basic notions of category theory
+and their realization in CAP (categories, algorithms, programming), a software project for constructive category theory written in GAP.
+We learn how to compute with finite dimensional vector spaces and finitely presented modules
+using the unifying language of abelian categories, and write generic algorithms
+that work in arbitrary abelian categories, e.g., for the intersection of subobjects.
+You may test and play with CAP's categorical language by running
+Jupyter notebooks interactively in Binder: <a href="https://mybinder.org/v2/gh/sebastianpos/cap-aachen2018/master">click here to launch Binder.</a>
+</details>
+
+## Sunday Hike (August 18)
+
+For Sunday, we will plan a hike together. Information will be given during the first days at Lambrecht.
+
+## Mini conference (August 19)
 
 Participants are welcome to give talks about problems they have tackled
 or want to tackle using computer algebra systems.
@@ -131,20 +135,87 @@ their work are welcome to present it. Please note that each talk
 should contain either a research question to tackle with CAS, or a demo
 of CAS features.
 
-### Monday
-
+<details>
+<summary>
+9:30 - 10:00: Sandeep Singh Chahal: On the equality of certain automorphism groups of finitely generated groups
+</summary>
 TBA
+</details>
 
-### Tuesday
+<details>
+<summary>
+10:00 - 10:30: Martin Bies: Monoidal structures in Freyd categories
+</summary>
+For a given additive category C, one can construct a new category which
+is known as its Freyd category. In this category, a morphism of C is
+interpreted as an object. The morphisms in the Freyd category are
+understood as commuting squares of morphisms in C up to a certain equivalence relation.
+The package "FreydCategories", which is part of the CAP_project,
+provides an implementation of this functionality. For example, this
+package can be used to model the category of f.p. graded modules.
 
+Further upshots include toric sheaves and their cohomologies.
+The application to sheaf cohomologies and toric sheaves points out the
+need for a monoidal structure and internal Hom in Freyd categories.
+Therefore, we have recently focused on implementing mechanisms which
+derive these structures on Freyd categories from corresponding
+structures of the underlying additive category. I will elaborate on
+these developments.
+</details>
+10:30 - 11:00: Coffee break
+<details>
+<summary>
+11:00 - 11:30: Wilf Wilson: Searching in permutation groups with directed graphs
+</summary>
+The current state-of-the-art approach for problems like set stabilisers, intersections, and normalisers in permutation groups is called partition backtrack.
+In essence, partition backtrack performs a search that estimates the solution as the stabiliser of an ordered partition.
+With some collaborators, I am exploring how to take advantage of modern computational tools to replace ordered partitions in such searches by directed graphs.
+The idea is that a graph can be used to represent a group more precisely than an ordered partition, and therefore lead to smaller search spaces.
+I will talk about the mathematical progress that we have made, and the computational tools that have helped us along the way.
+</details>
+<details>
+<summary>
+11:30 - 12:00: Mahsa Sayyary Namin: The algebraic degree of the Fermat-Weber point
+</summary>
 TBA
+</details>
+<details>
+<summary>
+14:00 - 14:30: Yue Ren: Computing zero-dimension tropical varieties using modular techniques
+</summary>
+In this talk, we will give a brief introduction to the concept of
+tropical varieties.
+We will discuss the applications and the challenges for the
+computation of zero-dimensional tropical varieties, and present a new
+approach using parallelization and modularization.
+This is joint work with Paul Goerlach (MPI MiS) and Leon Zhang (UC Berkeley)
+</details>
+<details>
+<summary>
+14:30 - 15:00: TBA
+</summary>
+</details>
+<details>
+<summary>
+16:00 - 16:30: TBA
+</summary>
+</details>
+<details>
+<summary>
+16:30 - 17:00: TBA
+</summary>
+</details>
 
-## Workshops
+
+## Workshops (August 20 - 23)
 
 From Wednesday to Friday participants are encouraged to work in several
 workshops on specific problems they are interested in or facing in
 computer algebra. If you want to definitely participate in a certain workshop,
 please mention it in the registration.
+
+
+Each day, the workshops start at 9:30. Each organizer may set up their own schedule and mode of work.
 
 The workshops (and their specific organizers) are:
 
@@ -179,6 +250,7 @@ and the implementation of missing category constructors and categorical operatio
 GAP Days (Max Horn)
 </summary>
 GAP Days are meetings where developers and users with programming experience are invited to influence the future development of GAP by initiating and contributing to discussions and coding sprints. As enough GAP experts will be around for technical support, the meetings usually offer good opportunities for people to work on their own packages.
+This GAP Days will focus on improving the MatrixObj implementation, and releasing GAP 4.11.
 </details>
 
 <details>
