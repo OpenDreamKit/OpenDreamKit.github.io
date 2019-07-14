@@ -31,8 +31,8 @@ to learn about the capabilities of the CAS GAP and Singular.
 It consists of six sessions, each three hours long, consisting
 of a lecture about the topic and a long hands-on session,
 in which participants can exercise their newly gained knowledge.
-It is envised that after this school, participants should be able to
-work with the developers in the succeding workshops.
+The goal is that after this school, participants should be able to
+work with the developers in the following workshops.
 The sessions are:
 
 <details>
@@ -208,7 +208,7 @@ This is joint work with Paul Goerlach (MPI MiS) and Leon Zhang (UC Berkeley)
 
 ## Workshops (August 20 - 23)
 
-From Wednesday to Friday participants are encouraged to work in several
+From Tuesday to Friday participants are encouraged to work in several
 workshops on specific problems they are interested in or facing in
 computer algebra. If you want to definitely participate in a certain workshop,
 please mention it in the registration.
@@ -249,7 +249,7 @@ and the implementation of missing category constructors and categorical operatio
 GAP Days (Max Horn)
 </summary>
 GAP Days are meetings where developers and users with programming experience are invited to influence the future development of GAP by initiating and contributing to discussions and coding sprints. As enough GAP experts will be around for technical support, the meetings usually offer good opportunities for people to work on their own packages.
-This GAP Days will focus on improving the MatrixObj implementation, and releasing GAP 4.11.
+These GAP Days will focus on improving the MatrixObj implementation, and releasing GAP 4.11.
 </details>
 
 <details>
