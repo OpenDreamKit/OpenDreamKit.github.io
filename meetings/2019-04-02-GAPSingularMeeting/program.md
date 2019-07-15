@@ -176,7 +176,10 @@ I will talk about the mathematical progress that we have made, and the computati
 <summary>
 11:30 - 12:00: Mahsa Sayyary Namin: The algebraic degree of the Fermat-Weber point
 </summary>
-TBA
+The Fermat-Weber point p* is the unique point that minimizes the sum of distances from n given points in the real Euclidean space.
+Given n points in general position in the real plane with non-zero integer coordinates,
+we determine the algebraic degree of p*  over the field of rationals Q,
+i.e. we find the degree of the minimal polynomials of the coordinates of p* over Q.
 </details>
 <details>
 <summary>
