@@ -19,7 +19,7 @@ summary::after {
 
 <script src="//cdn.jsdelivr.net/npm/details-polyfill@1/index.min.js" async></script>
 
-* Start: Thursday August 15th 2019 at 09:30
+* Start: Thursday August 15th 2019 at 14:00
 * Finish: Friday August 23th 2019 at noon
 
 # Detailed Schedule
@@ -194,8 +194,9 @@ This is joint work with Paul Goerlach (MPI MiS) and Leon Zhang (UC Berkeley)
 </details>
 <details>
 <summary>
-14:30 - 15:00: TBA
+14:30 - 15:00: Johannes Flake: Computing the Monoidal Center of Deligne's Interporation Category Rep(S_t)
 </summary>
+TBA
 </details>
 <details>
 <summary>
