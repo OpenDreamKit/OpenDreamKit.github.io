@@ -17,6 +17,10 @@ The workshop is organized by the H2020 European project [OpenDreamKit](http://op
 
 We will continue adding information as it becomes available to this page.
 
+***Dates:*** August 17th-24th
+
+***Organising team:*** Katja Berčič, Nicolas Thiéry, and Primož Potočnik
+
 ## Funding
 
 OpenDreamKit will cover the local expenses for all participants and
@@ -26,6 +30,7 @@ the travel expenses of most to all participants.
 
 We are excited to announce the following (tentatively) confirmed attendees:
 * Odile Bénassy
+* Katja Berčič
 * E. Madison Bray
 * Gabe Cunningham
 * Dennis Müller
@@ -37,4 +42,3 @@ We are excited to announce the following (tentatively) confirmed attendees:
 * Nicolas Thiéry
 * Michael Torpey
 * Tom Wiesing
-* (Katja Berčič)
