@@ -17,11 +17,6 @@ The workshop is organized by the H2020 European project [OpenDreamKit](http://op
 
 We will continue adding information as it becomes available to this page.
 
-## Registration
-
-To register, contact Katja Berčič at `firstname + "." + lastname.replace("č","c") + "@fau.de"`
-and indicate the days you plan to attend at the [workshop FramaDate poll](https://framadate.org/BQmEpJdvqN9KQ9mo).
-
 ## Funding
 
 OpenDreamKit will cover the local expenses for all participants and
@@ -33,8 +28,13 @@ We are excited to announce the following (tentatively) confirmed attendees:
 * Odile Bénassy
 * E. Madison Bray
 * Gabe Cunningham
+* Dennis Müller
+* Andrea Kohlhase
+* Michael Kohlhase
 * Jukka Kohonen
-* Dimitri Leemans
 * Samuel Lelièvre
 * Florian Rabe
+* Nicolas Thiéry
+* Michael Torpey
+* Tom Wiesing
 * (Katja Berčič)
