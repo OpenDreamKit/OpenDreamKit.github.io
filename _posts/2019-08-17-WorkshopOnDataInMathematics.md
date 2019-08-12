@@ -28,12 +28,12 @@ structure the day and ensure communication, we adopt the following daily schedul
 
 |Time | What  |
 |-----|-------|
-| 9:00 - 10:00 | Planning Plenary |
+| 9:00 - 10:00   | Planning Plenary |
 | 10:00 - 12:30 | Code Sprints/Tutorials|
 | 12:30 - 14:00 | Joint Lunch|
-| 14:00 - 1:70 | Development Sprints/Tutorials|
+| 14:00 - 1:70   | Development Sprints/Tutorials|
 | 17:00 - 18:00 | Planning Plenary |
-| 18:00 - 18:00  Joint Dinner|
+| 18:00 - 18:00 |  Joint Dinner|
 |-----|-------|
 
 ## Funding
