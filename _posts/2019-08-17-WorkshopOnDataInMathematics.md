@@ -21,6 +21,21 @@ We will continue adding information as it becomes available to this page.
 
 ***Organising team:*** Katja Berčič, Nicolas Thiéry, and Primož Potočnik
 
+## Program
+
+We will predominantly be working in small groups performing code/development sprints. To
+structure the day and ensure communication, we adopt the following daily schedule. 
+
+|Time | What  |
+|-----|-------|
+| 9:00 - 10:00 | Planning Plenary |
+| 10:00 - 12:30 | Code Sprints/Tutorials|
+| 12:30 - 14:00 | Joint Lunch|
+| 14:00 - 1:70 | Development Sprints/Tutorials|
+| 17:00 - 18:00 | Planning Plenary |
+| 18:00 - 18:00  Joint Dinner|
+|-----|-------|
+
 ## Funding
 
 OpenDreamKit will cover the local expenses for all participants and
