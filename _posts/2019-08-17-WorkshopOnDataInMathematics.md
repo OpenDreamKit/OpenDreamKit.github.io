@@ -26,15 +26,16 @@ We will continue adding information as it becomes available to this page.
 We will predominantly be working in small groups performing code/development sprints. To
 structure the day and ensure communication, we adopt the following daily schedule. 
 
-|Time | What  |
-|-----|-------|
-| 9:00 - 10:00   | Planning Plenary |
-| 10:00 - 12:30 | Code Sprints/Tutorials|
-| 12:30 - 14:00 | Joint Lunch|
-| 14:00 - 1:70   | Development Sprints/Tutorials|
-| 17:00 - 18:00 | Planning Plenary |
-| 18:00 - 18:00 |  Joint Dinner|
-|-----|-------|
+|---------------|-------------------------------|
+| Time          | What                          |
+|---------------|-------------------------------|
+| 09:00 - 10:00 | Planning Plenary              |
+| 10:00 - 12:30 | Code Sprints/Tutorials        |
+| 12:30 - 14:00 | Joint Lunch                   |
+| 14:00 - 17:00 | Development Sprints/Tutorials |
+| 17:00 - 18:00 | Planning Plenary              |
+| 18:00 - 18:00 | Joint Dinner                  |
+|---------------|-------------------------------|
 
 ## Funding
 
@@ -44,6 +45,7 @@ the travel expenses of most to all participants.
 ## Participants
 
 We are excited to announce the following (tentatively) confirmed attendees:
+
 * Odile Bénassy
 * Katja Berčič
 * E. Madison Bray
@@ -54,6 +56,11 @@ We are excited to announce the following (tentatively) confirmed attendees:
 * Jukka Kohonen
 * Samuel Lelièvre
 * Florian Rabe
+* Julian Rüth
 * Nicolas Thiéry
 * Michael Torpey
 * Tom Wiesing
+
+## Arrivals and departures
+
+See the [arrivals and departures pad](https://hackmd.io/HR0KV8IJT2qlAOqRBhqW6A).
