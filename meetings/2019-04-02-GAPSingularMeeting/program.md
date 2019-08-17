@@ -196,18 +196,19 @@ This is joint work with Paul Goerlach (MPI MiS) and Leon Zhang (UC Berkeley)
 <summary>
 14:30 - 15:00: Johannes Flake: Computing the Monoidal Center of Deligne's Interporation Category Rep(S_t)
 </summary>
-TBA
+Deligne's interpolation categories are interesting examples for monoidal categories which can be described nicely using combinatorics and linear algebra. I will explain how objects in their monoidal centers can be constructed, and how I hope to produce more such objects or show that there are none using computer algebra.
 </details>
 <details>
 <summary>
-16:00 - 16:30: TBA
+16:00 - 16:30: Manuel Delgado: Exploring N numerical semigroups in n milliseconds, with GAP
 </summary>
+TBA
 </details>
-<details>
+<!-- <details>
 <summary>
 16:30 - 17:00: TBA
 </summary>
-</details>
+</details> -->
 
 
 ## Workshops (August 20 - 23)
@@ -224,7 +225,7 @@ The workshops (and their specific organizers) are:
 
 <details>
 <summary>
-Visualizations in Jupyter (Claus Fieker, Pedro Garcia-Sanchez)
+Visualizations in Jupyter (Claus Fieker)
 </summary>
 Abstract: In this workshop we want to explore and extend the features of various
 visualization backends for Jupyter, and how we can use them in CAS.
@@ -235,7 +236,7 @@ of possibilities.
 
 <details>
 <summary>
-CAP Days (Sebastian Gutsche, Sebastian Posur)
+CAP Days (Sebastian Posur)
 </summary>
 In this workshop both newcomers and veterans
 to CAP are welcome to form groups and work on projects of their interest.
@@ -258,7 +259,7 @@ These GAP Days will focus on improving the MatrixObj implementation, and releasi
 
 <details>
 <summary>
-Singular Workshop (Christian Eder, Andreas Steenpaß, Isabel Stenger)
+Singular Workshop (Andreas Steenpaß)
 </summary>
 This workshop is meant for participants that want to try to solve their
 research problems using Singular. Participants should bring their problems,
