@@ -18,6 +18,9 @@ participants:
 - name: Laura Brustenga 
   affiliation: Universitat Autònoma de Barcelona
 
+- name: Manuel Delgado
+  affiliation: University of Porto
+
 - name: Christian Eder
   affiliation: University of Leipzig
 
@@ -25,10 +28,10 @@ participants:
   affiliation: University of Kaiserslautern
 
 - name: Johannes Flake
-  affiliation: RWTH Aachen
+  affiliation: RWTH Aachen University
 
-- name: Pedro A. García Sánchez
-  affiliation: Universidad de Granada
+- name: Rafael Fourquet
+  affiliation: University of Kaiserslautern
 
 - name: Sebastian Gutsche
   affiliation: University of Siegen
@@ -77,11 +80,11 @@ participants:
 - name: Andreas Steenpaß
   affiliation: University of Kaiserslautern
 
-- name: Isabel Stenger
-  affiliation: University of Kaiserslautern
-
 - name: Leyli Jafari Taghvastani
   affiliation: Kurdistan university (Iran)
+
+- name: Michael Torpey
+  affiliation: University of St Andrews
 
 - name: Vinay Wagh
   affiliation: IIT Guwahati, India
