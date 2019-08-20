@@ -221,6 +221,8 @@ please mention it in the registration.
 
 Each day, the workshops start at 9:30. Each organizer may set up their own schedule and mode of work.
 
+[Click here for the workshop HackMD](https://hackmd.io/Ep88AzrNT62_MDuDLrI9EQ)
+
 The workshops (and their specific organizers) are:
 
 <details>
