@@ -4,6 +4,7 @@ author: The ODK team
 title: Workshop on Data in Mathematics
 location: Cernay-la-Ville, 40km South-West of Paris, near Orsay, France
 dates: August 17th-24th of 2019
+image: math-data/cernay-cake.jpg
 tags:
     - conference
     - workshop
