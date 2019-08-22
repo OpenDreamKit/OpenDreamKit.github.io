@@ -137,13 +137,6 @@ of CAS features.
 
 <details>
 <summary>
-9:30 - 10:00: Sandeep Singh Chahal: On the equality of certain automorphism groups of finitely generated groups
-</summary>
-TBA
-</details>
-
-<details>
-<summary>
 10:00 - 10:30: Martin Bies: Monoidal structures in Freyd categories
 </summary>
 For a given additive category C, one can construct a new category which
@@ -204,11 +197,17 @@ Deligne's interpolation categories are interesting examples for monoidal categor
 </summary>
 TBA
 </details>
-<!-- <details>
+<details>
 <summary>
-16:30 - 17:00: TBA
+16:30 - 17:00: Dominik Bernhard: Automorphism groups of simple graphs with few vertex-orbits
 </summary>
-</details> -->
+In this talk we will investigate how to construct automorphism groups of
+graphs with few vertex orbits.
+The base case is to construct automorphism groups
+with 2 vertex orbits. We will see how to describe their group theoretic structure
+and give hints towards an algorithm to construct these groups and how to generalize to
+more orbits.
+</details>
 
 
 ## Workshops (August 20 - 23)
