@@ -12,6 +12,8 @@ from August 15 - August 23, 2019.
 The meeting consists of three parts: A school,
 a mini conference, and several workshops.
 
+![Participants](participants.jpg)
+
 # Program
 
 The school is meant for beginners as well as slightly advanced people
