@@ -27,6 +27,8 @@ Like our usual Cernay workshop, this will be rather informal: we will
 cook for each other, share rooms, etc. See the notes on the [local
 organization](https://hackmd.io/4b8zBeKLS6i9w84G0ChanA). 
 
+[Report writing coordination page](https://hackmd.io/_qX_YnOpT6eG6kl2xRqJAQ)
+
 For registration, please fill in the [date
 poll](https://framadate.org/tfuHjZgcSU8pHI45) where date N is to be
 interpreted as "staying overnight from date N to date N+1". Leave a
