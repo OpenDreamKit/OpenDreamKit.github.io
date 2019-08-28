@@ -25,7 +25,7 @@
   
 - name: Try Ubermag
   repo: ubermag/ubermag
-  file: index.ipynb
+  file: docs/ipynb/index.ipynb
   thumbnail: /try/thumbnails/Ubermag.png
   
 
