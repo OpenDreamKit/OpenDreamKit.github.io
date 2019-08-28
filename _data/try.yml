@@ -22,4 +22,10 @@
   repo: sebasguts/SingularBinderDemo
   file: brnoeth.ipynb
   thumbnail: /try/thumbnails/SingularLogo.png
+  
+- name: Try Ubermag
+  repo: ubermag/ubermag
+  file: index.ipynb
+  thumbnail: /try/thumbnails/Ubermag.png
+  
 
