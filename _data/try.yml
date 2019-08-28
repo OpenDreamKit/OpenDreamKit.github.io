@@ -13,6 +13,11 @@
   file: index.ipynb
   thumbnail: /try/thumbnails/PARI-GP.svg
 
+- name: Try Ubermag
+  repo: ubermag/oommfc
+  file: docs/ipynb/index.ipynb
+  thumbnail: /try/thumbnails/Ubermag.png
+
 - name: Try SageMath
   repo: sagemath/more-sagemath-tutorials
   file: tutorial-sage-start-here.ipynb
@@ -23,9 +28,5 @@
   file: brnoeth.ipynb
   thumbnail: /try/thumbnails/SingularLogo.png
   
-- name: Try Ubermag
-  repo: ubermag/ubermag
-  file: docs/ipynb/index.ipynb
-  thumbnail: /try/thumbnails/Ubermag.png
   
 
