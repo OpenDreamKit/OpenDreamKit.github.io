@@ -350,13 +350,21 @@ sites:
         homepage: 'https://kwarc.info/people/twiesing'
         email: 'tom.wiesing@fau.de'
         github: tkw1536
-      - name: Theresa Pollinger
-        homepage: 'https://kwarc.info/people/tpollinger'
-        email: 'theresa.pollinger@fau.de'
       - name: Katja Berčič
         homepage: 'https://kwarc.info/people/kbercic'
         email: 'katja.bercic@kwarc.info'
         github: katjabercic
+      - name: Theresa Pollinger
+        homepage: 'https://kwarc.info/people/tpollinger'
+        email: 'theresa.pollinger@fau.de'
+        status:
+          - left
+      - name: Makarius Wenzel
+        homepage: 'https://sketis.net/'
+        email: 'makarius@sketis.net'
+        github: makarius
+        roles:
+          -  subcontractor
         
   - name: 15- University of Leeds
     logo: leeds-logo.jpg
@@ -389,6 +397,8 @@ roles:
     desc: Quality review board leader
   project-deputy:
     desc: Project deputy coordinator
+  subcontractor:
+    desc: external subcontractor
 
 # TODO: implement this
 status:
