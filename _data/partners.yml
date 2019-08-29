@@ -274,7 +274,11 @@ sites:
         homepage: 'https://www.logilab.fr/card/florent.cayre'
         email: 'florent.cayre@logilab.fr'
         github: fcayre
-        status: left    
+        status: left
+      - name: Juliette Belin
+        homepage: 'http://jbelin.com/fr'
+        github: JulietteTaka
+        email: juliettetaka.belin@gmail.com
 
   - name: 11-Simula Research Laboratory
     logo: simula.png
