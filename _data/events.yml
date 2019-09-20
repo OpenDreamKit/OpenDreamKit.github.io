@@ -160,6 +160,11 @@ InternalEvents:
       start: 2019-08-26
       end: 2019-08-30
       url: https://opendreamkit.org/2019/08/26/FinalReportsSprint
+    - title: OpenDreamKit final review, Luxembourg
+      start: 2019-10-28
+      end: 2019-10-30
+      url: https://opendreamkit.org/meetings/2019-10-30-Luxembourg/
+      location: Brussels
 
 ExternalEvents:
     - title: International Congress on Mathematical Software (ICMS 2018)
