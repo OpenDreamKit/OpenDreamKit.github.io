@@ -7,7 +7,7 @@ At the occasion of its final formal review by the EU Commission,
 OpenDreamKit will have a project meeting in Luxembourg, on October 30th.
 The Consortium will present the results of the project to the representatives 
 of the European Commission. To prepare this meeting we will gather together
-on October 28 and 29,  at the IBIS Luxembourg Airport hotel. 
+on October 28 and 29, at the IBIS Luxembourg Airport hotel. 
 
 [List of participants](https://framadate.org/cNHDLjiAdA7xPWxv)
 
@@ -15,28 +15,33 @@ on October 28 and 29,  at the IBIS Luxembourg Airport hotel.
 
 ## Monday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
-- Morning: 
+- Morning: informal sprints
 - 13:00-14:00: Lunch
 - 14:00-19:00:
-  
+  - KPI brainstorm
+  - Review demos
+  - Rehearse all workpackage presentations, in the order given in the
+    project review [agenda](ProjectReview#agenda).
 
 ## Tuesday 29th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
-
 - 9:30-16:00: Rehearse all demos and presentations, following the timing of the
-  project review [agenda](ProjectReview#agenda). 
+  project review [agenda](ProjectReview#agenda).
 
 ## Wednesday 30th (EUFO building)
 
-[Project Review](ProjectReview) 
+[Project Review](ProjectReview)
 
-~19:00: celebration dinner
+~19:00: social dinner (location: TBA)
 
 # Accomodation and venue
 
-We picked [Hotel Ibis Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml).
-It has reasonably priced rooms, which can also be shared with 2-3
-people. Please book and pay your rooms and breakfast yourselves. We
+We picked [Hotel Ibis Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml),
+and [Hotel Ibis Budget Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-3579-ibis-budget-luxembourg-aeroport/index.shtml)
+which are right next to each other. They have reasonably priced rooms,
+which can also be shared with 2-3 people.
+
+Please book and pay your rooms and breakfast yourselves. We
 did not reserve any rooms so you should do this reasonably soon.
 
 ## Monday and Tuesday
