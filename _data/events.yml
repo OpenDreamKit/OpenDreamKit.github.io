@@ -99,11 +99,8 @@ InternalEvents:
     - title: Workshop on low-level interfaces with libraries
       start: 2018-04-30
       end: 2018-05-04
+      location: Cernay (France)
       url: https://github.com/OpenDreamKit/OpenDreamKit/issues/251
-    - title: Conference at CIRM for Free Computational Mathematics
-      start: 2019-02-11
-      end: 2019-02-15
-      url: http://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
     - title: Jupyter in GAP and other CAS
       start: 2018-06-04
       end: 2018-06-10
@@ -112,53 +109,65 @@ InternalEvents:
     - title: Dissemination project meeting 
       start: 2018-06-20
       end: 2018-06-23
+      location: XFEL, Hamburg
       url: https://opendreamkit.org/2018/06/20/Hamburg-DisseminationWorkshop-SteeringMeeting/
     - title: Steering committee
       start: 2018-06-21
       end: 2018-06-21
+      location: XFEL, Hamburg
     - title: Software tools for mathematics
       start: 2018-09-24
       end: 2018-09-29
       url: http://stm.famnit.upr.si/
       location: Koper, Slovenia
-    - title: Review meeting in Luxemburg
+    - title: Second Project Review
       start: 2018-10-28
       end: 2018-10-31
+      location: Luxemburg
       url: https://opendreamkit.org/meetings/2018-10-28-Luxembourg/
     - title: Free computational mathematics -- Calcul mathématique libre
       start: 2019-02-11
       end: 2019-02-15
+      location: CIRM, Luminy (France)
       url: https://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference/
-    - title: Sage Days 98 -- Women in Sage, Archanes (Crete)
+    - title: Sage Days 98 -- Women in Sage
       start: 2019-04-08
-      start: 2019-04-12
-    - title: Sage Days 100, Bonn (Germany)
+      end: 2019-04-12
+      location: Archanes (Crete)
+    - title: Sage Days 100
       start: 2019-07-22
       end: 2019-07-27
+      location: Bonn (Germany)
       url: https://wiki.sagemath.org/days100
-    - title: "Sage-GAP Days 101, Cernay (France): packaging, portability, documentation tools"
+    - title: "Sage-GAP Days 101: packaging, portability, documentation tools"
       start: 2019-06-17
       end: 2019-06-21
+      location: Cernay (France)
       url: https://wiki.sagemath.org/days101
-    - title: Free and Practical Software for Algebraic Combinatorics 2019, Ljubljana (Slovenia)
+    - title: Free and Practical Software for Algebraic Combinatorics 2019
       start: 2019-07-08
       end: 2019-07-12
+      location: Ljubljana (Slovenia)
       url: https://wiki.sagemath.org/fpsac19
-    - title: Sage Days 102, Ibadan (Nigeria)
+    - title: Sage Days 102
       start: 2019-07-15
       end: 2019-07-19
+      location: Ibadan (Nigeria)
       url: https://wiki.sagemath.org/days102
-    - title: Workshop on Data in Mathematics, Cernay (France)
+    - title: Workshop on Data in Mathematics
       start: 2019-08-17
       end: 2019-08-21
+      location: Cernay (France)
       url: https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/
-    - title: GAP Singular Meeting and School, Lambrecht (Germany)
+    - title: GAP Singular Meeting and School
       start: 2019-08-15
       end: 2019-08-23
+      location: Lambrecht (Germany)
       url: https://opendreamkit.org/meetings/2019-04-02-GAPSingularMeeting/
-    - title: OpenDreamKit final reports sprint, Cernay (France)
+    - title: OpenDreamKit final reports sprint
       start: 2019-08-26
       end: 2019-08-30
+      location: Cernay (France)
       url: https://opendreamkit.org/2019/08/26/FinalReportsSprint
     - title: OpenDreamKit final review
       start: 2019-10-28
