@@ -5,24 +5,24 @@ title: How to acknowledge OpenDreamKit support
 
 # Collect and advertise ODK activities and publications
 
-Please advertise talks, workshops, publications, and other ODK activities on the [project activities](/events_activities/project_activities/) and [events](/events_activities/calendar) pages. Also include bibtex citations of ODK funded publications on our [publication list](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/lib/publications.bib). All papers should be on arxiv, or some equivalent open preprint archive, and the bibtex citations should contain a reference to it.
+Please advertise talks, workshops, publications, and other ODK activities on the [project activities](/events_activities/project_activities/) and [events](/events_activities/calendar) pages. Also include bibtex citations of ODK funded publications on our [publication list](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/lib/publications.bib). All papers should be on arXiv, or some equivalent open preprint archive, and the bibtex citations should contain a reference to it.
 
 # EU visibility
 
-OpenDreamKit being funded by Horizon 2020, the EU asks us to promote its financial support. The obligation for EU visibility includes:
+OpenDreamKit being funded by Horizon 2020, the EU asks us to acknowledge its financial support. The obligation for EU visibility includes:
 
   -	Peer-reviewed publications, posters, presentations at seminars or workshops and other main research dissemination
   -	Project major communication activity: project website, and as far as possible communication in the media
-  -	Audio-visual material (interviews, promotional videos etc)
+  -	Audio-visual material (interviews, promotional videos, etc.)
   -	Infrastructure and major results funded by the grant
 
-!!! This of course does not include your day-to-day research and collaborations !!!
+This of course does not include your day-to-day research and collaborations!
 
 For the communication actions and dissemination listed above, they must:
 
 (a)	Display the EU emblem whenever possible
 
-(typically publications in our field do not traditionaly include such logos or emblems) 
+(publications in our field traditionally do not include such logos or emblems)
 
 (b)	Include the following text:
 
@@ -38,7 +38,7 @@ project (#<a href="http://cordis.europa.eu/project/rcn/198334_en.html">676541</a
 
 Major communication productions must include when possible a fixed text indicating the content reflects only the author’s view (and not the EU point of view). 
 
-The text is as following:
+The text is as follows:
 
 “This publication/website/video/etc has been produced with the assistance of the European Union. The contents of this publication are the sole responsibility of [name of the author(s)] and can in no way be taken to reflect the views of the European Union.”
 
@@ -46,9 +46,6 @@ Are concerned:
 
 - Peer-reviewed publications, posters, presentations at seminars or workshops and other main research dissemination
 -	Project major communication activity: project website, and as far as possible communication in the media
--	Audio-visual material (interviews, promotional videos etc)
+-	Audio-visual material (interviews, promotional videos, etc.)
 
-
-
-
-PLEASE: remember to contact Benoît Pilorget and Viviane Pons who are in charge of the project management and of the dissemination work package for major communication and dissemination results and actions (press releases, interviews, publications…)! You can contact them before the actions if you have any doubt concerning visibility or else, but most importantly after the results of the actions in order to promote them on the website.
+PLEASE: remember to contact Izabela Faguet and Viviane Pons who are in charge of the project management and of the dissemination work package for major communication and dissemination results and actions (press releases, interviews, publications…)! You can contact them before the actions if you have any doubt concerning visibility or other aspects, but most importantly after the results of the actions in order to promote them on the website.
