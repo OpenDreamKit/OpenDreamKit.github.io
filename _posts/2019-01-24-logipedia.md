@@ -27,7 +27,7 @@ Now researchers in theorem proving have started similar efforts.
 This week Gilles Dowek hosted a meeting in Paris of leading European theorem proving researchers.
 Florian Rabe participated as a representative of the Erlangen-Nuremberg site (led by Michael Kohlhase) and of OpenDreamKit as a whole.
 
-The goal is to launch Logipedia as a central system for integrating theorem prover libraries.
+The goal is to launch [Logipedia](http://logipedia.inria.fr/) as a central system for integrating theorem prover libraries.
 An EU infrastructure project akin to OpenDreamKit may be started in the future.
 
 Kohlhase and Rabe have collaborated with Dowek's group for many years, including throughout OpenDreamKit.
