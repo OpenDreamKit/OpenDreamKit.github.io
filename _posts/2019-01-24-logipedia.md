@@ -34,6 +34,7 @@ Kohlhase and Rabe have collaborated with Dowek's group for many years, including
 They have held multiple workshops together and have recently submitted a joint French (ANR)/German (DFG) grant proposal of verifying deduciton system results.
 
 Many ideas of Logipedia are related to or inspired by innovations of OpenDreamKit.
-In particular, the Math-in-the-Middle approach of OpenDreamKit is found again in Logipedia.
+In particular, the general  Math-in-the-Middle approach developed OpenDreamKit and the use of
+alignments for aligning corresponding (logical) concpets has been adopted in Logipedia.
 
 Future collaboration between these projects will be critical to make progress on the first problem mentioned above - an integration of OpenDreamKit's Math-in-the-Middle infrastructure with Logipedia is an exciting way towards integrating theorem proving and computation systems.
