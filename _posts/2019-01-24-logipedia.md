@@ -4,6 +4,7 @@ author: Florian Rabe
 title: Logipedia - an OpenDreamKit for Theorem Proving?
 location: Paris, France
 dates: January 21st-23rd 2019
+image: logipedia.jpg
 tags:
     - workshop
     - dissemination
