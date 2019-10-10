@@ -2,7 +2,7 @@
 layout: post
 author: Michael Kohlhase
 title: "Mixing Data and Computation to explore mathematical data sets: Knowledge to the rescue with LMFDB + SageMath + Pari + MitM"
-image: MitM.png
+image: /public/images/use-cases/MitM.png 
 tags:
     - use-case
     - open-science
@@ -17,9 +17,6 @@ Exploring mathematical data sets often requires both data base operations and
  computation: mathematical data bases like [LMFDB](http://lmfdb.org), the
  [OEIS](http://oeis.org), or [FindStat](http://findstat.org) are conceptually condensed
  tabulations of prior computations that can be searched over for completeness.
-
-[ ![The MitM Paradigm Comic](/public/images/use-cases/MitM.png){:class="display"} ](/public/images/use-cases/MitM.png)
-
 
 The use case described here is about Modular Forms, a class of objects of immense
 importance in number theory and cryptography.
