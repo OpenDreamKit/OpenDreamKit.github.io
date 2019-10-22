@@ -5,7 +5,6 @@ title: Authoring interactive books with Jupyter notebooks
 image: book_authoring1.png
 tags:
     - use-case
-    - front-page
     - best-practice
     - open-science
     - reproducibility
