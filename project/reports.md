@@ -27,7 +27,7 @@ We are required to write reports on our activities in order for the European com
 <a name="reporting-period-3"/>
 ## Reporting Period 3 (September 2018-August 2019)
 
-* [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/releases/download/RP2/ReportsReportingPeriod3.zip)
+* [All Reports](https://github.com/OpenDreamKit/OpenDreamKit/releases/download/RP3/ReportsReportingPeriod3.zip)
 * [Technical report](https://github.com/OpenDreamKit/OpenDreamKit/blob/master/ReportingPeriod3/TechnicalReport/report-final.pdf)
 
 {% include deliverables.html begin=37 end=48 %}
