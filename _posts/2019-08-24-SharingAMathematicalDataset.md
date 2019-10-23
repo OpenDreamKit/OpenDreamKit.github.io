@@ -2,7 +2,7 @@
 layout: post
 author: The FAU group
 title: "Sharing a mathematical dataset online"
-image: mmt-elalg.png
+image: math-data/regular-maniplexes.png
 tags:
     - use-case
     - dksbases
