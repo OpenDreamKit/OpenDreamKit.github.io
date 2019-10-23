@@ -8,6 +8,7 @@ tags:
     - jupyter
     - sagemath
     - math-in-the-middle
+    - dksbases	
 ---
 
 This is an announcement for a research software engineer position
