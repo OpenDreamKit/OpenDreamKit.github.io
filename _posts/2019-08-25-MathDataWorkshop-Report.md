@@ -9,8 +9,8 @@ tags:
     - dissemination
 ---
 
-The workshop on data in mathematics brought together fourteen participants.
-The participants represented authors of mathematical datasets,
+The [workshop on data in mathematics](https://opendreamkit.org/2019/08/17/WorkshopOnDataInMathematics/) brought together fourteen participants.
+They represented authors of mathematical datasets,
 interested users of such datasets, data framework developers,
 knowledge engineers, and experts interested in integrating mathematical databases 
 with computer algebra systems.
@@ -26,9 +26,9 @@ Tom Wiesing had completely rewritten the system in Django.
 The decision to switch backends was made to allow for a more 
 agile development in the future.
 
-We named the system MathHub Data, to indicate integration with MathHub, 
+We named the system [Data.MathHub](https://data.mathhub.info), to indicate integration with [MathHub](https://mathhub.info), 
 a portal for active mathematical documents and an archive for flexiformal mathematics.
-MathHub Data is unified infrastructure supporting deep FAIR relational mathematical data.
+MathHub Data provides a unified infrastructure supporting deep FAIR relational mathematical data.
 It provides storage and hosting for mathematical datasets.
 The infrastructure produced includes everything necessary to display 
 a simple website with basic search functionality.
@@ -70,5 +70,7 @@ that several participants offered help with tasks such as dataset reviews.
 
 ## Future
 
-The workshop was successful and organisation is underway for a second installment
-in spring of 2020.
+The workshop was very successful even with the somewhat limited outside participation
+(indeed that was probably a factor in the success). As an effect, an outside member of the
+math data community has bid for a second installment in spring of 2020 in Slovenia and
+organisation is underway for that.
