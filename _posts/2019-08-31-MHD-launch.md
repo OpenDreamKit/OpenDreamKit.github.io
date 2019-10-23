@@ -2,7 +2,7 @@
 layout: post
 author: The group at FAU
 title: MathHub Data launch
-image: math-data/codec.jpg
+image: math-data/codec.png
 tags:
     - blogpost
     - dissemination
