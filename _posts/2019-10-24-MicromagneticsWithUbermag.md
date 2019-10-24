@@ -40,10 +40,10 @@ human-readable text in a single shareable document.
 ## Scenario
 
 Tom is running micromagnetic simulations in order to explore how does
-he result change when he varies one of many input paraneters. For
+the result change when he varies one of many input paraneters. For
 every value of an input parameter he has to write a separate
 configuration file for OOMMF, run them all individually, and then
-extract the results he is interested for every single run. Finally, he
+extract the results he is interested in for every single run. Finally, he
 wants to share his entire computational workflow as a supplementary
 information to his paper.  However, because his workflow requires a
 lot of human assistance, his study is very difficult to reproduce.
@@ -54,7 +54,7 @@ He uses [Ubermag](https://ubermag.github.io), developed as a part of
 OpenDreamKit, where OOMMF micromagnetic simulations are exposed to all
 existing Python libraries and embedded in Jupyter. This way, in a
 single document he can iterate through the entire parameter space he
-is interested in, he can extract the result, analyse them, and
+is interested in, he can extract the results, analyse them, and
 visualise in a single shareable document.
 
 Apart from that, the computational study he created in a single
@@ -71,13 +71,11 @@ hosting machine.
 By running his micromagnetic study inside the Jupyter notebook, Tom
 achieved the following:
 
-* He can easily set up his simulation using the Python-based domain
-* specific langauge He can use all the benefits of Python in running
-* his simulations, such as running multiple simulations over large
-* paraneter spaces.  He can easily access the resulting data and
-* analyse them He can visualise the data using both static and
-* interactive plots (k3d) He can easily share his entire workflow as a
-* single Jupyter notebook
+* He can easily set up his simulation using the Python-based domain specific langauge
+* He can use all the benefits of Python in running his simulations, such as running multiple simulations over large parameter spaces.
+* He can easily access the resulting data and analyse them
+* He can visualise the data using both static and interactive plots (k3d)
+* He can easily share his entire workflow as a single Jupyter notebook
 
 ## What’s new since OpenDreamKit started
 
