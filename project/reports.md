@@ -1,12 +1,17 @@
 ---
 layout: page
 title: Reports
-menu_order: 6
+menu_order: 7
 menu: project
 redirect_from: "/events_activities/reports/"
 ---
 
-We are required to write reports on our activities in order for the European commission to evaluate our work. All our reports are public along with the related discussions and work. You can find them on our github page.
+We are required to write reports on our activities in order for the
+European commission to evaluate our work. All our reports are public
+and can be found below. You can also find them from our
+[deliverables pages on GitHub](https://github.com/OpenDreamKit/OpenDreamKit/labels/deliverable),
+ along with the related discussions and work.
+
 
 <a name="reporting-period-1"/>
 ## Reporting Period 1 (September 2015-February 2017)
