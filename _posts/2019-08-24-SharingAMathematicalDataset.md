@@ -2,12 +2,11 @@
 layout: post
 author: The FAU group
 title: "Sharing a mathematical dataset online"
-image: mmt-elalg.png
+image: math-data/regular-maniplexes.png
 tags:
     - use-case
     - dksbases
 ---
-
 
 ## Introduction
 
@@ -17,7 +16,8 @@ Because of the complexity of the data, the datasets tend to be hard
 to share with other researchers.
 A lot of effort needs to go into developing a suitable infrastructure,
 particularly so for the larger projects such as 
-the OEIS, the LMFDB, the Small Groups Library, and the House of Graphs,
+the [Online Encyclopedia of Integer functions](https://oeis.org) (OEIS), the
+[L-Functions and Modular Forms Database](https://lmfdb.org (LMFDB), the [Small Groups Library](https://www.gap-system.org/Packages/smallgrp.html), and the [House of Graphs](https://hog.grinvin.org/),
 to name just a few.
 Resources needed to make a mathematical dataset useful to other researchers
 are typically beyond what a typical researcher has available to them.
@@ -41,7 +41,7 @@ so that the users can
 
 ## Suggestion of solution
 
-He submits his dataset to the [MathHub Data](https://data.mathhub.info/) platform.
+He submits his dataset to the [Data.MathHub](https://data.mathhub.info/) platform.
 
 Once his data is imported, he shares the link with his colleagues.
 
@@ -74,7 +74,7 @@ had little resources and was not maintained on a regular basis.
 The other alternative would be to set up a website himself, with 
 whatever resources he had available himself.
 
-Since the end of OpenDreamKit, everyone with basic skills for working with data
-can use MathHub Data to share their datasets.
+Since the end of [OpenDreamKit](https://opendreamkit.org), everyone with basic skills for working with data
+can use [Data.MathHub](https://data.mathhub.info) to share their datasets.
 Indeed, datasets such as Gabe's are the focus of the project.
 
