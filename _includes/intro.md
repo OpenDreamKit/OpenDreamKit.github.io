@@ -1,4 +1,4 @@
-# OpenDreamKit -- Open Digital Research Environments for Advanced Mathematics Toolkit
+## OpenDreamKit -- Open Digital Research Environments Toolkit for the Advancement of Mathematics
 
 OpenDreamKit is a 7.6M€ European Research Infrastructure project which
 ran from 2015 to 2019. Bringing together a diverse team of 50 Open
