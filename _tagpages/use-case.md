@@ -7,8 +7,8 @@ slider: True
 slider_heading: Use Cases and Success Stories
 slider_sentence: What can we do for you
 image: use-cases/reproducible_logbook_scenario.png
-menu: project
-menu_order: 1
+#menu: project
+#menu_order: 1
 slider_order: 2
 extra_content: use-case-extra.md
 ---
