@@ -49,7 +49,7 @@ menu:
     - title: 'Use cases'
       link: '/tag/use-case'
     - title: 'Try'
-      slug: 'try'
+      link: '/try'
     - title: 'Events'
       slug: 'events'
     - title: 'Values'
