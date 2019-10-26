@@ -61,7 +61,7 @@ visualise them in a single shareable document.
 Apart from that, the computational study he created in a single
 document can be run "in the cloud" using Binder, so that anybody can
 run his simulations without the need to have anything installed on the
-hosting machine. Similar use-case developed as a part of OpenDreamKit project is [Publishing reproducible notebooks](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/).
+hosting machine; see the [publishing reproducible notebooks](https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/) use case.
 
 ## Ubermag instances
 
