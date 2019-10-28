@@ -15,6 +15,9 @@ on October 28 and 29, at the IBIS Luxembourg Airport hotel.
 
 ## Monday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
+The room is on the ground floor, just go left at the reception, and
+you will find us within 20 (foot)steps.
+
 [PAD for taking notes](https://hackmd.io/9Jadq_P5Rui1xw4O4KQKIg)
 
 - Morning: informal sprints
