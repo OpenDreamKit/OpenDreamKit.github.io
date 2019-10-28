@@ -1,9 +1,10 @@
 ---
 layout: page
 title: What is OpenDreamKit
-menu_title: About
+menu_title: What is OpenDreamKit
 menu_order: 1
-redirect_from: "/project/about/"
+menu: about
+redirect_from: "/about/"
 youtube: CL3A7UQmWKE
 image: what-is-opendreamkit.png
 slider: True

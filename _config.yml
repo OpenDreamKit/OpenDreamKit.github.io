@@ -41,7 +41,7 @@ bootstrap:           bootstrap-custom
 tagfolder:           tag
 menu:
     - title: 'About'
-      link: '/about/'
+      slug: 'about'
     - title: 'Project'
       slug: 'project'
     - title: 'People'

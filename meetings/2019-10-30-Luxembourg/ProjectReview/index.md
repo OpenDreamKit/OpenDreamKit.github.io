@@ -28,12 +28,13 @@ by the European Commission. We will present the achievements of all the
 
 - 13:30 Achievements, session 2
 
+    - Software Demonstrations
     - [WP5: High Performance Mathematical Computing], by Clément Pernet (~20 min)
-    - WP6: Data/Knowledge/Software-Bases, by Michael Kohlhase (~20 min)
+    - WP6: Data/Knowledge/Software-Bases, by [Michael Kohlhase](https://kwarc.info/kohlhase) (~20 min)
 
 - 15:00 Coffee break
 
-- 15:15 WP2: Community building, training, dissemination, exploitation and outreach, by Viviane Pons (remotely) (~20 min)
+- 15:15 [WP2: Community building, training, dissemination, exploitation and outreach](WP2), by Viviane Pons (remotely) and Erik Bray (~20 min)
 
 - 15:45 [Wrap up], by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
@@ -45,6 +46,40 @@ by the European Commission. We will present the achievements of all the
 
 ## Participants
 
-- ![photo](http://nicolas.thiery.name/id.jpg =10%x10%) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
-- ![photo](https://kwarc.info/people/frabe/florian_rabe_small.jpg =10%x10%) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
-- ![photo](https://kwarc.info/public/images/kbercic.jpg =10%x10%) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- ![](http://nicolas.thiery.name/id.jpg) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
+- ![](https://img-0.journaldunet.com/cpztLhBur-LtpWcLV_witkYrvdw=/250x/smart/d8950c0639354214bf9a748c7c4a9f84/ccmcms-jdn/2235975.jpg) [Odile Bénassy](http://github.com/zerline), LRI, Université Paris Sud
+- ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- Olivier Cayrol, [Logilab](https://www.logilab.fr/)
+- [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
+- ![](https://opc.mfo.de/photoNormal?id=17996) 
+[Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/), TU Kaiserslautern. [SINGULAR](https://www.singular.uni-kl.de/)
+- ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles, WP3 lead, SageMath)
+- ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
+- ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
+- ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
+- ![](https://secure.gravatar.com/avatar/d5b897c37001627c2e3ad3c1e8a7e6fb?size=40)
+  [Min Ragan-Kelley](https://www.simula.no/people/benjaminrk),
+  Numerical Analysis and Scientific Computing,
+  Simula Research Laboratory
+  (WP4 leader, [Jupyter](https://jupyter.org))
+{:.idpics}
+
+<style>
+.idpics img {
+  width: 40px;
+  margin: 2px;
+  cursor: pointer;
+}
+.idpics li {
+  margin-left: 20px;
+  min-height: 42px;
+  list-style-type: none;
+}
+</style>
+
+<script>
+document.querySelectorAll('.idpics img').forEach(p => {
+  p.parentNode.style.transform = 'translateX(-42px) translateX(-1ex)';
+  p.addEventListener('click', () => window.open(p.src));
+});
+</script>
