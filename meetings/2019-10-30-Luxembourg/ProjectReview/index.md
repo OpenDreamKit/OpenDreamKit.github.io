@@ -46,4 +46,4 @@ by the European Commission. We will present the achievements of all the
 ## Participants
 
 - ![photo](http://nicolas.thiery.name/id.jpg =10%x10%) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
-- ...
+- ![photo](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
