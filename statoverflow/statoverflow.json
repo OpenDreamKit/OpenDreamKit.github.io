@@ -1,0 +1,5 @@
+{
+    "tags": ["sage", "gap-system", "gap", "pari", "pari-gp", "singular", "mpir", "jupyter", "jupyter-notebook", "jupyterhub", "jupyterlab", "ipython", "ipython-notebook", "pythran", "lmfdb", "linbox"],
+    "sites": ["stackoverflow", "math", "mathoverflow", "physics", "crypto", "scicomp", "datascience", "cs", "cstheory", "engineering"],
+    "outfile": "statoverflow.csv"
+}

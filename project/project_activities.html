@@ -2,7 +2,7 @@
 layout: page
 title: Project Activity
 alltags: True
-menu_order: 2
+menu_order: 5
 menu: project
 redirect_from: "/events_activities/project_activities/"
 ---
@@ -13,20 +13,11 @@ Find below <strong>ALL</strong> updates on our recent activity: this includes ev
 Project activities are generated through the /_posts/ folder
 {% endcomment %}
 
-<h2>By tag</h2>
-
-
-
 {% assign with_post_numbers = true %}
-{% include tags_module.html %}
+{% assign tags_expanded = true %}
+{% include tags_cloud.html %}
 
-<div class="tagcloud" >
-    <span class="tag" ><a class="btn btn-default" href="{{ site.blog_path}}">All activites <span class="badge">{{ site.posts.size }}</span></a></span>
-{{ tagscontent }}
-</div>
-
-
-<h2>Most recent activites</h2>
+<h2>Most recent activities</h2>
 
 <section class="projects">
     {% for post in site.posts %}

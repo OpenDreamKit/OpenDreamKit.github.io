@@ -39,7 +39,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Jupyter kernels for PARI, GAP and Singular
 - NBDIME / NBVAL released
 - Python interface for OOMMF released
-- 14 events organized or co-organized by OpenDreamKit in year 1 + many interventions and dissemination activites
+- 14 events organized or co-organized by OpenDreamKit in year 1 + many interventions and dissemination activities
 
 ### Reports
 

@@ -4,7 +4,7 @@ layout: slides
 
 <section class="wp-report-title" >
 <div class="logos" >
-    <img src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" class="odk-logo" alt="OpenDraemKit"/>
+    <img src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" class="odk-logo" alt="OpenDreamKit"/>
     <img src="{{ site.baseurl }}/public/logos/Flag_of_Europe.svg" class="flag-europe" alt="European flag" />
 </div>
 {% if page.wp %}
@@ -24,9 +24,17 @@ layout: slides
 </div>
 {% else %}
     <h1>{{ page.title }}</h1>
-<div class="info" >
-    {{ page.author }}
-</div>
+    {% if page.img %}
+    <center><img src="{{page.img}}" width="50%"/></center>
+    {% endif %}
+<div class="info" >{{ page.author }}</div>
+{% if page.fulldate %}
+  <div class="info" >{{ page.fulldate }}</div>
+{% endif %}
+  {% if page.location %}
+<div class="info" >{{ page.location }}</div>
+{% endif %}
+
 {% endif %}
 
 </section>

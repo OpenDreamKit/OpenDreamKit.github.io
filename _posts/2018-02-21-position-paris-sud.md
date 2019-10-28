@@ -2,12 +2,13 @@
 layout: post
 
 author: Paris-Sud
-title: Research Software Engineer position opening at Université Paris-Sud (tentativelly filled)
+title: Research Software Engineer position opening at Université Paris-Sud (filled)
 tags:
     - job-opening
     - jupyter
     - sagemath
     - math-in-the-middle
+    - dksbases	
 ---
 
 This is an announcement for a research software engineer position

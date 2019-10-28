@@ -7,6 +7,7 @@ tags:
     - GAP
     - workshop 
     - math-in-the-middle
+    - dksbases	
 ---
 
 ## OpenDreamKit at Groups St Andrews in Birmingham ##

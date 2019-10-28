@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Michael Kohlhase
-title: "Mixing Data and Computation to explore mathematical data sets: Knowledge to the rescue with LMFDB + SageMath + Pari + MitM"
+title: "Composing mathematical computational software and databases: MitM to the rescue"
+image: use-cases/MitM.png
 tags:
     - use-case
     - open-science
@@ -12,10 +13,16 @@ tags:
     - math-in-the-middle
 ---
 
-Exploring mathematical data sets often requires both data base operations and
- computation: mathematical data bases like [LMFDB](http://lmfdb.org), the
- [OEIS](http://oeis.org), or [FindStat](http://findstat.org) are conceptually condensed
- tabulations of prior computations that can be searched over for completeness.
+The comic above shows off the idea of an interoperability layer for mathematical software
+systems base on the Math-in-the-Middle (MitM) paradigm using a combination of Singular,
+Sage and GAP. In this blog post, we detail another use case with the computer algebra
+systems SageMath and  Pari, but now with the mathematical database LMFDB in the mix.
+
+This use case is important, since exploring mathematical data sets often requires both
+data base operations and computation: mathematical data bases like
+[LMFDB](http://lmfdb.org), the [OEIS](http://oeis.org), or [FindStat](http://findstat.org)
+are conceptually condensed tabulations of prior computations that can be searched over for
+completeness.
 
 The use case described here is about Modular Forms, a class of objects of immense
 importance in number theory and cryptography.
@@ -65,3 +72,6 @@ are:
 3. we (together) make sure that the Math-in-the-Middle ontology has the necessary theories
 (at least as stubs) and alignments.
 
+
+<!--  LocalWords:  dksbases sagemath pari-gp realizing
+ -->

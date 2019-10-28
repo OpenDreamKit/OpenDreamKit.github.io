@@ -11,33 +11,33 @@ second 18 months of the project.
 
 ## Agenda
 
-[PAD](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA) for taking notes
+[PAD](https://hackmd.io/p48KpjlIR4mEoW0ZYToytg) for taking notes
 
 - 9:00 Welcome
    - Overview of the day by Project Officer
    - Go around the table
-   - [Brief overview of the project](overview-final.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
+   - [Some highlights on OpenDreamKit](overview-latest.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
 - 9:30 Some context: case studies, impact
-    - Science and Open Source: what do we learn from each other?
+    - [Science and Open Source: what do we learn from each other?](PyconFr_Keynote.pdf)
       by [Viviane Pons](https://github.com/VivianePons),
       based on her [PyConFr invited talk](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/)
       (~25 min)
-    - Case study: Micromagnetics, by Beg Marijan (~25 min)
+    - [Case study: Micromagnetics](marijan-beg-talk.pdf), by Beg Marijan (~25 min)
 
 - 10:20 Coffee break, with demonstrators and posters
 
 - 11:20 Achievements, by work package, session 1
-    - WP4: User Interfaces, by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
-    - [WP3: Component Architecture](WP3/), by [Luca De Feo](https://defeo.lu/) (~30 min)
-    - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod_2/WP5/WP5.pdf),
+    - [WP4: User Interfaces](wp4.pdf), by Vidar Fauske filling in for Benjamin Ragan-Kelley (~30 min)
+    - [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/rp2-wp3-binder-presentation?filepath=meetings%2F2018-10-28-Luxembourg%2FProjectReview%2FWP3.ipynb), by [Luca De Feo](https://defeo.lu/) (~30 min)
+    - [WP5: High Performance Mathematical Computing](https://github.com/OpenDreamKit/OpenDreamKit/raw/master/ReportingPeriod2/WP5/WP5.pdf),
       by Clément Pernet (~30 min)
 - 13:00 Lunch in the premises, with demonstrators and posters
 
 - 14:30 Achievements, by work package, session 2
     - [WP6: Data/Knowledge/Software-Bases](WP6.pdf), by [Michael Kohlhase](http://kwarc.info/kohlhase) (~30 min)
     - [WP2: Community building, training, dissemination, exploitation and outreach](WP2), by Viviane Pons (~30 min)
-- 15:45 Wrap up, by Nicolas M. Thiéry
+- 15:45 [Wrap up](wrapup-latest.pdf), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 - 16:00 Assessment preparation by Reviewers and the Project Officer
 
 - 17:00 Feedback and discussion with reviewers

@@ -152,7 +152,7 @@ h1, h2, h3, h4{
     background: linear-gradient(white, white) no-repeat;
     background-size: 100% 5px;
     transition: all 0.3s;
-    margin-right: 15px;
+    margin-right: 5px;
     text-decoration: none;
     padding-top:8px;
     padding-bottom: 8px;
@@ -336,7 +336,6 @@ h1, h2, h3, h4{
 .item-project h3{
     font-size: 14px;
     margin: 0;
-
 }
 
 .item-project a{
@@ -353,7 +352,9 @@ h1, h2, h3, h4{
     height: auto;
 }
 
-
+.item-project-filler {
+    flex-grow: 1;
+}
 
 /************/
 /**Events**/
@@ -721,9 +722,21 @@ a.badge:focus {
     }
 }
 
+#tagcloud_block {
+    padding-bottom: 1ex;
+    margin: 1ex 0;
+    border-top: solid thin #ddd;
+    border-bottom: solid thin #ddd;
+}
+
 svg.icon, img.icon {
     max-height: 0.8em;
     max-width: 0.9em;
+    vertical-align: baseline;
+}
+
+img.small-screenshot {
+    max-width: 45%;
     vertical-align: baseline;
 }
 
@@ -1222,4 +1235,16 @@ table th[class*="col-"] {
     text-align: center;
     width: 200px;
     height: 200px;
+}
+
+/* Collapse stuff */
+
+[data-toggle="collapse"]::after {
+    content: " ▴";
+}
+[data-toggle="collapse"][aria-expanded="true"]::after {
+    content: " ▾";
+}
+a[data-toggle="collapse"] {
+    color: inherit
 }

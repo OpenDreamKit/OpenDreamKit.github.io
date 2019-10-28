@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Project Activity
+alltags: True
 source: _posts/
 ---
 
@@ -9,6 +10,8 @@ source: _posts/
   directory, taking the existing files as examples.
 {% endcomment %}
 
+{% assign with_post_numbers = true %}
+{% include tags_cloud.html %}
 
 <section class="projects">
   {% for post in paginator.posts %}

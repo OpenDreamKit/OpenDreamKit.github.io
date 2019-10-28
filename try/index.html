@@ -1,0 +1,31 @@
+---
+title: Try our software
+layout: page
+#menu: project
+#menu_order: 3
+#menu_title: Try in the cloud
+source: _data/try.yml
+---
+
+<span>Each link below brings you to a
+  live <a href="http://jupyter.org">Jupyter</a> notebook running
+  on <a href="http://mybinder.org">MyBinder.org</a>.
+  You may also download the notebook.
+  Credits for the Python / Learn Jupyter notebook goes to
+  the IPython community.</span> <br/>
+
+<!-- Setup a basic two-column box setting, static this time :) -->
+
+{% for try in site.data.try %}
+
+<div>
+    <div class="static_try_block">
+        <a href="https://mybinder.org/v2/gh/{{ try.repo }}/master?filepath={{ try.file }}">
+        <img class="static_try_block_image" src="{{ site.baseurl }}{{ try.thumbnail }}"/>
+        <br/>
+        <span><h2>{{ try.name }}</h2></span>
+        <span><a href="https://github.com/{{ try.repo }}/raw/master/{{ try.file }}" download=>Download notebook</a></span>
+        </a>
+    </div>
+
+{% endfor %}

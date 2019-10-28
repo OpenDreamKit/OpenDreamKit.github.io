@@ -109,5 +109,3 @@ computing libraries, for instance CGAL.
 ## Other
 
 - Work on LibGAP collaborating with the DFG-TRR 195
-
-</section> 

@@ -13,28 +13,36 @@ OpenDreamKit will have a project meeting in Luxembourg, from Sunday
 
 ## Sunday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
+## [Notes](NotesSunday)
+
 - Morning: informal sprints
 - 13:00-14:00: Lunch
-- 14:00-19:00: [PAD](https://hackmd.io/XjNXoStPRmy8T_KSrRrfhw#) for taking notes
+- 14:00-19:00:
   - KPI brainstorm
-  - Rehearsals of the Micromagnetics case study and all workpackage
+  - Rehearse the Micromagnetics case study and all workpackage
     presentations, in the order given in the project review
     [agenda](ProjectReview#agenda).
 
 ## Monday 29th (EUFO building)
 
-- 9:30-16:00: Rehearsals of all demos and presentations, following the timing of the
-  project review agenda [agenda](ProjectReview#agenda). [PAD](https://hackmd.io/P0eWyulZSgGWD6i3VDYDCA) for taking notes
+## [Notes](NotesMonday)
+
+- 9:30-16:00: Rehearse all demos and presentations, following the timing of the
+  project review [agenda](ProjectReview#agenda). 
 - 17:30:
   [Steering Committee Meeting](SteeringCommitteeMeeting/)
 
 ## Tuesday 30th (EUFO building)
 
-[Project Review](ProjectReview)
+## [Notes](NotesTuesday)
+
+[Project Review](ProjectReview) 
 
 ~19:00: social dinner
 
 ## Wednesday 31st ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
+
+## [Notes](NotesWednesday)
 
 Sprints and brainstorms:
 
@@ -46,8 +54,7 @@ Sprints and brainstorms:
 
 # Accomodation and venue
 
-We picked the
-[hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml).
+We picked [Hotel Ibis Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml).
 It has reasonably priced rooms, which can also be shared with 2-3
 people. Please book and pay your rooms and breakfast yourselves. We
 did not reserve any rooms so you should do this reasonably soon.

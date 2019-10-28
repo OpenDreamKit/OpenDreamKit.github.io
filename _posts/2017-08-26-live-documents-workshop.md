@@ -8,10 +8,10 @@ tags:
     - project-meeting
     - workshop
     - user-interface
-    - math-in-the-middle
     - binder
     - jupyter
     - thebe
+    - dksbases	
 ---
 
 [OpenDreamKit](http://opendreamkit.org) is hosting a workshop on live structured documents

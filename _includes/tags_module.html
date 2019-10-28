@@ -8,7 +8,7 @@
     {% if firsttag == node.tag %}
         {% assign firsttag_title = node.title %}
     {% endif %}
-    {% if page.alltags or page.tags contains node.tag %}
+    {% if page.layout == "tagpage" or page.alltags or page.tags contains node.tag %}
         ||{{ tag_size | prepend: '0000' | slice: -4, 4 }}|<span class="tag" ><a class="btn btn-default {% if node.class %}btn-{{ node.class }}{% endif %}" href="{{ node.url }}">{{ node.title }} {% if with_post_numbers %}<span class="badge">{{ tag_size }}</span>{% endif %}</a></span>
     {% endif %}
 {% endfor %}

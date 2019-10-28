@@ -17,14 +17,16 @@ period: Reporting period from March 2017 to October 2018
 ## Finance and administration
 
 - All bank transfers for payment of the 1st Reporting Period were made to partners.
-- Unused funding from Jacobsuni has been transferred back to UPSUD ad is being transferred to FAU. 
+- Unused funding from Jacobsuni has been transferred back to UPSUD and is being transferred to FAU. 
+- UPSud has been supervising the technical and financial reports for
+  Reporting Period 2, as well as all deliverables for RP2.
 
 --
 ## Hiring
 
 ### One Project Manager on WP1 and WP2
 
-UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had 2 unsuccesful runs of interviews since April 2018, we are running a third one now and hope to hire somebody soon.
+UPSUD is hiring a new project manager following the departure of B. Pilorget on August 31st 2018. We have already had two unsuccessful runs of interviews since April 2018; we are running a third one now and hope to hire somebody soon.
 
 ### One postdoc on WP6
 
@@ -136,15 +138,19 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 ### Portability and build system for SageMath
 
 - Finalization of Cygwin's port of SageMath [https://github.com/OpenDreamKit/OpenDreamKit/issues/66].
-  See Erik's [blog post](http://opendreamkit.org/2017/10/11/SageWindows/).
-  Report to be finished and submitted soon.
+  See Erik's [blog post](http://opendreamkit.org/2017/10/11/SageWindows/), and
+  the report for Deliverable [D3.7](https://github.com/OpenDreamKit/OpenDreamKit/issues/66),
+  submitted in August 2018.
 
 ### Misc technical achievements
 
 - WP3:
 
-  - Python 3 support, build system, and continuous integration for
-    SageMath (in collaboration with Logilab)
+  - Contributions to Python 3 support for SageMath
+  - [D3.8: Continuous integration platform for multi-platform build/test](https://github.com/OpenDreamKit/OpenDreamKit/issues/67),
+    submitted August 2018, in collaboration with Logilab.
+  - [D3.5: Better integration between forges (Gitlab, github) and SageMath's development workflow](https://github.com/OpenDreamKit/OpenDreamKit/issues/64),
+    submitted August 2018
 
 - WP4:
 
@@ -156,17 +162,31 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
 
   - Heavy contributions to xeus-cling, a C++ kernel for Jupyter
 
-- WP5: HPC for combinatorics
+- WP5: Contributions to [D5.11: Refactor and Optimise the existing combinatorics Sage code using the new developed Pythran and Cython features](https://github.com/OpenDreamKit/OpenDreamKit/issues/109),
+  submitted August 2018
 
 - WP6: OpenMath serialization for SageMath & Python based on Python's
   native serialization ("pickling")
 
 ### Communication strategy 
 
-- The outcome of the three trainees' work will be an improvement of the communcation of ODK towards outside the consortium.
-Will be impacted: the website, KPIs (mostly success stories for which media is required). The first visible action to the consortium were polls sent our to participants: a [poll for thematics](https://pluquetelisabeth.typeform.com/to/uTnjIQ) and a [poll about the website and project](https://pluquetelisabeth.typeform.com/to/lzujKT) in general. The first answers are currently being looked into.
+- Following the work of our student trainees. We have been able to put the new website up. 
+ We used the workshop of June 2018 in Hamburg to gather feedback and new content from
+ the group. 
+ 
+- UPSUD paid for the services of a professional videographer (Boris from Hellomaelie) who 
+ has lead and film interviews of key OpenDreamKit actors at the XFEL meeting in Hambug 
+ in June 2018. The interviews were edited over the sum and we obtained 6 short videos
+ on OpenDreamKit thematics: What is OpenDreamKit?, maths and computers, open-source,
+ collaboration, Jupyter, and the future of open-source math software development. 
+ We have just released them on the newly created Youtube channel for OpenDreamKit and have
+ started advertising them on our twitter feed and on our website.
+ 
+-The creation of a 2 minutes motion graphic explainer video with Pix Videos in on the way, 
+ based on the sketches created by Juliette Belin from Logilab.
 
-- UPSUD paid for the services of a professional videographer who will lead and film interviews of key OpenDreamKit actors at the XFEL. these interviews will hopefully allow the addition of great communication and dissemiantion content on the website.
+
+
 
 --
 ## Workshops and dissemination activities
@@ -186,6 +206,8 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 - Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
 - Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
 - Sage at [combinatorics scool ECCO](http://ecco2018.combinatoria.co/) (Colombia) - June 2018
+- Participation as invited speakers to [SageDAys@Icerm](https://icerm.brown.edu/topical_workshops/tw18-1-sage/) (Providence, US) - July 2018
+- Opening keynote from Viviane Pons at [PyConFr](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/) (Lille, France) - October 2018
 
 - Lead the organization of ODK's main dissemination event targeted
   toward mathematicians: the conference *Calcul Mathématique Libre* will be organized from Feb 11 to Feb 15, 2019 at
@@ -209,9 +231,9 @@ Will be impacted: the website, KPIs (mostly success stories for which media is r
 --
 ## ODK Use Cases
 
-For the first time this year, we used a *Jupyter Hub* and
-the newly developed *Cling C++ kernel* in our 300 student
+Since Fall 2017, we are using a *Jupyter Hub* and
+the newly developed *Cling C++ kernel* in our 400 student
 [introductory programming course](http://nicolas.thiery.name/Enseignement/Info111/)
-at Paris Sud. This was the occasion to test those technologies both
+at Paris Sud. This is the occasion to test those technologies both
 from a technical and pedagogical point of view. We contributed back
 through many bug reports and feature requests.

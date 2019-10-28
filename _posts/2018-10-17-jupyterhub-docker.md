@@ -4,8 +4,8 @@ author: Luca De Feo
 title: Deploying a containerized JupyterHub server with Docker
 image: jupyterhub.png
 tags:
-#  - blogpost
-#  - front-page
+  - blogpost
+  - front-page
   - blogpost-technical
   - jupyter
   - teaching
@@ -50,7 +50,7 @@ delegated authentication and containerized environments, based on
 underused in your organization's racks, chances are you will find this
 deployment to your liking.
 
-The set-up described in this tutorial has been deployed at [Univeristy
+The set-up described in this tutorial has been deployed at [University
 of Versailles](http://www.uvsq.fr/) for the whole faculty of science.
 It is used both for teaching and research. You can find the full
 configuration scripts here:
@@ -95,7 +95,7 @@ Thus, we will in total have to handle three container (images): one
 for the Proxy+Hub, one for the reverse proxy, and one for the
 single-use servers. To simplify the management, and automatizing the
 deployment, we will use [Docker
-compose](https://docs.docker.com/compose/).  All the configuration
+Compose](https://docs.docker.com/compose/).  All the configuration
 will be kept in a single folder, with the following structure:
 
 ```
@@ -111,9 +111,9 @@ will be kept in a single folder, with the following structure:
     +-- traefik.toml
 ```
 
-The main configuration file for Docker compose is
+The main configuration file for Docker Compose is
 `docker-compose.yml`: it configures all containers (*services*, in
-compose jargon), and associated *volumes* and *networks*. It will look
+Compose jargon), and associated *volumes* and *networks*. It will look
 like this:
 
 ```yaml
@@ -140,7 +140,7 @@ networks:
 ```
 
 We now explain the configuration of each service, and the contents of
-each file in detail.
+each additional file in detail.
 
 
 ## The reverse proxy
@@ -236,7 +236,7 @@ our JupyterHub instance, it is directed to the Hub, which then:
 We will start from the [official JupyterHub
 container](https://hub.docker.com/r/jupyterhub/jupyterhub/), and build
 our own Hub on top of it.  We'll put all the configuration files in
-the folder named `jupyterhub`, and we'll tell compose to build and
+the folder named `jupyterhub`, and we'll tell Compose to build and
 configure the container:
 
 ```yaml
@@ -254,7 +254,7 @@ configure the container:
       - "traefik.frontend.rule=Host:jupyter.example.com"
 ```
 
-Here's some highlights from the compose configuration:
+Here's some highlights from the Compose configuration:
 
 - We mount the Docker socket inside the container, so that it will be
   able to spawn containers for the single-user Jupyter servers.
@@ -269,21 +269,29 @@ Here's some highlights from the compose configuration:
 
   - `DOCKER_NETWORK_NAME` is the name of the Docker network used by
     the services; normally, this network gets an automatic name from
-    Docker compose, but the Hub needs to know this name to connect the
-    single-user servers to it. To control the name we thus pass an
-    environment variable `COMPOSE_PROJECT_NAME` to Docker compose, and
-    the network name is obtained by appending `_default` to
-    it. `COMPOSE_PROJECT_NAME` can be passed either via the shell, or
-    by adding a `.env` file next to `docker-compose.yml`, with the
-    following content
+    Docker Compose, but the Hub needs to know this name to connect the
+    single-user servers to it. To control the network name we use a
+    little hack: we pass an environment variable
+    `COMPOSE_PROJECT_NAME` to Docker Compose, and the network name is
+    obtained by appending `_default` to it.
+	
+	**ATTENTION!** Experience shows that this step is often missed or
+    misunderstood. A value (any name you like, really) for the
+    environment variable `COMPOSE_PROJECT_NAME` **must be passed** to
+    Docker Compose. You can do this either via the shell, or by adding
+    a `.env` file next to `docker-compose.yml`, with the following
+    content
 	
 	```bash
-	# Name of our Docker compose project
+	# Name of our Docker Compose project
 	COMPOSE_PROJECT_NAME=my_hub
 	```
 	
+	The `.env` file solution is the choice we made in the [example
+    repo](https://github.com/defeo/jupyterhub-docker/blob/master/.env).
+	
   - `HUB_IP` is the IP address of the Hub service within the docker
-    network.  By using the `container_name` compose directive, we can
+    network.  By using the `container_name` Compose directive, we can
     set an alias for the IP, and use the same for `HUB_IP`.
 
 - We set *labels* for configuring Traefik. These have no effect on
@@ -375,16 +383,8 @@ c.JupyterHub.authenticator_class = GitLabOAuthenticator
 Other preconfigured third party services are documented
 [here](https://github.com/jupyterhub/oauthenticator).  In principle,
 any OAuth2 server can be used as third party authentication server.
-If you are lucky enough to have such a server in your institution[^1],
-you can use it like this:
-
-[^1]: If you are unlucky like me, you have neither an OAuht2, nor an
-	LDAP server.  Instead, you may have access to some stinky
-	University-world central authentication service such as [Jasig's
-	CAS](https://www.apereo.org/projects/cas).  In this case, you may
-	be interested in [this project of
-	mine](https://github.com/defeo/cas2oauth2bridge), which implements
-	a OAuth2 server using Jasig's CAS as an authentication backend.
+If you have such a server in your institution, you can use it like
+this:
 
 ```python
 from oauthenticator.oauth2 import OAuthLoginHandler
@@ -424,6 +424,13 @@ c.LDAPAuthenticator.bind_dn_template = []
 c.JupyterHub.authenticator_class = 'ldapauthenticator.LDAPAuthenticator'
 ```
 
+Another common authentication service in Universities is [Apereo
+CAS](https://www.apereo.org/projects/cas), which is supported by
+[Jupyterhub CAS
+Authenticator](https://github.com/cwaldbieser/jhub_cas_authenticator).
+You will find an example configuration
+[here](https://github.com/defeo/jupyterhub-docker/blob/master/jupyterhub/jupyterhub_config.py#L5-L17).
+
 
 ## The Jupyter notebook servers
 
@@ -442,9 +449,9 @@ This only requires one line in `docker-compose.yml`:
     command: echo
 ```
 
-The extra line `command: echo` is there so that, when Docker compose
+The extra line `command: echo` is there so that, when Docker Compose
 starts the service, it terminates immediately.  Indeed this image is
-meant to be loaded by the Hub, not by compose. Do not forget to edit
+meant to be loaded by the Hub, not by Compose. Do not forget to edit
 the `jupyterhub` section of `docker-compose.yml`, so that the
 `DOCKER_JUPYTER_IMAGE` env variable matches this one.
 
@@ -481,7 +488,7 @@ then modify `docker-compose.yml` as follows:
 ```
 
 It is recommended that you test your image alone, before starting
-JupyterHub.  You can do so by building it with compose:
+JupyterHub.  You can do so by building it with Compose:
 
 ```bash
 docker-compose build jupyterlab
@@ -549,7 +556,7 @@ docker-compose down
 ```
 
 Note that single-user servers are not destroyed when they are
-terminated: when a user returns JupyterHub will look for a Docker
+terminated: when a user returns, JupyterHub will look for a Docker
 container named `jupyter-`*`username`*, and will restart it with all
 its data.  This means that, even if you update the JupyterLab image,
 returning users will not see the changes until you destroy their old
@@ -609,7 +616,7 @@ We can configure data persistence by adding these lines to
 import os
 # user data persistence
 # see https://github.com/jupyterhub/dockerspawner#data-persistence-and-dockerspawner
-notebook_dir = os.environ.get('DOCKER_NOTEBOOK_DIR') or '/home/jovyan'
+notebook_dir = os.environ.get('DOCKER_NOTEBOOK_DIR') or '/home/jovyan/work'
 c.DockerSpawner.notebook_dir = notebook_dir
 c.DockerSpawner.volumes = { 'jupyterhub-user-{username}': notebook_dir }
 ```

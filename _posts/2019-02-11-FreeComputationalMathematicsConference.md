@@ -6,6 +6,7 @@ location: CIRM, Luminy, France
 dates: February 11th-15th of 2019
 image: cirm.jpg
 tags:
+    - conference
     - workshop
     - front-page
     - dissemination
@@ -29,4 +30,19 @@ it will be the main public closing event.
 
 ## [Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
 
-## More information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
+[Preregistration](https://www.cirm-math.fr/preRegistration/index.php?EX=menu0&id_renc=1978)
+officially ended on January 7th. However, we may have
+some additional spots, which we will fill on a first come first
+serve basis. If you are insterested, please keep preregistering.
+
+## Funding
+
+OpenDreamKit will cover the local expenses for all participants and
+the travel expenses of some participants, with priority given to
+students and participants from developing countries. You can apply for
+such funding upon preregistration; CV and similar information will
+help us make an informed decision.
+
+## [Schedule](https://hackmd.io/zkXWN_cwTjy46dyBSJKaug?view#)
+
+## Additional information on [CIRM's web page](https://conferences.cirm-math.fr/1978.html)
