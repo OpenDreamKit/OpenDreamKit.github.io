@@ -35,7 +35,7 @@ materials for students. Additionally, he wants students to be able to:
 - work with examples which are published and create own
   solutions of given problems and return then for grading.
 
-- perform simple and short interaction with a code or unser interface
+- perform simple and short interaction with a code or user interface
   during a lecture or a tutorial
 
 - read printed version of lecture notes.
