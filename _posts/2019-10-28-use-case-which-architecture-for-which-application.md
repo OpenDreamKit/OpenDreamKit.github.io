@@ -35,6 +35,15 @@ Archibald has a challenge mathematical computation to run for which he received 
  - hours on a large scale high end homogeneous distributed cluster
 depending on the type of computations:
 
+|                         | Fast single core | Large scale multi-core | High-end GPU | heterogeneous cluster | uniform cluster |
+--------------------------------------------------------------------------------------------------------------------------------
+| compute intensive       |      V           |   V                    |    V         |                       |                 |
+| Regularity (SIMD)       |                  |                        |    V         |                       |                 |
+| memory intensive        |      V           |   V                    |              |                       |                 |
+| large data (near 1Tb)   |                  |   V                    |              |                       |                 |  
+| huge data (several 1Tb) |                  |                        |              |         V             |    V            |  
+| emabarassingly parallel |                  |                        |     V        |         V             |    V            |
+
 ## Design of high performance code for mathematical computing
 
 Before throwing any effort in code developpment, Archibald try to make use of any specialised library providing high performance implementations for some kernels he is focusing on.
