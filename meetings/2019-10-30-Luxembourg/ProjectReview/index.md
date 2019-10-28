@@ -59,8 +59,15 @@ by the European Commission. We will present the achievements of all the
 .idpics img {
   width: 40px;
   margin: 2px;
+  cursor: pointer;
 }
 .idpics li {
   min-height: 42px;
 }
 </style>
+
+<script>
+document.querySelectorAll('.idpics img').forEach(p => {
+  p.addEventListener('click', () => window.open(p.src));
+});
+</script>
