@@ -51,6 +51,7 @@ by the European Commission. We will present the achievements of all the
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
 - Olivier Cayrol, [Logilab](https://www.logilab.fr/)
 - ![](){:.idpic} [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
+- Wolfram Decker, [Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/)
 - ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
 - ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
