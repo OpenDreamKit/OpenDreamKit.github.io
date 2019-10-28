@@ -8,8 +8,6 @@ tags:
     - front-page
     - best-practice
     - open-science
-    - hpc
-    - architecture
 ---
 
 ## Scenario
@@ -22,14 +20,14 @@ Archibald has a challenge mathematical computation to run for which he received 
 1.  He draws the resource consumption  profile of his computation as precisely as possible:
  - identifies the main computational bottlenecks
  - then for each of them identifies:
-   a. the overall memory footprint (memory space required by Input and Output, together with the allocations of intermediate computations)
-   b. whether the computation is memory bound (about the same amount of computation as data) or compute bound (significantly more computation then data).
-   c. the level of parallelism between tasks
-   d. the regularity pattern of the computation.
+   * the overall memory footprint (memory space required by Input and Output, together with the allocations of intermediate computations)
+   * whether the computation is memory bound (about the same amount of computation as data) or compute bound (significantly more computation then data).
+   * the level of parallelism between tasks
+   * the regularity pattern of the computation.
 
 2. Investigate ways (algorithmic, problem reformulation), if any, to make most of the computational effort rely on a regular, compute intensive, kernels.
 
-3. Select the architecture best suited bor the main bottlenecks among the following.
+3. Select the architecture best suited bor the main bottlenecks among the following:
  - High speed single core (or few-cores) machine.
  - Large scale multi-core server 
  - high end GPU on a standard multi-core server
@@ -37,9 +35,11 @@ Archibald has a challenge mathematical computation to run for which he received 
  - hours on a large scale high end homogeneous distributed cluster
 depending on the type of computations:
 
-###
+## Design of high performance code for mathematical computing
 
-Overall the design of code solving the problem should focus on optimizing the following points incrementally.
+Before throwing any effort in code developpment, Archibald try to make use of any specialised library providing high performance implementations for some kernels he is focusing on.
+
+Overall the design of new code solving the problem should focus on optimizing the following points incrementally.
  1. optimizing the memory access patterns: cache optimization)
  2. optimizing the use of in-code parallelism: using SIMD instructions, arithmetic units, etc
  3. shared memory parallelization:
@@ -49,14 +49,14 @@ Overall the design of code solving the problem should focus on optimizing the fo
     * pthreads: full control, often too low level w.r.t. application
     * OpenMP: good level of abstraction, now take advantage of task based dependency DAGs. Still struggles with recursive tasks and large task queues
     * Cilk, XKaapi, SMPSS, star-PU: more powerfull, but risk of discontinued support
- 4. Message passing based distributed computing (MPI):  
+ 4. Message passing based distributed computing (MPI):
+  - tune the serialization layer
+  - use hybrid MPI-OpenMP: exploiting shared memory within nodes.
 
-##
 
 ## Time and expertise required
 
 ## What's new since OpenDreamKit started
-
 
 ## OpenDreamKit contribution
 
