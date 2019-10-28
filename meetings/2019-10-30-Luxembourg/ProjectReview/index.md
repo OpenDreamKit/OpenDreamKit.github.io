@@ -34,7 +34,7 @@ by the European Commission. We will present the achievements of all the
 
 - 15:00 Coffee break
 
-- 15:15 WP2: Community building, training, dissemination, exploitation and outreach, by Viviane Pons (remotely) (~20 min)
+- 15:15 [WP2: Community building, training, dissemination, exploitation and outreach](WP2), by Viviane Pons (remotely) and Erik Bray (~20 min)
 
 - 15:45 [Wrap up], by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
