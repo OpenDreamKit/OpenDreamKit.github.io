@@ -28,6 +28,7 @@ by the European Commission. We will present the achievements of all the
 
 - 13:30 Achievements, session 2
 
+    - Software Demonstrations
     - [WP5: High Performance Mathematical Computing], by Clément Pernet (~20 min)
     - WP6: Data/Knowledge/Software-Bases, by [Michael Kohlhase](https://kwarc.info/kohlhase) (~20 min)
 
