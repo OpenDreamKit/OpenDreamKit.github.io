@@ -40,12 +40,23 @@ like anyone to be able to reproduce, check, and improve her calculations.
 - [Computing isomorphisms and embeddings of finite fields](https://github.com/defeo/ffisom),
   Ludovic Brieulle, Luca De Feo, Javad Doliskani, Jean-Pierre Flori and Éric Schost,
   [arXiv:1705.01221 [cs.SC]](https://arxiv.org/abs/1705.01221)
-  [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/defeo/ffisom/master?filepath=notebooks)<br>
+  [![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/defeo/ffisom/master?filepath=notebooks)<br>
   [ ![a binder logbook screenshot](/public/images/use-cases/reproducible_logbook_example.png){:class="small-screenshot"} ](/public/images/use-cases/reproducible_logbook_example.png)
 
 - [The 0-Rook monoid and its representation theory](https://github.com/hivert/Jupyter-Notebooks),
   Hivert and Gay
-  [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hivert/Jupyter-Notebooks/master?filepath=rook-0.ipynb)
+  [![launch binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hivert/Jupyter-Notebooks/master?filepath=rook-0.ipynb)
+
+- [Estimating variances in time series linear regression models using
+  empirical BLUPs and convex
+  optimization](https://github.com/fdslrm/EBLUP-NE), Martina Hančová,
+  Gabriela Vozáriková, Andrej Gajdoš and Jozef Hanč,
+  [arXiv:1905.07771](https://arxiv.org/abs/1905.07771)
+  * [`Python based notebooks using CVXPY and Scipy`](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-CVXPY/master?filepath=index.ipynb)
+  * [`Python based notebooks using SageMath`](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-Sage/master?filepath=index.ipynb)
+  * [`R based notebooks`](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb) - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fdslrm/Binder-R/master?filepath=index.ipynb)
+  
+
 
 ## Discussion
 
