@@ -36,7 +36,7 @@ Archibald has a challenge mathematical computation to run for which he received 
 depending on the type of computations:
 
 |                         | Fast single core | Large scale multi-core | High-end GPU | heterogeneous cluster | uniform cluster |
---------------------------------------------------------------------------------------------------------------------------------
+| ----------------------- | ---------------- | ---------------------- | ------------ | --------------------- | ----------------|
 | compute intensive       |      V           |   V                    |    V         |                       |                 |
 | Regularity (SIMD)       |                  |                        |    V         |                       |                 |
 | memory intensive        |      V           |   V                    |              |                       |                 |
@@ -62,10 +62,4 @@ Overall the design of new code solving the problem should focus on optimizing th
   - tune the serialization layer
   - use hybrid MPI-OpenMP: exploiting shared memory within nodes.
 
-
-## Time and expertise required
-
-## What's new since OpenDreamKit started
-
-## OpenDreamKit contribution
 
