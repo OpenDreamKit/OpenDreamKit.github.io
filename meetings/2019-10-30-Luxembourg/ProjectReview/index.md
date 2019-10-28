@@ -46,7 +46,14 @@ by the European Commission. We will present the achievements of all the
 
 ## Participants
 
-- ![photo](http://nicolas.thiery.name/id.jpg){:width="40"} [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
-- ![photo](https://kwarc.info/people/frabe/florian_rabe_small.jpg){:width="40"} [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
-- ![photo](https://kwarc.info/public/images/kbercic.jpg){:width="40"} [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
-- [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
+- ![](http://nicolas.thiery.name/id.jpg){:.idpic} [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
+- ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg){:.idpic} [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
+- ![](https://kwarc.info/public/images/kbercic.jpg){:.idpic} [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- ![](){:.idpic} [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
+
+<style>
+.idpic {
+  width: 40px;
+  margin: 2px;
+}
+</style>
