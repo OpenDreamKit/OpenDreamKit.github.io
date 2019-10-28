@@ -48,6 +48,7 @@ by the European Commission. We will present the achievements of all the
 
 - ![](http://nicolas.thiery.name/id.jpg) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- Olivier Cayrol, [Logilab](https://www.logilab.fr/)
 - ![](){:.idpic} [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
 - ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
