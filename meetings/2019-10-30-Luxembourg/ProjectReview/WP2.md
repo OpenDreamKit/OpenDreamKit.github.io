@@ -19,12 +19,12 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 - **Community building**: Organizing workshops and conferences to reinforce our communities
 - **Training**: Widespread our shared technical knowledge especially concerning new OpenDreamKit development
 - **Dissemination and outreach**: communicate about our achievments, foster larger communities
-- **Exploitation**: make effective use of OpenDreamKit development in science and research 
+- **Exploitation**: make effective use of OpenDreamKit development in science and research
 
 ---
 ## Communication
 
-**How to convey what has been done by the OpenDreamKit project?** We describe technichal solutions through various use cases.
+**How to convey what has been done by the OpenDreamKit project?** We describe technical solutions through various use cases.
 
 ![](../images/usecases.png)
 
@@ -41,9 +41,9 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 ---
 ## For teachers
 
- * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Shefield)
+ * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Sheffield)
  * Teaching material: interactive lecture material, 4 interactive textbooks, templates, etc.
- * Local consulting (especially at Shefield)
+ * Local consulting (especially at Sheffield)
  
 ---
 ## Community building and dissemination
@@ -55,9 +55,9 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 --
 ### Women in Sage
 
- * in 2017 (presented at the first project review)
- * again in 2019, co-organized by Eleni Tzanaki, a former participant
- * also an occasion to add Sage to the curiculum at University of Crete
+ * In 2017 (presented at the first project review)
+ * Again in 2019, co-organized by Eleni Tzanaki, a former participant
+ * Also an occasion to add Sage to the curriculum at University of Crete
  
 ![](/public/images/womenInSage2/group_photo_head.jpeg)
 
@@ -65,7 +65,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 --
 
  * 22 participants
- * Only 3 had attended Sage Days more than once, 12 had never attended
+ * Only 3 had attended Sage Days more than once; 12 had never attended
  
  ![](/public/images/womenInSage2/impact.png)
  
@@ -85,7 +85,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 --
 ### CIMPA ECCO school in Colombia
 
- * Sage sessions in 2016 and 2018 fundef by OpenDreamKit
+ * Sage sessions in 2016 and 2018 funded by OpenDreamKit
  * Viviane Pons is an organizer of the next school
  * Sage sessions are now officially part of the conference
  
@@ -114,7 +114,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 
  * These events **don't cost a lot** in terms of money
  * But they cost in terms of **time** and **administration**
- * The easiest access to the money, the easiest the admin, the easiest it is to make these events accessible to those who really need them.
+ * The easier the access to the money, the easier the admin, the easier it is to make these events accessible to those who really need them.
  
 --
 
