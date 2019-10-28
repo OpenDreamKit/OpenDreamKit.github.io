@@ -11,7 +11,7 @@ tags:
     - math-in-the-middle
     - future-funding
     - blogpost
-    - dksbases	
+    - dksbases
 ---
 
 Theorem proving is the sibling computation:

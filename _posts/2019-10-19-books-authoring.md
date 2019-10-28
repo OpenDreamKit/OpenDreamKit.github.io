@@ -15,7 +15,7 @@ tags:
 ## Introduction
 
 The ease of authoring manuscripts is a key to wide application of any
-new techcology in educational practice. Generally speaking, academic
+new technology in educational practice. Generally speaking, academic
 teachers lecturing on computer science tend to be fluent in all kinds
 of computer technology and happily adopt new ones. However, as topics
 get further and further from computer science as in theoretical
@@ -25,7 +25,7 @@ with computer technologies during teaching at all.
 
 ## Scenario
 
-John is lecturing teoretical mechanics and wants to integrate computer
+John is lecturing theoretical mechanics and wants to integrate computer
 algebra calculation in his course. He already has examples and ideas
 how to use SageMath to creatively improve problem solving in
 mechanics. He wants to use a single system for both his own
@@ -51,8 +51,8 @@ materials for students. Additionally, he wants students to be able to:
     template](https://github.com/OpenDreamKit/authoring_cookie_cutter). In
     this example the repository is [Binder-ready](/tag/binder); for
     details, see the [Binder documentation](https://mybinder.readthedocs.io/en/latest/using.html#preparing-a-repository-for-binder)
-    
-4.  He shares the link to the repository with students.
+
+3.  He shares the link to the repository with students.
 
 
 ## Some instances
@@ -61,7 +61,7 @@ materials for students. Additionally, he wants students to be able to:
 - [Introduction to Python for Computational Science and Engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering),
   Hans Fangohr
   [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/library-current-versions?filepath=index.ipynb)
-  
+
 - [Mechanics with SageMath](https://github.com/marcinofulus/Mechanics_with_SageMath),
   Marcin Kostur, Jerzy Łuczka
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinofulus/Mechanics_with_SageMath/master?filepath=index.ipynb)
@@ -72,7 +72,7 @@ materials for students. Additionally, he wants students to be able to:
 
 
 By publishing the course materials in the form of notebooks and using
-provided the template repository, John easily achevies following:
+provided the template repository, John easily achieves following:
 
 1. He can compile selected notebooks to a book form using LaTeX
 typesetting software. It can be printed and used in non-interactive
@@ -93,14 +93,14 @@ Assuming John is familiar with version control and Jupyter (basic lab
 skills taught at [Software Carpentry](http://software-carpentry.org/),
 and is fluent in using Jupyter notebook, the initial setup of the
 course repository could take few hours the first time. Further
-developement should not generate any significant overhead compared to
+development should not generate any significant overhead compared to
 regular use of Jupyter notebook.
 
 ## What's new since OpenDreamKit started
 
 - Apparition of [Binder](http://mybinder.org);
 - Expansion of the [Jupyter](http://jupyter.org) technology;
-- Providing demontrators as examples of using interactive books
+- Providing demonstrators as examples of using interactive books
   technology in practice.
 - Providing 3d visualization software which can extent application of Jupyter
   notebook rely on 3d visualisation (e.g. fluid dynamics)
@@ -121,7 +121,7 @@ regular use of Jupyter notebook.
 - Advertising, training,
 - Providing  [a template](https://github.com/OpenDreamKit/authoring_cookie_cutter)
   of interactive book repository,
-- Developement of 3d visualization software for Jupyter notebook
+- Development of 3D visualization software for Jupyter notebook
   [D4.12](https://github.com/OpenDreamKit/OpenDreamKit/issues/86)
 - Development of demonstrators of interactive books technology:
   [D2.14](https://github.com/OpenDreamKit/OpenDreamKit/issues/39)

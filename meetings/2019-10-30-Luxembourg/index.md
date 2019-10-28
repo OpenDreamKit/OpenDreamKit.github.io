@@ -15,13 +15,14 @@ on October 28 and 29, at the IBIS Luxembourg Airport hotel.
 
 ## Monday 28th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
+[PAD for taking notes](https://hackmd.io/9Jadq_P5Rui1xw4O4KQKIg)
+
 - Morning: informal sprints
-- 13:00-14:00: Lunch
-- 14:00-19:00:
+- 12:00-13:00: Lunch
+- 13:00-19:00:
+  - Rehearse demos
+  - Rehearse all workpackage presentations
   - KPI brainstorm
-  - Review demos
-  - Rehearse all workpackage presentations, in the order given in the
-    project review [agenda](ProjectReview#agenda).
 
 ## Tuesday 29th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 

@@ -7,30 +7,33 @@ On October 30th, OpenDreamKit will undergo its final formal review
 by the European Commission. We will present the achievements of all the
 48 months of the project.
 
-## Agenda
+## Agenda (Needs updating)
 
-[PAD](https://hackmd.io/l3rtwjyyQ3WRcCGW74EAXQ)
+[PAD](https://hackmd.io/TpyMyvlzTPmajWX3TtwfHw)
 
-- 9:00 Welcome
-   - Overview of the day by Project Officer
-   - Go around the table
-   - [Some highlights on OpenDreamKit], by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
+- 9:00 Overview of the day by Project Officer
+- 9:05 Go around the table
+- 9:10 [Some highlights on OpenDreamKit](), by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
-- 9:30 Demonstrators, posters, coffee break
+- 9:30 Achievements, session 1
+    - Software demonstrations
+    - [WP4: User Interfaces](wp4.pdf), by Benjamin Ragan-Kelley (~20 min)
+    - [WP3: Component Architecture], by [Luca De Feo](https://defeo.lu/) (~20 min)
+    - Coffee break at 10:30
 
-- 10:20 Coffee break, with demonstrators and posters
+- 12:00 Lunch in the premises
 
-- 11:00 Achievements, by work package, session 1
-    - [WP4: User Interfaces](wp4.pdf), by Benjamin Ragan-Kelley (~30 min)
-    - [WP3: Component Architecture], by [Luca De Feo](https://defeo.lu/) (~30 min)
-    - [WP5: High Performance Mathematical Computing], by Clément Pernet (~30 min)
+- 12:45 Management Izabela Faguet & Nicolas M. Thiéry (~20 min)<br>
+        Discussion with the Financial Officers
 
-- 12:45 Lunch in the premises, with demonstrators and posters
+- 13:30 Achievements, session 2
 
-- 14:30 Achievements, by work package, session 2
-    -WP1: Izabela Faguet (~15 min)
-    -WP6: Data/Knowledge/Software-Bases, by Michael Kohlhase (~30 min)
-    -WP2: Community building, training, dissemination, exploitation and outreach, by Viviane Pons (remotely) (~30 min)
+    - [WP5: High Performance Mathematical Computing], by Clément Pernet (~20 min)
+    - WP6: Data/Knowledge/Software-Bases, by Michael Kohlhase (~20 min)
+
+- 15:00 Coffee break
+
+- 15:15 WP2: Community building, training, dissemination, exploitation and outreach, by Viviane Pons (remotely) (~20 min)
 
 - 15:45 [Wrap up], by [Nicolas M. Thiéry](http://Nicolas.Thiery.name)
 
@@ -42,4 +45,6 @@ by the European Commission. We will present the achievements of all the
 
 ## Participants
 
-- ...
+- ![photo](http://nicolas.thiery.name/id.jpg =10%x10%) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
+- ![photo](https://kwarc.info/people/frabe/florian_rabe_small.jpg =10%x10%) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
+- ![photo](https://kwarc.info/public/images/kbercic.jpg =10%x10%) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)

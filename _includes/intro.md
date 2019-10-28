@@ -1,1 +1,10 @@
-OpenDreamKit is a project that brings together a range of projects and associate software to create and strengthen virtual research environments. The most widely used research environment is the Jupyter Notebook from which computational research and data processing can be directed. The OpenDreamKit project provides interfaces to well established research codes and tools so that they can be used seamlessly and combined from within a Jupyter Notebook. [Read more...](about)
+## OpenDreamKit -- Open Digital Research Environments Toolkit for the Advancement of Mathematics
+
+OpenDreamKit is a 7.6M€ European Research Infrastructure project which
+ran from 2015 to 2019. Bringing together a diverse team of 50 Open
+Science enthusiasts across 17 sites all over Europe, including an
+average of 11 full time Research Software Engineers, it supported the
+joint ecosystems of software for mathematics and Jupyter, as a toolkit
+from which to build Virtual Research Environments.
+
+[Read more...](about)
