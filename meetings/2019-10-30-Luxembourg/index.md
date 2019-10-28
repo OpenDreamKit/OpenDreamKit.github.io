@@ -26,10 +26,14 @@ on October 28 and 29, at the IBIS Luxembourg Airport hotel.
 
 ## Tuesday 29th ([Hotel IBIS Luxembourg Aeroport](https://www.accorhotels.com/gb/hotel-0974-ibis-luxembourg-aeroport/index.shtml))
 
+[PAD for taking notes](https://hackmd.io/lGEmzaiWTq2ZBrZ_GuGkug)
+
 - 9:30-16:00: Rehearse all demos and presentations, following the timing of the
   project review [agenda](ProjectReview#agenda).
 
 ## Wednesday 30th (EUFO building)
+
+[PAD for taking notes](https://hackmd.io/lGEmzaiWTq2ZBrZ_GuGkug)
 
 [Project Review](ProjectReview)
 
