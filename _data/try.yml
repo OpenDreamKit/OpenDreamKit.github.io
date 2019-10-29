@@ -4,8 +4,8 @@
   thumbnail: /try/thumbnails/Python-logo-notext.svg
 
 - name: Try GAP
-  repo: gap-system/try-gap-in-jupyter
-  file: NewNotebook.ipynb
+  repo: OpenDreamKit/gap-demos
+  file: Index.ipynb
   thumbnail: /try/thumbnails/GAPLogo.png
 
 - name: Try PARI/GP
