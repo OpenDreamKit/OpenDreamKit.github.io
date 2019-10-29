@@ -22,7 +22,7 @@ by the European Commission. We will present the achievements of all the
     - 3D visualization in Jupyter (Marcin Kostur)
     - Micromagnetics (Marijan Beg)
     - Enterprise training (Olivier Cayrol)
-    - [[A VRE using Jupyter and GAP]](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
+    - [A VRE using Jupyter and GAP](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
     - MAYBE: Story on Publishing computational logbook (Luca De Feo)
 
 ***
