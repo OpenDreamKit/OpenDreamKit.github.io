@@ -67,6 +67,16 @@ materials for students. Additionally, he wants students to be able to:
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinofulus/Mechanics_with_SageMath/master?filepath=index.ipynb)
 
 
+[ ![The interactive element in Mechanics course ](/public/images/book_authoring2.png){:class="display"} ](/public/images/book_authoring2.png)
+
+
+
+## Alternative solutions
+
+There are many other possibilities to write interactive textbooks. This workflow can be adapted to use automatic tests that can reexecute all the material in the notebook to verify that the newly calculated outputs match up to trivial differences, with the recorded outputs. This uses the NBVAL tool – developed as part of OpenDreamKit and is implemented in Introduction to Python for Computational Science and Engineering textbook.
+
+One can use more sophisticated typesetting and documentation tools. One possibility is Sphinx system, which is used to build documentation for Python packages. It is capable of better control of the format of the book. Examples are interative textbooks on [Linear Algebra](http://visual.icse.us.edu.pl/LA/) and [Nonlinear Processes in Biology](http://visual.icse.us.edu.pl/NPB/) which have been developed as part of OpenDreamKit [D2.9](https://github.com/OpenDreamKit/OpenDreamKit/issues/49). In this scenario,  authoring is done using reStructuredText format. It provides the ability to create interactive code cells using [SageCell](https://sagecell.sagemath.org/) or [thebelab](https://github.com/minrk/thebelab). It requires more effort to setup the environment and to author materials, but one gain better interactivity features and more control onver  the output. Addtionally, using the sphinx system one can produce high quality "static" PDF format.
+
 
 ## Discussion
 
