@@ -16,13 +16,17 @@ by the European Commission. We will present the achievements of all the
 - 9:10: Overview ([Nicolas Thiéry](http://Nicolas.Thiery.name))
   - What's new on opendreamkit.org
   - [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb)
-- 9:45: WP4: User Interfaces (Benjamin Ragan-Kelley)<br/>
+    (Nicolas Thiéry)
+- 9:45: [WP4: User Interfaces](./wp4.pdf)
+  (Benjamin Ragan-Kelley)<br/>
     including demo teasers
-    - Jupyter feature (Benjamin Ragan-Kelley)
-    - 3D visualization in Jupyter (Marcin Kostur)
-    - Micromagnetics (Marijan Beg)
-    - Enterprise training (Olivier Cayrol)
-    - [A VRE using Jupyter and GAP](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
+    - *Jupyter collaboration (Benjamin Ragan-Kelley, no teaser)*
+    - [3D visualisation in Jupyter](./wp4-k3d-vis.pdf)
+      (Marcin Kostur)
+    - *Micromagnetics (Marijan Beg, no teaser)*
+    - [Enterprise training](./wp4_lightning_talk-vre_for_professional_training.pdf)
+      (Olivier Cayrol)
+    - [A VRE using Jupyter and GAP](./WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
     - MAYBE: Story on Publishing computational logbook (Luca De Feo)
 
 ***
