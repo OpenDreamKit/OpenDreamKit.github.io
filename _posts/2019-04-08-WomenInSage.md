@@ -33,7 +33,7 @@ workshop can be read on our website:
 https://opendreamkit.org/2019/06/28/WomenInSage/
 The main goal was to make the participants more confident into their programming skills and more prone to become Sage contributors and attend classical Sage Days. It was a big success in that regard. Indeed, before the conference, only 17
 
-![](group_photo_head.jpeg =50%)
+![](/public/images/events/group_photo_head.jpeg =50%)
 
 Women in Sage, Archanes, Crete
 

@@ -29,7 +29,7 @@ url: https://opendreamkit.org/2019/08/26/FinalReportsSprint/
   addition, the already submitted deliverable D5.13 was improved and
   re submitted.
 
-![](2019-08-24-ReportWritingSprint.jpg =75%)
+![](/public/images/events/2019-08-24-ReportWritingSprint.jpg =75%)
 
 Report Writing Workshop
 

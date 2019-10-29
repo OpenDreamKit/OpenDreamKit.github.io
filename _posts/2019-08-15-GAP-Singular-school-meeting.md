@@ -99,7 +99,7 @@ dissemination of GAP into the Debian distribution. There were also lively
 discussions about the GAP-Jupyter integration.
 
 
-![](gap-singular-participants =50%)
+![](/public/images/events/gap-singular-participants =50%)
 
 GAP--Singular meeting, PfalzAkademie, Lambrecht, Germany
 

@@ -48,7 +48,7 @@ PARI, Singular, GAP, LMFDB, SageMath, Oscar, and Jupyter were gathered
 together and closely collaborating, which was invaluable for long term
 community building.
 
-![](CIRM.jpg =75%)
+![](/public/images/events/CIRM.jpg =75%)
 
 Free Computational Mathematics, CIRM, Luminy, France
 
