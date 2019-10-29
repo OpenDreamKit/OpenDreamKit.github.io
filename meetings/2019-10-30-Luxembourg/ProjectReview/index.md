@@ -66,16 +66,21 @@ by the European Commission. We will present the achievements of all the
 
 - ![](http://nicolas.thiery.name/id.jpg) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
 - ![](https://img-0.journaldunet.com/cpztLhBur-LtpWcLV_witkYrvdw=/250x/smart/d8950c0639354214bf9a748c7c4a9f84/ccmcms-jdn/2235975.jpg) [Odile Bénassy](http://github.com/zerline), LRI, Université Paris Sud
+- ![](https://cmg.soton.ac.uk/media/people/mb4e10.medium.jpg) [Marijan Beg](https://cmg.soton.ac.uk/people/mb1a15/), European XFEL, Schenefeld, Germany
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- ![](https://avatars1.githubusercontent.com/u/676149?s=180&v=4) [Erik Madison Bray](https://iguananaut.net)
 - Olivier Cayrol, [Logilab](https://www.logilab.fr/)
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
-- ![](https://opc.mfo.de/photoNormal?id=17996) 
+- ![](https://opc.mfo.de/photoNormal?id=17996)
 [Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/), TU Kaiserslautern. [SINGULAR](https://www.singular.uni-kl.de/)
 - ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles, WP3 lead, SageMath)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
+- ![](https://www.cs.st-andrews.ac.uk/cs-web-data/People/alexk/img.jpg) [Alexander Konovalov](https://alex-konovalov.github.io/), Computer Science, University of St Andrews. [GAP](https://www.gap-system.org/)
+- ![](https://www.cs.st-andrews.ac.uk/cs-web-data/People/sal/img.jpg) [Steve Linton](https://www.cs.st-andrews.ac.uk/directory/person?id=sal), Computer Science, University of St Andrews. [GAP](https://www.gap-system.org/)
 - ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
 - ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
-- ![](https://www.mathematik.uni-kl.de/fileadmin/AG_Algebra_Geometrie_und_Computeralgebra/Profilbilder/bill.jpg) [William Hart[(https://www.mathematik.uni-kl.de/agag/personen/dozenten/), Mathematics, TU Kaiserslautern [SINGULAR](https://www.singular.uni-kl.de/)
+- ![](/public/images/mk.png) Marcin Kostur, University of Silesia, Katowice
+- ![](https://www.mathematik.uni-kl.de/fileadmin/AG_Algebra_Geometrie_und_Computeralgebra/Profilbilder/bill.jpg) [William Hart](https://www.mathematik.uni-kl.de/agag/personen/dozenten/), Mathematics, TU Kaiserslautern [SINGULAR](https://www.singular.uni-kl.de/)
 - ![](https://secure.gravatar.com/avatar/d5b897c37001627c2e3ad3c1e8a7e6fb?size=40)
   [Min Ragan-Kelley](https://www.simula.no/people/benjaminrk),
   Numerical Analysis and Scientific Computing,

@@ -36,13 +36,14 @@ Archibald has a challenge mathematical computation to run for which he received 
 depending on the type of computations:
 
 |                          |  Fast single core  |  Large scale multi-core  |  High-end GPU  |  Heterogeneous cluster  |  Uniform cluster   |
-| ------------------------ | ------------------ | ------------------------ | -------------- | ----------------------- | ------------------ |
-| Compute intensive        |      V             |           V              |       V        |                         |                    |
-| Regularity (SIMD)        |                    |                          |       V        |                         |                    |
-| Memory intensive         |      V             |           V              |                |                         |                    |
-| Large data (near 1Tb)    |                    |           V              |                |                         |                    |  
-| Huge data (several 1Tb)  |                    |                          |                |            V            |        V           |  
-| Embarassingly parallel   |                    |                          |       V        |            V            |        V           |
+| ------------------------ | :----------------: | :----------------------: | :------------: | :---------------------: | :----------------: |
+| Compute intensive        |      ✓             |           ✓              |       ✓        |                         |                    |
+| Regularity (SIMD)        |                    |                          |       ✓        |                         |                    |
+| Memory intensive         |      ✓             |           ✓              |                |                         |                    |
+| Large data (near 1Tb)    |                    |           ✓              |                |                         |                    |
+| Huge data (several 1Tb)  |                    |                          |                |            ✓            |        ✓           |
+| Embarassingly parallel   |                    |                          |       ✓        |            ✓            |        ✓           |
+{:.table.table-hover}
 
 ## Design of high performance code for mathematical computing
 
