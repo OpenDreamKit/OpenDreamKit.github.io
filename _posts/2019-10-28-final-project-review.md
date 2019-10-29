@@ -22,5 +22,5 @@ See our [reports](/project/reports/#reporting-period-3).
 After
 [two days of rehearsals](https://opendreamkit.org/meetings/2019-10-30-Luxembourg/),
 we have one day of
-[presentations and software demonstrations](https://opendreamkit.org/meetings/2018-10-30-Luxembourg/ProjectReview/).
+[presentations and software demonstrations](https://opendreamkit.org/meetings/2019-10-30-Luxembourg/ProjectReview/).
 
