@@ -118,6 +118,10 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 
 * In addition to Sage, also taught successful sessions on GAP and R
 
+![](/public/images/SageDays102/analysis-session.jpg)
+
+--
+
 * Despite technical challenges (physical infrastructure, attendees' personal
   computers), we helped install Sage and GAP on nearly everyone's computers
   and got people excited about using them; mere installation has often been
@@ -135,6 +139,12 @@ Sage does. I look forward to applying Sage to my research.*
 
 --
 
+* Most attendees felt that knowledge of these new tools was valuable to them
+
+![](/public/images/SageDays102/future-impact.png)
+
+--
+
 * Lecturers and students alike expressed gratefulness that we organized this
   workshop, but also concern that bias against their country makes such
   workshops all to rare, and that they can't rely on such rare opportunities
@@ -148,8 +158,6 @@ experience in Nigeria.... I, with my team, established a PROFESSIONALS
 SCHOOL FOR MATHEMATICAL SCIENCES... Aimed at promoting mathematical research
 in Africa... This is to have a frontier for sustainability and advancement
 of mathematical research skills among Nigerians and Africans.*
-
-![](/public/images/SageDays102/future-impact.png)
 
 
 ---
