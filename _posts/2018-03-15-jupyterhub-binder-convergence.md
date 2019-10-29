@@ -12,7 +12,9 @@ tags:
     - user-interface
     - teaching
     - cloud
+    - use-case
 image: jupyterhub-binderhub.svg
+youtube: ukxEn5Yw6DM
 ---
 
 # About this document
