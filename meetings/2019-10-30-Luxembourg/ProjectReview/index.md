@@ -68,9 +68,10 @@ by the European Commission. We will present the achievements of all the
 - ![](https://img-0.journaldunet.com/cpztLhBur-LtpWcLV_witkYrvdw=/250x/smart/d8950c0639354214bf9a748c7c4a9f84/ccmcms-jdn/2235975.jpg) [Odile Bénassy](http://github.com/zerline), LRI, Université Paris Sud
 - ![](https://cmg.soton.ac.uk/media/people/mb4e10.medium.jpg) [Marijan Beg](https://cmg.soton.ac.uk/people/mb1a15/), European XFEL, Schenefeld, Germany
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
+- ![](https://avatars1.githubusercontent.com/u/676149?s=180&v=4) [Erik Madison Bray](https://iguananaut.net)
 - Olivier Cayrol, [Logilab](https://www.logilab.fr/)
 - [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
-- ![](https://opc.mfo.de/photoNormal?id=17996) 
+- ![](https://opc.mfo.de/photoNormal?id=17996)
 [Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/), TU Kaiserslautern. [SINGULAR](https://www.singular.uni-kl.de/)
 - ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles, WP3 lead, SageMath)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
