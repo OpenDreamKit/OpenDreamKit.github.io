@@ -27,7 +27,6 @@ by the European Commission. We will present the achievements of all the
     - [Enterprise training](./wp4_lightning_talk-vre_for_professional_training.pdf)
       (Olivier Cayrol)
     - [A VRE using Jupyter and GAP](./WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
-    - MAYBE: Story on Publishing computational logbook (Luca De Feo)
 
 ***
 
