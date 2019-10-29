@@ -16,7 +16,7 @@ by the European Commission. We will present the achievements of all the
 - 9:10: Overview ([Nicolas Thiéry](http://Nicolas.Thiery.name))
   - What's new on opendreamkit.org
   - [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb)
-- 9:45: [WP4: User Interfaces](wp4.pdf) (Benjamin Ragan-Kelley)<br/>
+- 9:45: WP4: User Interfaces (Benjamin Ragan-Kelley)<br/>
     including demo teasers
     - Jupyter feature (Benjamin Ragan-Kelley)
     - 3D visualization in Jupyter (Marcin Kostur)
@@ -31,7 +31,7 @@ by the European Commission. We will present the achievements of all the
 
 ***
 
-- 10:50: [WP 5: High Performance Mathematical Computing](WP5_pres.pdf) (Clément Pernet)<br/>
+- 10:50: WP 5: High Performance Mathematical Computing (Clément Pernet)<br/>
     including demo teasers
     - GAP HPC (Steve Linton)
     - Singular HPC (Daniel Schultz)
