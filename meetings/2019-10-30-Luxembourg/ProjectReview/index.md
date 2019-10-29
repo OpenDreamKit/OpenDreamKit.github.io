@@ -13,11 +13,9 @@ by the European Commission. We will present the achievements of all the
 
 - 9:00: welcome by the PO
 - 9:05: go-around the table, self-introductions by everybody
-
-***
-
-- 9:10: What's new on opendreamkit.org ([Nicolas Thiéry](http://Nicolas.Thiery.name))
-- 9:20: Story: [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb) ([Nicolas Thiéry](http://Nicolas.Thiery.name))
+- 9:10: Overview ([Nicolas Thiéry](http://Nicolas.Thiery.name))
+  - What's new on opendreamkit.org
+  - [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb)
 - 9:45: [WP4: User Interfaces](wp4.pdf) (Benjamin Ragan-Kelley)<br/>
     including demo teasers
     - Jupyter feature (Benjamin Ragan-Kelley)
