@@ -101,7 +101,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 --
 ### Sage Days 102 Nigeria
 
-![](../images/days102_group.jpg)
+![](../images/days102_group.jpg){:class="img-responsive"}
 
 --
 
@@ -118,7 +118,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 
 * In addition to Sage, also taught successful sessions on GAP and R
 
-![](/public/images/SageDays102/analysis-session.jpg)
+![](/public/images/SageDays102/analysis-session.jpg){:class="img-responsive"}
 
 --
 
@@ -127,7 +127,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
   and got people excited about using them; mere installation has often been
   a significant hurdle to getting people using this software
 
-![](/public/images/SageDays102/interacts.jpg)
+![](/public/images/SageDays102/interacts.jpg){:class="img-responsive"}
 
 --
 
@@ -135,13 +135,13 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 in teaching us how to actually do (implement) the interesting things that
 Sage does. I look forward to applying Sage to my research.*
 
-![](/public/images/SageDays102/sage-knowledge-after.png)
+![](/public/images/SageDays102/sage-knowledge-after.png){:class="img-responsive"}
 
 --
 
 * Most attendees felt that knowledge of these new tools was valuable to them
 
-![](/public/images/SageDays102/future-impact.png)
+![](/public/images/SageDays102/future-impact.png){:class="img-responsive"}
 
 --
 
