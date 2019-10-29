@@ -1,7 +1,7 @@
 ---
 layout: post
 author: USH
-title: Code First: Girls University of Sheffield, 2017-2018 
+title: "Code First: Girls University of Sheffield, 2017-2018"
 tag: workshop
 class: event
 url: https://rse.shef.ac.uk/blog/codefirstgirls-meets-hacktoberfest/

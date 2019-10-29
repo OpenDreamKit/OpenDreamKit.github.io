@@ -1,10 +1,9 @@
 ---
 layout: post
 author: XFEL
-title: Micromagnetism Workshop: Ubermag and mumax$^{3}$ European XFEL, Schenefeld, Germany, 11-14 June 2019
+title: "Micromagnetism Workshop: Ubermag and mumax$^{3}$ European XFEL, Schenefeld, Germany, 11-14 June 2019"
 tag: workshop
 class: event
-url: 
 ---
 
 ## Main goals

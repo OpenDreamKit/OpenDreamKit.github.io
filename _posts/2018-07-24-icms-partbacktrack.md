@@ -1,7 +1,7 @@
 ---
 layout: post
 author: SA
-title: ICMS 2018 -- Session 11: Backtrack search techniques in groups and combinatorics South Bend, USA, 25th July 2018
+title: "ICMS 2018 -- Session 11: Backtrack search techniques in groups and combinatorics South Bend, USA, 25th July 2018"
 tag: workshop
 class: event
 url: http://icms-conference.org/2018/sessions/session11/

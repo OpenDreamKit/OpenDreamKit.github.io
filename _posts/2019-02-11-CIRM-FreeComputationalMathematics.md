@@ -1,7 +1,7 @@
 ---
 layout: post
 author: UB,UK,UG,UV,SA
-title: CIRM Conference: Free Computational Mathematics CIRM, Luminy, France, 11--15 Feb 2019
+title: "CIRM Conference: Free Computational Mathematics CIRM, Luminy, France, 11--15 Feb 2019"
 tag: workshop
 class: event
 url: https://opendreamkit.org/2019/02/11/FreeComputationalMathematicsConference

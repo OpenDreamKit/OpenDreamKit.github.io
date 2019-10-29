@@ -1,7 +1,7 @@
 ---
 layout: post
 author: SA
-title: Finite Simple Groups: Thirty Years of the Atlas and  Beyond Princeton (US California), 2015-11-02 to 2015-11-05
+title: "Finite Simple Groups: Thirty Years of the Atlas and  Beyond Princeton (US California), 2015-11-02 to 2015-11-05"
 tag: workshop
 class: event
 url: http://math.arizona.edu/~grouptheory/princeton/
