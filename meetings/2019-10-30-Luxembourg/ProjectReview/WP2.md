@@ -123,6 +123,8 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
   and got people excited about using them; mere installation has often been
   a significant hurdle to getting people using this software
 
+![](/public/images/SageDays102/interacts.jpg)
+
 --
 
 *The workshop was very enlightening and the facilitators were very patient
@@ -148,9 +150,6 @@ in Africa... This is to have a frontier for sustainability and advancement
 of mathematical research skills among Nigerians and Africans.*
 
 ![](/public/images/SageDays102/future-impact.png)
-
---
-
 
 
 ---
