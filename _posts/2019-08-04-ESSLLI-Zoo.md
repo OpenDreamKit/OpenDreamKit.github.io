@@ -1,7 +1,7 @@
 ---
 layout: post
 author: FAU
-title: ESSLLI 2019: Course on Formalizing the Zoo of Logical Systems Riga, Latvia, 05th-09th of August 2019
+title: ESSLLI 2019 Course on Formalizing the Zoo of Logical Systems Riga, Latvia, 05th-09th of August 2019
 tag: workshop
 class: event
 url: http://esslli2019.folli.info/courses/formalizing-the-zoo-of-logical-system

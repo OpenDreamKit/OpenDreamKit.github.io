@@ -1,7 +1,7 @@
 ---
 layout: post
 author: PS
-title: Sage Days 98: Women in Sage Archanes (Greece), April 8 -- April 12, 2019
+title: "Sage Days 98: Women in Sage Archanes (Greece), April 8 -- April 12, 2019"
 tag: workshop
 class: event
 url: https://opendreamkit.org/2019/06/28/WomenInSage/
