@@ -103,6 +103,56 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 
 ![](../images/days102_group.jpg)
 
+--
+
+* A result of synergy with attendees from University of Ibadan at
+  aforementioned CIRM workshop
+
+* First workshop devoted primarily to open source mathematics software,
+  esp. Sage, in Nigeria; first in West Africa since 2011 (Burkina Faso)
+
+* Enormous demand impossible to meet with one workshop: 80+ attendees and
+  over 100 applicants (5 instructors; only 3 with Sage experience)
+
+--
+
+* In addition to Sage, also taught successful sessions on GAP and R
+
+* Despite technical challenges (physical infrastructure, attendees' personal
+  computers), we helped install Sage and GAP on nearly everyone's computers
+  and got people excited about using them; mere installation has often been
+  a significant hurdle to getting people using this software
+
+--
+
+*The workshop was very enlightening and the facilitators were very patient
+in teaching us how to actually do (implement) the interesting things that
+Sage does. I look forward to applying Sage to my research.*
+
+![](/public/images/SageDays102/sage-knowledge-after.png)
+
+--
+
+* Lecturers and students alike expressed gratefulness that we organized this
+  workshop, but also concern that bias against their country makes such
+  workshops all to rare, and that they can't rely on such rare opportunities
+  alone--there is a need for a sustainability effort
+
+*I will beg that this workshop continues on annual basis so the knowledge
+keeps spreading.*
+
+*On the iniative I have which will be useful for expansion of this
+experience in Nigeria.... I, with my team, established a PROFESSIONALS
+SCHOOL FOR MATHEMATICAL SCIENCES... Aimed at promoting mathematical research
+in Africa... This is to have a frontier for sustainability and advancement
+of mathematical research skills among Nigerians and Africans.*
+
+![](/public/images/SageDays102/future-impact.png)
+
+--
+
+
+
 ---
 ## Conclusion
 
