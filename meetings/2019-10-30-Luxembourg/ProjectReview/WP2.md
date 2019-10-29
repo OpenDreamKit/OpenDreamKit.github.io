@@ -43,7 +43,7 @@ We describe technical solutions through various use cases.
 ---
 ## For teachers
 
- * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Sheffield), **more than 5000 students**
+ * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Sheffield, AIMS), **more than 5000 students**
  * Teaching material: interactive lecture material, 4 interactive textbooks, templates, etc.
  * Local consulting (especially at Sheffield)
  
@@ -75,12 +75,16 @@ We describe technical solutions through various use cases.
 
 **How did the fact that the event was targeted to women impact your decision to come?**
 
+Some answers given from participants: (post workshop questionnaire)
+
  * *It helped, made me feel more encouraged to apply*
  * *It was my first workshop in Europe so I felt more comfortable working with women first but now I think I can go to any kind of workshop.*
  
 --
 
 ![](/public/images/womenInSage2/atmosphere.png)
+
+From a participant:
 
 *This was the first time I didn’t have imposter syndrome since starting my PhD. Everyone was so welcoming and there was an understanding that we were all from different backgrounds and with different levels of experience. It felt very easy to make suggestions and ask questions without the fear of being judged.*
 
@@ -112,6 +116,8 @@ We describe technical solutions through various use cases.
 
 * First workshop devoted primarily to open source mathematics software,
   esp. Sage, in Nigeria; first in West Africa since 2011 (Burkina Faso)
+  
+* Combined with a Software Carpentry training
 
 * Enormous demand impossible to meet with one workshop: 80+ attendees and
   over 100 applicants (5 instructors; only 3 with Sage experience)
@@ -120,7 +126,7 @@ We describe technical solutions through various use cases.
 
 * In addition to Sage, also taught successful sessions on GAP and R
 
-![](/public/images/SageDays102/analysis-session.jpg)
+![](../images/nigeria2.jpg)
 
 --
 
@@ -129,7 +135,7 @@ We describe technical solutions through various use cases.
   and got people excited about using them; mere installation has often been
   a significant hurdle to getting people using this software
 
-![](/public/images/SageDays102/interacts.jpg)
+![](../images/nigeria1.jpg)
 
 --
 
@@ -137,13 +143,13 @@ We describe technical solutions through various use cases.
 in teaching us how to actually do (implement) the interesting things that
 Sage does. I look forward to applying Sage to my research.*
 
-![](/public/images/SageDays102/sage-knowledge-after.png)
+![](../images/sage-knowledge-after.png)
 
 --
 
 * Most attendees felt that knowledge of these new tools was valuable to them
 
-![](/public/images/SageDays102/future-impact.png)
+![](../images/future-impact.png)
 
 --
 
@@ -161,6 +167,12 @@ SCHOOL FOR MATHEMATICAL SCIENCES... Aimed at promoting mathematical research
 in Africa... This is to have a frontier for sustainability and advancement
 of mathematical research skills among Nigerians and Africans.*
 
+--
+### Events in developing countries
+
+in: Algeria, Lebanon, Tunisia, Morocco, Colombia, Mexico, Nigeria
+
+about 460 trainees
 
 ---
 ## Conclusion

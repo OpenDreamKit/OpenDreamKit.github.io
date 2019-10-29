@@ -1,0 +1,27 @@
+---
+layout: post
+author: PS
+title: PyConFr Pau (France), 2015-10-17 to 2015-10-18
+tag: workshop
+class: event
+url: http://www.pycon.fr/2015/
+---
+
+## Main goals
+
+ PyConFr is the main gathering of the python community in France. It is a good place to meet the 
+French open source Python community and to talk and learn about projects.
+
+## OpenDreamKit implication
+
+ Viviane Pons was present at the meeting and she gave a talk
+on her teaching experience using SageMathCloud \cite{15PonsSMC} (peer-reviewed submission). She was
+also part of a panel on diversity. 
+
+## Results and impact
+
+ This event was an occasion to introduce OpenDreamKit to the larger python community in France as well as to
+keep active the link between Sage development and other Python open source projects. It is always a great occasion to discuss subjects
+ such as user interfaces, cloud servers, best practices, communities, etc. The diversity panel in particular was a great success bringing
+ together most of participants of the event. As this is a great concern for OpenDreamKit, we were happy to be part of it.
+
