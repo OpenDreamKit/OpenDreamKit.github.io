@@ -67,7 +67,7 @@ opening up new interface possibilities.
 Several user stories were collected by Gabe Cunningham, and will serve as use cases for the system.
 Participants also added content to a multilingual math glossary.
 
-![](math-data.jpg =75%)
+![](/public/images/events/math-data.jpg =75%)
 Data in Mathematics Workshop, Cernay, France
 
 The following testimonials indicate the degree of progress made in a single week.

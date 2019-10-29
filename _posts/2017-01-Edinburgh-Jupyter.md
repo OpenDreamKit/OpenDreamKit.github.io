@@ -37,7 +37,7 @@ at https://opendreamkit.org/meetings/2017-01-16-ICMS/programme/. A very detailed
 summary of the even is given by Raniere Silva (Software Sustainability Institute) and
 Hans Fangohr at https://www.software.ac.uk/blog/2017-02-07-computational-mathematics-jupyter.
 
-~[]()ICMS_Jan2017.jpg)
+![](/public/images/events/)ICMS_Jan2017.jpg)
 Participants of the workshop ``Computational Mathematics with Jupyter''
 
 

@@ -24,7 +24,7 @@ the functionality that is available in GAP to investigate these areas
 computationally, and guided participants through these tools during the 
 accompanying hands-on programming lab sessions.
 
-![](Aachen_school_2018)
+![](/public/images/events/Aachen_school_2018)
 
 GAP in Algebraic Research Summer School, Aachen, Germany
 
@@ -86,5 +86,5 @@ from the feedback written by the learners:
 
 - The graphical applications were awesome!
 
-![](Aachen_school_2018)
+![](/public/images/events/Aachen_school_2018)
 GAP in Algebraic Research Summer School, Aachen, Germany
