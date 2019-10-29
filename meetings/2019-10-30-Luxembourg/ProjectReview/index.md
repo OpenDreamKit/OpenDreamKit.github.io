@@ -7,7 +7,7 @@ On October 30th, OpenDreamKit will undergo its final formal review
 by the European Commission. We will present the achievements of all the
 48 months of the project.
 
-## Agenda (Needs updating)
+## Agenda
 
 [PAD](https://hackmd.io/TpyMyvlzTPmajWX3TtwfHw)
 
