@@ -13,9 +13,12 @@ by the European Commission. We will present the achievements of all the
 
 - 9:00: welcome by the PO
 - 9:05: go-around the table, self-introductions by everybody
+
+***
+
 - 9:10: What's new on opendreamkit.org ([Nicolas Thiéry](http://Nicolas.Thiery.name))
 - 9:20: Story: [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb) ([Nicolas Thiéry](http://Nicolas.Thiery.name))
-- 9:45: [WP4: User Interfaces](wp4.pdf) (Benjamin Ragan-Kelley)
+- 9:45: [WP4: User Interfaces](wp4.pdf) (Benjamin Ragan-Kelley)<br/>
     including demo teasers
     - Jupyter feature (Benjamin Ragan-Kelley)
     - 3D visualization in Jupyter (Marcin Kostur)
@@ -23,19 +26,40 @@ by the European Commission. We will present the achievements of all the
     - Enterprise training (Olivier Cayrol)
     - [[A VRE using Jupyter and GAP]](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
     - MAYBE: Story on Publishing computational logbook (Luca De Feo)
+
+***
+
 - 10:30: Coffee break
-- 10:50: [WP 5: High Performance Mathematical Computing](WP5_pres.pdf) (Clément Pernet)
+
+***
+
+- 10:50: [WP 5: High Performance Mathematical Computing](WP5_pres.pdf) (Clément Pernet)<br/>
     including demo teasers
     - GAP HPC (Steve Linton)
     - Singular HPC (Daniel Schultz)
 - 11:30: Parallel demos (as teased above)
+
+***
+
 - 12:00: lunch
+
+***
+
 - 12:45: WP1: Project Management (Izabela Faguet, Nicolas Thiéry)
 - 13:30: WP3: Component Architecture (Luca De Feo)
 - 14:00: WP6: Data/Knowledge/Software-Bases (Michael Kohlhase)
+
+***
+
 - 14:40: Coffee break
+
+***
+
 - 15:00: WP2: Community Building, Training, Dissemination, Exploitation, and Outreach (Viviane Pons via video link, Erik Bray)
 - 15:30: Wrapup and discussion ([Nicolas Thiéry](http://Nicolas.Thiery.name)) 
+
+***
+
 - 16:00: Assessment preparation by Reviewers and the Project Officer
 - 17:00: Feedback and discussion with reviewers
 - 18:00: End of review
