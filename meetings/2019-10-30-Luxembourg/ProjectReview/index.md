@@ -75,6 +75,7 @@ by the European Commission. We will present the achievements of all the
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
 - ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
 - ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
+- ![](https://www.mathematik.uni-kl.de/fileadmin/AG_Algebra_Geometrie_und_Computeralgebra/Profilbilder/bill.jpg) [William Hart[(https://www.mathematik.uni-kl.de/agag/personen/dozenten/), Mathematics, TU Kaiserslautern [SINGULAR](https://www.singular.uni-kl.de/)
 - ![](https://secure.gravatar.com/avatar/d5b897c37001627c2e3ad3c1e8a7e6fb?size=40)
   [Min Ragan-Kelley](https://www.simula.no/people/benjaminrk),
   Numerical Analysis and Scientific Computing,
