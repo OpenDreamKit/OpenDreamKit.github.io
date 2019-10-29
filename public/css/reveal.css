@@ -3,7 +3,7 @@
 body.slides_wp {
     background: no-repeat top right;
     background-color: #fff;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8)), url(../images/banner.png);
+    background-image: linear-gradient(rgba(255, 255, 255, .9), rgba(255, 255, 255, .9)), url(../images/banner.png);
 }
 
 section.wp-report-title .odk-logo, section.wp-report-title .flag-europe, section.wp-report-title .logos  {
