@@ -24,13 +24,15 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 ---
 ## Communication
 
-**How to convey what has been done by the OpenDreamKit project?** We describe technical solutions through various use cases.
+**How to convey what has been done by the OpenDreamKit project?** 
+
+We describe technical solutions through various use cases.
 
 ![](../images/usecases.png)
 
 --
 
-![](/public/images/use-cases/reproducible_logbook_scenario.png)
+![](../images/MitM.png)
 
 --
 ## Communication
@@ -41,7 +43,7 @@ This workpackage has been the **link** between the work we do at OpenDreamKit an
 ---
 ## For teachers
 
- * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Sheffield)
+ * Teaching with Jupyter (Southampton, Paris-Sud, Gent, Versailles, Silesia, USTAN, Sheffield), **more than 5000 students**
  * Teaching material: interactive lecture material, 4 interactive textbooks, templates, etc.
  * Local consulting (especially at Sheffield)
  
@@ -164,16 +166,25 @@ of mathematical research skills among Nigerians and Africans.*
 ## Conclusion
 
  * We do more than organizing events, we foster a community
+ * We developped and shared technichal solutions for training sessions.
  * These events will continue after the end of the project, depending on local resources, other projects, etc.
+
  
 --
 ## Some remarks
 
- * These events **don't cost a lot** in terms of money
+ * These events **don't cost a lot** in terms of money. Ex: Women in Sage Archanes, lodging+food = 3000 euros, travels: 12000 euros)
  * But they cost in terms of **time** and **administration**
  * The easier the access to the money, the easier the admin, the easier it is to make these events accessible to those who really need them.
  
+## Difficulties
+
+ * admin for paying / reimbursing individual trips
+ * Visa 
+ 
 --
+
+**About 25 ODK members active in dissemination / workshop orga: 110 events, 1800 trainees**
 
 We need **active actions** to create diversity, we need **motivated people** and we need to **support them**.
 
