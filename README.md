@@ -127,7 +127,7 @@ Now you can `cd` into your local clone of the repository and launch
 the compilation by
 
 ~~~
-bundle exec jekyll serve -w -b''
+bundle exec jekyll serve --incremental -w -b ''
 ~~~
 
 Your site will be generated in a `_site` sub-directory, and served
