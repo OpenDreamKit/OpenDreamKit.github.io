@@ -67,8 +67,6 @@ materials for students. Additionally, he wants students to be able to:
   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcinofulus/Mechanics_with_SageMath/master?filepath=index.ipynb)
 
 
-[ ![The interactive element in Mechanics course ](/public/images/book_authoring2.png){:class="display"} ](/public/images/book_authoring2.png)
-
 
 
 ## Alternative solutions
