@@ -50,10 +50,10 @@ by the European Commission. We will present the achievements of all the
 - ![](https://img-0.journaldunet.com/cpztLhBur-LtpWcLV_witkYrvdw=/250x/smart/d8950c0639354214bf9a748c7c4a9f84/ccmcms-jdn/2235975.jpg) [Odile Bénassy](http://github.com/zerline), LRI, Université Paris Sud
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
 - Olivier Cayrol, [Logilab](https://www.logilab.fr/)
-- ![](){:.idpic} [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
+- [John Cremona](http://homepages.warwick.ac.uk/staff/J.E.Cremona/), Mathematics, University of Warwick.  [LMFDB](http://www.lmfdb.org/)
 - ![](https://opc.mfo.de/photoNormal?id=17996) 
 [Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/), TU Kaiserslautern. [SINGULAR](https://www.singular.uni-kl.de/)
-- ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles)
+- ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles, WP3 lead, SageMath)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
 - ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
 - ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)
@@ -71,12 +71,15 @@ by the European Commission. We will present the achievements of all the
   cursor: pointer;
 }
 .idpics li {
+  margin-left: 20px;
   min-height: 42px;
+  list-style-type: none;
 }
 </style>
 
 <script>
 document.querySelectorAll('.idpics img').forEach(p => {
+  p.parentNode.style.transform = 'translateX(-42px) translateX(-1ex)';
   p.addEventListener('click', () => window.open(p.src));
 });
 </script>
