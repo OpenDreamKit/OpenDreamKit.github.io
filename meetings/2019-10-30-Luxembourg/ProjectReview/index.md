@@ -34,7 +34,7 @@ by the European Commission. We will present the achievements of all the
 
 ***
 
-- 10:50: WP 5: High Performance Mathematical Computing (Clément Pernet)<br/>
+- 10:50: [WP 5](WP5_pres.pdf): High Performance Mathematical Computing (Clément Pernet)<br/>
     including demo teasers
     - GAP HPC (Steve Linton)
     - Singular HPC (Daniel Schultz)
