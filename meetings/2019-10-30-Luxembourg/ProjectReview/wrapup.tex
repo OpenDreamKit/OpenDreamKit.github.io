@@ -1,6 +1,7 @@
-\documentclass{beamer}
+\documentclass[svgnames]{beamer}
 \usetheme{ODK}
 \usepackage{tikz}
+\usepackage{amssymb}
 
 \usepackage[utf8]{inputenc}
 \usepackage{eurosym}
@@ -18,10 +19,11 @@
 
 \newcommand{\fr}[1]{}
 \newcommand{\en}[1]{#1}
-\newcommand{\blue}
+\newcommand{\blue}{}
+\newcommand{\greencheckmark}{\scalebox{1.5}{\color{DarkGreen}\checkmark}}
 
 \author{Nicolas M. Thiéry}
-\title{Wrapup}
+\title{Wraping up four years of OpenDreamKit}
 
 \begin{document}
 
@@ -29,107 +31,210 @@
   \titlepage
 \end{frame}
 
-\begin{frame}{Bold aims!}
-  \pause
-  \begin{block}{Yet we deliver}
-  \end{block}
-  \pause
-  \begin{block}{Keys to success}\pause
-    \begin{itemize}
-    \item Building a toolkit\pause
-    \item Being part of a larger movement\pause
-    \item Identifying hard hurdles that prevent the ball from rolling
-      ...\\\pause
-      and knocking them down ...\\\pause
-      thanks to the the large resources entrusted to us by the EU
-      citizens\pause\medskip
-    \item Great people!
-    \end{itemize}
-  \end{block}
-  \medskip\pause
+\begin{frame}{Bold aims! Yet we delivered}
 
-  \begin{block}{Dearest to my heart}\pause
-    We help bring communities together
-  \end{block}
-\end{frame}
-
-\begin{frame}{What's next for the 3rd Reporting Period}
-  We already delivered a VRE toolkit\pause, deployed and used!
+  In RP2, we had delivered a VRE toolkit\pause, deployed and used!
   \bigskip\pause
 
-  Features to bring from prototype to production:
+  \begin{block}{Objectives for RP3: bringing from prototype to production}
+    \begin{itemize}
+    \item \greencheckmark live collaboration
+    \item \greencheckmark high performance
+    \item \greencheckmark tighter integration between components, at low and high level
+    \item \greencheckmark software stack flexibility
+    \item \greencheckmark ease of deployment
+    \item \greencheckmark  ...
+    \end{itemize}
+  \end{block}
+  \bigskip\pause
+
+  \begin{block}{Bonus: sustainability built into the approach}
+  \end{block}
+\end{frame}
+
+
+\begin{frame}{Success assessment}
+
+  The toolkit approach makes it harder\bigskip
+  \pause
+  \begin{block}{Key KPIs}
+    \begin{itemize}
+    \item Dozens of large VRE deployments; many small ones
+    \item $>$ 100k downloads, $>$ 10k published notebooks
+    \item 110 events, 1800 trainees, 5000 students
+    \item Massive first hand witnessing, dozens of success stories
+    \item Well worth 3c per EU citizen
+    \end{itemize}
+  \end{block}
+  \pause
+
+  \begin{block}{Dearest to my heart}\pause
+    \bigskip
+    \centerline{We helped bring communities together}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Keys to success}\pause
   \begin{itemize}
-  \item live collaboration
-  \item high performance
-  \item tighter integration between components, at low and high level
-  \item software stack flexibility
-  \item ease of deployment
-  \item ...
+  \item Open Management, with bottom up approach\pause
+  \item Building a toolkit\pause
+  \item Being part of a larger movement\pause
+  \item A flexible work plan and agile project\pause
+  \item Identifying hard hurdles that prevent the ball from rolling
+    ...\\\pause
+    and knocking them down ...\\\pause
+    thanks to the the large resources entrusted to us by the EU
+    citizens\pause\medskip
+  \item Great people!
   \end{itemize}
 \end{frame}
 
-\begin{frame}{Future}
-  \begin{itemize}
-  \item Sustainability built into the approach\bigskip\pause
+\begin{frame}{Now what?}
+    \begin{itemize}
+    \item We have demonstrated that OpenDreamKit-like toolkits have the
+      potential to massively transform how (mathematical) sciences are
+      researched, taught, and applied \pause
+    \item We have demonstrated the impact of RSE's on scientific research
+      \pause
+    \item I have learned something ...\\\pause
+      Shooting for the moon can have impact!
+      \bigskip\pause
+    \item Great people to preserve; we owe them! \pause
+    \item Something special about the spirit of this community to preserve
+    \end{itemize}
+  \pause\bigskip
 
-  \item Keep accelerating and steering the ball\bigskip\pause
-  \item Something special about the spirit of this community\bigskip\pause
-  \item We hired great people\pause; career paths?
-  \end{itemize}
+  \begin{block}{Back to homework}
+    \begin{itemize}
+    \item What are the needs of our communities?
+    \item What can we do about it?
+    \item What can we do about our people?
+    \end{itemize}
+  \end{block}
 \end{frame}
 
 
-\begin{frame}{Future funding: NumFOCUS}
+% \begin{frame}{Future funding: NumFOCUS}
 
-  \textbf{Nice fact:} Companies use computational open source software\\\pause
-  And want to contribute back financially!\bigskip\pause
+%   \textbf{Nice fact:} Companies use computational open source software\\\pause
+%   And want to contribute back financially!\bigskip\pause
 
-  \textbf{Problem:} This requires some legal entity\bigskip\pause
+%   \textbf{Problem:} This requires some legal entity\bigskip\pause
 
-  \textbf{Solution:} \href{http://numfocus.org}{NumFOCUS}, a
-  not-for-profit umbrella association\bigskip\pause
+%   \textbf{Solution:} \href{http://numfocus.org}{NumFOCUS}, a
+%   not-for-profit umbrella association\bigskip\pause
 
-  \textbf{ODK actions:} Contribution to the creation of NumFOCUS
-  Europe
+%   \textbf{ODK actions:} Contribution to the creation of NumFOCUS
+%   Europe
+% \end{frame}
+
+\begin{frame}{Future funding: Jupyter}
+
+  Jupyter is a key enabling technology for Open Science \& EOSC
+
+  Europe should fund core development, to support and steer
+
+  \bigskip
+
+  \begin{block}{BOSSEE}
+    \textbf{Call:} European Open Science Cloud \href{http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-02-2019.html}{INFRAEOSC-02-2019}
+
+    \textbf{Scope:} Core Jupyter development, demonstrators in many areas of science
+    \medskip
+
+    \textbf{Leader:} Min-Ragan Kelley
+
+    \textbf{Partners:} EGI, INSERM, QuantStack, WildTreeTech, ...
+
+    \textbf{Submitted:} January 2019; denied
+
+    \textbf{Will submit again!}
+  \end{block}
 \end{frame}
 
-\begin{frame}{Future funding: European Open Science Cloud calls}
+\begin{frame}{Future funding: FAIR mathematical data}
 
-  \textbf{Call:} \href{http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-02-2019.html}{INFRAEOSC-02-2019}
-  \bigskip
+  Mathematical Data have a key role to play and raise specific
+  challenges
 
-  \textbf{Deadline:} January 2019
-  \bigskip
+  \begin{block}{FAIRMAT}
+    \textbf{Call:} European Open Science Cloud \href{http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/infraeosc-02-2019.html}{INFRAEOSC-02-2019}
 
-  \textbf{Scope:} Jupyter centric proposal; demonstrators in various areas of
-  science?
-  \medskip
+    \textbf{Scope:} FAIR Data in Mathematics
+    \medskip
 
-  \textbf{Leader:} Min-Ragan Kelley?
-  \bigskip
+    \textbf{Leader:} Michael Kohlhase
 
-  \textbf{Potential partners:} EGI, CERN, INSERM, QuantStack, ...
+    \textbf{Submitted:} January 2019; denied
+
+    \textbf{Will submit again!}
+  \end{block}
 \end{frame}
 
 \begin{frame}{Future funding: COST network}
 
-  \textbf{Scope:} Computational mathematics
-  \bigskip
+  \textbf{Scope:} Computational mathematics / Tetrapod
 
-  \textbf{Leader:} Nicolas?
+  \textbf{Leader:} ? Key question: proper administrative support
   \bigskip
 
   \textbf{Funding for:} community building, conferences; no RSE!
-
 \end{frame}
 
-\begin{frame}{Future funding: Challenges}\pause
+\begin{frame}
+  \begin{block}{How to overcome failures?}\pause
+    Advice most welcome!\pause
+  \end{block}
+  \bigskip
+
+  \begin{block}{Limitations of EU funding}
+    \begin{itemize}
+    \item Tension between career paths and project-based funding
+      \bigskip\pause
+    \item Running a project of the scale of ODK takes a lot of overhead
+    \item Granularity: can't always shoot for the moon
+      \bigskip\pause
+    \item Some great admin people; but really, our EU services are not up to speed
+    \end{itemize}
+  \end{block}
+\end{frame}
+
+\begin{frame}{Securing the future of our people}
+  \url{https://hackmd.io/MDjhJ9qFRQOynKLhE6PmsA}
+\end{frame}
+
+\begin{frame}{Take Home Messages}
+  \begin{block}{Key KPIs}
+    \begin{itemize}
+    \item Dozens of large VRE deployments; many small ones
+    \item $>$ 100k downloads, $>$ 10k published notebooks
+    \item 110 events, 1800 trainees, 5000 students
+    \end{itemize}
+  \end{block}
+\end{frame}
+\begin{frame}{Take Home Messages}
   \begin{itemize}
-  \item Running a project of the scale of ODK takes a lot of overhead\pause\bigskip
-  \item Major investment, in particular for the coordinator\pause\bigskip
-  \item No fitting calls so far for computational mathematics\pause\bigskip
-  \item Advice would be most welcome!
+  \item Public bodies ought to fund basic research\\
+    \textbf{\color{red}Public bodies ought to fund basic software development}
+    \bigskip\pause
+
+  \item OpenDreamKit style collaboratively developed toolkits have the
+    potential to massively transform how (mathematical) sciences are
+    researched, taught, and applied\\
+    \medskip\pause
+    \textbf{\color{red}Jupyter is a key enabling technology for Open Science \& EOSC\\
+      Europe should fund core development, to support and steer}
+    \bigskip\pause
+
+  \item Research Software Engineers are a key asset\\
+    Requires funding, career paths, recognition ... and creative setups\\
+    \medskip
+    \textbf{\color{red}A dozen are needed for Computational Maths and the Tetrapod}
+    \bigskip\pause
+
+  \item The power of Open Management \& OpenDreamKit's spirit\\
+    \pause\smallskip
+    \textbf{\color{red}There is a great community here; it needs support}
   \end{itemize}
 \end{frame}
 \end{document}
-
