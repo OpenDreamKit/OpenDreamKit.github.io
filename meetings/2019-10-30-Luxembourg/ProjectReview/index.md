@@ -47,7 +47,7 @@ by the European Commission. We will present the achievements of all the
 ***
 
 - 12:45: WP1: Project Management (Izabela Faguet, Nicolas Thiéry)
-- 13:30: WP3: Component Architecture (Luca De Feo)
+- 13:30: [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/master?filepath=meetings%2F2019-10-30-Luxembourg%2FProjectReview%2FWP3.ipynb) (Luca De Feo)
 - 14:00: WP6: Data/Knowledge/Software-Bases (Michael Kohlhase)
 
 ***
