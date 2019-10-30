@@ -57,7 +57,7 @@ by the European Commission. We will present the achievements of all the
 ***
 
 - 15:00: [WP2: Community Building, Training, Dissemination, Exploitation, and Outreach](WP2) (Viviane Pons via video link, Erik Bray)
-- 15:30: Wrapup and discussion ([Nicolas Thiéry](http://Nicolas.Thiery.name)) 
+- 15:30: [Wrapup](wrapup-final.pdf) and discussion ([Nicolas Thiéry](http://Nicolas.Thiery.name))
 
 ***
 
