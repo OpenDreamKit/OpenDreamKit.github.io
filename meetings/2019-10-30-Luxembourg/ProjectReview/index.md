@@ -16,14 +16,17 @@ by the European Commission. We will present the achievements of all the
 - 9:10: Overview ([Nicolas Thiéry](http://Nicolas.Thiery.name))
   - What's new on opendreamkit.org
   - [Balthazar's use case](https://mybinder.org/v2/gh/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb)
-- 9:45: WP4: User Interfaces (Benjamin Ragan-Kelley)<br/>
+    (Nicolas Thiéry)
+- 9:45: [WP4: User Interfaces](./wp4.pdf)
+  (Benjamin Ragan-Kelley)<br/>
     including demo teasers
-    - Jupyter feature (Benjamin Ragan-Kelley)
-    - 3D visualization in Jupyter (Marcin Kostur)
-    - Micromagnetics (Marijan Beg)
-    - Enterprise training (Olivier Cayrol)
-    - [A VRE using Jupyter and GAP](https://github.com/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
-    - MAYBE: Story on Publishing computational logbook (Luca De Feo)
+    - *Jupyter collaboration (Benjamin Ragan-Kelley, no teaser)*
+    - [3D visualisation in Jupyter](./wp4-k3d-vis.pdf)
+      (Marcin Kostur)
+    - *Micromagnetics (Marijan Beg, no teaser)*
+    - [Enterprise training](./wp4_lightning_talk-vre_for_professional_training.pdf)
+      (Olivier Cayrol)
+    - [A VRE using Jupyter and GAP](./WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
 
 ***
 
@@ -31,7 +34,7 @@ by the European Commission. We will present the achievements of all the
 
 ***
 
-- 10:50: WP 5: High Performance Mathematical Computing (Clément Pernet)<br/>
+- 10:50: [WP 5](WP5_pres.pdf): High Performance Mathematical Computing (Clément Pernet)<br/>
     including demo teasers
     - GAP HPC (Steve Linton)
     - Singular HPC (Daniel Schultz)
@@ -43,9 +46,9 @@ by the European Commission. We will present the achievements of all the
 
 ***
 
-- 12:45: WP1: Project Management (Izabela Faguet, Nicolas Thiéry)
-- 13:30: WP3: Component Architecture (Luca De Feo)
-- 14:00: WP6: Data/Knowledge/Software-Bases (Michael Kohlhase)
+- 12:45: [WP1: Project Management](présentation WP1 ODK.pdf) (Izabela Faguet, Nicolas Thiéry) 
+- 13:30: [WP3: Component Architecture](https://mybinder.org/v2/gh/opendreamkit/opendreamkit.github.io/rp3-wp3-presentation-2?filepath=meetings%2F2019-10-30-Luxembourg%2FProjectReview%2FWP3.ipynb) (Luca De Feo)
+- 14:00: [WP6: Data/Knowledge/Software-Bases](./WP6.pdf) (Michael Kohlhase)
 
 ***
 
@@ -53,8 +56,8 @@ by the European Commission. We will present the achievements of all the
 
 ***
 
-- 15:00: WP2: Community Building, Training, Dissemination, Exploitation, and Outreach (Viviane Pons via video link, Erik Bray)
-- 15:30: Wrapup and discussion ([Nicolas Thiéry](http://Nicolas.Thiery.name)) 
+- 15:00: [WP2: Community Building, Training, Dissemination, Exploitation, and Outreach](WP2) (Viviane Pons via video link, Erik Bray)
+- 15:30: [Wrapup](wrapup-final.pdf) and discussion ([Nicolas Thiéry](http://Nicolas.Thiery.name))
 
 ***
 

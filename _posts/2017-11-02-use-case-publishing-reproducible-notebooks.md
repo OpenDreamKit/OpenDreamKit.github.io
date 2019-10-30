@@ -11,6 +11,7 @@ tags:
     - reproducibility
     - jupyter
     - binder
+youtube: a5i42lSj-L4
 ---
 
 ## Scenario

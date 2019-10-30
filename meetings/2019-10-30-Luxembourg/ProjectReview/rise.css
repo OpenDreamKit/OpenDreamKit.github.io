@@ -1,0 +1,16 @@
+body.rise-enabled {
+    background: no-repeat top right;
+    background-color: #fff;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(../../../public/images/banner.png);
+}
+body.rise-enabled::after {
+    content: "";
+    width: 70px;
+    height: 70px;
+    background: no-repeat bottom; 
+    background-size: 70px;
+    background-image: url(../../../public/logos/Flag_of_Europe.svg);
+    position: fixed;
+    bottom: 0;
+    right: 200px;
+}
