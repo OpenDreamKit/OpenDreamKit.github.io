@@ -40,6 +40,12 @@ We describe technical solutions through various use cases.
  * Creation of explainer comic strips (drawn by Juliette Belin from Logilab)
  * Creation of stop-motion videos with Pix Videos. **2 videos published on Youtube** and more to come
  
+## Some other web related numbers
+
+ * about 580 visits per month on the website in 2018-2019
+ * 35 blogposts
+ * 563 twitter followers: more than 4000 views on our video tweet (fast changing numbers!)
+ 
 ---
 ## For teachers
 
