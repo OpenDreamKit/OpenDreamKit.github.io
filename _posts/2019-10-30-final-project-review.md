@@ -77,7 +77,7 @@ building, training, and dissemination activities. 110 events touching
 consortium. The reviewers were amazed, and specifically congratulated
 Viviane for the strong diversity actions.
 
-Nicolas was left with the tough task of [wrapping up](/meetings/2019-10-30-Luxembourg/ProjectReview/wrap-up.pdf)
+Nicolas was left with the tough task of [wrapping up](/meetings/2019-10-30-Luxembourg/ProjectReview/wrapup-final.pdf)
 four years of hard work by 50+ participants. He highlighted the keys
 to success, notably the open management and bottom-up approach, the
 impact of Research Software Engineers, the needs of the involved
