@@ -33,13 +33,13 @@ knock down some tough hurdles that were preventing the ball to roll.
 ## Content
 
 Nicolas launched the day by showcasing some of our 
-[use cases](tag/use-case), before
-[telling a story](https://nbviewer.jupyter.org/github/OpenDreamKit/demo-semigroup-representation-theory/master?filepath=demo.ipynb)
+[use cases](https://opendreamkit.org/tag/use-case), before
+[telling a story](https://nbviewer.jupyter.org/github/OpenDreamKit/demo-semigroup-representation-theory/blob/master/demo.ipynb)
 of his successive PhD students, to illustrate how the very diverse
 achievements of OpenDreamKit and our communities were coming together
 to enable novel experimental research.
 
-Min [presented](/meetings/2019-10-30-Luxembourg/WP4.pdf)
+Min [presented](https://opendreamkit.org/meetings/2019-10-30-Luxembourg/WP4.pdf)
 our contributions to Jupyter-based user interfaces and
 virtual environments, reflecting along the way on the future of the
 Jupyter community. The impact was illustrated by software
@@ -48,36 +48,36 @@ demonstrations by Marijan (micromagnetism), Alexander (GAP), Olivier
 
 Clément -- supported by software demonstrations of Steve (GAP), Bill
 (Pari), Daniel (Singular) --
-[reviewed](/meetings/2019-10-30-Luxembourg/WP5.pdf)
+[reviewed](https://opendreamkit.org/meetings/2019-10-30-Luxembourg/WP5.pdf)
 the achievements toward higher
 performance on modern architectures, both within computational
 components and when combining them. He highlighted algorithmic
 advances, common trends, lessons learned and perspectives.
 
-Izabela and Nicolas [detailed](WP1.pdf) the project management: use of
+Izabela and Nicolas [detailed](https://opendreamkit.org/WP1.pdf) the project management: use of
 resources, explanations of deviations, risks management, follow up to
 recommendations, etc; then we received feedback from our financial
 officer on how to polish our financial and technical reports.
 
-Luca [showcased](https://nbviewer.jupyter.org/github/OpenDreamKit/OpenDreamKit.github.io/rp3-wp3-presentation-2?filepath=meetings%2F2019-10-30-Luxembourg%2FProjectReview%2FWP3.ipynb)
+Luca [showcased](https://nbviewer.jupyter.org/github/OpenDreamKit/OpenDreamKit.github.io/blob/master/meetings/2019-10-30-Luxembourg/ProjectReview/WP3.ipynb)
 the variety of Virtual Research Environments that can
 be constructed from our toolkit. He revealed the massive plumbing
 efforts (modularity, packaging, ...) that underlined it, and their
 impact on usability and sustainability.
 
-Michael [explained](WP6.pdf) the research that was conducted on exploiting
+Michael [explained](https://opendreamkit.org/WP6.pdf) the research that was conducted on exploiting
 mathematical knowledge for interoperability between mathematical
 computational systems, databases, and even proof systems; concrete
 outcomes range from proof of concepts to production grade tools, notably
 to support FAIR mathematical data.
 
-Viviane, with the help of Erik, [outlined](WP2) our massive community
+Viviane, with the help of Erik, [outlined](https://opendreamkit.org/WP2) our massive community
 building, training, and dissemination activities. 110 events touching
 1800 trainees and 5000 students, and involving a majority of the
 consortium. The reviewers were amazed, and specifically congratulated
 Viviane for the strong diversity actions.
 
-Nicolas was left with the tough task of [wrapping up](wrap-up.pdf)
+Nicolas was left with the tough task of [wrapping up](https://opendreamkit.org/wrap-up.pdf)
 four years of hard work by 50+ participants. He highlighted the keys
 to success, notably the open management and bottom-up approach, the
 impact of Research Software Engineers, the needs of the involved
