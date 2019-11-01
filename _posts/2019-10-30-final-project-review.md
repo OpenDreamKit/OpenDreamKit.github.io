@@ -96,4 +96,4 @@ ephemera and geographic artifacts such as EU projects.
 
 Stay tuned :-)
 
-![Our photo after the review meeting](/public/images/rp3-review.jpg){:class="img-responsive"}
+![Our photo after the review meeting](/public/images/rp3-meeting.jpg){:class="img-responsive"}
