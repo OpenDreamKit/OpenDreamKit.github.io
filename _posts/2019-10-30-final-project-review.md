@@ -95,3 +95,5 @@ started to brainstorm about the future of that community, beyond
 ephemera and geographic artifacts such as EU projects.
 
 Stay tuned :-)
+
+![Our photo after the review meeting](/public/images/rp3-review.jpg){:class="img-responsive"}
