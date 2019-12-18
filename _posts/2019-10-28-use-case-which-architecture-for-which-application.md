@@ -21,7 +21,7 @@ Archibald has a challenge mathematical computation to run for which he received 
  - identifies the main computational bottlenecks
  - then for each of them identifies:
    * the overall memory footprint (memory space required by Input and Output, together with the allocations of intermediate computations)
-   * whether the computation is memory bound (about the same amount of computation as data) or compute bound (significantly more computation then data).
+   * whether the computation is memory bound (about the same amount of computation as data) or compute bound (significantly more computation than data).
    * the level of parallelism between tasks
    * the regularity pattern of the computation.
 
@@ -41,17 +41,17 @@ depending on the type of computations:
 | Regularity (SIMD)        |                    |                          |       ✓        |                         |                    |
 | Memory intensive         |      ✓             |           ✓              |                |                         |                    |
 | Large data (near 1Tb)    |                    |           ✓              |                |                         |                    |
-| Huge data (several 1Tb)  |                    |                          |                |            ✓            |        ✓           |
+| Huge data (several Tb)  |                    |                          |                |            ✓            |        ✓           |
 | Embarassingly parallel   |                    |                          |       ✓        |            ✓            |        ✓           |
 {:.table.table-hover}
 
 ## Design of high performance code for mathematical computing
 
-Before throwing any effort in code developpment, Archibald try to make use of any specialised library providing high performance implementations for some kernels he is focusing on.
+Before throwing any effort in code developpment, Archibald tries to make use of any specialised library providing high performance implementations for some kernels he is focusing on.
 
 Overall the design of new code solving the problem should focus on optimizing the following points incrementally.
- 1. optimizing the memory access patterns: cache optimization)
- 2. optimizing the use of in-code parallelism: using SIMD instructions, arithmetic units, etc
+ 1. optimizing the memory access patterns: cache optimization
+ 2. optimizing the use of in-core parallelism: using SIMD instructions, arithmetic units, etc
  3. shared memory parallelization:
   - applied from the coarsest to the finest grain
   - optimizing data placement and memory allocation (numactl, tcmalloc, etc)
