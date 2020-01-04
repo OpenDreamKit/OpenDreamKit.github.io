@@ -20,7 +20,7 @@
 
 - name: Try SageMath
   repo: sagemath/more-sagemath-tutorials
-  file: tutorial-sage-start-here.ipynb
+  file: _build/html/tutorial-start-here.ipynb
   thumbnail: /try/thumbnails/sage.png
 
 - name: Try Singular
