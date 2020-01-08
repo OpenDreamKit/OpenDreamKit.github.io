@@ -21,13 +21,8 @@ of our achievements [in the last reporting period](/project/reports/#reporting-p
 and in the project as a whole.
 
 After the presentations and in-depth discussions, the feedback from
-<<<<<<< HEAD
 the reviewers was enthusiastic, with comments such as “[you have] done extremely
 good job” or “heroic management” and strong encouragements to keep
-=======
-the reviewers was enthusiastic, with comments such as «you have done an extremely
-good job» or «heroic management», and strong encouragements to keep
->>>>>>> 4ab0d8d7a357963a797678fc7730f389e5cc343c
 applying and shooting for the moon. As in previous reviews, we
 highlighted that OpenDreamKit's work was but the tip of the iceberg;
 all we did was to exploit the special resources the EU entrusted us to
