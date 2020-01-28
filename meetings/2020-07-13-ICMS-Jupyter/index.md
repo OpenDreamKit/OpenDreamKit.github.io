@@ -34,6 +34,8 @@ demerits!) of this ecosystem and its alternatives for mathematical
 research and education, notably with open science and reproducibility
 in mind.
 
+It you would like to present a talk (~25 minutes), please submit!
+
 
 ##### Topics (including, but not limited to)
 
