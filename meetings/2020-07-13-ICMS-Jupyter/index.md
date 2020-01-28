@@ -4,7 +4,9 @@ title: "ICMS 2020 Session: The Jupyter Environment for Computational Mathematics
 location: TU Braunschweig, Germany
 ---
 
-[ICMS](http://icms-conference.org/2020) July 13-16, 2020 [Other Sessions](http://icms-conference.org/2020/sessions/)
+A session at [ICMS](http://icms-conference.org/2020), Braunchweig, Germany July 13-16, 2020
+
+[Other Sessions](http://icms-conference.org/2020/sessions/)
 
 ### Session organizers
 
