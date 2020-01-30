@@ -6,6 +6,7 @@ menu: project
 redirect_from: "/events_activities/press_release/"
 ---
 
+* 29 Jan 2020 EU Commission Project Stories: [Interview of Nicolas M.Thiéry: open science and computational mathematics](https://ec.europa.eu/digital-single-market/en/news/interview-nicolas-mthiery-open-science-service-computational-mathematics)
 * 11 Jan 2020 [INSMI: OpenDreamKit](http://www.cnrs.fr/insmi/spip.php?article3475)
 * 30 Dec 2019 [FAU: FAU-Team entwickelt Baukasten für virtuelle Forschungsumgebungen](https://www.fau.de/2019/12/news/wissenschaft/werkzeuge-fuer-die-wissensgemeinschaft/)
 * 19 Dec 2019 [Paris Sud: OpenDreamKit : promouvoir le logiciel libre communautaire pour le calcul mathématique](http://www.actu.u-psud.fr/fr/recherche/actualites-2019/opendreamkit-promouvoir-le-logiciel-libre-communautaire-pour-le-calcul-mathematique.html)
