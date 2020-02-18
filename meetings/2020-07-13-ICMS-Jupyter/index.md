@@ -94,8 +94,22 @@ neither been published nor submitted for publication elsewhere.
 Authors need to sign a Consent-to-Publish form, through which the
 copyright of their paper is transferred to Springer.
 
-<!--
 ### Talks/Abstracts
 
-*   ### .....
-!-->
+#### Polymake.jl: A new interface to polymake
+
+Speakers: Marek Kaluba <kalmar@amu.edu.pl>, Sascha Timme <timme@math.tu-berlin.de>
+
+Abstract:
+
+Polymake is a software for research in polyhedral geometry with Perl
+as the user interfacing language. We present Polymake.jl, an interface
+to polymake from Julia. This talk discusses the technical aspects of
+the interface and shows how the Julia package manager allows for
+easily reproducible computations even when as large scale projects as
+polymake is, are involved. The interface and reproducibility will be
+demonstrated on an interactive example which combines exact
+computations in polyhedral geometry with numerical methods from other
+fields.
+
+#### ...
