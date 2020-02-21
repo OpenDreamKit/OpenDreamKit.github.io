@@ -6,7 +6,7 @@ location: TU Braunschweig, Germany
 
 A session at [ICMS](http://icms-conference.org/2020), Braunchweig, Germany July 13-16, 2020
 
-[Other Sessions](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020_Sessions.html
+[Other Sessions](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020_Sessions.html)
 
 <!--http://icms-conference.org/2020/sessions/!-->
 
