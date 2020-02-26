@@ -112,4 +112,22 @@ demonstrated on an interactive example which combines exact
 computations in polyhedral geometry with numerical methods from other
 fields.
 
-#### ...
+#### Experience with teaching mathematics with notebooks at Universidad de Zaragoza
+
+Speaker: Miguel Marco
+
+Web based notebook interfaces to free/open source mathematical
+software have been used as a tool for teaching mathematics related
+courses at Universidad de Zaragoza for a decade. Initially the classic
+SageMath notebook (sagenb) was used, but in the last year, a migration
+process to a Jupyterhub/Jupyterlab based one has been started. Due to
+the modularity of the Jupyter ecosystem, design choices had to be made
+considering the desired use cases.
+
+We describe the different design choices considered, together with the
+advantages and drawbacks of each one. Specifically, we mention the
+main problems that were found in practice, and how we dealt with them.
+
+We also discuss the viability of such approaches for a university-wide
+level deployment.
+
