@@ -4,7 +4,7 @@ title: "Retour d'expérience: OpenDreamKit"
 
 theme: white
 transition: none
-author: Nicolas M. Thiéry
+author: Nicolas M. Thiéry<br>Université Paris-Sud
 date: 2020/02/26
 fulldate: 26 Février 2020
 location: Journée DIM - PCN<br>Auditorium de la région Île-de-France
@@ -57,7 +57,7 @@ mathematicians to apply for EU funding.
 **Budget**: 7.6 M€
 
 ---
-## Le montage du projet, vu du coordinateur
+## Le montage du projet
 
 <center><img src="/public/images/haut2.jpg" alt="just a nice picture" width="60%"/></center>
 
@@ -104,7 +104,7 @@ Note:
 
 ----
 
-### Engager la communauté et favoriser l'intelligence collective
+### Mobiliser la communauté et favoriser l'intelligence collective
 
 {% include vspace.html %}
 
@@ -126,24 +126,28 @@ Note:
 
 ----
 
-### Impliquer les participants: bienveillance, exigence, joie
+### Impliquer les participants
 
 #### Encourager
 
 - à définir ensemble la  vision du project
-- à agir selon leurs convictions (ils connaissent mieux leurs besoins)
+- à agir selon leurs convictions: c'est eux les experts!
 
 {% include vspace.html %}
 
 #### Faciliter
 
-- À quel stade en est le projet?
+- À quel stade en est la rédaction du projet?
 - Que reste-t'il à faire?
 - Comment peuvent-ils aider?
 
 {% include vspace.html %}
 
+#### Bienveillance, exigence et joie
+
 #### Sourire, courir devant, espérer ... et remercier
+
+{% include vspace.html %}
 
 <center>[Quand cela fonctionne](https://www.youtube.com/watch?v=kM9zcfRtOqo)</center>
 
@@ -199,6 +203,9 @@ Ne même pas penser à Word, Dropbox, ...
 
 - Votre service Europe
 - Des collègues ayant de l'expérience
+
+{% include vspace.html %}
+{% include vspace.html %}
 
 #### Un administrateur (à temps partiel)
 
@@ -309,9 +316,7 @@ Ne même pas penser à Word, Dropbox, ...
 
 ## Mesures de mitigation
 
-~~Soutien aux carrières~~
-
-Faire gagner du temps aux chercheurs!!!
+~~Soutien aux carrières~~ Faire gagner du temps aux chercheurs!!!
 
 ### Cellules Europe solides
 
@@ -328,16 +333,16 @@ Faire gagner du temps aux chercheurs!!!
 
 {% include vspace.html %}
 
-### Outils collaboratifs institutionnels (Renater, ...), Mentors
+### Outils collaboratifs institutionnels (type Renater, ...), Mentors
 
 ---
 
 ### Accompagnement au lobbying?
 
-- Projets atypiques / hors poids lourds
 - Financement de la maintenance des logiciels scientifiques libres<br>
   (the road and bridges of modern science)
 
+- Projets atypiques / hors poids lourds
 - Écosystème Jupyter pour le calcul interactif et la science ouverte
 - Écosystème des logiciels de maths
 
