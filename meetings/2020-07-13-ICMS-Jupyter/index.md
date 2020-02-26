@@ -131,3 +131,22 @@ main problems that were found in practice, and how we dealt with them.
 We also discuss the viability of such approaches for a university-wide
 level deployment.
 
+## Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
+
+Speaker: Sebastian Gutsche
+
+In this talk, we will describe several strategies to use Jupyter as an
+interactive front-end for a C/C++ library or a legacy computational
+system with a REPL (Read-Eval-Print-Loop) interactive interface.
+
+We will show how to access C/C++ libraries from interpreters for
+various languages (Python, Julia, C++) and then use them from Jupyter.
+This will demonstrate Python wrappers like the CPython API, Cython, or
+cppyy, and Julia wrappers like CxxWrap and Julia's build-in ccall.
+
+For packages with a REPL, we will see how we can adjust them to the
+use in Jupyter using pexpect, the CPython API, or Xeus.
+
+We discuss the benefits and drawbacks for the different approaches,
+and additional Jupyter functionality (graphical output, widgets) that
+becomes available for free.
