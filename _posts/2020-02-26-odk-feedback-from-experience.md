@@ -8,7 +8,7 @@ author: Nicolas M. Thiéry
 date: 2020/02/26
 fulldate: 26 Février 2020
 location: Journée DIM - PCN<br>Auditorium de la région Île-de-France
-img: /public/images/rp3-meeting-rehearsal-high-quality.jpg
+img: /public/images/rp3-meeting-rehearsal.jpg
 tags:
     - talk
     - blog
