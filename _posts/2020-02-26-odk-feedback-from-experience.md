@@ -191,10 +191,14 @@ Ne même pas penser à Word, Dropbox, ...
 
 ### Obtenir de l'aide
 
+Écoutez attentivement tous les conseils ...
+
+Et faites à votre sauce! C'est **votre** projet.
+
 #### Déléguer à une compagnie externe?
 
-- Vous y perdrez le contrôle. Votre liberté. Votre argent.
-- Mieux vaut de bons outils collaboratifs
+- Coût? Liberté? Contrôle?
+- Pour nous: de bons outils collaboratifs ont fait l'affaire
 
 {% include vspace.html %}
 {% include vspace.html %}
@@ -207,7 +211,7 @@ Ne même pas penser à Word, Dropbox, ...
 {% include vspace.html %}
 {% include vspace.html %}
 
-#### Un administrateur (à temps partiel)
+#### Un administrateur (par ex. à temps partiel)
 
 ---
 ## Montage et gestion ouverte du projet: une clé du succès
