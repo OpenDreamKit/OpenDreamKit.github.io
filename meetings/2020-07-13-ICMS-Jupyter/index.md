@@ -96,6 +96,13 @@ copyright of their paper is transferred to Springer.
 
 ### Talks/Abstracts
 
+#### An overview of Jupyter and its ecosystem
+
+Speaker: Nicolas M. Thiéry
+
+In this introductory presentation, we will setup the stage for the
+session by giving a brief overview of the Jupyter ecosystem.
+
 #### Polymake.jl: A new interface to polymake
 
 Speakers: Marek Kaluba <kalmar@amu.edu.pl>, Sascha Timme <timme@math.tu-berlin.de>
@@ -131,7 +138,7 @@ main problems that were found in practice, and how we dealt with them.
 We also discuss the viability of such approaches for a university-wide
 level deployment.
 
-## Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
+#### Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
 
 Speaker: Sebastian Gutsche
 
@@ -150,3 +157,84 @@ use in Jupyter using pexpect, the CPython API, or Xeus.
 We discuss the benefits and drawbacks for the different approaches,
 and additional Jupyter functionality (graphical output, widgets) that
 becomes available for free.
+
+#### Jupyter widgets for interactive mathematics
+
+Speaker: Odile Benassy
+
+In this talk, we will illustrate the rich interactive features offered
+by Jupyter. Indeed, beyond the traditional REPL (Read-Eval-Print
+loop), Jupyter offers a cross-language toolbox of interactive visual
+components -- called widgets -- from which users can build and share
+their own interactive applications. This toolbox has been adopted and
+extended by the community which has developed visualization components
+for various applications. A key feature of Jupyter widgets is the
+progressive learning curve which blurs the line between notebook
+readers, notebook authors, and developers.
+
+We will start with a few "interacts" -- a feature well know to
+Mathematica or Sage users -- to build with a handful of lines of code
+some simple yet effective mini applications where the input of a
+function is chosen with visual controls (e.g. sliders). We will then
+illustrate the process of building applications with richer
+interactions from the tool box. Finally, we will demonstrate two
+Python/SageMath packages that we have developed based on Jupyter
+widgets. The first one -- Sage-Combinat-widgets -- is a library of
+widgets for the interactive edition of certain types of combinatorial
+objects. The second one -- Sage-Explorer -- is an application for
+interactive visual exploration of objects in Sage. Both can be
+combined or integrated in larger applications.
+
+Along the way, we will reflect on our experience, trying to evaluate
+the expertise and development time required for each use case. We will
+stress at this occasion the role played by dedicated Research Software
+Engineers and suggest incentives for building and animating a rich
+user community.
+
+#### MMT-based natural language processing of mathematical language in Jupyter
+
+Speaker: Jan Frederik Schaefer
+
+TBA
+
+#### GAP in Jupyter (tentative)
+
+Speaker: ???
+
+GAP is a system for computational discrete algebra, with particular
+emphasis on Computational Group Theory. In this presentation, we will
+showcase a variety of applications of GAP in Jupyter, for research and
+teaching.
+
+#### Interactive computation and complex representations of 2D-MZV
+
+The Jupyter notebook we present here pursues two main goals:
+* give tools to compute a 2D-sum;
+* give a complex representation of convergent 2D-Multiple Zeta Values (2D-MZV).
+
+On one hand, a poorly known Lindelöf formula (cf. [1]) explains how to compute
+the sum of the values at integers of holomorphic functions. This formula can be
+written by an integral. Therefore, one can generalize the process to double sums
+using double integrals.
+The notebook  shows how the approximation changes according to the truncation
+orders, and vice-versa, using widgets on a few examples.
+
+On the other hand, it is easy to deduce real function properties from graphical
+representations. This is also possible for functions defined and valued in the
+complex plane (cf. [2]): we represent the values of the image of a complex
+number z by coloring the corresponding pixel to z, according to a fixed
+coloured scheme.
+Now, visualizing a complex function with two variables is nothing else than
+drawing a representation of the partial functions and move inside it. Then,
+using widgets, we ask the user a discretisation of two complex domains and
+allow him to realize this walk by showing a partial graphic representation of
+the 2D-MZV.
+
+
+References :
+
+[1] E. Lindelöf : Le calcul des résidus et ses applications à la théorie des
+fonctions, Gauthier-Villars, Paris, 1905.
+
+[2] Wegert, E.: Visual complex functions. An introduction with phase portraits.
+Birkhäuser/Springer Basel AG, Basel, 2012.
