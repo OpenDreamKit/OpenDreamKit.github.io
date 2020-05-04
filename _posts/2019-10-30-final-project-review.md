@@ -21,8 +21,8 @@ of our achievements [in the last reporting period](/project/reports/#reporting-p
 and in the project as a whole.
 
 After the presentations and in-depth discussions, the feedback from
-the reviewers was enthusiastic, with comments such as «you have done an extremely
-good job» or «heroic management», and strong encouragements to keep
+the reviewers was enthusiastic, with comments such as “[you have] done extremely
+good job” or “heroic management” and strong encouragements to keep
 applying and shooting for the moon. As in previous reviews, we
 highlighted that OpenDreamKit's work was but the tip of the iceberg;
 all we did was to exploit the special resources the EU entrusted us to
@@ -74,8 +74,10 @@ to support FAIR mathematical data.
 Viviane, with the help of Erik, [outlined](/meetings/2019-10-30-Luxembourg/ProjectReview/WP2) our massive community
 building, training, and dissemination activities. 110 events touching
 1800 trainees and 5000 students, and involving a majority of the
-consortium. The reviewers were amazed and said so, and specifically congratulated
-Viviane for the strong diversity actions.
+consortium. The reviewers were amazed and said so, adding that the
+level of outreach went far beyond anything they imagined for this
+project; they specifically congratulated Viviane for the strong
+diversity actions.
 
 Nicolas was left with the tough task of [wrapping up](/meetings/2019-10-30-Luxembourg/ProjectReview/wrapup-final.pdf)
 four years of hard work by 50+ participants. He highlighted the keys
