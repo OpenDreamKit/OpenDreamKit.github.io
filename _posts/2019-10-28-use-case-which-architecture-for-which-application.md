@@ -2,7 +2,7 @@
 layout: post
 author: Clément Pernet
 title: Which architecture for which application
-image:
+image: use-cases/which_infrastructure.png
 tags:
     - use-case
     - front-page
@@ -16,6 +16,8 @@ Archibald has a challenge mathematical computation to run for which he received 
 
 ## Suggestion of solution
 
+
+[ ![picture of the suggested solution](/public/images/use-cases/which_infrastructure.png)](/public/images/use-cases/which_infrastructure.png)
 
 1.  He draws the resource consumption  profile of his computation as precisely as possible:
  - identifies the main computational bottlenecks
