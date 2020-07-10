@@ -50,8 +50,10 @@ in mind.
 
 ### Online format
 
-This session will follow the general online format of ICMS 2020. See
-also the [general schedule](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020.html).
+This session will follow the
+[online format](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020_LocalInfo.html)
+of ICMS 2020. See also the
+[general schedule](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020.html).
 
 Talks will be prerecorded. Every attendee should watch the talks he /
 she is interested in *before* the interactive session takes place by
