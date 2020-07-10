@@ -4,7 +4,7 @@ title: "ICMS 2020 Session: The Jupyter Environment for Computational Mathematics
 location: TU Braunschweig, Germany
 ---
 
-A session at [ICMS](http://icms-conference.org/2020), Braunchweig, Germany July 13-16, 2020
+A session at [ICMS](http://icms-conference.org/2020), ~~Braunchweig, Germany~~ Online July 13-16, 2020
 
 [Other Sessions](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020_Sessions.html)
 
@@ -13,7 +13,6 @@ A session at [ICMS](http://icms-conference.org/2020), Braunchweig, Germany July 
 ### Session organizers
 
 *   [Nicolas M. Thiéry](http://Nicolas.Thiery.name/) (Université Paris-Sud / Paris-Saclay)
-*   Coorganizer welcome! Please get in touch if interested.
 
 ### Aim and Scope
 
@@ -38,7 +37,7 @@ demerits!) of this ecosystem and its alternatives for mathematical
 research and education, notably with open science and reproducibility
 in mind.
 
-It you would like to present a talk (~25 minutes), please submit!
+~~It you would like to present a talk (~25 minutes), please submit!~~
 
 
 ##### Topics (including, but not limited to)
@@ -48,6 +47,196 @@ It you would like to present a talk (~25 minutes), please submit!
 *   Integration of computational systems and proof systems: demonstration and feedback from experience
 *   Interactive mathematics with Jupyter widgets
 *   Hands on mini tutorials
+
+### Online format
+
+This session will follow the general online format of ICMS 2020. See
+also the [general schedule](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020.html).
+
+Talks will be prerecorded. Every attendee should watch the talks he /
+she is interested in *before* the interactive session takes place by
+visio-conference on Wednesday 15th and Thursday 16th, from 16:30 to
+17:10. *During* the session, we will have a chaired discussion with
+the speakers, as it would normally occur during a live format *after*
+a speakers talk.
+
+See the talks below for the detailed schedule.
+
+### Interactive session 1, Wednesday July 15th of 2020
+
+#### 16:30: An overview of Jupyter and its ecosystem
+
+Speaker: Nicolas M. Thiéry
+
+In this introductory presentation, we will setup the stage for the
+session by giving a brief overview of the Jupyter ecosystem.
+
+#### 16:40: Nuggets: Visualizations with GAP and Jupyter
+
+Speaker: Pedro A. Garcia-Sanchez
+
+GAP is a system for computational discrete algebra, with particular
+emphasis on Computational Group Theory. In this presentation, we will
+briefly illustrate some of the visualization capabilities offered by
+GAP in Jupyter thanks to Francy and JupyterViz.
+
+#### 16:50 Interactive computation and complex representations of 2D-MZV
+
+Speaker: Olivier Bouillot
+
+The Jupyter notebook we present here pursues two main goals:
+* give tools to compute a 2D-sum;
+* give a complex representation of convergent 2D-Multiple Zeta Values (2D-MZV).
+
+On one hand, a poorly known Lindelöf formula (cf. [1]) explains how to compute
+the sum of the values at integers of holomorphic functions. This formula can be
+written by an integral. Therefore, one can generalize the process to double sums
+using double integrals.
+The notebook  shows how the approximation changes according to the truncation
+orders, and vice-versa, using widgets on a few examples.
+
+On the other hand, it is easy to deduce real function properties from graphical
+representations. This is also possible for functions defined and valued in the
+complex plane (cf. [2]): we represent the values of the image of a complex
+number z by coloring the corresponding pixel to z, according to a fixed
+coloured scheme.
+Now, visualizing a complex function with two variables is nothing else than
+drawing a representation of the partial functions and move inside it. Then,
+using widgets, we ask the user a discretisation of two complex domains and
+allow him to realize this walk by showing a partial graphic representation of
+the 2D-MZV.
+
+References :
+
+[1] E. Lindelöf : Le calcul des résidus et ses applications à la théorie des
+fonctions, Gauthier-Villars, Paris, 1905.
+
+[2] Wegert, E.: Visual complex functions. An introduction with phase portraits.
+Birkhäuser/Springer Basel AG, Basel, 2012.
+
+#### 17:00 Experience with teaching mathematics with notebooks at Universidad de Zaragoza
+
+Speaker: Miguel Marco
+
+Web based notebook interfaces to free/open source mathematical
+software have been used as a tool for teaching mathematics related
+courses at Universidad de Zaragoza for a decade. Initially the classic
+SageMath notebook (sagenb) was used, but in the last year, a migration
+process to a Jupyterhub/Jupyterlab based one has been started. Due to
+the modularity of the Jupyter ecosystem, design choices had to be made
+considering the desired use cases.
+
+We describe the different design choices considered, together with the
+advantages and drawbacks of each one. Specifically, we mention the
+main problems that were found in practice, and how we dealt with them.
+
+We also discuss the viability of such approaches for a university-wide
+level deployment.
+
+#### 17:10 Informal discussion
+
+
+### Interactive session 2, Thursday July 16th of 2020
+
+#### 16:30 Jupyter widgets for interactive mathematics
+
+Speaker: Odile Benassy
+
+In this talk, we will illustrate the rich interactive features offered
+by Jupyter. Indeed, beyond the traditional REPL (Read-Eval-Print
+loop), Jupyter offers a cross-language toolbox of interactive visual
+components -- called widgets -- from which users can build and share
+their own interactive applications. This toolbox has been adopted and
+extended by the community which has developed visualization components
+for various applications. A key feature of Jupyter widgets is the
+progressive learning curve which blurs the line between notebook
+readers, notebook authors, and developers.
+
+We will start with a few "interacts" -- a feature well know to
+Mathematica or Sage users -- to build with a handful of lines of code
+some simple yet effective mini applications where the input of a
+function is chosen with visual controls (e.g. sliders). We will then
+illustrate the process of building applications with richer
+interactions from the tool box. Finally, we will demonstrate two
+Python/SageMath packages that we have developed based on Jupyter
+widgets. The first one -- Sage-Combinat-widgets -- is a library of
+widgets for the interactive edition of certain types of combinatorial
+objects. The second one -- Sage-Explorer -- is an application for
+interactive visual exploration of objects in Sage. Both can be
+combined or integrated in larger applications.
+
+Along the way, we will reflect on our experience, trying to evaluate
+the expertise and development time required for each use case. We will
+stress at this occasion the role played by dedicated Research Software
+Engineers and suggest incentives for building and animating a rich
+user community.
+
+#### 16:40 Prototyping Controlled Mathematical Languages in Jupyter Notebooks
+
+Speaker: Jan Frederik Schaefer
+
+TBA
+
+The Grammatical Logical Framework (GLF) is a framework for prototyping 
+natural language semantics. It uses the Grammatical Framework for 
+grammar development and MMT for logic development and semantics 
+construction. In the semantics construction, parse trees are mapped to 
+logical expressions via MMT views (meaning-preserving interpretation 
+mappings).
+
+The motivation behind GLF was to apply it to mathematical language, as 
+the classical compositional approach to semantics construction seemed 
+most suitable for a domain where high precision was mandatory - even at 
+the price of limited coverage. In particular, software for formal 
+mathematics (such as proof checkers) require formal input languages. 
+These are typically difficult to understand and learn, raising the entry 
+barrier for potential users. A solution is to design input languages 
+that closely resemble natural language. Early results indicate that GLF 
+can be a useful tool for quickly prototyping such languages.
+
+With this in mind, we present a new Jupyter kernel for GLF that adds 
+visual support for the development of GLF-based syntax/semantics 
+interfaces. It was put to the test in a one-semester course on 
+logic-based natural language processing and was evaluated in classroom 
+presentation as well as for homework assignments.
+
+#### 16:50: Polymake.jl: A new interface to polymake
+
+Speakers: Marek Kaluba <kalmar@amu.edu.pl>, Sascha Timme <timme@math.tu-berlin.de>
+
+Abstract:
+
+Polymake is a software for research in polyhedral geometry with Perl
+as the user interfacing language. We present Polymake.jl, an interface
+to polymake from Julia. This talk discusses the technical aspects of
+the interface and shows how the Julia package manager allows for
+easily reproducible computations even when as large scale projects as
+polymake is, are involved. The interface and reproducibility will be
+demonstrated on an interactive example which combines exact
+computations in polyhedral geometry with numerical methods from other
+fields.
+
+#### 17:00: Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
+
+Speaker: Sebastian Gutsche
+
+In this talk, we will describe several strategies to use Jupyter as an
+interactive front-end for a C/C++ library or a legacy computational
+system with a REPL (Read-Eval-Print-Loop) interactive interface.
+
+We will show how to access C/C++ libraries from interpreters for
+various languages (Python, Julia, C++) and then use them from Jupyter.
+This will demonstrate Python wrappers like the CPython API, Cython, or
+cppyy, and Julia wrappers like CxxWrap and Julia's build-in ccall.
+
+For packages with a REPL, we will see how we can adjust them to the
+use in Jupyter using pexpect, the CPython API, or Xeus.
+
+We discuss the benefits and drawbacks for the different approaches,
+and additional Jupyter functionality (graphical output, widgets) that
+becomes available for free.
+
+#### 17:10: Informal discussions
 
 ### Publications
 
@@ -93,173 +282,3 @@ The extended abstracts shall contain original research that has
 neither been published nor submitted for publication elsewhere.
 Authors need to sign a Consent-to-Publish form, through which the
 copyright of their paper is transferred to Springer.
-
-### Talks/Abstracts
-
-#### An overview of Jupyter and its ecosystem
-
-Speaker: Nicolas M. Thiéry
-
-In this introductory presentation, we will setup the stage for the
-session by giving a brief overview of the Jupyter ecosystem.
-
-#### Polymake.jl: A new interface to polymake
-
-Speakers: Marek Kaluba <kalmar@amu.edu.pl>, Sascha Timme <timme@math.tu-berlin.de>
-
-Abstract:
-
-Polymake is a software for research in polyhedral geometry with Perl
-as the user interfacing language. We present Polymake.jl, an interface
-to polymake from Julia. This talk discusses the technical aspects of
-the interface and shows how the Julia package manager allows for
-easily reproducible computations even when as large scale projects as
-polymake is, are involved. The interface and reproducibility will be
-demonstrated on an interactive example which combines exact
-computations in polyhedral geometry with numerical methods from other
-fields.
-
-#### Experience with teaching mathematics with notebooks at Universidad de Zaragoza
-
-Speaker: Miguel Marco
-
-Web based notebook interfaces to free/open source mathematical
-software have been used as a tool for teaching mathematics related
-courses at Universidad de Zaragoza for a decade. Initially the classic
-SageMath notebook (sagenb) was used, but in the last year, a migration
-process to a Jupyterhub/Jupyterlab based one has been started. Due to
-the modularity of the Jupyter ecosystem, design choices had to be made
-considering the desired use cases.
-
-We describe the different design choices considered, together with the
-advantages and drawbacks of each one. Specifically, we mention the
-main problems that were found in practice, and how we dealt with them.
-
-We also discuss the viability of such approaches for a university-wide
-level deployment.
-
-#### Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
-
-Speaker: Sebastian Gutsche
-
-In this talk, we will describe several strategies to use Jupyter as an
-interactive front-end for a C/C++ library or a legacy computational
-system with a REPL (Read-Eval-Print-Loop) interactive interface.
-
-We will show how to access C/C++ libraries from interpreters for
-various languages (Python, Julia, C++) and then use them from Jupyter.
-This will demonstrate Python wrappers like the CPython API, Cython, or
-cppyy, and Julia wrappers like CxxWrap and Julia's build-in ccall.
-
-For packages with a REPL, we will see how we can adjust them to the
-use in Jupyter using pexpect, the CPython API, or Xeus.
-
-We discuss the benefits and drawbacks for the different approaches,
-and additional Jupyter functionality (graphical output, widgets) that
-becomes available for free.
-
-#### Jupyter widgets for interactive mathematics
-
-Speaker: Odile Benassy
-
-In this talk, we will illustrate the rich interactive features offered
-by Jupyter. Indeed, beyond the traditional REPL (Read-Eval-Print
-loop), Jupyter offers a cross-language toolbox of interactive visual
-components -- called widgets -- from which users can build and share
-their own interactive applications. This toolbox has been adopted and
-extended by the community which has developed visualization components
-for various applications. A key feature of Jupyter widgets is the
-progressive learning curve which blurs the line between notebook
-readers, notebook authors, and developers.
-
-We will start with a few "interacts" -- a feature well know to
-Mathematica or Sage users -- to build with a handful of lines of code
-some simple yet effective mini applications where the input of a
-function is chosen with visual controls (e.g. sliders). We will then
-illustrate the process of building applications with richer
-interactions from the tool box. Finally, we will demonstrate two
-Python/SageMath packages that we have developed based on Jupyter
-widgets. The first one -- Sage-Combinat-widgets -- is a library of
-widgets for the interactive edition of certain types of combinatorial
-objects. The second one -- Sage-Explorer -- is an application for
-interactive visual exploration of objects in Sage. Both can be
-combined or integrated in larger applications.
-
-Along the way, we will reflect on our experience, trying to evaluate
-the expertise and development time required for each use case. We will
-stress at this occasion the role played by dedicated Research Software
-Engineers and suggest incentives for building and animating a rich
-user community.
-
-#### Prototyping Controlled Mathematical Languages in Jupyter Notebooks
-
-Speaker: Jan Frederik Schaefer
-
-TBA
-
-The Grammatical Logical Framework (GLF) is a framework for prototyping 
-natural language semantics. It uses the Grammatical Framework for 
-grammar development and MMT for logic development and semantics 
-construction. In the semantics construction, parse trees are mapped to 
-logical expressions via MMT views (meaning-preserving interpretation 
-mappings).
-
-The motivation behind GLF was to apply it to mathematical language, as 
-the classical compositional approach to semantics construction seemed 
-most suitable for a domain where high precision was mandatory - even at 
-the price of limited coverage. In particular, software for formal 
-mathematics (such as proof checkers) require formal input languages. 
-These are typically difficult to understand and learn, raising the entry 
-barrier for potential users. A solution is to design input languages 
-that closely resemble natural language. Early results indicate that GLF 
-can be a useful tool for quickly prototyping such languages.
-
-With this in mind, we present a new Jupyter kernel for GLF that adds 
-visual support for the development of GLF-based syntax/semantics 
-interfaces. It was put to the test in a one-semester course on 
-logic-based natural language processing and was evaluated in classroom 
-presentation as well as for homework assignments.
-
-#### GAP in Jupyter (tentative)
-
-Speaker: ???
-
-GAP is a system for computational discrete algebra, with particular
-emphasis on Computational Group Theory. In this presentation, we will
-showcase a variety of applications of GAP in Jupyter, for research and
-teaching.
-
-#### Interactive computation and complex representations of 2D-MZV
-
-Speaker: Olivier Bouillot
-
-The Jupyter notebook we present here pursues two main goals:
-* give tools to compute a 2D-sum;
-* give a complex representation of convergent 2D-Multiple Zeta Values (2D-MZV).
-
-On one hand, a poorly known Lindelöf formula (cf. [1]) explains how to compute
-the sum of the values at integers of holomorphic functions. This formula can be
-written by an integral. Therefore, one can generalize the process to double sums
-using double integrals.
-The notebook  shows how the approximation changes according to the truncation
-orders, and vice-versa, using widgets on a few examples.
-
-On the other hand, it is easy to deduce real function properties from graphical
-representations. This is also possible for functions defined and valued in the
-complex plane (cf. [2]): we represent the values of the image of a complex
-number z by coloring the corresponding pixel to z, according to a fixed
-coloured scheme.
-Now, visualizing a complex function with two variables is nothing else than
-drawing a representation of the partial functions and move inside it. Then,
-using widgets, we ask the user a discretisation of two complex domains and
-allow him to realize this walk by showing a partial graphic representation of
-the 2D-MZV.
-
-
-References :
-
-[1] E. Lindelöf : Le calcul des résidus et ses applications à la théorie des
-fonctions, Gauthier-Villars, Paris, 1905.
-
-[2] Wegert, E.: Visual complex functions. An introduction with phase portraits.
-Birkhäuser/Springer Basel AG, Basel, 2012.
