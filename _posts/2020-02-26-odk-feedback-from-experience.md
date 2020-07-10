@@ -203,7 +203,7 @@ Et faites à votre sauce! C'est **votre** projet.
 {% include vspace.html %}
 {% include vspace.html %}
 
-#### Quelques bon conseillers!
+#### Quelques bons conseillers!
 
 - Votre service Europe
 - Des collègues ayant de l'expérience
