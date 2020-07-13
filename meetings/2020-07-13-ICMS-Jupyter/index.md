@@ -177,30 +177,20 @@ user community.
 
 Speaker: Jan Frederik Schaefer
 
-TBA
+The Grammatical Logical Framework (GLF) is a framework for prototyping the translation
+of natural language sentences into logic.
+The motivation behind GLF was to apply it to mathematical language,
+as the classical compositional approach to semantics construction seemed most suitable for a domain
+where high precision was mandatory -- even at the price of limited coverage.
+In particular, software for formal mathematics (such as proof checkers) require formal input languages.
+These are typically difficult to understand and learn, raising the entry barrier for potential users.
+A solution is to design input languages that closely resemble natural language.
+Early results indicate that GLF can be a useful tool for quickly prototyping such languages.
+In this paper, we will explore how GLF can be used to prototype such languages and
+present a new Jupyter kernel that
+adds visual support for the development of GLF-based syntax/semantics interfaces.
 
-The Grammatical Logical Framework (GLF) is a framework for prototyping 
-natural language semantics. It uses the Grammatical Framework for 
-grammar development and MMT for logic development and semantics 
-construction. In the semantics construction, parse trees are mapped to 
-logical expressions via MMT views (meaning-preserving interpretation 
-mappings).
-
-The motivation behind GLF was to apply it to mathematical language, as 
-the classical compositional approach to semantics construction seemed 
-most suitable for a domain where high precision was mandatory - even at 
-the price of limited coverage. In particular, software for formal 
-mathematics (such as proof checkers) require formal input languages. 
-These are typically difficult to understand and learn, raising the entry 
-barrier for potential users. A solution is to design input languages 
-that closely resemble natural language. Early results indicate that GLF 
-can be a useful tool for quickly prototyping such languages.
-
-With this in mind, we present a new Jupyter kernel for GLF that adds 
-visual support for the development of GLF-based syntax/semantics 
-interfaces. It was put to the test in a one-semester course on 
-logic-based natural language processing and was evaluated in classroom 
-presentation as well as for homework assignments.
+[Link to mybinder.org](https://mybinder.org/v2/gh/jfschaefer/GlifBinder/master)
 
 #### 16:50: Polymake.jl: A new interface to polymake
 
