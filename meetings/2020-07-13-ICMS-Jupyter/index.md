@@ -82,6 +82,8 @@ emphasis on Computational Group Theory. In this presentation, we will
 briefly illustrate some of the visualization capabilities offered by
 GAP in Jupyter thanks to Francy and JupyterViz.
 
+[Here](https://numerical-semigroups.github.io/Nuggets) you will find a web version of the notebook used in the presentation with references and a binder link.
+
 #### 16:50 Interactive computation and complex representations of 2D-MZV
 
 Speaker: Olivier Bouillot
