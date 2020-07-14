@@ -10,11 +10,11 @@ A session at [ICMS](http://icms-conference.org/2020), ~~Braunchweig, Germany~~ O
 
 <!--http://icms-conference.org/2020/sessions/!-->
 
-### Session organizers
+## Session organizers
 
 *   [Nicolas M. Thiéry](http://Nicolas.Thiery.name/) (Université Paris-Sud / Paris-Saclay)
 
-### Aim and Scope
+## Aim and Scope
 
 The last years have seen the emergence of the open source web-based
 interactive computing environment [Jupyter](https://jupyter.org)
@@ -40,7 +40,7 @@ in mind.
 ~~It you would like to present a talk (~25 minutes), please submit!~~
 
 
-##### Topics (including, but not limited to)
+## Topics (including, but not limited to)
 
 *   Overview of the Jupyter ecosystem
 *   Use cases in Research and Education: demonstration and feedback from experience
@@ -48,7 +48,7 @@ in mind.
 *   Interactive mathematics with Jupyter widgets
 *   Hands on mini tutorials
 
-### Online format
+## Online format
 
 This session will follow the
 [online format](http://www.iaa.tu-bs.de/AppliedAlgebra/ICMS2020/ICMS2020_LocalInfo.html)
@@ -64,27 +64,29 @@ a speakers talk.
 
 See the talks below for the detailed schedule.
 
-### Interactive session 1, Wednesday July 15th of 2020
+## Interactive session 1, Wednesday July 15th of 2020
 
-#### 16:30: An overview of Jupyter and its ecosystem
+### 16:30: An overview of Jupyter and its ecosystem
 
-Speaker: Nicolas M. Thiéry
+- Speaker: Nicolas M. Thiéry
+- [Talk](https://videoalbum59f7f8abc4694903b3b1f0a4b1f23fcc91005-master.s3-eu-west-1.amazonaws.com/public/upload/d37b8f83-b413-4167-a91d-dc835fcdedd7.mp4)
+- Slides: [as notebook](https://nthiery.github.io/2020-07-13-ICMS-Jupyter/overview/index.html)
 
 In this introductory presentation, we will setup the stage for the
 session by giving a brief overview of the Jupyter ecosystem.
 
-#### 16:40: Nuggets: Visualizations with GAP and Jupyter
+### 16:40: Nuggets: Visualizations with GAP and Jupyter
 
-Speaker: Pedro A. Garcia-Sanchez
+- Speaker: Pedro A. Garcia-Sanchez
+- Slides: [HTML](https://numerical-semigroups.github.io/Nuggets), [as
+  notebook](https://nbviewer.jupyter.org/github/numerical-semigroups/Nuggets/blob/master/Nuggets.ipynb), [as live notebook on binder](https://mybinder.org/v2/gh/numerical-semigroups/Nuggets/master?filepath=Nuggets.ipynb)
 
 GAP is a system for computational discrete algebra, with particular
 emphasis on Computational Group Theory. In this presentation, we will
 briefly illustrate some of the visualization capabilities offered by
 GAP in Jupyter thanks to Francy and JupyterViz.
 
-[Here](https://numerical-semigroups.github.io/Nuggets) you will find a web version of the notebook used in the presentation with references and a binder link.
-
-#### 16:50 Interactive computation and complex representations of 2D-MZV
+### 16:50 Interactive computation and complex representations of 2D-MZV
 
 Speaker: Olivier Bouillot
 
@@ -118,9 +120,11 @@ fonctions, Gauthier-Villars, Paris, 1905.
 [2] Wegert, E.: Visual complex functions. An introduction with phase portraits.
 Birkhäuser/Springer Basel AG, Basel, 2012.
 
-#### 17:00 Experience with teaching mathematics with notebooks at Universidad de Zaragoza
+### 17:00 Experience with teaching mathematics with notebooks at Universidad de Zaragoza
 
-Speaker: Miguel Marco
+- Speaker: Miguel Marco
+- [Talk](https://videoalbum59f7f8abc4694903b3b1f0a4b1f23fcc91005-master.s3-eu-west-1.amazonaws.com/public/upload/f4a110c1-4e58-4855-b26c-956510c82644.mp4)
+- [Slides](./teaching/index.html)
 
 Web based notebook interfaces to free/open source mathematical
 software have been used as a tool for teaching mathematics related
@@ -137,14 +141,18 @@ main problems that were found in practice, and how we dealt with them.
 We also discuss the viability of such approaches for a university-wide
 level deployment.
 
-#### 17:10 Informal discussion
+### 17:10 Informal discussion
 
 
-### Interactive session 2, Thursday July 16th of 2020
+## Interactive session 2, Thursday July 16th of 2020
 
-#### 16:30 Jupyter widgets for interactive mathematics
+### 16:30 Jupyter widgets for interactive mathematics
 
-Speaker: Odile Benassy
+- Speaker: Odile Benassy
+- [Talk](https://videoalbum59f7f8abc4694903b3b1f0a4b1f23fcc91005-master.s3-eu-west-1.amazonaws.com/public/upload/1403d33f-3c15-4161-a277-858df97d563b.mp4)
+- Slides:
+  [As notebook](https://nbviewer.jupyter.org/github/zerline/ICMS2020/blob/master/ICMS2020.ipynb),
+  [As live notebook on Binder](https://mybinder.org/v2/gh/zerline/ICMS2020/master?filepath=ICMS2020.ipynb)
 
 In this talk, we will illustrate the rich interactive features offered
 by Jupyter. Indeed, beyond the traditional REPL (Read-Eval-Print
@@ -175,9 +183,12 @@ stress at this occasion the role played by dedicated Research Software
 Engineers and suggest incentives for building and animating a rich
 user community.
 
-#### 16:40 Prototyping Controlled Mathematical Languages in Jupyter Notebooks
+### 16:40 Prototyping Controlled Mathematical Languages in Jupyter Notebooks
 
-Speaker: Jan Frederik Schaefer
+- Speaker: Jan Frederik Schaefer
+- [Talk](https://videoalbum59f7f8abc4694903b3b1f0a4b1f23fcc91005-master.s3-eu-west-1.amazonaws.com/public/upload/4cb042e7-6c40-498a-9950-ff2bce0fa909.mp4)
+- Slides: [as PDF](http:glf/slides.pdf), [live notebook on mybinder.org](https://mybinder.org/v2/gh/jfschaefer/GlifBinder/master)
+
 
 The Grammatical Logical Framework (GLF) is a framework for prototyping the translation
 of natural language sentences into logic.
@@ -188,17 +199,14 @@ In particular, software for formal mathematics (such as proof checkers) require 
 These are typically difficult to understand and learn, raising the entry barrier for potential users.
 A solution is to design input languages that closely resemble natural language.
 Early results indicate that GLF can be a useful tool for quickly prototyping such languages.
-In this paper, we will explore how GLF can be used to prototype such languages and
+In this presentation and paper, we explore how GLF can be used to prototype such languages and
 present a new Jupyter kernel that
 adds visual support for the development of GLF-based syntax/semantics interfaces.
 
-[Link to mybinder.org](https://mybinder.org/v2/gh/jfschaefer/GlifBinder/master)
-
-#### 16:50: Polymake.jl: A new interface to polymake
+### 16:50: Polymake.jl: A new interface to polymake
 
 Speakers: Marek Kaluba <kalmar@amu.edu.pl>, Sascha Timme <timme@math.tu-berlin.de>
-
-Abstract:
+- [Talk](https://videoalbum59f7f8abc4694903b3b1f0a4b1f23fcc91005-master.s3-eu-west-1.amazonaws.com/public/upload/f9ab2eb1-ed8d-4da1-b6e0-5723ee9e6606.mp4)
 
 Polymake is a software for research in polyhedral geometry with Perl
 as the user interfacing language. We present Polymake.jl, an interface
@@ -210,7 +218,7 @@ demonstrated on an interactive example which combines exact
 computations in polyhedral geometry with numerical methods from other
 fields.
 
-#### 17:00: Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
+### 17:00: Interactive use of C/C++ libraries in Jupyter - Strategies and lessons learned
 
 Speaker: Sebastian Gutsche
 
@@ -230,9 +238,9 @@ We discuss the benefits and drawbacks for the different approaches,
 and additional Jupyter functionality (graphical output, widgets) that
 becomes available for free.
 
-#### 17:10: Informal discussions
+### 17:10: Informal discussions
 
-### Publications
+## Publications
 
 *   A _short abstract_ will appear on the permanent conference web page (see below) as soon as accepted.
 
@@ -240,7 +248,7 @@ becomes available for free.
 
 *   A _journal special issue_ consisting of _full papers_ will be organized immediately after the meeting.
 
-### Submission process
+## Submission process
 
 There are two levels of submissions (short and extended abstracts).
 Going to Level 2 requires to go through Level 1 before.
