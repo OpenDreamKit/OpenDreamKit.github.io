@@ -69,7 +69,7 @@ by the European Commission. We will present the achievements of all the
 
 - ![](http://nicolas.thiery.name/id.jpg) [Nicolas M. Thiéry](http://Nicolas.Thiery.name), LRI, Université Paris Sud (SageMath, Coordinator)
 - ![](https://img-0.journaldunet.com/cpztLhBur-LtpWcLV_witkYrvdw=/250x/smart/d8950c0639354214bf9a748c7c4a9f84/ccmcms-jdn/2235975.jpg) [Odile Bénassy](http://github.com/zerline), LRI, Université Paris Sud
-- ![](https://cmg.soton.ac.uk/media/people/mb4e10.medium.jpg) [Marijan Beg](https://cmg.soton.ac.uk/people/mb1a15/), European XFEL, Schenefeld, Germany
+- ![](https://cmg.soton.ac.uk/media/people/mb1a15.medium.jpg) [Marijan Beg](https://cmg.soton.ac.uk/people/mb1a15/), European XFEL, Schenefeld, Germany
 - ![](https://kwarc.info/public/images/kbercic.jpg) [Katja Berčič](https://kwarc.info/people/kbercic/), Computer Science, University Erlangen-Nuremberg (MathHub Data)
 - ![](https://avatars1.githubusercontent.com/u/676149?s=180&v=4) [Erik Madison Bray](https://iguananaut.net)
 - Olivier Cayrol, [Logilab](https://www.logilab.fr/)
