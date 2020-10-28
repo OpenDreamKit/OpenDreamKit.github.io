@@ -1,21 +1,24 @@
-sites: 
+sites:
   - name: 01-Université Paris-Sud
     logo: Paris-Sud-Saclay.jpg
     homepage: 'http://www.u-psud.fr'
     members:
       - name: Nicolas M. Thiéry
         homepage: 'http://Nicolas.Thiery.name'
+        email: 'Nicolas.Thiery@u-psud.fr'
         roles:
           - project-coordinator
           - wp1-leader
         github: nthiery
       - name: Izabela Faguet
         homepage: 'https://fr.linkedin.com/in/izabela-faguet-a5214814b'
+        email: 'izabela.faguet@u-psud.fr'
         roles:
           - project-manager
         github: IzabelaFaguet
       - name: Viviane Pons
         homepage: 'https://www.lri.fr/~pons/'
+        email: 'viviane.pons@lri.fr'
         github: VivianePons
         twitter: pyviv
         roles:
@@ -23,21 +26,26 @@ sites:
           - wp2-leader
       - name: Florent Hivert
         homepage: 'https://www.lri.fr/~hivert/'
+        email: 'Florent.Hivert@lri.fr'
         github: hivert
       - name: Samuel Lelièvre
         homepage: 'http://www.math.u-psud.fr/~lelievre/index-en.html'
+        email: 'samuel.lelievre@u-psud.fr'
         github: slel
       - name: Erik Bray
         homepage: 'http://iguananaut.net/'
         github: embray
       - name: Loïc Gouarin
         homepage: 'http://www.math.u-psud.fr/~gouarin/'
+        email: 'loic.gouarin@polytechnique.edu'
         github: gouarin
       - name: Florian Rabe
         homepage: 'https://kwarc.info/people/frabe/'
+        email: 'florian.rabe@gmail.com'
         github: florian-rabe
       - name: Odile Bénassy
         homepage: 'https://www.lri.fr/membre.php?mb=2529'
+        email: 'Odile.Benassy@lri.fr'
         github: zerline
   - name: 02-Université de Bordeaux
     logo: Universite-de-Bordeaux_static.svg
@@ -45,22 +53,22 @@ sites:
     members:
       - name: Vincent Delecroix
         homepage: 'http://www.labri.fr/perso/vdelecro/'
-        email: 'vincent.delecroix@labri.fr' 
+        email: 'vincent.delecroix@labri.fr'
         roles:
           - site-leader
         github: videlec
       - name: Karim Belabas
         homepage: 'http://www.math.u-bordeaux1.fr/~kbelabas/'
-        email: 'Karim.Belabas math.u-bordeaux.fr'
+        email: 'Karim.Belabas@math.u-bordeaux.fr'
         github: KBelabas
       - name: Bill Allombert
         homepage: 'http://www.math.u-bordeaux1.fr/~ballombe/'
         email: 'Bill.Allombert@math.u-bordeaux.fr'
       - name: Adrien Boussicault
         homepage: 'http://www.labri.fr/perso/boussica/'
-        email: 'boussica(at)labri.fr'
+        email: 'boussica@labri.fr'
       - name: Vincent Klein
-        email: 'vincent.kleinarobaselabri.fr'
+        email: 'vincent.klein@robaselabri.fr'
       - name: Sébastien Labbé
         homepage: "http://www.slabbe.org/"
         email: 'sebastien.labbe@labri.fr'
@@ -117,7 +125,7 @@ sites:
         roles:
           - site-leader
           - wp7-leader
-        github: dimpase 
+        github: dimpase
       - name: Edith Elkind
         homepage: 'https://www.cs.ox.ac.uk/people/edith.elkind/'
         email: 'elkind@cs.ox.ac.uk'
@@ -167,8 +175,11 @@ sites:
         homepage: 'http://www.southampton.ac.uk/maths/about/staff/ih3.page'
         email: 'i.hawke@soton.ac.uk'
         github: IanHawke
-      - name: Marijan Beg 
+      - name: Marijan Beg
+        homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
         email: 'm.beg@soton.ac.uk'
+        github: marijanbeg
+        orcid:  0000-0002-6670-3994
   - name: 07-University of St Andrews
     logo: USTAN_logo.png
     homepage: 'https://www.st-andrews.ac.uk/'
@@ -236,7 +247,7 @@ sites:
         email: 'C.S.Brady@Warwick.ac.uk'
       - name: Heather Ratcliffe
         homepage: 'https://warwick.ac.uk/fac/sci/physics/research/cfsa/people/pastmembers/ratcliffe/'
-        email: 'h.ratcliffe{@}warwick.ac.uk'
+        email: 'h.ratcliffe@warwick.ac.uk'
   - name: Universität Zurich (Left the consortium)
     logo: University_of_Zurich_Logo.svg
     homepage: 'http://www.uzh.ch'
@@ -286,7 +297,7 @@ sites:
     members:
       - name: Min Ragan-Kelley
         homepage: 'https://www.simula.no/people/benjaminrk'
-        email: 'benjaminrk@simula.no'        
+        email: 'benjaminrk@simula.no'
         twitter: 'minrk'
         github: minrk
         roles:
@@ -326,11 +337,12 @@ sites:
         github: fangohr
         roles:
           - site-leader
-          - qr-board-leader        
-      - name: Marijan Beg 
+          - qr-board-leader
+      - name: Marijan Beg
         homepage: 'https://cmg.soton.ac.uk/people/mb1a15/'
-        email: 'marijan.beg@xfel.eu'
-        github: mb1a15
+        email: 'm.beg@soton.ac.uk'
+        github: marijanbeg
+        orcid: 0000-0002-6670-3994
   - name: 14-FAU Universität Erlangen-Nürnberg
     logo: FAU-logo.png
     homepage: 'https://www.fau.de/'
@@ -369,20 +381,20 @@ sites:
         github: makarius
         roles:
           -  subcontractor
-        
+
   - name: 15- University of Leeds
     logo: leeds-logo.jpg
     homepage: https://www.leeds.ac.uk/
     members:
       - name: Michael Croucher
         homepage: 'http://www.walkingrandomly.com/?page_id=2'
-        email: 'FirstInitial.Surname@Leeds.ac.uk'       
+        email: 'FirstInitial.Surname@Leeds.ac.uk'
         github: mikecroucher
         roles:
           - site-leader
-      - name: Tania R. Allard    
+      - name: Tania R. Allard
         github: trallard
-     
+
 
 
 partners:
