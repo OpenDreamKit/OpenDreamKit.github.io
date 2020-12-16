@@ -10,7 +10,7 @@ image: use-cases/reproducible_logbook_scenario.png
 redirect_from: "/use-cases"
 #menu: project
 #menu_order: 1
-slider_order: 2
+slider_order: 3
 #extra_content: use-case-extra.md
 ---
 

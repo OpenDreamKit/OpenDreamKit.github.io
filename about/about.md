@@ -5,7 +5,7 @@ menu_title: What is OpenDreamKit
 menu_order: 1
 menu: about
 redirect_from: "/about/"
-youtube: CL3A7UQmWKE
+youtube: O0CXOPCRZ-M
 image: what-is-opendreamkit.png
 slider: True
 slider_heading: What is OpenDreamKit

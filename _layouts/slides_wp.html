@@ -7,6 +7,7 @@ layout: slides
     <img src="{{ site.baseurl }}/public/logos/odk-elected-logo.svg" class="odk-logo" alt="OpenDreamKit"/>
     <img src="{{ site.baseurl }}/public/logos/Flag_of_Europe.svg" class="flag-europe" alt="European flag" />
 </div>
+
 {% if page.wp %}
 {% for d in site.data.proposal.wp %}
     {% assign key = d[0] %}
@@ -24,16 +25,18 @@ layout: slides
 </div>
 {% else %}
     <h1>{{ page.title }}</h1>
+    <div class="info" >
     {% if page.img %}
-    <center><img src="{{page.img}}" width="50%"/></center>
+    <img style="float: right; margin: 0px 0px 15px 15px;" src="{{page.img}}" width="50%" />
     {% endif %}
-<div class="info" >{{ page.author }}</div>
-{% if page.fulldate %}
-  <div class="info" >{{ page.fulldate }}</div>
-{% endif %}
-  {% if page.location %}
-<div class="info" >{{ page.location }}</div>
-{% endif %}
+        {{ page.author }}
+        {% if page.fulldate %}
+        <br>{{ page.fulldate }}
+        {% endif %}
+        {% if page.location %}
+        <br>{{ page.location }}
+        {% endif %}
+    </div>
 
 {% endif %}
 

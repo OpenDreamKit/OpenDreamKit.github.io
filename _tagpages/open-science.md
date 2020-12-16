@@ -10,7 +10,7 @@ image: open-science.png
 slider: True
 slider_heading: Open Science and Reproducibility
 slider_sentence: OpenDreamKit supports reproducibility in computational science
-slider_order: 4
+slider_order: 5
 ---
 
 A key concept in science is that of **reproducibility**: Imagine a researcher or research group carries out a study, comes to a conclusion and publishes this. We call the work reproducible, if the publication describes the study in such way that another research group can follow the description, repeat the study and come to the same conclusion.
