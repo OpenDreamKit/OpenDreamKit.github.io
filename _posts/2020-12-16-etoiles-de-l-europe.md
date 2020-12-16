@@ -12,9 +12,7 @@ the French trophy "Les étoiles de l'Europe" in 2020 for their success
 and impact. There are four categories; guess which one we were elected
 in? That's right, Open Science :-)
 
-The celebration will take place online on December 16th, at 3pm:
-
-https://www.horizon2020.gouv.fr/cid155640/venez-dialoguer-avec-les-laureats-du-trophee-etoiles-de-l-europe-2020.html
+The celebration will take place [online on December 16th of 2020, at 3pm](https://www.horizon2020.gouv.fr/cid155906/les-etoiles-de-l-europe-2020-en-direct.html).
 
 We dedicate this trophy to all those who contribute day after day to
 the ecosystem of free (as in libre) software powering Open Science.
