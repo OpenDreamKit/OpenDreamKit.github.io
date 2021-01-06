@@ -14,14 +14,6 @@ tags:
 youtube: a5i42lSj-L4
 ---
 
-<small>
-  Credits:
-  <ul><li>Illustration: Juliette Taka & Nicolas M. Thiéry. (2018).<br>
-    Publishing reproducible logbooks explainer comic strip.<br>
-    Zenodo. <a href="https://doi.org/10.5281/zenodo.4421040"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4421040.svg" alt="DOI"></a>. CC-BY-SA.
-  </ul>
-</small>
-
 ## Scenario
 
 Jane has written a (math) paper based on her experiments. She would
@@ -125,4 +117,13 @@ later on.
 - Contributions to the
   [deployment of new Binder instances](https://github.com/OpenDreamKit/OpenDreamKit/issues/238);
 - Advertising, training, providing a template (TODO!), ...
+
+## Credits
+
+<small>
+  <ul><li>Illustration: Juliette Taka & Nicolas M. Thiéry. (2018).<br>
+    Publishing reproducible logbooks explainer comic strip.<br>
+    Zenodo. <a href="https://doi.org/10.5281/zenodo.4421040"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4421040.svg" alt="DOI"></a>. CC-BY-SA.
+  </ul>
+</small>
 
