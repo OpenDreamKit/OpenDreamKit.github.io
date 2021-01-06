@@ -15,12 +15,11 @@ youtube: a5i42lSj-L4
 ---
 
 <small>
-
 Credits:
-- Illustration: Juliette Taka & Nicolas M. Thiéry. (2018).  
-  Publishing reproducible logbooks explainer comic strip.  
-  Zenodo. http://doi.org/10.5281/zenodo.4421040 CC-BY-SA
-
+<ul><li>Illustration: Juliette Taka & Nicolas M. Thiéry. (2018).<br>
+  Publishing reproducible logbooks explainer comic strip.<br>
+  Zenodo. <a href="http://doi.org/10.5281/zenodo.4421039">DOI 10.5281/zenodo.4421039</a>. CC-BY-SA.
+</ul>
 </small>
 
 ## Scenario
