@@ -14,10 +14,20 @@ tags:
 youtube: a5i42lSj-L4
 ---
 
+<small>
+
+Credits:
+- Illustration: Juliette Taka & Nicolas M. Thiéry. (2018).  
+  Publishing reproducible logbooks explainer comic strip.  
+  Zenodo. http://doi.org/10.5281/zenodo.4421040 CC-BY-SA
+
+</small>
+
 ## Scenario
 
 Jane has written a (math) paper based on her experiments. She would
 like anyone to be able to reproduce, check, and improve her calculations.
+
 
 ## Suggestion of solution
 
