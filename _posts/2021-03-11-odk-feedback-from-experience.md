@@ -92,7 +92,7 @@ Note:
 - Construction du bas vers le haut:
     - Analyser les besoins de la communauté:<br>
       quelles tâches requièrent un gros investissement?
-    - Chercher un appel à projet adéquat
+    - Chercher un appel à projet adéquat (Cellule Europe!!!)
     - Trouver une histoire sincère qui les lie tous<br>
       «a smart and creative interpretation of the call»
 
@@ -211,9 +211,9 @@ Et faites à votre sauce! C'est **votre** projet.
 ## Montage et gestion ouverte du projet: une clé du succès
 
 - Éthique et qualité
-- Fraîcheur et sincérité
 - Esprit d'équipe et confiance réciproque
 - Soutien de la communauté
+- Fraîcheur et sincérité
 
 **Distinction**: Étoiles de l'Europe 2020
 
@@ -309,7 +309,7 @@ Et faites à votre sauce! C'est **votre** projet.
 
 {% include vspace.html %}
 
-### Vraie solution: des financements récurrents!
+### Vraie solution: plus de financements récurrents!
 
 ---
 
