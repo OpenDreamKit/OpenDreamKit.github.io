@@ -17,7 +17,7 @@ tags:
 <section data-markdown data-separator="^---\n" data-separator-vertical="^----\n">
 <script type="text/template">
 
-## Plan
+## La Science Ouverte dans un Projet Européen?
 
 1.  OpenDreamKit?
 
@@ -59,21 +59,21 @@ tags:
 ### Données en mathématiques?
 
 - Résultats de calculs (parfois très lourds)
-- Résultats de recherche  
+- Résultats de recherche
+
   Atlas des groupes simples: plusieurs décennies de travail par toute
   une communauté de chercheurs
 - Données très riches, très structurées, très diverses
 - Frontière donnée / calcul floue
 
-### Facile
+### «Facile»
 
 - Pas de problèmes éthiques
 - Peu de données gigantesques
 - Peu de problèmes de reproductibilité
 - Tradition de partage dans la communauté
 - Gestion de la propriété Intellectuelle
-- Plan de Gestion des Données (Data Management Plan)   
-  Simple liste de jeux de données
+- Plan de Gestion des Données (Data Management Plan): Simple liste de jeux de données
 
 ### Difficile
 
