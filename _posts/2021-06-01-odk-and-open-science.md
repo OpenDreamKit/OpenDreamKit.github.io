@@ -65,6 +65,8 @@ tags:
 - Données très riches, très structurées, très diverses
 - Frontière donnée / calcul floue
 
+<br>
+
 ### «Facile»
 
 - Pas de problèmes éthiques
@@ -73,6 +75,8 @@ tags:
 - Tradition de partage dans la communauté
 - Gestion de la propriété Intellectuelle
 - Plan de Gestion des Données (Data Management Plan): Simple liste de jeux de données
+
+<br>
 
 ### Difficile
 
@@ -183,8 +187,8 @@ Note:
 
 #### Encourager
 
-- à définir ensemble la vision du project
-- à agir selon leurs convictions: c'est eux les experts!
+- À définir ensemble la vision du project
+- À agir selon leurs convictions: c'est eux les experts!
 
 {% include vspace.html %}
 
@@ -251,10 +255,6 @@ Ne même pas penser à Word, Dropbox, ...
 **Distinction**: Étoiles de l'Europe 2020
 
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
