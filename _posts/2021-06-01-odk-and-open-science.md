@@ -251,6 +251,16 @@ Ne même pas penser à Word, Dropbox, ...
 **Distinction**: Étoiles de l'Europe 2020
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Science Ouverte
 - Choix éthique
 - Choix pragmatique:  
