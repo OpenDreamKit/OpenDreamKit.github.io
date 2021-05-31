@@ -21,13 +21,13 @@ tags:
 
 1.  OpenDreamKit?
 
-2.  OpenDreamKit et Logiciels Libres
+2.  Données Ouvertes
 
-3.  OpenDreamKit et Données Ouvertes
+3.  Publications Ouvertes
 
-4.  OpenDreamKit et Publications Ouvertes
+4.  Logiciels Libres
 
-5.  Montage ouvert!
+5.  Montage et gestion ouvert!
 
 ---
 
