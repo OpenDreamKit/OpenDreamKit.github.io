@@ -59,8 +59,7 @@ tags:
 ### Données en mathématiques?
 
 - Résultats de calculs (parfois très lourds)
-- Résultats de recherche
-
+- Résultats de recherche:  
   Atlas des groupes simples: plusieurs décennies de travail par toute
   une communauté de chercheurs
 - Données très riches, très structurées, très diverses
@@ -77,7 +76,8 @@ tags:
 
 ### Difficile
 
-- FAIR en pratique: Findable, Accessible, Interoperable, Reusable
+- FAIR en pratique:  
+  Findable, Accessible, Interoperable, Reusable
 - Formation
 
 ---
@@ -89,13 +89,13 @@ Longue tradition de publications libres en maths / info:
 - Transition en cours de nombreuses revues (Diamond Open Access)
 
 Question:
-- Publication dans des revues en Gold Open Access?  
-  Finalement non
+- Publication dans des revues en Gold Open Access? (Finalement non)
 
+---
 
 ## OpenDreamKit et Logiciel Libre
 
-- ~~Réaliser un produit~~
+- ~~Réaliser un produit?~~
 - Contribuer à un écosystème
 
 Bénéfices:
