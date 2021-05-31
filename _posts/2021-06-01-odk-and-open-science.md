@@ -5,9 +5,9 @@ title: "Retour d'expérience: OpenDreamKit et Science Ouverte"
 theme: white
 transition: none
 author: Nicolas M. Thiéry<br>Université Paris-Sud
-date: 2021/03/11
-fulldate: 11 Mars 2021
-location: Événement Horizon Europe @ Paris-Saclay
+date: 2021/06/01
+fulldate: 1 juin 2021
+location: Atelier Science Ouverte, Wébinaire Horizon Europe
 img: /public/images/rp3-meeting-rehearsal.jpg
 tags:
     - talk
