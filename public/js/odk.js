@@ -50,7 +50,7 @@ function resetSlideScrolling(slide) {
 }
 
 function handleSlideScrolling(slide) {
-    if ($(slide).height() >= 800) {
+    if ($(slide).height() >= 0.9*screen.height) {
         $(slide).addClass('scrollable-slide');
     }
 }
