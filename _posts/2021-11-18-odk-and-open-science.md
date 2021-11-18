@@ -13,7 +13,7 @@ tags:
     - blog
 ---
 
-<section data-markdown data-separator="^+++ {"slideshow": {"slide_type": "slide"}}\n" data-separator-vertical="^+++ {"slideshow": {"slide_type": "subslide"}}\n">
+<section data-markdown data-separator="^---\n" data-separator-vertical="^----\n">
 <script type="text/template">
 
 <!--
@@ -28,7 +28,7 @@ Secrétariat Permanent de la Science Ouverte, MESRI
 Nicolas M. Thiéry<br>
 LISN, Université Paris-Saclay
 <br><br><br>
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 !-->
 
@@ -45,7 +45,7 @@ LISN, Université Paris-Saclay
 
 5.  Opinions
 
-+++ {"slideshow": {"slide_type": "slide"}}
+---
 
 ## Contexte: logiciels métier pour les mathématiques (pures)
 
@@ -58,7 +58,7 @@ LISN, Université Paris-Saclay
   - **Enseigner**
   - (voire **Formaliser**, **Prouver**, hors champ pour aujourd'hui)
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ### 2000-2020: Évolution du paysage du calcul
 
@@ -71,7 +71,7 @@ LISN, Université Paris-Saclay
 
 - grâce au logiciel libre, à la science ouverte
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ### Exemple: SageMath (2005-)
 
@@ -88,7 +88,7 @@ LISN, Université Paris-Saclay
   - adaptation aux (maigres) ressources disponibles
   - limites: travail de fond (maintenance, ingénierie)
 
-+++ {"slideshow": {"slide_type": "slide"}}
+---
 
 ## OpenDreamKit (2015-2019) #676541
 
@@ -116,7 +116,7 @@ LISN, Université Paris-Saclay
 
 **Appel à projet**: Environnements Virtuels de Recherche
 
-+++ {"slideshow": {"slide_type": "slide"}}
+---
 
 ## OpenDreamKit et Science Ouvertes
 
@@ -132,7 +132,7 @@ Question:
 - Publication dans des revues en Gold Open Access?
   Finalement non: pas besoin
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ## OpenDreamKit et Logiciel Libre (Facile)
 
@@ -149,7 +149,7 @@ Bénéfices:
 - Collaboration avec des PME: Logilab, QuantStack, CoCalc, ...
 - Groupe Logiciel Libre du Pôle de Compétitivité Systematic
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ## OpenDreamKit et Données Libres
 
@@ -181,7 +181,7 @@ Bénéfices:
   Findable, Accessible, Interoperable, Reusable
 - Formation
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ## Une innovation: montage et gestion de projet ouverts
 
@@ -199,7 +199,7 @@ Bénéfices:
     - Trouver une histoire sincère qui les lie tous  
       «a smart and creative interpretation of the call»
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ### Impliquer les participants
 
@@ -240,7 +240,7 @@ Bénéfices:
 
 </center>
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ## Montage et gestion ouverte du projet: une clé du succès
 
@@ -255,7 +255,7 @@ Bénéfices:
 
 **Distinction**: Étoiles de l'Europe 2020
 
-+++ {"slideshow": {"slide_type": "slide"}}
+---
 
 ## Conclusions
 
@@ -284,7 +284,7 @@ Généralisation?
 
 Ref: [On OpenDreamKit's open and collaborative proposal writing](http://opendreamkit.org/2015/01/31/open-proposal-writing/)
 
-+++ {"slideshow": {"slide_type": "subslide"}}
+----
 
 ## Infrastructure numérique pour la recherche
 
