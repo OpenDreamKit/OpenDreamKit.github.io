@@ -12,6 +12,7 @@ _gh_pages
 *.zip
 *.vi
 *~
+.ipynb_checkpoints
 
 # OS or Editor folders
 .DS_Store
