@@ -28,10 +28,7 @@ Secrétariat Permanent de la Science Ouverte, MESRI
 Nicolas M. Thiéry<br>
 LISN, Université Paris-Saclay
 <br><br><br>
-----
-
 !-->
-
 
 ## La Science Ouverte dans un Projet Européen de logiciel de recherche?
 
@@ -54,7 +51,7 @@ LISN, Université Paris-Saclay
 - Pour quoi faire?
   - **Calculer**, **Tabuler**
   - **Explorer**, **découvrir** et **tester des conjectures**  
-    $\Longrightarrow$ *Mathématiques Expérimentales*
+    ⇒ *Mathématiques Expérimentales*
   - **Enseigner**
   - (voire **Formaliser**, **Prouver**, hors champ pour aujourd'hui)
 
@@ -245,7 +242,7 @@ Bénéfices:
 ## Montage et gestion ouverte du projet: une clé du succès
 
 - Éthique et qualité  
-  Expression sincère des besoins (propres/de la science)
+  Expression sincère des besoins (propres / de la science)
 - Esprit d'équipe et confiance réciproque
 - Soutien de la communauté
 - Simplicité, agilité, cohérence
@@ -253,7 +250,7 @@ Bénéfices:
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
 
-**Distinction**: Étoiles de l'Europe 2020
+**Distinction**: [Étoiles de l'Europe 2020](https://opendreamkit.org/2020/12/16/etoiles-de-l-europe/)
 
 ---
 
@@ -304,6 +301,8 @@ Dont environnement virtuels (JupyterHub, Candyce, ...)
     
 La couche la plus précieuse (opinion)
 
+{% include vspace.html length="15%" %}
+
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
 
 - **Préserver**:
@@ -315,6 +314,7 @@ La couche la plus précieuse (opinion)
   - La maintenance des communs et pas que le neuf et disruptif
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 #### Difficultés
 - Limites du financement par projet
