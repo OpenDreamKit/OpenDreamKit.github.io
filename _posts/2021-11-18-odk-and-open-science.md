@@ -160,6 +160,7 @@ Bénéfices:
 - Frontière données / calcul floue
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 ### «Facile»
 
@@ -171,6 +172,7 @@ Bénéfices:
 - Plan de Gestion des Données (Data Management Plan): Simple liste de jeux de données
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 ### Difficile
 
@@ -210,6 +212,7 @@ Bénéfices:
 - Pour quoi sommes nous l'équipe rêvée pour la tâche?
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 #### Encourager
 
@@ -217,6 +220,7 @@ Bénéfices:
 - À agir selon leurs convictions: c'est eux les experts!
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 #### Faciliter
 
@@ -226,12 +230,17 @@ Bénéfices:
 - **Outils collaboratifs**
 
 <!-- +++ {"slideshow": {"slide_type": "fragment"}} !-->
+{% include vspace.html length="15%" %}
 
 #### Bienveillance, exigence et joie
 
 <center>
 
 **Sourire, courir devant, espérer ... et remercier**
+
+</center>
+
+<center>
 
 [Quand cela fonctionne](https://www.youtube.com/watch?v=kM9zcfRtOqo)
 
