@@ -191,9 +191,9 @@ sites:
           - project-deputy
           - site-leader
         github: stevelinton
-      - name: Alexander Konovalov
+      - name: Olexandr Konovalov
         homepage: 'https://alex-konovalov.github.io/'
-        email: 'alexander.konovalov@st-andrews.ac.uk'
+        email: 'obk1@st-andrews.ac.uk'
         github: alex-konovalov
       - name: Markus Pfeiffer
         homepage: 'http://www.morphism.de/~markusp/'
