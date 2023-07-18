@@ -192,9 +192,9 @@ sites:
           - site-leader
         github: stevelinton
       - name: Olexandr Konovalov
-        homepage: 'https://alex-konovalov.github.io/'
+        homepage: 'https://olexandr-konovalov.github.io/'
         email: 'obk1@st-andrews.ac.uk'
-        github: alex-konovalov
+        github: olexandr-konovalov
       - name: Markus Pfeiffer
         homepage: 'http://www.morphism.de/~markusp/'
         email: 'markus.pfeiffer@st-andrews.ac.uk'
