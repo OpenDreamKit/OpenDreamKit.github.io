@@ -30,7 +30,7 @@ UPSUD is hiring a new project manager following the departure of B. Pilorget on 
 
 ### One postdoc on WP6
 
-UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe as Postdoc. He will be working half-time on WP6 and WP4. Florian will be spending the other half of his time at FAU with Pr. Kohlhase working on the same thematics.
+UPSUD hired on the O1/01/2018 , and for a duration of 18 months, Dr Florian Rabe as Postdoc. He will be working half-time on WP4 and WP6. Florian will be spending the other half of his time at FAU with Pr. Kohlhase working on the same thematics.
 
 ### One Research Software Engineer
 
@@ -96,7 +96,7 @@ Commission.
 
 ### 4th amendment
 
-A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalitites are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
+A fourth amendment is required to allow the change of position of Mike Croucher to the University of Leeds. The principle of this amendment was accepted both by the Commission and the Steering Committee. Though practicalities are not over with yet, the retroactive addition of the partner (and termination of USHEFFIELD) will start from 01/05/2018.
 
 --
 ## Work in progress
@@ -112,7 +112,7 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
   expressed official support to EOSC. The steering committee is
   welcome to express their interest or disinterest in this project.
 
-* Partnership with EGI (main stakeholder of the EOSC): there is an
+* Partnership with [EGI](http://egi.eu) (main stakeholder of the EOSC): there is an
   ongoing collaboration between EGI and OpenDreamKit to deploy
   JupyterHub and BinderHub-based EGI services. Proofs of concepts for
   both have been deployed by Enol Fernandez from EGI. Both parties are
@@ -202,9 +202,9 @@ A fourth amendment is required to allow the change of position of Mike Croucher 
   April 24-28 , 2018, Cernay. 25 participants from all horizons,
   including QuantStack, Google, Root, High Energy physics, ...
 - Organization of a winter school on Software Tools for Mathematics (Mexico) - Jan 2018, 40 participants
-- Participation to the [Jupyter in GAP and other CAS]() workshop in St Andrews, June 4th-9th.
-- Participation and some coorganization for for a Jupyter widget in Orsay, February 2018, 20 participants
-- Coorganization of a Jupyter day + Binder sprint in Orsay, March 2018, 100/8 participants
+- Participation to the [Jupyter in GAP and other CAS](https://www.gapdays.de/gap-jupyter-days2018/) workshop in St Andrews, June 4th-9th.
+- Participation and some coorganization for a Jupyter widget in Orsay, February 2018, 20 participants
+- Coorganization of a [Jupyter day](http://www.cmap.polytechnique.fr/~massot/Personal_web_page_of_Marc_Massot/JupyterX.html) + Binder sprint in Orsay, March 2018, 100/8 participants
 - Sage at [combinatorics scool ECCO](http://ecco2018.combinatoria.co/) (Colombia) - June 2018
 - Participation as invited speakers to [SageDAys@Icerm](https://icerm.brown.edu/topical_workshops/tw18-1-sage/) (Providence, US) - July 2018
 - Opening keynote from Viviane Pons at [PyConFr](https://www.pycon.fr/2018/en/news/2018-09-17-introducig-first-keynote-speaker/) (Lille, France) - October 2018
