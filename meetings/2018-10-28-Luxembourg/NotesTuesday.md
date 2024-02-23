@@ -539,7 +539,7 @@ Now there's a desktop icon that you click.
 
 (Luca): this is more about usability at all than about speed.
 
-(Alex) You may want to interact with native Windows applications, and that is hard if SageMath is in the VM
+(Olexandr) You may want to interact with native Windows applications, and that is hard if SageMath is in the VM
 
 (R1) Why such a variation in the number of users?
 -> not users but clicks on SageMath website to download Sage-Windows
@@ -722,7 +722,7 @@ CPU registers become larger.
 
 - PARI/GP
 
-- GAP (by Alex)
+- GAP (by Olexandr)
   - kept regular releases cycle
       - 8 releases in total
       - including the next major release of GAP 4.9
@@ -939,7 +939,7 @@ Start: 15:17
     - or ODK member invited speaker
   - 22 training events; increased a lot since beginning of project
 
-(silent Alex): many learners learn Jupyter at Software/Data Carpentry
+(silent Olexandr): many learners learn Jupyter at Software/Data Carpentry
 workshops: see e.g. lessons at https://software-carpentry.org/lessons/
 Making more robust and usable Jupyter helps to "Carpenters", and we
 also get feedback from them.
@@ -955,7 +955,7 @@ then this should be acknowledged on the Carpentries website.
 The Carpentries has a page of friend organisations, OpenDreamKit could
 be listed there.
 
-Alex: https://software-carpentry.org/join/projects/ lists GAP already
+Olexandr: https://software-carpentry.org/join/projects/ lists GAP already
 (submitted by me). I will suggest adding OpenDreamKit there.
 
 (R3): Why only twitter? What about Linkdn?
@@ -989,7 +989,7 @@ Nicolas:
 - NumFOCUS Europe - preparation in progress
 - EOSC call: Jupyter centric, demonstrators in various areas of science
     - INFRAEOSC-02-2019 (Deadline Jan 2019)
-        - silent remark (Alex): at least before 29 March for UK partners
+        - silent remark (Olexandr): at least before 29 March for UK partners
             - but if the announcement will come after, will it work?
 - COST network
     - community building, conferences - but no RSEs :-(
@@ -1118,7 +1118,7 @@ Nicolas
 - we can see many of us are used to teaching and are communicators
 - seeing suggestions after the rehearsals
 
-Alex
+Olexandr
 - found this very inspiring, learnt new ways to tell others about opendreamkit
 
 Michael
@@ -1138,7 +1138,7 @@ Nicolas
 John
 - some of us know how to do some of these things
 
-Alex
+Olexandr
 - CoDiMa joint event
 - instead of week-long training this year CoDiMa did
   many shorter events
@@ -1169,7 +1169,7 @@ Nicolas
 - thanks Florian for help with practical aspects
 - thanks Michael for taking the lead
 
-Alex
+Olexandr
 - next time we should have posters, stickers, other publicity material
 
 Nicolas
@@ -1251,7 +1251,7 @@ Odile
 Michael
 - how to install Jupyter x.y.z will be obsolete, but we've learned more
 
-Alex
+Olexandr
 - we could help people publish a collection of reproducible experiments
 - approach Rescience journal by Konrad Hinsen
 - have a special issue
@@ -1273,7 +1273,7 @@ Nicolas
 Michael
 - we need a team, not too big, but distributed
 - a team consisting in Florian and me would be bad
-- interested: Michael, Florian, Alex, Dima
+- interested: Michael, Florian, Olexandr, Dima
 
 Nicolas
 - we need a central place for KPIs

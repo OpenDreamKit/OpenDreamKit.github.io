@@ -75,7 +75,7 @@ June 2017 (preparation for month 24 deliveries)
     - Min: 3D visualization at Simula in winter/spring
     - Vincent Delecroix: planning a Julia/flint/Sage meeting about algebra (from polynomials to number fields), 1st semester 2016-2017 Bordeaux (?)
     - Michael Kohlhase: Workshop in Edinburgh as CICM satellite, july 2017
-    - Alex: joint event with Codima's training school (Codima = extra booster for dissemination activities)
+    - Olexandr: joint event with Codima's training school (Codima = extra booster for dissemination activities)
     - Loic Gouarin: training school
     - Software Carpentry instructor training around Paris
 
@@ -116,7 +116,7 @@ Florian
 Olivier
 - starting a page on "who is working on what"
 
-AlexK:
+OlexandrK:
 - in GAP, it took a while to get to this idea;
 - the initial implementation that was not updated for years
   already gives you a working solution
@@ -126,7 +126,7 @@ AlexK:
 - Markus: GAP-system should find a way to tell package authors to do things
   in a way that they can be automatically xxx, without requiring big effort from them
 
-- Michael: Nicolas and Sam should learn from Alex and Markus
+- Michael: Nicolas and Sam should learn from Olexandr and Markus
 
 
 
@@ -135,9 +135,9 @@ DONT TAKE NOTES PER PERSON
 
 
 ## SCSCP GAP/OpenMath
-- Alex: setup for a generic GAP SCSCP server to accept OpenMath object or GAP input as a string, 
+- Olexandr: setup for a generic GAP SCSCP server to accept OpenMath object or GAP input as a string, 
   evaluate it and return resulting OpenMath object or GAP output as a string: see
-  https://github.com/alex-konovalov/scscp-evaluator
+  https://github.com/olexandr-konovalov/scscp-evaluator
 
 ## OpenMath in python 
  - participants: Luca, Tom
@@ -158,7 +158,7 @@ DONT TAKE NOTES PER PERSON
     is the same, we can also harvest it into MathWebSearch;
   - you just need some url that you can point us to and the rest is automatic
   - anything you can search with a pair of eyes we can search with mathwebsearch
-- Michael: Alex, is there a list of projects that implement SCSCP
+- Michael: Olexandr, is there a list of projects that implement SCSCP
 - yes: www.symbolic-computing.org/
 
 
@@ -176,7 +176,7 @@ DONT TAKE NOTES PER PERSON
   - stuff toward exporting all methods of all classes
 - Further annotation work: lie algebras, ...
 
-## GAP -> MMT export (Markus, Alex, Dennis,...)
+## GAP -> MMT export (Markus, Olexandr, Dennis,...)
  - git@gl.mathhub.info:ODK/GAP.git
  - browsable at https://odk.mathhub.info/mh/mmt/?http://www.gap-system.org
 
@@ -215,17 +215,17 @@ https://trac.sagemath.org/ticket/19877
   - idea: do the design on a temporary version
 
 ## Future possibilities
-- Alex: contacted ICMS (Edinburgh) regarding the possibility of running dissemination workshop in January 2017
+- Olexandr: contacted ICMS (Edinburgh) regarding the possibility of running dissemination workshop in January 2017
 
 ## Upcoming workshops
 
 - Dissemination workshop in ICMS, jointly with CoDiMa
-  - Alex wrote to ICMS yesterday, they confirmed that the week of ??16-23?? Jan 2016 is available
+  - Olexandr wrote to ICMS yesterday, they confirmed that the week of ??16-23?? Jan 2016 is available
   - theme: xxx
   - hope that Peter Cameron could come
 
 
-- Alex and Dima will talk about the upcoming WP7 workshop to set dates and some concept of the workshops
+- Olexandr and Dima will talk about the upcoming WP7 workshop to set dates and some concept of the workshops
   - tentative list of speakers
   - tentative list of participants to invite
 
@@ -285,7 +285,7 @@ Rambling about what the consortium could be, who to encourage to lead, ...
 
 
 
-- Alex: read the new readme, found it illuminating
+- Olexandr: read the new readme, found it illuminating
 - not clear when deliverable is ready
 - I would in principle be interested in looking at deliverables when they are ready
 - the readme says: when deliverable is ready, send email to participants mailing list
@@ -305,7 +305,7 @@ which accepts anything and returns anything, where anything can be of two types
 - don't think security is so much of a concern
 - if somebody starts computing bitcoins, you can just kill the machine
 
-- alex: in our GAP docker container pipeline, we have
+- Olexandr: in our GAP docker container pipeline, we have
   - 
   - 
   - on top of that, third container which contains all packages configured

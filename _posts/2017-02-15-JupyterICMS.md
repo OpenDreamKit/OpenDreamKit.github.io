@@ -1,7 +1,7 @@
 ---
 layout: post
 
-author: Alexander Konovalov
+author: Olexandr Konovalov
 title: Reports from "Computational Mathematics with Jupyter" workshop
 tags:
     - jupyter

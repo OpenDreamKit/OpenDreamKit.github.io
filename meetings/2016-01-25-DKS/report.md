@@ -109,10 +109,10 @@ Viviane
 
 ## Knowledge representation in GAP
 
-Alex, Markus, Steve, ...
+Olexandr, Markus, Steve, ...
 
 ### Steve
-- working with Alexander and Markus
+- working with Olexandr and Markus
 - it's been quite illuminating in that
 - there is more structure in GAP than is written anywhere
 - because it was not documented it's broken in places
@@ -123,7 +123,7 @@ Michael
 - we are kind of obnoxious in the kind of structures we want
 - which leads to people starting thinking about their own structures
 
-### Alex
+### Olexandr
 - explaining how GAP manual is built
 - consistency checks
 - wrote a small specification
@@ -160,12 +160,12 @@ Markus
 - a semigroup is defined in the GAP library
 - once you load the semigroups package, xxx
 
-Alex
+Olexandr
 - graph, format
 - work with Bremen team, answering some questions on GAP
 
 
-### Alex
+### Olexandr
 - punished myself with lack of sleep, coding till 1am
 - updated the rather big map of the GAP type system
   - it is now available for download
@@ -193,7 +193,7 @@ Alex
   - I can make a GAP package and deposit this
   - 
 Michael: this should stay in GAP
-Alex: This is useful, because sometimes people ask
+Olexandr: This is useful, because sometimes people ask
 what properties can a group have
 
 ### Mihnea
@@ -211,14 +211,14 @@ there are bits of GAP like the Small groups library where
 the license says you're not allowed to change them.
 
 Michael: the other part is the documentation.
-Alex, Markus: same as GAP.
+Olexandr, Markus: same as GAP.
 Michael: that is something you want to clarify at some point.
 It needs to be licensed.
 Markus: I'll keep a note of this and I'll try to clarify this.
 John: I'll try to get the LMFDB side settled too.
 
 ### Mihnea
-- Alex explained the GAP internals
+- Olexandr explained the GAP internals
 - GAP manual XML
 - actually have few MB of content
 - fixing the exporter
@@ -247,7 +247,7 @@ John: I'll try to get the LMFDB side settled too.
 ### Markus
 - will be working with Dennis
   on exporting categories in Sage to something that can be exported to mmt
-- Alex sent me a script which generates XML
+- Olexandr sent me a script which generates XML
 
 ### Dennis
 - work with Markus, importing that stuff into MMT
@@ -327,7 +327,7 @@ Pushed python repository: TODO: add link
 
 The week before, during the [first joint GAP-SageMath days](http://gapdays.de/gap-sage-days2016/),
 Nicolas worked on a prototype of generic semantic handle Sage-GAP
-interface, with the help of many (Markus, Alex, Steve, Volker, ...).
+interface, with the help of many (Markus, Olexandr, Steve, Volker, ...).
 The idea is to generalize the existing wrappers for matrix
 groups or permutation groups which are monolithic and do not scale to
 other kind of structures.
@@ -372,7 +372,7 @@ community, across the various computational systems.
 
 ## Discussions around SCSCP and OpenMath support
 
-Nicolas, Alex, Samuel, ...
+Nicolas, Olexandr, Samuel, ...
 
 - open Sage trac tickets for OpenMath and SCSCP interfaces
 - No Scala implementation, but a Java one
@@ -494,7 +494,7 @@ or Mihnea to St Andrews.
 - now need to figure out what to do with them
 - this requires spending time understanding GAP
 
-### Alex
+### Olexandr
 - i was able to send a pull request to GAP with the consistency check
   that I mentioned this morning
 

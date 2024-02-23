@@ -43,7 +43,7 @@ Min [presented](/meetings/2019-10-30-Luxembourg/ProjectReview/WP4.pdf)
 our contributions to Jupyter-based user interfaces and
 virtual environments, reflecting along the way on the future of the
 Jupyter community. The impact was illustrated by software
-demonstrations by Marijan (micromagnetism), Alexander ([GAP](/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf)), Olivier
+demonstrations by Marijan (micromagnetism), Olexandr ([GAP](/meetings/2019-10-30-Luxembourg/ProjectReview/WP4_lightning_talk-Jupyter_and_GAP.pdf)), Olivier
 (training), and Marcin (3D).
 
 Clément -- supported by software demonstrations of Steve (GAP), Bill

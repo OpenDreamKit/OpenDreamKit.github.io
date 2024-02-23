@@ -12,7 +12,7 @@ tags:
     - docker
 ---
 
-Yesterday Alexander Konovalov and Markus Pfeiffer created a [Docker](https://docker.com) image containing
+Yesterday Olexandr Konovalov and Markus Pfeiffer created a [Docker](https://docker.com) image containing
 [GAP](http://www.gap-system.org), and an early version of the [GAP-Jupyter](https://github.com/gap-packages/jupyter-gap)
 interface for ease of access. It is available from [DockerHub](https://hub.docker.com/r/gapsystem/gap-docker-jupyter/).
 

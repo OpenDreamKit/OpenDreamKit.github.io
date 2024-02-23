@@ -27,8 +27,8 @@ We need more blog posts of stories.
 - stories of Mike (Michael Croucher)
 - getting Katja involved in OpenDreamKit (Katja, Michael, Samuel)
 - "Software tools for mathematics" workshops (Katja, Samuel)
-- Reproducible GAP experiments on Binder (AlexK) to write about https://github.com/alex-konovalov/gap-teaching 
-- AlexK used GAP Jupyter interface in teaching at PGTC 2018 and "Software tools for mathematics" workshop
+- Reproducible GAP experiments on Binder (OlexandrK) to write about https://github.com/olexandr-konovalov/gap-teaching 
+- OlexandrK used GAP Jupyter interface in teaching at PGTC 2018 and "Software tools for mathematics" workshop
 - Wanted: blog post about Jupyter in GAP and other CAS https://www.gapdays.de/gap-jupyter-days2018/
 
 Aim 2: success stories about odk based VRE deployments
@@ -125,7 +125,7 @@ No need to speak about the deliverable merge; focus on content
 
 HPC-GAP: highlight the challenge: HPC-GAP was the main outcome of a previous european project, and had since been dying for years 
 
-GAP: maybe let Alex present it?
+GAP: maybe let Olexandr present it?
 combinatorics (D5.11) + PARI/GP: let Vincent present
 
 ~~Many typos:
@@ -275,14 +275,14 @@ several instructors and trainers in the project and even in this room
 
 - Carpentries (Software Carpentry, Data Carpentry)
   - certified instructors:
-    - Tania, Alex, Samuel, Erik, Michael Torpey, Mike Croucher
+    - Tania, Olexandr, Samuel, Erik, Michael Torpey, Mike Croucher
   - instructor trainers:
-    - Tania and Alex
+    - Tania and Olexandr
   - workshop organisation:
-    - Alex, Katja, Samuel, ...
+    - Olexandr, Katja, Samuel, ...
   - lessons:
-    - GAP Software Carpentry lesson lead by Alex
-    - SageMath Software carpentry lesson (Sam, Alex + external collab. Pierre-Phillippe Dechant)
+    - GAP Software Carpentry lesson lead by Olexandr
+    - SageMath Software carpentry lesson (Sam, Olexandr + external collab. Pierre-Phillippe Dechant)
 
 
 

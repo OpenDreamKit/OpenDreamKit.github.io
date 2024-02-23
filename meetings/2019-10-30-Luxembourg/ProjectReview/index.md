@@ -26,7 +26,7 @@ by the European Commission. We will present the achievements of all the
     - *Micromagnetics (Marijan Beg, no teaser)*
     - [Enterprise training](./wp4_lightning_talk-vre_for_professional_training.pdf)
       (Olivier Cayrol)
-    - [A VRE using Jupyter and GAP](./WP4_lightning_talk-Jupyter_and_GAP.pdf) (Alexander Konovalov)
+    - [A VRE using Jupyter and GAP](./WP4_lightning_talk-Jupyter_and_GAP.pdf) (Olexandr Konovalov)
 
 ***
 
@@ -78,7 +78,7 @@ by the European Commission. We will present the achievements of all the
 [Wolfram Decker](https://www.mathematik.uni-kl.de/agag/personen/leitung/decker/), TU Kaiserslautern. [SINGULAR](https://www.singular.uni-kl.de/)
 - ![](https://defeo.lu/img/luca-drink.jpg) [Luca De Feo](https://defeo.lu/), IBM Research Zürich (Representing Université de Versailles, WP3 lead, SageMath)
 - ![](https://kwarc.info/public/images/mkohlhase.jpg) [Michael Kohlhase](https://kwarc.info/kohlhase), Computer Science, FAU Erlangen-Nürnberg.  [MathHub](http://mathhub.info/)
-- ![](https://www.cs.st-andrews.ac.uk/cs-web-data/People/alexk/img.jpg) [Alexander Konovalov](https://alex-konovalov.github.io/), Computer Science, University of St Andrews. [GAP](https://www.gap-system.org/)
+- ![](https://www.cs.st-andrews.ac.uk/cs-web-data/People/alexk/img.jpg) [Olexandr Konovalov](https://olexandr-konovalov.github.io/), Computer Science, University of St Andrews. [GAP](https://www.gap-system.org/)
 - ![](https://www.cs.st-andrews.ac.uk/cs-web-data/People/sal/img.jpg) [Steve Linton](https://www.cs.st-andrews.ac.uk/directory/person?id=sal), Computer Science, University of St Andrews. [GAP](https://www.gap-system.org/)
 - ![](https://ljk.imag.fr/membres/Clement.Pernet/portrait.JPG) [Clément Pernet]( https://ljk.imag.fr/membres/Clement.Pernet), Univ. Grenoble Alpes (LinBox, WP5 and UGA leader)
 - ![](https://kwarc.info/people/frabe/florian_rabe_small.jpg) [Florian Rabe](https://kwarc.info/people/frabe/), Computer Science, University Erlangen-Nuremberg (MMT)

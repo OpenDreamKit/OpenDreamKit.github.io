@@ -22,7 +22,7 @@ Were physically present:
 - Benjamin Ragan-Kelley (BRK): Simula Research Laboratory
 - Vincent Delecroix (VD): CNRS
 - Florent Cayré (FC): Logilab
-- Alexander Konovalov (AK): University of St Andrews
+- Olexandr Konovalov (OK): University of St Andrews
 - Benoît Pilorget (BP): Project manager
 
 Were able to participate remotely via conference call:
@@ -97,7 +97,7 @@ USTAN and UJF agreed to come together to decide which of their workshops can hos
 # Conferences
 
 - 2017 in ICMS: timeline not so tricky => USTAN  in charge
-AK thinks a conference could be organised by Janary 2017 or so.
+OK thinks a conference could be organised by Janary 2017 or so.
 
 - FR takes in charge the application to Dagstuhl (+ add Wolfram Decker in the process)
 
@@ -108,7 +108,7 @@ AK thinks a conference could be organised by Janary 2017 or so.
     - Min: 3D visualization at Simula in winter/spring
     - Vincent Delecroix: planning a Julia/flint/Sage meeting about algebra (from polynomials to number fields), 1st semester 2016-2017 Bordeaux (?)
     - Michael Kohlhase: Workshop in Edinburgh as CICM satellite, july 2017
-    - Alex: joint event with Codima's training school (Codima = extra booster for dissemination activities)
+    - Olexandr: joint event with Codima's training school (Codima = extra booster for dissemination activities)
     - Loic Gouarin: training school
     - Software Carpentry instructor training around Paris
 

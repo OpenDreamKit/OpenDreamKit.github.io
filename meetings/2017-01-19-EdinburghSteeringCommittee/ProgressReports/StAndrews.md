@@ -16,7 +16,7 @@ period: Reporting period from Sept. 2015 to February 2017
 ---
 ## Financial and administrative setup, hiring
 
-Funding Markus Pfeiffer and part of Alexander Konovalov (and a bit of Steve)
+Funding Markus Pfeiffer and part of Olexandr Konovalov (and a bit of Steve)
 
 Administration all going smoothly
 

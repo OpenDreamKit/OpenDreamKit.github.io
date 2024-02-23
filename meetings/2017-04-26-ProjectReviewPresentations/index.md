@@ -52,7 +52,7 @@ positive. For details, see the
 ## Participants
 
 Benoît Pilorget, Nicolas Thiéry, John Cremona, Paul-Olivier Dehaye,
-Dima Pasechnik, Markus Pfeiffer, Jeroen Demeyer, Alexander Konovalov,
+Dima Pasechnik, Markus Pfeiffer, Jeroen Demeyer, Olexandr Konovalov,
 Steve Linton, Florian Rabe, Michael Kohlhase, Min Ragan-Kelley, Luca De Feo,
 Erik Bray, Viviane Pons, Hans Fangohr, Mike Croucher,
 William Hart, Wolfram Decker, Clément Pernet, Konrad Hinsen,

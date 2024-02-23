@@ -23,7 +23,7 @@ title: "Kickoff meeting: participants"
 - Florent Hivert, Université Paris-Sud
 - Vincent Knight, Cardiff University
 - Michael Kohlhase, Jacobs University Bremen
-- Alexander Konovalov, University of St Andrews
+- Olexandr Konovalov, University of St Andrews
 - Marcin Kostur, University of Silesia
 - Samuel Lelièvre, Université Paris-Sud
 - Steve Linton, St Andrews
