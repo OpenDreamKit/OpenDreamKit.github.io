@@ -16,7 +16,7 @@ period: Reporting period from March 2017 to June 2018
 ---
 ## Finance and administration
 
-* engineer Vincent Klein is now working for almost a year
+* engineer Vincent Klein has been working with us for almost a year
   and a half
 * CNRS financial report came quite late (5 days before the review!)
 
@@ -34,7 +34,7 @@ period: Reporting period from March 2017 to June 2018
   integration) and [e-antic](https://github.com/videlec/e-antic) (that will be used
   in the next Normaliz release)
 * (not directly in the Proposal) finalization of upstream work on
-   [gmpy2](https://github.com/aleaxit/gmpy) but a component of pplpy
+   [gmpy2](https://github.com/aleaxit/gmpy) which is a component of pplpy
 * (not directly in the Proposal) [Sage thursdays](https://wiki.sagemath.org/thursdaysbdx):
   On (most) Thursday mornings we gather to work on SageMath and related projects
 
