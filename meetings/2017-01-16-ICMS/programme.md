@@ -31,7 +31,7 @@ each day we will hear brief reports from group activities.
 
 * Raniere Silva: [**Software Sustainability on Computational Mathematics**](https://github.com/rgaiacs/2017-01-computational-mathematics-with-jupyter/releases/tag/2017-01-16)
 
-* Alexander Konovalov: **Reproducible computational experiments
+* Olexandr Konovalov: **Reproducible computational experiments
 using [GAP Docker containers](https://hub.docker.com/u/gapsystem/)**
 [[pdf]](http://opendreamkit.org/meetings/2017-01-16-ICMS/talks/2017-01-16-GAP-Docker-Konovalov.pdf)
 
@@ -52,15 +52,15 @@ install releases or development versions of GAP, SageMath, etc.)
   [Semigroups++](https://james-d-mitchell.github.io/semigroupsplusplus/) into
   Sage.
 
-* **How to contribute to GAP and make a GAP package** (lead: Alexander Konovalov)
+* **How to contribute to GAP and make a GAP package** (lead: Olexandr Konovalov)
 
 * **Jupyter Interactions** Develop this skeletal repo into a community project. Aim is to have a range of peer reviewed interactive pieces of code for use in teaching and research. [https://github.com/mikecroucher/jupyter-interactions](https://github.com/mikecroucher/jupyter-interactions) (lead: Mike Croucher)
 
-* **Developing [Software Carpentry lesson on SageMath](http://alex-konovalov.github.io/sage-lesson/)**
-(leads: Alexander Konovalov, Raniere Silva): we would like to make progress with establishing
+* **Developing [Software Carpentry lesson on SageMath](https://github.com/carpentries-incubator/sage-lesson)**
+(leads: Olexandr Konovalov, Raniere Silva): we would like to make progress with establishing
 the Software Carpentry lesson on SageMath, which is being at the early development stage in
-[this repository](https://github.com/alex-konovalov/sage-lesson). If there will be an interest,
-we can also look at the [Software Carpentry lesson on GAP](http://alex-konovalov.github.io/gap-lesson/)
+[this repository](https://github.com/carpentries-incubator/sage-lesson). If there will be an interest,
+we can also look at the [Software Carpentry lesson on GAP](https://github.com/carpentries-incubator/gap-lesson/)
 
 
 ## Tuesday, 17th January
@@ -162,7 +162,7 @@ dependently on how many participants will be interested to join them.
 Some of these sprints may be recurring for several days.
 
 * **Introduction to [Symbolic Computation Software Composability Protocol (SCSCP)](http://www.symbolic-computing.org/scscp)**
-(lead: Alexander Konovalov): SCSCP is a remote procedure call protocol
+(lead: Olexandr Konovalov): SCSCP is a remote procedure call protocol
 supported by several computer algebra systems and another software tools.
 I could demonstrate how to use it, and provide further guidelines for using
 it in your code. This could cover the new Python packages

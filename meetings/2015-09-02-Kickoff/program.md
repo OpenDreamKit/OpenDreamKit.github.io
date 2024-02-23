@@ -83,7 +83,7 @@ development model.
 
 ### Technology
 
-- [SCSCP](../Software/scscp_demo.txt) (Alexander Konovalov)
+- [SCSCP](../Software/scscp_demo.txt) (Olexandr Konovalov)
 - OMDoc/MMT (Florian Rabe)
 - Sphinx (Florent Hivert)
 - [Docker images for math software](../Software/Docker.pdf) (Sebastian Gutsche)

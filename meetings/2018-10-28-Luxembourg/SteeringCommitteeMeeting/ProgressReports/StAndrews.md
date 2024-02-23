@@ -3,7 +3,7 @@ layout: page
 title: "Progress report for St Andrews"
 theme: white
 transition: none
-author: Steve Linton, Alexander Konovalov
+author: Steve Linton, Olexandr Konovalov
 period: Reporting period from March 2017 to October 2018
 ---
 
@@ -80,7 +80,7 @@ period: Reporting period from March 2017 to October 2018
 
 - Paper "Francy - An Interactive Discrete Mathematics Framework for GAP" (Markus and Manuel Martins)
 
-- Paper "Experimenting with braces" (Alexander, Agata Smoktunowicz and Leandro Vendramin)
+- Paper "Experimenting with braces" (Olexandr, Agata Smoktunowicz and Leandro Vendramin)
   accepted in Experimental Mathematics
 
 - Sabbatical of Nathan Carter (Bentley University, USA) for a year, starting
@@ -121,7 +121,7 @@ period: Reporting period from March 2017 to October 2018
 ---
 ## Workshops and dissemination activities
 
-- Sage/GAP Days 85 (March 13-17, 2017, Cernay, https://wiki.sagemath.org/days85) - Alexander, Markus
+- Sage/GAP Days 85 (March 13-17, 2017, Cernay, https://wiki.sagemath.org/days85) - Olexandr, Markus
 
 - GAP Days Spring 2017 (May 29 - June 2, 2017, Aachen, http://gapdays.de/gapdays2017-spring/) - Markus
 
@@ -129,15 +129,15 @@ period: Reporting period from March 2017 to October 2018
 
 - GAP Days Fall 2017 (August 30 - September 8, 2017, Siegen, http://gapdays.de/gapdays2017-fall/) - Markus
 
-- Docker Containers for Reproducible Research Workshop (27-28 June, Cambridge, https://www.software.ac.uk/c4rr) - Alexander (steering commitee member)
+- Docker Containers for Reproducible Research Workshop (27-28 June, Cambridge, https://www.software.ac.uk/c4rr) - Olexandr (steering commitee member)
 
-- 28th OpenMath Workshop at CICM 2017 (Edinburgh, July 17, 2017, https://www.cicm-conference.org/2017/cicm.php?event=openmath&menu=general) - Alexander, Markus
+- 28th OpenMath Workshop at CICM 2017 (Edinburgh, July 17, 2017, https://www.cicm-conference.org/2017/cicm.php?event=openmath&menu=general) - Olexandr, Markus
 
-- 8th International Workshop on Parallel Symbolic Computation (PASCO 2017, Kaiserslautern, July 23-24, 2017, http://sigsam.org/PASCO/2017/) - Alexander (steering commitee member)
+- 8th International Workshop on Parallel Symbolic Computation (PASCO 2017, Kaiserslautern, July 23-24, 2017, http://sigsam.org/PASCO/2017/) - Olexandr (steering commitee member)
 
 - Markus Pfeiffer took part in Groups St Andrews 2017 in Birmingham (http://www.groupsstandrews.org/2017/) and presented there a poster about the OpenDreamKit project, and ongoing work on permutation group search (paper submitted). After the conference, he lectured at the satellite event - a GAP Tutorial (https://www.codima.ac.uk/gsta2017/) and presented there the Jupyter GAP interface
 
-- Alexander became Software/Data Carpentry Trainer to be able to new Software/Data Carpentry Instructors
+- Olexandr became Software/Data Carpentry Trainer to be able to new Software/Data Carpentry Instructors
 
 - GAP Days Fall 2017 (August 30th - September 8th, 2017, Siegen, https://gapdays.de/gapdays2017-fall/) - Markus
 
@@ -146,7 +146,7 @@ period: Reporting period from March 2017 to October 2018
 - "Jupyter in GAP and other CAS" workshop (June 4th - June 8th 2018, University of St Andrews, http://gapdays.de/gap-jupyter-days2018/)
 
 - Demonstrating Jupyter GAP interface at the 20th Postgraduate Group Theory Conference
-  (St Andrews, 17-20th July, 2018, https://en-gb.facebook.com/pgtc2018/) - Alexander
+  (St Andrews, 17-20th July, 2018, https://en-gb.facebook.com/pgtc2018/) - Olexandr
 
 - Two sessions at the International Congress on Mathematical Software (ICMS 2018,
   University of Notre Dame, 24-27 July 2018, http://icms-conference.org/2018/), 
@@ -158,7 +158,7 @@ period: Reporting period from March 2017 to October 2018
   https://www.cicm-conference.org/2018/cicm.php) - Markus
 
 - Software Tools for Mathematics (24-28 September 2018, Koper, Slovenia,
-  http://stm.famnit.upr.si/) - Alexander
+  http://stm.famnit.upr.si/) - Olexandr
  
 - Michael undertook Software/Data Carpentry Instructor training in
   October 2018, and is expected to become certified instructor soon

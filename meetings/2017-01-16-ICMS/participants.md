@@ -31,7 +31,7 @@ The following participants registered so far for the
 - [Jim Howie](http://www.macs.hw.ac.uk/~jim/) (Heriot-Watt University)
 - [Alexander Kasprzyk](http://magma.maths.usyd.edu.au/~kasprzyk/) (University of Nottingham)
 - [Thomas Kluyver](http://cmg.soton.ac.uk/people/tk2e15/) (University of Southampton)
-- [Alexander Konovalov](http://blogs.cs.st-andrews.ac.uk/alexk/) (University of St Andrews)
+- [Olexandr Konovalov](https://olexandr-konovalov.github.io/) (University of St Andrews)
 - [Christian Lawson-Perfect](http://www.numbas.org.uk) (Newcastle University)
 - [Samuel Lelièvre](http://www.math.u-psud.fr/~lelievre) (Université Paris-Sud)
 - [Stephen Linton](http://www.cs.st-andrews.ac.uk/directory/person?id=sal) (University of St Andrews)

@@ -72,11 +72,11 @@ For more information please contact:
 
 * Michael Kohlhase (m.kohlhase@jacobs-university.de) for science related matters
 * Benoît Pilorget (benoit.pilorget@lri.fr)
-* Alexander Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
+* Olexandr Konovalov (alexander.konovalov@st-andrews.ac.uk) - local organiser
 
 # Participants
 
-* Alexander Konovalov (Local organiser - St Andrews)
+* Olexandr Konovalov (Local organiser - St Andrews)
 * Michael Kohlhase (WP6 leader - JacobsUni), steering committee member
 * Nicolas Thiéry (Project coordinator - UPSud), steering committee member
 * Benoît Pilorget (Project Manager - UPSud), steering committee member

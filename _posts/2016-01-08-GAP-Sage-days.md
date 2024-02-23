@@ -45,7 +45,7 @@ discussions and coding sprints, in particular:
 
 
 * **Contributing to Sage** by Nicolas M. Thiéry and Volker Braun
-* **Contributing to GAP ** by Max Horn, Alex Konovalov, and Markus Pfeiffer
+* **Contributing to GAP ** by Max Horn, Olexandr Konovalov, and Markus Pfeiffer
 * **libGAP** by Volker Braun
 * **GAP in the cloud** by Markus Pfeiffer
 

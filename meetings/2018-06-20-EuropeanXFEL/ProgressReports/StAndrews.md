@@ -60,7 +60,7 @@ period: Reporting period from March 2017 to June 2018
 
 - Paper "Francy - An Interactive Discrete Mathematics Framework for GAP" (Markus and Manuel Martins)
 
-- Paper "Experimenting with braces" (Alexander, Agata Smoktunowicz and Leandro Vendramin)
+- Paper "Experimenting with braces" (Olexandr, Agata Smoktunowicz and Leandro Vendramin)
 
 ---
 ## Work in progress
@@ -90,7 +90,7 @@ period: Reporting period from March 2017 to June 2018
 ---
 ## Workshops and dissemination activities
 
-- Sage/GAP Days 85 (March 13-17, 2017, Cernay, https://wiki.sagemath.org/days85) - Alexander, Markus
+- Sage/GAP Days 85 (March 13-17, 2017, Cernay, https://wiki.sagemath.org/days85) - Olexandr, Markus
 
 - GAP Days Spring 2017 (May 29 - June 2, 2017, Aachen, http://gapdays.de/gapdays2017-spring/) - Markus
 
@@ -98,11 +98,11 @@ period: Reporting period from March 2017 to June 2018
 
 - GAP Days Fall 2017 (August 30 - September 8, 2017, Siegen, http://gapdays.de/gapdays2017-fall/) - Markus
 
-- Docker Containers for Reproducible Research Workshop (27-28 June, Cambridge, https://www.software.ac.uk/c4rr) - Alexander (steering commitee member)
+- Docker Containers for Reproducible Research Workshop (27-28 June, Cambridge, https://www.software.ac.uk/c4rr) - Olexandr (steering commitee member)
 
-- 28th OpenMath Workshop at CICM 2017 (Edinburgh, July 17, 2017, https://www.cicm-conference.org/2017/cicm.php?event=openmath&menu=general) - Alexander, Markus
+- 28th OpenMath Workshop at CICM 2017 (Edinburgh, July 17, 2017, https://www.cicm-conference.org/2017/cicm.php?event=openmath&menu=general) - Olexandr, Markus
 
-- 8th International Workshop on Parallel Symbolic Computation (PASCO 2017, Kaiserslautern, Juky 23-24, 2017, http://sigsam.org/PASCO/2017/) - Alexander (steering commitee member)
+- 8th International Workshop on Parallel Symbolic Computation (PASCO 2017, Kaiserslautern, Juky 23-24, 2017, http://sigsam.org/PASCO/2017/) - Olexandr (steering commitee member)
 
 - Markus Pfeiffer took part in Groups St Andrews 2017 in Birmingham (http://www.groupsstandrews.org/2017/) and presented there a poster about the OpenDreamKit project, and ongoing work on permutation group search (paper submitted). After the conference, he lectured at the satellite event - a GAP Tutorial (https://www.codima.ac.uk/gsta2017/) and presented there the Jupyter GAP interface
 

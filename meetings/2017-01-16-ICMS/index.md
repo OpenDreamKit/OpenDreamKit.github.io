@@ -101,7 +101,7 @@ If you have questions or suggestions, please join the discussion on GitHub
 [here](https://github.com/OpenDreamKit/OpenDreamKit/issues/208) or contact 
 local organisers by email:
 
-- [Alexander Konovalov](mailto:alexander.konovalov@st-andrews.ac.uk)
+- [Olexandr Konovalov](mailto:obk1@st-andrews.ac.uk)
 - [Markus Pfeiffer](mailto: mp397@st-andrews.ac.uk)
 
 You may also follow updates from OpenDreamKit and CoDiMa projects on Twitter at

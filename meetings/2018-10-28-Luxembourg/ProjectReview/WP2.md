@@ -128,8 +128,8 @@ Over the last two years OpenDreamKit has been involved in more than 50 events
 --
 ### Software Carpentry
 
-* 6 certified instructors: Tania Allard, Alex Konovalov, Samuel Lelière, Erik Bray, Michael Torpey, Mike Croucher
-* 2 instructor trainers:  Tania Allard, Alex Konovalov
+* 6 certified instructors: Tania Allard, Olexandr Konovalov, Samuel Lelière, Erik Bray, Michael Torpey, Mike Croucher
+* 2 instructor trainers:  Tania Allard, Olexandr Konovalov
 * workshop organisation
 * GAP and SageMath contributed lessons
 

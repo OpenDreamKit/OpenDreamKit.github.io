@@ -15,9 +15,9 @@ and their applications in research, training and teaching.
 
 ## OpenDreamKit implication
 
- The workshop has been organised by Alexander Konovalov and Markus
+ The workshop has been organised by Olexandr Konovalov and Markus
 Pfeiffer (USTAN). OpenDreamKit speakers included Marijan Beg, Mike Croucher, Jeroen Demeyer,
-Hans Fangohr, Vidar Fauske, Alexander Konovalov and Markus Pfeiffer. Many other OpenDreamKit members
+Hans Fangohr, Vidar Fauske, Olexandr Konovalov and Markus Pfeiffer. Many other OpenDreamKit members
 were attending and took part in various activities taking place during the workshop.
 The full list of participants is available at
 https://opendreamkit.org/meetings/2017-01-16-ICMS/participants/.

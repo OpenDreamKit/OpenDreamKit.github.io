@@ -39,7 +39,7 @@ Participants: Luca, Nicolas, John, ...
 ## Consistent docker containers for all software components
 
 Time: Friday, Saturday
-Participants: Alexander, Nicolas, Sebastian
+Participants: Olexandr, Nicolas, Sebastian
 
 [Notes](../docker).
 
@@ -47,7 +47,7 @@ Participants: Alexander, Nicolas, Sebastian
 
 Time: Thursday afternoon's break
 
-Participants: Jeroen, Alexander, Jean-Pierre
+Participants: Jeroen, Olexandr, Jean-Pierre
 
 We discussed approaches to regression testing used in GAP and SageMath development and our continuous integration infrastructure.
 
@@ -56,7 +56,7 @@ We discussed approaches to regression testing used in GAP and SageMath developme
 ## Jupyter kernels for all interactive computation software
 
 Time: Thursday evening, ...
-Participants: Marcin, Sebastian, Min, Alexander, Markus, Jeroen, ...
+Participants: Marcin, Sebastian, Min, Olexandr, Markus, Jeroen, ...
 
 Min gave a presentation on the Jupyter notebook's architecture and how
 to write kernels. Markus, Sebastian and Jeroen started to implement

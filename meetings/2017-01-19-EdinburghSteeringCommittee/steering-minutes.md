@@ -17,7 +17,7 @@ title: Minutes for the biannual ODK Steering Committee meeting in Edinburgh
 - Hans Fangohr- lead Southampton (on site)
 - Bill Hart (by phone)
 - Michael Kohlhase (lead JacU & FAU and lead WP6) by video
-- Alexander Konovalov- (on site)
+- Olexandr Konovalov- (on site)
 - Marcin Kostur ???
 - Steve Linton - lead St Andrews (on site)
 - Dmitrii Pasechnik- lead Oxford (on site)
@@ -92,7 +92,7 @@ Rationale for having an NDA: Mostly a legal thing. For us, the only use case is 
 ## Quality Review Board
 
 - Hans Fangohr
-- Alexander Konovalov
+- Olexandr Konovalov
 - Konrad Hinsen
 - Mike Croucher
 

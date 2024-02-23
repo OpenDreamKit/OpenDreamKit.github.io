@@ -44,7 +44,7 @@ upcoming formal review at Month 18 (March 2017).
 - CNRS: Vincent Delecroix
 - OXF: Dmitrii Pasechnik
 - Southampton: Hans Fangohr, Marijan Beg
-- USTAN: Alexander Konovalov, Markus Pfeiffer
+- USTAN: Olexandr Konovalov, Markus Pfeiffer
 - UVSQ: Luca De Feo
 - UZH: Paul-Olivier Dehaye
 - Logilab: Florent Cayré

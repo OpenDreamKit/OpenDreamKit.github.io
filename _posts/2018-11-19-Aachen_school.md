@@ -14,7 +14,7 @@ to give an overview of different applications of GAP in mathematical research.
 
 ## OpenDreamKit implication
 
- Alexander Konovalov was one of the instructors. 
+ Olexandr Konovalov was one of the instructors. 
 OpenDreamKit funded his participation to the event: \pounds 560.
 
 ## Event summary
@@ -30,7 +30,7 @@ GAP in Algebraic Research Summer School, Aachen, Germany
 
 ## Results and impact
 
- Alexander Konovalov
+ Olexandr Konovalov
 gave an introductory GAP Tutorial based on the 
 Software Carpentry lesson ``Programming with GAP''
 (https://doi.org/10.5281/zenodo.597073),

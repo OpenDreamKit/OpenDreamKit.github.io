@@ -14,7 +14,7 @@ author: Steve Linton
 ---
 ## Financial and administrative setup, hiring
 
-Funding Markus Pfeiffer and part of Alexander Konovalov (and a bit of Steve)
+Funding Markus Pfeiffer and part of Olexandr Konovalov (and a bit of Steve)
 
 Administration all going smoothly
 

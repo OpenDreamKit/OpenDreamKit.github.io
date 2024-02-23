@@ -265,7 +265,7 @@ https://raw.githubusercontent.com/OpenDreamKit/OpenDreamKit/master/ReportingPeri
 Leader: Luca
 
 Key players:
-- Alex
+- Olexandr
 - Erik
 - Jeroen
 - Markus
@@ -290,7 +290,7 @@ Who contributed: many of us!
 
 Sit at the front:
 - Samuel
-- Alex K
+- Olexandr K
 - Nicolas
 - Marjan
 
@@ -309,7 +309,7 @@ Lead: Clément
 
 - Vincent
 - Wolfram Decker sick; Bill Hart will represent him (very well!)
-- Alexander
+- Olexandr
 - Markus
 
 
@@ -409,11 +409,11 @@ For each demo:
 - who is in charge,
 - if applicable, resources such as Jupyter notebooks.
 
-#### GAP (Alex)
+#### GAP (Olexandr)
 
 Continuous integration, code coverage
 
-Homophonic quotients: GAP Jupyter notebook at https://github.com/alex-konovalov/gap-teaching/blob/master/notebooks/HomophonicQuotientsOfFreeGroups.ipynb
+Homophonic quotients: GAP Jupyter notebook at https://github.com/olexandr-konovalov/gap-teaching/blob/master/notebooks/HomophonicQuotientsOfFreeGroups.ipynb
 
 #### ? GAP in Jupyter with visualisations (Nathan)
 
